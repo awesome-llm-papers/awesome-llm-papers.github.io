@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'Don''t Generate, Discriminate: A Proposal For Grounding Language Models To
+  Real-world Environments'
+authors: Yu Gu, Xiang Deng, Yu Su
+conference: Arxiv
+year: 2022
+citations: 17
+bibkey: gu2022proposal
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09736'}]
+tags: [Few-Shot, Tools, Reinforcement Learning, BERT, In-Context Learning, Agentic,
+  Model Architecture]
+---
+A key missing capacity of current language models (LMs) is grounding to
+real-world environments. Most existing work for grounded language understanding
+uses LMs to directly generate plans that can be executed in the environment to
+achieve the desired effects. It thereby casts the burden of ensuring
+grammaticality, faithfulness, and controllability all on the LMs. We propose
+Pangu, a generic framework for grounded language understanding that capitalizes
+on the discriminative ability of LMs instead of their generative ability. Pangu
+consists of a symbolic agent and a neural LM working in a concerted fashion:
+The agent explores the environment to incrementally construct valid plans, and
+the LM evaluates the plausibility of the candidate plans to guide the search
+process. A case study on the challenging problem of knowledge base question
+answering (KBQA), which features a massive environment, demonstrates the
+remarkable effectiveness and flexibility of Pangu: A BERT-base LM is sufficient
+for setting a new record on standard KBQA datasets, and larger LMs further
+bring substantial gains. Pangu also enables, for the first time, effective
+few-shot in-context learning for KBQA with large LMs such as Codex.

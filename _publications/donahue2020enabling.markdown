@@ -1,0 +1,24 @@
+---
+layout: publication
+title: Enabling Language Models To Fill In The Blanks
+authors: Chris Donahue, Mina Lee, Percy Liang
+conference: Arxiv
+year: 2020
+citations: 39
+bibkey: donahue2020enabling
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.05339'}]
+tags: [Language Modeling, Tools, Attention Mechanism, Model Architecture]
+---
+We present a simple approach for text infilling, the task of predicting
+missing spans of text at any position in a document. While infilling could
+enable rich functionality especially for writing assistance tools, more
+attention has been devoted to language modeling---a special case of infilling
+where text is predicted at the end of a document. In this paper, we aim to
+extend the capabilities of language models (LMs) to the more general task of
+infilling. To this end, we train (or fine-tune) off-the-shelf LMs on sequences
+containing the concatenation of artificially-masked text and the text which was
+masked. We show that this approach, which we call infilling by language
+modeling, can enable LMs to infill entire sentences effectively on three
+different domains: short stories, scientific abstracts, and lyrics.
+Furthermore, we show that humans have difficulty identifying sentences infilled
+by our approach as machine-generated in the domain of short stories.

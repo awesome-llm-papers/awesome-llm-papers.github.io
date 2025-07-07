@@ -1,0 +1,13 @@
+<OpenSearchDescription>
+<ShortName>LLM-Bible</ShortName>
+<LongName>Large Language Model Papers</LongName>
+<Description></Description>
+<Contact/>
+<Url type="text/html" method="get" template="https://llm-bible.github.io/papers.html#{searchTerms}"> </Url>
+<Image height="16" width="16" type="image/svg+xml">https://llm-bible.github.io/public/favicon.svg</Image>
+<SyndicationRight>open</SyndicationRight>
+<AdultContent>false</AdultContent>
+<Language>en-us</Language>
+<OutputEncoding>UTF-8</OutputEncoding>
+<InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>

@@ -1,0 +1,31 @@
+---
+layout: publication
+title: Texts As Images In Prompt Tuning For Multi-label Image Recognition
+authors: Zixian Guo et al.
+conference: Arxiv
+year: 2022
+citations: 33
+bibkey: guo2022texts
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.12739'}, {name: Code,
+    url: 'https://github.com/guozix/TaI-DPT'}]
+tags: [Training Techniques, Reinforcement Learning, Has Code, Prompting, Multimodal
+    Models]
+---
+Prompt tuning has been employed as an efficient way to adapt large
+vision-language pre-trained models (e.g. CLIP) to various downstream tasks in
+data-limited or label-limited settings. Nonetheless, visual data (e.g., images)
+is by default prerequisite for learning prompts in existing methods. In this
+work, we advocate that the effectiveness of image-text contrastive learning in
+aligning the two modalities (for training CLIP) further makes it feasible to
+treat texts as images for prompt tuning and introduce TaI prompting. In
+contrast to the visual data, text descriptions are easy to collect, and their
+class labels can be directly derived. Particularly, we apply TaI prompting to
+multi-label image recognition, where sentences in the wild serve as
+alternatives to images for prompt tuning. Moreover, with TaI, double-grained
+prompt tuning (TaI-DPT) is further presented to extract both coarse-grained and
+fine-grained embeddings for enhancing the multi-label recognition performance.
+Experimental results show that our proposed TaI-DPT outperforms zero-shot CLIP
+by a large margin on multiple benchmarks, e.g., MS-COCO, VOC2007, and NUS-WIDE,
+while it can be combined with existing methods of prompting from images to
+improve recognition performance further. Code is released at
+https://github.com/guozix/TaI-DPT.

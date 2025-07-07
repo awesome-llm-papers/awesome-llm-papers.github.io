@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Big Bird: Transformers For Longer Sequences'
+authors: Manzil Zaheer et al.
+conference: Neural Information Processing Systems (NeurIPS) 2020
+year: 2020
+citations: 805
+bibkey: zaheer2020big
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.14062'}]
+tags: [Transformer, Attention Mechanism, BERT, Applications, Model Architecture]
+---
+Transformers-based models, such as BERT, have been one of the most successful
+deep learning models for NLP. Unfortunately, one of their core limitations is
+the quadratic dependency (mainly in terms of memory) on the sequence length due
+to their full attention mechanism. To remedy this, we propose, BigBird, a
+sparse attention mechanism that reduces this quadratic dependency to linear. We
+show that BigBird is a universal approximator of sequence functions and is
+Turing complete, thereby preserving these properties of the quadratic, full
+attention model. Along the way, our theoretical analysis reveals some of the
+benefits of having \\(O(1)\\) global tokens (such as CLS), that attend to the
+entire sequence as part of the sparse attention mechanism. The proposed sparse
+attention can handle sequences of length up to 8x of what was previously
+possible using similar hardware. As a consequence of the capability to handle
+longer context, BigBird drastically improves performance on various NLP tasks
+such as question answering and summarization. We also propose novel
+applications to genomics data.

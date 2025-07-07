@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Catalyst: Domain-extensible Intervention For Preventing Task Procrastination
+  Using Large Generative Models'
+authors: Riku Arakawa, Hiromu Yakura, Masataka Goto
+conference: Arxiv
+year: 2023
+citations: 17
+bibkey: arakawa2023domain
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.05678'}]
+tags: [Prompting]
+---
+CatAlyst uses generative models to help workers' progress by influencing
+their task engagement instead of directly contributing to their task outputs.
+It prompts distracted workers to resume their tasks by generating a
+continuation of their work and presenting it as an intervention that is more
+context-aware than conventional (predetermined) feedback. The prompt can
+function by drawing their interest and lowering the hurdle for resumption even
+when the generated continuation is insufficient to substitute their work, while
+recent human-AI collaboration research aiming at work substitution depends on a
+stable high accuracy. This frees CatAlyst from domain-specific model-tuning and
+makes it applicable to various tasks. Our studies involving writing and
+slide-editing tasks demonstrated CatAlyst's effectiveness in helping workers
+swiftly resume tasks with a lowered cognitive load. The results suggest a new
+form of human-AI collaboration where large generative models publicly available
+but imperfect for each individual domain can contribute to workers' digital
+well-being.

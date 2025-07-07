@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'Compm: Context Modeling With Speaker''s Pre-trained Memory Tracking For Emotion
+  Recognition In Conversation'
+authors: Joosung Lee, Wooin Lee
+conference: Arxiv
+year: 2021
+citations: 35
+bibkey: lee2021context
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.11626'}, {name: Code,
+    url: 'https://github.com/rungjoo/CoMPM)'}]
+tags: [RAG, Has Code]
+---
+As the use of interactive machines grow, the task of Emotion Recognition in
+Conversation (ERC) became more important. If the machine-generated sentences
+reflect emotion, more human-like sympathetic conversations are possible. Since
+emotion recognition in conversation is inaccurate if the previous utterances
+are not taken into account, many studies reflect the dialogue context to
+improve the performances. Many recent approaches show performance improvement
+by combining knowledge into modules learned from external structured data.
+However, structured data is difficult to access in non-English languages,
+making it difficult to extend to other languages. Therefore, we extract the
+pre-trained memory using the pre-trained language model as an extractor of
+external knowledge. We introduce CoMPM, which combines the speaker's
+pre-trained memory with the context model, and find that the pre-trained memory
+significantly improves the performance of the context model. CoMPM achieves the
+first or second performance on all data and is state-of-the-art among systems
+that do not leverage structured data. In addition, our method shows that it can
+be extended to other languages because structured knowledge is not required,
+unlike previous methods. Our code is available on github
+(https://github.com/rungjoo/CoMPM).

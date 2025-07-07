@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Challenge Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 50px;
+    }
+    .challenge-container {
+      display: inline-block;
+      text-align: left;
+    }
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Verification Challenge</h1>
+  <p>To ensure you are a human visitor, please solve the following challenge:</p>
+
+  <div class="challenge-container">
+    <label for="challenge-input">What is 3 + 4?</label>
+    <input type="text" id="challenge-input" placeholder="Enter your answer here">
+    <button onclick="verifyAnswer()">Submit</button>
+    <p id="error-message" class="hidden" style="color: red;">Incorrect answer. Please try again.</p>
+  </div>
+
+  <script>
+    function verifyAnswer() {
+      const input = document.getElementById('challenge-input').value;
+      const errorMessage = document.getElementById('error-message');
+
+      if (input === "7") {
+        // Redirect to the main site if the answer is correct
+        window.location.href = '/';
+      } else {
+        // Show error message if the answer is incorrect
+        errorMessage.classList.remove('hidden');
+      }
+    }
+  </script>
+</body>
+</html>
