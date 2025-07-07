@@ -20,16 +20,6 @@ This website is dedicated to exploring the fascinating world of LLMs. Here, you 
 {% assign rawtags = rawtags | uniq | sort_natural %}
 {% for tag in rawtags %}<tag><a href="/tags.html#{{ tag }}">{{ tag }}</a></tag> {% endfor %}
 
----
-
-### 📰 Stay Updated with the LLM News Digest
-
-Get the latest research in your inbox every morning. Join thousands of researchers and engineers who subscribe to our [**LLM News Digest**](/digest.html) — a daily curated summary of the most important new papers on transformers, GPT, RLHF, RAG, and more.
-
-[Subscribe now →](/digest.html)
-
----
-
 ### About This Site
 
 This site is an experiment: a [living literature review](https://en.wikipedia.org/wiki/Living_review) that allows
