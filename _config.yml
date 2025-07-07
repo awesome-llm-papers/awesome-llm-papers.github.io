@@ -1,9 +1,9 @@
 # Setup
-title:               The Large Language Model Bible
-tagline:             'a living literature review'
-description:         'Research on Large Language Models. Maintained by <a href="http://sjmoran.github.io/">Sean Moran</a>.'
-url:                 https://llm-bible.github.io
-baseurl:             ''
+title:               Awesome LLM Papers
+tagline:             'Curated Research on Large Language Models'
+description:         'A curated collection of impactful research papers on Large Language Models (LLMs), transformers, prompting, fine-tuning, and multi-modal systems. Continuously updated and maintained by <a href="https://sjmoran.github.io/">Sean Moran</a>.'
+url:                 https://awesome-llm-papers.github.io
+baseurl:             ''  # Do not change unless hosting at a subpath
 
 collections:
   publications:
@@ -15,4 +15,4 @@ plugins_dir:
   - jekyll-seo-tag
 
 sass:
-    style: compressed
+  style: compressed
