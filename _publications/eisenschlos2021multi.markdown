@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'MATE: Multi-view Attention For Table Transformer Efficiency'
+authors: "Julian Martin Eisenschlos, Maharshi Gor, Thomas M\xFCller, William W. Cohen"
+conference: Arxiv
+year: 2021
+citations: 23
+bibkey: eisenschlos2021multi
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.04312'}]
+tags: [Ethics and Bias, Transformer, Reinforcement Learning, Attention Mechanism,
+  Efficiency and Optimization, Model Architecture]
+---
+This work presents a sparse-attention Transformer architecture for modeling
+documents that contain large tables. Tables are ubiquitous on the web, and are
+rich in information. However, more than 20% of relational tables on the web
+have 20 or more rows (Cafarella et al., 2008), and these large tables present a
+challenge for current Transformer models, which are typically limited to 512
+tokens. Here we propose MATE, a novel Transformer architecture designed to
+model the structure of web tables. MATE uses sparse attention in a way that
+allows heads to efficiently attend to either rows or columns in a table. This
+architecture scales linearly with respect to speed and memory, and can handle
+documents containing more than 8000 tokens with current accelerators. MATE also
+has a more appropriate inductive bias for tabular data, and sets a new
+state-of-the-art for three table reasoning datasets. For HybridQA (Chen et al.,
+2020b), a dataset that involves large documents containing tables, we improve
+the best prior result by 19 points.

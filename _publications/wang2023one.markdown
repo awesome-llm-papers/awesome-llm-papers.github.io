@@ -1,0 +1,28 @@
+---
+layout: publication
+title: One Adapter For All Programming Languages? Adapter Tuning For Code Search And
+  Summarization
+authors: Deze Wang et al.
+conference: Arxiv
+year: 2023
+citations: 21
+bibkey: wang2023one
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.15822'}]
+tags: [Fine-Tuning, Training Techniques]
+---
+As pre-trained models automate many code intelligence tasks, a widely used
+paradigm is to fine-tune a model on the task dataset for each programming
+language. A recent study reported that multilingual fine-tuning benefits a
+range of tasks and models. However, we find that multilingual fine-tuning leads
+to performance degradation on recent models UniXcoder and CodeT5.
+  To alleviate the potentially catastrophic forgetting issue in multilingual
+models, we fix all pre-trained model parameters, insert the parameter-efficient
+structure adapter, and fine-tune it. Updating only 0.6% of the overall
+parameters compared to full-model fine-tuning for each programming language,
+adapter tuning yields consistent improvements on code search and summarization
+tasks, achieving state-of-the-art results. In addition, we experimentally show
+its effectiveness in cross-lingual and low-resource scenarios. Multilingual
+fine-tuning with 200 samples per programming language approaches the results
+fine-tuned with the entire dataset on code summarization. Our experiments on
+three probing tasks show that adapter tuning significantly outperforms
+full-model fine-tuning and effectively overcomes catastrophic forgetting.

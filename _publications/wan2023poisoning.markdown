@@ -1,0 +1,27 @@
+---
+layout: publication
+title: Poisoning Language Models During Instruction Tuning
+authors: Alexander Wan, Eric Wallace, Sheng Shen, Dan Klein
+conference: Arxiv
+year: 2023
+citations: 20
+bibkey: wan2023poisoning
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.00944'}]
+tags: [RAG, GPT, Model Architecture]
+---
+Instruction-tuned LMs such as ChatGPT, FLAN, and InstructGPT are finetuned on
+datasets that contain user-submitted examples, e.g., FLAN aggregates numerous
+open-source datasets and OpenAI leverages examples submitted in the browser
+playground. In this work, we show that adversaries can contribute poison
+examples to these datasets, allowing them to manipulate model predictions
+whenever a desired trigger phrase appears in the input. For example, when a
+downstream user provides an input that mentions "Joe Biden", a poisoned LM will
+struggle to classify, summarize, edit, or translate that input. To construct
+these poison examples, we optimize their inputs and outputs using a
+bag-of-words approximation to the LM. We evaluate our method on open-source
+instruction-tuned LMs. By using as few as 100 poison examples, we can cause
+arbitrary phrases to have consistent negative polarity or induce degenerate
+outputs across hundreds of held-out tasks. Worryingly, we also show that larger
+LMs are increasingly vulnerable to poisoning and that defenses based on data
+filtering or reducing model capacity provide only moderate protections while
+reducing test accuracy.

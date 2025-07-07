@@ -1,0 +1,28 @@
+---
+layout: publication
+title: In-context Examples Selection For Machine Translation
+authors: Sweta Agrawal, Chunting Zhou, Mike Lewis, Luke Zettlemoyer, Marjan Ghazvininejad
+conference: Arxiv
+year: 2022
+citations: 24
+bibkey: agrawal2022examples
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.02437'}]
+tags: [Reinforcement Learning, In-Context Learning, Prompting]
+---
+Large-scale generative models show an impressive ability to perform a wide
+range of Natural Language Processing (NLP) tasks using in-context learning,
+where a few examples are used to describe a task to the model. For Machine
+Translation (MT), these examples are typically randomly sampled from the
+development dataset with a similar distribution as the evaluation set. However,
+it is unclear how the choice of these in-context examples and their ordering
+impacts the output translation quality. In this work, we aim to understand the
+properties of good in-context examples for MT in both in-domain and
+out-of-domain settings. We show that the translation quality and the domain of
+the in-context examples matter and that 1-shot noisy unrelated example can have
+a catastrophic impact on output quality. While concatenating multiple random
+examples reduces the effect of noise, a single good prompt optimized to
+maximize translation quality on the development dataset can elicit learned
+information from the pre-trained language model. Adding similar examples based
+on an n-gram overlap with the test source significantly and consistently
+improves the translation quality of the outputs, outperforming a strong kNN-MT
+baseline in 2 out of 4 out-of-domain datasets.

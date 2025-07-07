@@ -1,0 +1,34 @@
+---
+layout: publication
+title: Rethinking Positional Encoding In Language Pre-training
+authors: Guolin Ke, Di He, Tie-yan Liu
+conference: International Conference on Learning Representations (ICLR) 2021 https://openreview.net/forum?id=09-528y2Fgf
+year: 2020
+citations: 129
+bibkey: ke2020rethinking
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.15595'}, {name: Code,
+    url: 'https://github.com/guolinke/TUPE'}]
+tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, BERT,
+  Has Code, Model Architecture]
+---
+In this work, we investigate the positional encoding methods used in language
+pre-training (e.g., BERT) and identify several problems in the existing
+formulations. First, we show that in the absolute positional encoding, the
+addition operation applied on positional embeddings and word embeddings brings
+mixed correlations between the two heterogeneous information resources. It may
+bring unnecessary randomness in the attention and further limit the
+expressiveness of the model. Second, we question whether treating the position
+of the symbol \texttt\{[CLS]\} the same as other words is a reasonable design,
+considering its special role (the representation of the entire sentence) in the
+downstream tasks. Motivated from above analysis, we propose a new positional
+encoding method called \textbf\{T\}ransformer with \textbf\{U\}ntied
+\textbf\{P\}ositional \textbf\{E\}ncoding (TUPE). In the self-attention module,
+TUPE computes the word contextual correlation and positional correlation
+separately with different parameterizations and then adds them together. This
+design removes the mixed and noisy correlations over heterogeneous embeddings
+and offers more expressiveness by using different projection matrices.
+Furthermore, TUPE unties the \texttt\{[CLS]\} symbol from other positions, making
+it easier to capture information from all positions. Extensive experiments and
+ablation studies on GLUE benchmark demonstrate the effectiveness of the
+proposed method. Codes and models are released at
+https://github.com/guolinke/TUPE.

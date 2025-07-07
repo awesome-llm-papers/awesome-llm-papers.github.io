@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'Q-instruct: Improving Low-level Visual Abilities For Multi-modality Foundation
+  Models'
+authors: Haoning Wu et al.
+conference: Arxiv
+year: 2023
+citations: 16
+bibkey: wu2023q
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.06783'}]
+tags: [RAG, GPT, Model Architecture]
+---
+Multi-modality foundation models, as represented by GPT-4V, have brought a
+new paradigm for low-level visual perception and understanding tasks, that can
+respond to a broad range of natural human instructions in a model. While
+existing foundation models have shown exciting potentials on low-level visual
+tasks, their related abilities are still preliminary and need to be improved.
+In order to enhance these models, we conduct a large-scale subjective
+experiment collecting a vast number of real human feedbacks on low-level
+vision. Each feedback follows a pathway that starts with a detailed description
+on the low-level visual appearance (*e.g. clarity, color, brightness* of an
+image, and ends with an overall conclusion, with an average length of 45 words.
+The constructed **Q-Pathway** dataset includes 58K detailed human feedbacks on
+18,973 images with diverse low-level appearance. Moreover, to enable foundation
+models to robustly respond to diverse types of questions, we design a
+GPT-participated conversion to process these feedbacks into diverse-format 200K
+instruction-response pairs. Experimental results indicate that the
+**Q-Instruct** consistently elevates low-level perception and understanding
+abilities across several foundational models. We anticipate that our datasets
+can pave the way for a future that general intelligence can perceive,
+understand low-level visual appearance and evaluate visual quality like a
+human. Our dataset, model zoo, and demo is published at:
+https://q-future.github.io/Q-Instruct.

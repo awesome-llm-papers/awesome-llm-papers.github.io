@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'DP-GAN: Diversity-promoting Generative Adversarial Network For Generating
+  Informative And Diversified Text'
+authors: Jingjing Xu, Xuancheng Ren, Junyang Lin, Xu Sun
+conference: Arxiv
+year: 2018
+citations: 58
+bibkey: xu2018dp
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1802.01345'}, {name: Code,
+    url: 'https://github.com/lancopku/DPGAN'}]
+tags: [RAG, Reinforcement Learning, Has Code, Security, Survey Paper, Language Modeling]
+---
+Existing text generation methods tend to produce repeated and "boring"
+expressions. To tackle this problem, we propose a new text generation model,
+called Diversity-Promoting Generative Adversarial Network (DP-GAN). The
+proposed model assigns low reward for repeatedly generated text and high reward
+for "novel" and fluent text, encouraging the generator to produce diverse and
+informative text. Moreover, we propose a novel language-model based
+discriminator, which can better distinguish novel text from repeated text
+without the saturation problem compared with existing classifier-based
+discriminators. The experimental results on review generation and dialogue
+generation tasks demonstrate that our model can generate substantially more
+diverse and informative text than existing baselines. The code is available at
+https://github.com/lancopku/DPGAN
