@@ -1,4 +1,4 @@
-# 📚 LLM Bible
+# 📚 Awesome LLM Papers
 
 [![Website](https://img.shields.io/badge/Live%20Site-llm--bible.github.io-blue)](https://llm-bible.github.io)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
