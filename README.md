@@ -1,16 +1,16 @@
 # 📚 Awesome LLM Papers
 
-[![Website](https://img.shields.io/badge/Live%20Site-llm--bible.github.io-blue)](https://llm-bible.github.io)
+[![Website](https://img.shields.io/badge/Live%20Site-awesome-llm-papers.github.io-blue)](https:/awesome-llm-papers.github.io)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Stars](https://img.shields.io/github/stars/llm-bible/llm-bible.github.io?style=social)](https://github.com/llm-bible/llm-bible.github.io/stargazers)
-[![Issues](https://img.shields.io/github/issues/llm-bible/llm-bible.github.io)](https://github.com/llm-bible/llm-bible.github.io/issues)
+[![Stars](https://img.shields.io/github/stars/llm-bible/llm-bible.github.io?style=social)](https://github.com/awesome-llm-papers/awesome-llm-papers.github.io/stargazers)
+[![Issues](https://img.shields.io/github/issues/awesome-llm-papers/awesome-llm-papers.github.io)](https://github.com/awesome-llm-papers/awesome-llm-papers.github.io/issues)
 
 ---
 
 **Explore the latest LLM research with clarity.**  
 A visual, searchable map of papers on large language models — built to help researchers, engineers, and enthusiasts stay up to date.
 
-🔗 **Live site:** [llm-bible.github.io](https://llm-bible.github.io)
+🔗 **Live site:** [awesome-llm-papers.github.io](https://awesome-llm-papers.github.io)
 
 ---
 
@@ -36,13 +36,13 @@ Every week brings a wave of new papers on prompting, fine-tuning, evaluation, RA
 
 ## 🖼️ Overview 
 
-<img src="https://llm-bible.github.io/carousel.png" alt="screenshot" width="70%"/>
+<img src="https://awesome-llm-papers.github.io/carousel.png" alt="screenshot" width="70%"/>
 
 ---
 
 ## 🚀 Get Started
 
-Visit: [https://llm-bible.github.io](https://llm-bible.github.io)
+Visit: [https://awesome-llm-papers.github.io](https://awesome-llm-papers.github.io)
 
 ---
 
