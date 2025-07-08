@@ -1,8 +1,8 @@
 # 📚 Awesome LLM Papers
 
-[![Website](https://img.shields.io/badge/Live%20Site-awesome-llm-papers.github.io-blue)](https:/awesome-llm-papers.github.io)
+[![Website](https://img.shields.io/badge/Live%20Site-awesome--llm--papers.github.io-blue)](https://awesome-llm-papers.github.io)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Stars](https://img.shields.io/github/stars/llm-bible/llm-bible.github.io?style=social)](https://github.com/awesome-llm-papers/awesome-llm-papers.github.io/stargazers)
+[![Stars](https://img.shields.io/github/stars/awesome-llm-papers/awesome-llm-papers.github.io?style=social)](https://github.com/awesome-llm-papers/awesome-llm-papers.github.io/stargazers)
 [![Issues](https://img.shields.io/github/issues/awesome-llm-papers/awesome-llm-papers.github.io)](https://github.com/awesome-llm-papers/awesome-llm-papers.github.io/issues)
 
 ---
