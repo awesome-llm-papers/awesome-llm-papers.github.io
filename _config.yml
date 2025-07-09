@@ -1,7 +1,7 @@
 # Setup
 title:               Awesome LLM Papers
 tagline:             'Curated Research on Large Language Models'
-description:         'A curated collection of impactful research papers on Large Language Models (LLMs), transformers, prompting, fine-tuning, and multi-modal systems. Continuously updated and maintained by <a href="https://sjmoran.github.io/">Sean Moran</a>.'
+description:         'A curated collection of research papers on Large Language Models (LLMs), transformers, prompting, fine-tuning, and multi-modal systems. Maintained by <a href="https://sjmoran.github.io/">Sean Moran</a>.'
 url:                 https://awesome-llm-papers.github.io
 baseurl:             ''  # Do not change unless hosting at a subpath
 
