@@ -171,6 +171,8 @@ Below is a collection of university and online courses that offer a deep dive in
 
 6. [**Hands-On Large Language Models: Language Understanding and Generation**](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/): provides practical tools for using LLMs in tasks like copywriting, summarization, and semantic search. It covers transformer architecture, generative models, and fine-tuning techniques to optimize LLMs for specific applications.
 
+7. [**AI Engineering: Building Applications with Foundation Models**](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302) (2025) — Chip Huyen's practical guide to designing, building, evaluating, and deploying applications powered by foundation models. Covers key concepts like prompt engineering, retrieval-augmented generation (RAG), model fine-tuning, evaluation strategies, latency/cost tradeoffs, and continuous learning loops.
+7. 
 ### 🗂️🔍 Other Collections of Related Work
 
 - [**Awesome-LLM: a curated list of Large Language Mode**](https://github.com/Hannibal046/Awesome-LLM): A comprehensive and well-maintained repository that curates resources, papers, tools, and frameworks related to Large Language Models (LLMs). It covers a wide range of topics including model architectures, training techniques, and applications.
