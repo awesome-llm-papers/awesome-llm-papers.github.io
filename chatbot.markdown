@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Chat with the LLM-Bible Bot
-description: LLM-Bible Chatbot
+title: Chat with the Awesome-LLM-Papers Bot
+description: Awesome-LLM-Papers Chatbot
 ---
-The LLM-Bible Chatbot can help you find relevant papers, with over 2,000 papers (and growing) currently ingested into the Bot's knowledge base.
+The Awesome-LLM-Papers Chatbot can help you find relevant papers, with over 2,000 papers (and growing) currently ingested into the Bot's knowledge base.
 
 <div class="container">
     <h3>Example Queries</h3>
