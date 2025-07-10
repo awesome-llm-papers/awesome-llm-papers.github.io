@@ -22,7 +22,7 @@ description: A topic model for the papers in the Large Language Model survey
 
   $(document).ready(
     function() {
-        $.getJSON('https://raw.githubusercontent.com/llm-bible/llm-bible.github.io/refs/heads/master/topics.json', function(data) {
+        $.getJSON('/topics.json', function(data) {
         all_papers=data.paper_data;
         num_topics = data.topics.length;
         html = "";
