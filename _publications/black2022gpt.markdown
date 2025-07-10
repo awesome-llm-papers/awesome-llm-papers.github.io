@@ -2,14 +2,15 @@
 layout: publication
 title: 'Gpt-neox-20b: An Open-source Autoregressive Language Model'
 authors: Sid Black et al.
-conference: Arxiv
+conference: 'Proceedings of BigScience Episode #5 -- Workshop on Challenges & Perspectives
+  in Creating Large Language Models'
 year: 2022
-citations: 189
+citations: 201
 bibkey: black2022gpt
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2204.06745v1'}, {name: Code,
     url: 'https://github.com/EleutherAI/gpt-neox'}]
-tags: [GPT, Training Techniques, Few-Shot, Reinforcement Learning, Has Code, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, GPT, Few-Shot, Reinforcement
+    Learning, Training Techniques, Evaluation]
 ---
 We introduce GPT-NeoX-20B, a 20 billion parameter autoregressive language
 model trained on the Pile, whose weights will be made freely and openly

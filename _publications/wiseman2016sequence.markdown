@@ -2,13 +2,14 @@
 layout: publication
 title: Sequence-to-sequence Learning As Beam-search Optimization
 authors: Sam Wiseman, Alexander M. Rush
-conference: Arxiv
+conference: Proceedings of the 2016 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2016
 citations: 162
 bibkey: wiseman2016sequence
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.02960'}]
-tags: [Ethics and Bias, Training Techniques, Attention Mechanism, Tools, Efficiency
-    and Optimization, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Ethics and Bias,
+  Tools, Efficiency and Optimization, Training Techniques]
 ---
 Sequence-to-Sequence (seq2seq) modeling has rapidly become an important
 general-purpose NLP tool that has proven effective for many text-generation and

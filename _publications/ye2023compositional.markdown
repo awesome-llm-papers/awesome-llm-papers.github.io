@@ -8,7 +8,7 @@ citations: 24
 bibkey: ye2023compositional
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.05698'}, {name: Code,
     url: 'https://github.com/HKUNLP/icl-ceil'}]
-tags: [Has Code, In-Context Learning, Prompting]
+tags: [In-Context Learning, Has Code, Prompting]
 ---
 Large pretrained language models (LMs) have shown impressive In-Context
 Learning (ICL) ability, where the model learns to do an unseen task via a

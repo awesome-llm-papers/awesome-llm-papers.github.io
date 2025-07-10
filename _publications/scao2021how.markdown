@@ -2,12 +2,13 @@
 layout: publication
 title: How Many Data Points Is A Prompt Worth?
 authors: Teven Le Scao, Alexander M. Rush
-conference: Arxiv
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
 citations: 39
 bibkey: scao2021how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.08493'}]
-tags: [RAG, Fine-Tuning, Training Techniques, Prompting]
+tags: [Training Techniques, Fine-Tuning, Prompting, RAG]
 ---
 When fine-tuning pretrained models for classification, researchers either use
 a generic model head or a task-specific prompt for prediction. Proponents of

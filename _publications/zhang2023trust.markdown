@@ -3,12 +3,13 @@ layout: publication
 title: 'Don''t Trust Chatgpt When Your Question Is Not In English: A Study Of Multilingual
   Abilities And Types Of Llms'
 authors: Xiang Zhang, Senyu Li, Bradley Hauer, Ning Shi, Grzegorz Kondrak
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 21
+citations: 23
 bibkey: zhang2023trust
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.16339'}]
-tags: [Training Techniques, Model Architecture, GPT, Prompting]
+tags: [Training Techniques, Prompting, Model Architecture, GPT]
 ---
 Large Language Models (LLMs) have demonstrated exceptional natural language
 understanding abilities and have excelled in a variety of natural language

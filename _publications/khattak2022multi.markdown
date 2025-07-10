@@ -3,13 +3,13 @@ layout: publication
 title: 'Maple: Multi-modal Prompt Learning'
 authors: Muhammad Uzair Khattak, Hanoona Rasheed, Muhammad Maaz, Salman Khan, Fahad
   Shahbaz Khan
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
-citations: 305
+citations: 321
 bibkey: khattak2022multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.03117'}, {name: Code,
     url: 'https://github.com/muzairkhattak/multimodal-prompt-learning'}]
-tags: [RAG, Reinforcement Learning, Has Code, Prompting, Multimodal Models]
+tags: [Has Code, RAG, Reinforcement Learning, Multimodal Models, Prompting]
 ---
 Pre-trained vision-language (V-L) models such as CLIP have shown excellent
 generalization ability to downstream tasks. However, they are sensitive to the

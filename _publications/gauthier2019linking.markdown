@@ -2,12 +2,14 @@
 layout: publication
 title: Linking Artificial And Human Neural Representations Of Language
 authors: Jon Gauthier, Roger Levy
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 31
+citations: 32
 bibkey: gauthier2019linking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.01244'}]
-tags: [Model Architecture, BERT]
+tags: [BERT, Model Architecture]
 ---
 What information from an act of sentence understanding is robustly
 represented in the human brain? We investigate this question by comparing

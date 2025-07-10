@@ -2,13 +2,13 @@
 layout: publication
 title: 'Self-regulating Prompts: Foundational Model Adaptation Without Forgetting'
 authors: Muhammad Uzair Khattak et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2023
-citations: 56
+citations: 60
 bibkey: khattak2023self
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.06948'}, {name: Code,
     url: 'https://github.com/muzairkhattak/PromptSRC'}]
-tags: [Training Techniques, Fine-Tuning, Tools, Has Code, Prompting]
+tags: [Has Code, Fine-Tuning, Tools, Prompting, Training Techniques, Evaluation]
 ---
 Prompt learning has emerged as an efficient alternative for fine-tuning
 foundational models, such as CLIP, for various downstream tasks. Conventionally

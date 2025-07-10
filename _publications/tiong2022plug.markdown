@@ -4,13 +4,13 @@ title: 'Plug-and-play VQA: Zero-shot VQA By Conjoining Large Pretrained Models W
   Zero Training'
 authors: Anthony Meng Huat Tiong, Junnan Li, Boyang Li, Silvio Savarese, Steven C.
   H. Hoi
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2022
-citations: 34
+citations: 37
 bibkey: tiong2022plug
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.08773'}, {name: Code,
     url: 'https://github.com/salesforce/LAVIS/tree/main/projects/pnp-vqa'}]
-tags: [Has Code, Tools, Training Techniques]
+tags: [Tools, Training Techniques, Has Code]
 ---
 Visual question answering (VQA) is a hallmark of vision and language
 reasoning and a challenging task under the zero-shot setting. We propose

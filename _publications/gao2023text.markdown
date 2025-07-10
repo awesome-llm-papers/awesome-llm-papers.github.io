@@ -2,13 +2,13 @@
 layout: publication
 title: 'Text-to-sql Empowered By Large Language Models: A Benchmark Evaluation'
 authors: Dawei Gao et al.
-conference: Arxiv
+conference: Proceedings of the VLDB Endowment
 year: 2023
-citations: 44
+citations: 49
 bibkey: gao2023text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.15363'}]
-tags: [Training Techniques, Fine-Tuning, Efficiency and Optimization, Applications,
-  Prompting]
+tags: [Fine-Tuning, Applications, Prompting, Efficiency and Optimization, Training
+    Techniques, Evaluation]
 ---
 Large language models (LLMs) have emerged as a new paradigm for Text-to-SQL
 task. However, the absence of a systematical benchmark inhibits the development

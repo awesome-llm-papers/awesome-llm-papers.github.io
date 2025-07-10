@@ -2,12 +2,13 @@
 layout: publication
 title: 'Pythia: Ai-assisted Code Completion System'
 authors: Alexey Svyatkovskiy, Ying Zhao, Shengyu Fu, Neel Sundaresan
-conference: Arxiv
+conference: 'KDD ''19: The 25th ACM SIGKDD Conference on Knowledge Discovery and Data
+  Mining'
 year: 2019
-citations: 94
+citations: 97
 bibkey: svyatkovskiy2019ai
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.00742'}]
-tags: [RAG, Tools, Model Architecture]
+tags: [Tools, RAG, Model Architecture, Evaluation]
 ---
 In this paper, we propose a novel end-to-end approach for AI-assisted code
 completion called Pythia. It generates ranked lists of method and API

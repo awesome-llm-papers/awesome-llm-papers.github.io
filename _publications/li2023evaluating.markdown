@@ -2,13 +2,14 @@
 layout: publication
 title: Evaluating Object Hallucination In Large Vision-language Models
 authors: Yifan Li et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 131
+citations: 134
 bibkey: li2023evaluating
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.10355v3'}, {name: Code,
     url: 'https://github.com/RUCAIBox/POPE'}]
-tags: [Has Code, Multimodal Models]
+tags: [Has Code, Multimodal Models, Evaluation]
 ---
 Inspired by the superior language abilities of large language models (LLM),
 large vision-language models (LVLM) have been recently explored by integrating

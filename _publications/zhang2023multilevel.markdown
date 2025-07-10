@@ -10,7 +10,8 @@ citations: 22
 bibkey: zhang2023multilevel
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.05179'}, {name: Code,
     url: 'https://github.com/DAMO-NLP-SG/M3Exam'}]
-tags: [GPT, Reinforcement Learning, Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Reinforcement Learning, Multimodal Models, GPT,
+  Evaluation]
 ---
 Despite the existence of various benchmarks for evaluating natural language
 processing models, we argue that human exams are a more suitable means of

@@ -3,12 +3,14 @@ layout: publication
 title: 'Microsoft Translator At WMT 2019: Towards Large-scale Document-level Neural
   Machine Translation'
 authors: Marcin Junczys-dowmunt
-conference: Arxiv
+conference: 'Proceedings of the Fourth Conference on Machine Translation (Volume 2:
+  Shared Task Papers, Day 1)'
 year: 2019
-citations: 30
+citations: 31
 bibkey: junczysdowmunt2019microsoft
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.06170'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, BERT, WMT, Model Architecture]
+tags: [Model Architecture, Transformer, WMT, Fine-Tuning, BERT, Training Techniques,
+  Evaluation]
 ---
 This paper describes the Microsoft Translator submissions to the WMT19 news
 translation shared task for English-German. Our main focus is document-level

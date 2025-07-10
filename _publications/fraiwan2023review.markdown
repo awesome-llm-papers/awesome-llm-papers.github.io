@@ -8,7 +8,7 @@ year: 2023
 citations: 45
 bibkey: fraiwan2023review
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.00237'}]
-tags: [Applications, Model Architecture, GPT, Prompting]
+tags: [GPT, Prompting, Model Architecture, Applications]
 ---
 ChatGPT is a type of artificial intelligence language model that uses deep
 learning algorithms to generate human-like responses to text-based prompts. The

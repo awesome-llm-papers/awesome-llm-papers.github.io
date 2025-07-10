@@ -7,7 +7,8 @@ year: 2020
 citations: 103
 bibkey: mehri2020natural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.13570'}]
-tags: [Training Techniques, RAG, Pre-Training, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, Pre-Training, BERT, Training Techniques,
+  Evaluation]
 ---
 A long-standing goal of task-oriented dialogue research is the ability to
 flexibly adapt dialogue models to new domains. To progress research in this

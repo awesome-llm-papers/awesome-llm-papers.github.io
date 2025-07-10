@@ -3,12 +3,13 @@ layout: publication
 title: Closing The Gap Between Open-source And Commercial Large Language Models For
   Medical Evidence Summarization
 authors: Gongbo Zhang et al.
-conference: Arxiv
+conference: npj Digital Medicine
 year: 2024
-citations: 20
+citations: 22
 bibkey: zhang2024closing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2408.00588'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Fine-Tuning, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, Fine-Tuning, Training Techniques,
+  Evaluation]
 ---
 Large language models (LLMs) hold great promise in summarizing medical
 evidence. Most recent studies focus on the application of proprietary LLMs.

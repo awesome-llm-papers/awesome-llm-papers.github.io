@@ -3,12 +3,12 @@ layout: publication
 title: Mitigating Large Language Model Hallucinations Via Autonomous Knowledge Graph-based
   Retrofitting
 authors: Xinyan Guan et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 20
+citations: 22
 bibkey: guan2023mitigating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.13314'}]
-tags: [RAG, Tools]
+tags: [Tools, RAG, Evaluation]
 ---
 Incorporating factual knowledge in knowledge graph is regarded as a promising
 approach for mitigating the hallucination of large language models (LLMs).

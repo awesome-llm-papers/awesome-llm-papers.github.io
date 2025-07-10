@@ -2,13 +2,13 @@
 layout: publication
 title: 'XGPT: Cross-modal Generative Pre-training For Image Captioning'
 authors: Qiaolin Xia et al.
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2020
 citations: 29
 bibkey: xia2020cross
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.01473'}]
-tags: [Masked Language Model, Training Techniques, GPT, Pre-Training, BERT, Multimodal
-    Models, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Masked Language Model, Multimodal
+    Models, Pre-Training, Training Techniques, BERT, Evaluation]
 ---
 While many BERT-based cross-modal pre-trained models produce excellent
 results on downstream understanding tasks like image-text retrieval and VQA,

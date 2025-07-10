@@ -2,13 +2,13 @@
 layout: publication
 title: A Survey On Model Compression For Large Language Models
 authors: Xunyu Zhu, Jian Li, Yong Liu, Can Ma, Weiping Wang
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2023
-citations: 24
+citations: 30
 bibkey: zhu2023survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.07633'}]
-tags: [Distillation, Reinforcement Learning, Efficiency and Optimization, Survey Paper,
-  Pruning, Quantization]
+tags: [Distillation, Pruning, Quantization, Survey Paper, Reinforcement Learning,
+  Efficiency and Optimization, Evaluation]
 ---
 Large Language Models (LLMs) have transformed natural language processing
 tasks successfully. Yet, their large size and high computational needs pose

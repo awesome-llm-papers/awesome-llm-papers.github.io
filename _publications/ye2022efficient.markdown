@@ -2,12 +2,14 @@
 layout: publication
 title: 'Zerogen: Efficient Zero-shot Learning Via Dataset Generation'
 authors: Jiacheng Ye et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 26
+citations: 27
 bibkey: ye2022efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.07922'}]
-tags: [Distillation, GPT, Efficiency and Optimization, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Distillation, Efficiency and Optimization,
+  GPT, Evaluation]
 ---
 There is a growing interest in dataset generation recently due to the
 superior generative capacity of large pre-trained language models (PLMs). In

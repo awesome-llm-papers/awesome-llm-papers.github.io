@@ -2,13 +2,14 @@
 layout: publication
 title: Multi-modal Open-domain Dialogue
 authors: Kurt Shuster, Eric Michael Smith, Da Ju, Jason Weston
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2020
 citations: 15
 bibkey: shuster2020multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.01082'}]
-tags: [Training Techniques, Merging, Pre-Training, Fine-Tuning, Reinforcement Learning,
-  Responsible AI, Agentic]
+tags: [Responsible AI, Fine-Tuning, Reinforcement Learning, Pre-Training, Agentic,
+  Training Techniques, Evaluation, Merging]
 ---
 Recent work in open-domain conversational agents has demonstrated that
 significant improvements in model engagingness and humanness metrics can be

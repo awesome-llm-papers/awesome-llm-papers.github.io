@@ -5,11 +5,11 @@ title: 'Monitoring Ai-modified Content At Scale: A Case Study On The Impact Of C
 authors: Weixin Liang et al.
 conference: Arxiv
 year: 2024
-citations: 18
+citations: 23
 bibkey: liang2024monitoring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.07183'}]
-tags: [NeurIPS, GPT, RAG, EMNLP, Reinforcement Learning, Survey Paper, ICLR, Model
-    Architecture]
+tags: [EMNLP, Model Architecture, ICLR, RAG, Survey Paper, Reinforcement Learning,
+  GPT, NeurIPS]
 ---
 We present an approach for estimating the fraction of text in a large corpus
 which is likely to be substantially modified or produced by a large language

@@ -4,10 +4,10 @@ title: Large Language Models Are Human-level Prompt Engineers
 authors: Yongchao Zhou et al.
 conference: Arxiv
 year: 2022
-citations: 189
+citations: 190
 bibkey: zhou2022large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.01910'}]
-tags: [Few-Shot, In-Context Learning, Prompting]
+tags: [In-Context Learning, Few-Shot, Prompting]
 ---
 By conditioning on natural language instructions, large language models
 (LLMs) have displayed impressive capabilities as general-purpose computers.

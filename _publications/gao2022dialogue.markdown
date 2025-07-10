@@ -2,13 +2,12 @@
 layout: publication
 title: 'Dialfred: Dialogue-enabled Agents For Embodied Instruction Following'
 authors: Xiaofeng Gao et al.
-conference: IEEE Robotics and Automation Letters vol. 7 no. 4 pp. 10049-10056 Oct.
-  2022
+conference: IEEE Robotics and Automation Letters
 year: 2022
 citations: 15
 bibkey: gao2022dialogue
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.13330'}]
-tags: [RAG, Tools, Agentic, Reinforcement Learning, ACL]
+tags: [RAG, ACL, Tools, Reinforcement Learning, Agentic, Evaluation]
 ---
 Language-guided Embodied AI benchmarks requiring an agent to navigate an
 environment and manipulate objects typically allow one-way communication: the

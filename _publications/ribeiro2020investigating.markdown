@@ -2,7 +2,8 @@
 layout: publication
 title: Investigating Pretrained Language Models For Graph-to-text Generation
 authors: "Leonardo F. R. Ribeiro, Martin Schmitt, Hinrich Sch\xFCtze, Iryna Gurevych"
-conference: Arxiv
+conference: Proceedings of the 3rd Workshop on Natural Language Processing for Conversational
+  AI
 year: 2020
 citations: 39
 bibkey: ribeiro2020investigating

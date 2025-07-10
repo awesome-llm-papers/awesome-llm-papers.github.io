@@ -2,12 +2,14 @@
 layout: publication
 title: Robust Navigation With Language Pretraining And Stochastic Sampling
 authors: Xiujun Li et al.
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
 citations: 54
 bibkey: li2019robust
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.02244'}]
-tags: [Training Techniques, Agentic]
+tags: [Agentic, Training Techniques, Evaluation]
 ---
 Core to the vision-and-language navigation (VLN) challenge is building robust
 instruction representations and action decoding schemes, which can generalize

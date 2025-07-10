@@ -2,12 +2,12 @@
 layout: publication
 title: 'Chatpose: Chatting About 3D Human Pose'
 authors: Yao Feng et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
 citations: 15
 bibkey: feng2023chatting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.18836'}]
-tags: [RAG, Tools, Reinforcement Learning, Multimodal Models]
+tags: [RAG, Tools, Reinforcement Learning, Multimodal Models, Evaluation]
 ---
 We introduce ChatPose, a framework employing Large Language Models (LLMs) to
 understand and reason about 3D human poses from images or textual descriptions.

@@ -2,13 +2,14 @@
 layout: publication
 title: Few-shot Knowledge Graph-to-text Generation With Pretrained Language Models
 authors: Junyi Li et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP
+  2021'
 year: 2021
-citations: 16
+citations: 17
 bibkey: li2021few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.01623'}, {name: Code,
     url: 'https://github.com/RUCAIBox/Few-Shot-KG2Text'}]
-tags: [Ethics and Bias, RAG, Few-Shot, Has Code, Language Modeling]
+tags: [Language Modeling, Has Code, Ethics and Bias, RAG, Few-Shot, Evaluation]
 ---
 This paper studies how to automatically generate a natural language text that
 describes the facts in knowledge graph (KG). Considering the few-shot setting,

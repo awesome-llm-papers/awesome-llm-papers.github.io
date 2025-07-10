@@ -7,8 +7,8 @@ year: 2020
 citations: 17
 bibkey: zhao2020segment
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.10213'}]
-tags: [Transformer, Attention Mechanism, Interpretability and Explainability, Model
-    Architecture]
+tags: [Interpretability and Explainability, Model Architecture, Attention Mechanism,
+  Transformer]
 ---
 Most prior work in the sequence-to-sequence paradigm focused on datasets with
 input sequence lengths in the hundreds of tokens due to the computational

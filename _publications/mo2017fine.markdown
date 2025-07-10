@@ -7,7 +7,7 @@ year: 2017
 citations: 15
 bibkey: mo2017fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1711.04079'}]
-tags: [Fine-Tuning, Reinforcement Learning, Agentic, Training Techniques]
+tags: [Agentic, Reinforcement Learning, Training Techniques, Fine-Tuning]
 ---
 Training a personalized dialogue system requires a lot of data, and the data
 collected for a single user is usually insufficient. One common practice for

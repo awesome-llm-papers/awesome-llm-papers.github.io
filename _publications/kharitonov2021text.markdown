@@ -2,14 +2,15 @@
 layout: publication
 title: Text-free Prosody-aware Generative Spoken Language Modeling
 authors: Eugene Kharitonov et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
 citations: 18
 bibkey: kharitonov2021text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.03264'}, {name: Code,
     url: 'https://speechbot.github.io/pgslm'}, {name: Code, url: 'https://github.com/pytorch/fairseq/tree/main/examples/textless_nlp/pgslm'}]
-tags: [Training Techniques, Transformer, GPT, RAG, Pre-Training, Has Code, Prompting,
-  Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, GPT, Transformer, RAG, Prompting,
+  Pre-Training, Training Techniques, Evaluation]
 ---
 Speech pre-training has primarily demonstrated efficacy on classification
 tasks, while its capability of generating novel speech, similar to how GPT-2

@@ -7,7 +7,7 @@ year: 2022
 citations: 19
 bibkey: leviathan2022fast
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.17192'}]
-tags: [Training Techniques, Transformer, GPT, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Transformer, Training Techniques]
 ---
 Inference from large autoregressive models like Transformers is slow -
 decoding K tokens takes K serial runs of the model. In this work we introduce

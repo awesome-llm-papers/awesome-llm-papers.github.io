@@ -2,12 +2,14 @@
 layout: publication
 title: Template Guided Text Generation For Task-oriented Dialogue
 authors: Mihir Kale, Abhinav Rastogi
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 19
 bibkey: kale2020template
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.15006'}]
-tags: [Language Modeling, Efficiency and Optimization, Tools, Reinforcement Learning]
+tags: [Language Modeling, Reinforcement Learning, Tools, Efficiency and Optimization,
+  Evaluation]
 ---
 Virtual assistants such as Google Assistant, Amazon Alexa, and Apple Siri
 enable users to interact with a large number of services and APIs on the web

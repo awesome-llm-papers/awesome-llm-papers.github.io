@@ -1,0 +1,30 @@
+---
+layout: publication
+title: When Prompt-based Incremental Learning Does Not Meet Strong Pretraining
+authors: Yu-ming Tang, Yi-xing Peng, Wei-shi Zheng
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2023
+citations: 22
+bibkey: tang2023when
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.10445'}, {name: Code,
+    url: 'https://github.com/TOM-tym/APG'}]
+tags: [Efficiency and Optimization, Training Techniques, Prompting, Has Code]
+---
+Incremental learning aims to overcome catastrophic forgetting when learning
+deep networks from sequential tasks. With impressive learning efficiency and
+performance, prompt-based methods adopt a fixed backbone to sequential tasks by
+learning task-specific prompts. However, existing prompt-based methods heavily
+rely on strong pretraining (typically trained on ImageNet-21k), and we find
+that their models could be trapped if the potential gap between the pretraining
+task and unknown future tasks is large. In this work, we develop a learnable
+Adaptive Prompt Generator (APG). The key is to unify the prompt retrieval and
+prompt learning processes into a learnable prompt generator. Hence, the whole
+prompting process can be optimized to reduce the negative effects of the gap
+between tasks effectively. To make our APG avoid learning ineffective
+knowledge, we maintain a knowledge pool to regularize APG with the feature
+distribution of each class. Extensive experiments show that our method
+significantly outperforms advanced methods in exemplar-free incremental
+learning without (strong) pretraining. Besides, under strong retraining, our
+method also has comparable performance to existing prompt-based models, showing
+that our method can still benefit from pretraining. Codes can be found at
+https://github.com/TOM-tym/APG

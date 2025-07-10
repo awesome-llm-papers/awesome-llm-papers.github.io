@@ -2,12 +2,12 @@
 layout: publication
 title: Towards Trustworthy Autograding Of Short, Multi-lingual, Multi-type Answers
 authors: Johannes Schneider, Robin Richner, Micha Riser
-conference: Arxiv
+conference: International Journal of Artificial Intelligence in Education
 year: 2022
 citations: 26
 bibkey: schneider2022towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.03425'}]
-tags: [Fine-Tuning, Training Techniques, Transformer, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, Training Techniques, Evaluation]
 ---
 Autograding short textual answers has become much more feasible due to the
 rise of NLP and the increased availability of question-answer pairs brought

@@ -3,12 +3,12 @@ layout: publication
 title: 'IART: Intent-aware Response Ranking With Transformers In Information-seeking
   Conversation Systems'
 authors: Liu Yang et al.
-conference: Arxiv
+conference: 'WWW ''20: The Web Conference 2020'
 year: 2020
 citations: 19
 bibkey: yang2020intent
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.00571'}]
-tags: [Attention Mechanism, Transformer, Model Architecture]
+tags: [Transformer, Model Architecture, Attention Mechanism, Evaluation]
 ---
 Personal assistant systems, such as Apple Siri, Google Assistant, Amazon
 Alexa, and Microsoft Cortana, are becoming ever more widely used. Understanding

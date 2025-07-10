@@ -2,12 +2,12 @@
 layout: publication
 title: 'Topical-chat: Towards Knowledge-grounded Open-domain Conversations'
 authors: Karthik Gopalakrishnan et al.
-conference: Arxiv
+conference: Interspeech 2019
 year: 2023
 citations: 54
 bibkey: gopalakrishnan2023topical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.11995'}]
-tags: [RAG, Reinforcement Learning]
+tags: [Reinforcement Learning, RAG, Evaluation]
 ---
 Building socialbots that can have deep, engaging open-domain conversations
 with humans is one of the grand challenges of artificial intelligence (AI). To

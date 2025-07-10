@@ -2,12 +2,13 @@
 layout: publication
 title: Evaluating Mixed-initiative Conversational Search Systems Via User Simulation
 authors: "Ivan Sekuli\u0107, Mohammad Aliannejadi, Fabio Crestani"
-conference: Arxiv
+conference: 'WSDM ''22: The Fifteenth ACM International Conference on Web Search and
+  Data Mining'
 year: 2022
 citations: 28
 bibkey: "sekuli\u01072022evaluating"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.08046'}]
-tags: [Reinforcement Learning, Model Architecture, GPT, Prompting]
+tags: [Model Architecture, Reinforcement Learning, Prompting, GPT, Evaluation]
 ---
 Clarifying the underlying user information need by asking clarifying
 questions is an important feature of modern conversational search system.

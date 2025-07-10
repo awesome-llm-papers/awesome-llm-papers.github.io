@@ -3,13 +3,13 @@ layout: publication
 title: Generative Speech Recognition Error Correction With Large Language Models And
   Task-activating Prompting
 authors: Chao-han Huck Yang et al.
-conference: Proc. IEEE ASRU Workshop Dec. 2023
+conference: 2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
 year: 2023
-citations: 15
+citations: 17
 bibkey: yang2023generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.15649'}]
-tags: [Training Techniques, INTERSPEECH, Fine-Tuning, Few-Shot, In-Context Learning,
-  Prompting, ACL]
+tags: [Fine-Tuning, Few-Shot, ACL, In-Context Learning, Prompting, Training Techniques,
+  INTERSPEECH]
 ---
 We explore the ability of large language models (LLMs) to act as speech
 recognition post-processors that perform rescoring and error correction. Our

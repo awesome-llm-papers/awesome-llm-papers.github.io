@@ -2,12 +2,12 @@
 layout: publication
 title: An Empirical Study Of GPT-3 For Few-shot Knowledge-based VQA
 authors: Zhengyuan Yang et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2021
-citations: 157
+citations: 161
 bibkey: yang2021empirical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.05014'}]
-tags: [GPT, RAG, Few-Shot, Prompting, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Few-Shot, RAG, Multimodal Models, Prompting, GPT, Evaluation]
 ---
 Knowledge-based visual question answering (VQA) involves answering questions
 that require external knowledge not present in the image. Existing methods

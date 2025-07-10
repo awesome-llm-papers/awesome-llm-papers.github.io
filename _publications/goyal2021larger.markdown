@@ -2,13 +2,13 @@
 layout: publication
 title: Larger-scale Transformers For Multilingual Masked Language Modeling
 authors: Naman Goyal, Jingfei Du, Myle Ott, Giri Anantharaman, Alexis Conneau
-conference: Arxiv
+conference: Proceedings of the 6th Workshop on Representation Learning for NLP (RepL4NLP-2021)
 year: 2021
-citations: 25
+citations: 26
 bibkey: goyal2021larger
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.00572'}]
-tags: [Masked Language Model, Training Techniques, Transformer, RAG, BERT, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, RAG, Masked Language Model,
+  BERT, Training Techniques, Evaluation]
 ---
 Recent work has demonstrated the effectiveness of cross-lingual language
 model pretraining for cross-lingual understanding. In this study, we present

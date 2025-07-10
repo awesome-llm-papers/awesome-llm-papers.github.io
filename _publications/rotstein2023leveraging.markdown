@@ -2,12 +2,12 @@
 layout: publication
 title: 'Fusecap: Leveraging Large Language Models For Enriched Fused Image Captions'
 authors: Noam Rotstein, David Bensaid, Shaked Brody, Roy Ganz, Ron Kimmel
-conference: Arxiv
+conference: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
 year: 2023
-citations: 30
+citations: 33
 bibkey: rotstein2023leveraging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.17718'}]
-tags: [RAG, Pre-Training, Training Techniques, Multimodal Models]
+tags: [RAG, Multimodal Models, Pre-Training, Training Techniques, Evaluation]
 ---
 The advent of vision-language pre-training techniques enhanced substantial
 progress in the development of models for image captioning. However, these

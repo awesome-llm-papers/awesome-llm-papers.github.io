@@ -2,13 +2,14 @@
 layout: publication
 title: 'Chatdev: Communicative Agents For Software Development'
 authors: Chen Qian et al.
-conference: Arxiv
+conference: 'Proceedings of the 62nd Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
-citations: 43
+citations: 56
 bibkey: qian2023communicative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.07924'}, {name: Code,
     url: 'https://github.com/OpenBMB/ChatDev'}]
-tags: [RAG, Has Code, Tools, Agentic]
+tags: [Agentic, Tools, Has Code, RAG]
 ---
 Software development is a complex task that necessitates cooperation among
 multiple members with diverse skills. Numerous studies used deep learning to

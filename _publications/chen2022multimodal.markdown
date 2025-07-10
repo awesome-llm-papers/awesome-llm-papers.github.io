@@ -3,12 +3,13 @@ layout: publication
 title: 'Murag: Multimodal Retrieval-augmented Generator For Open Question Answering
   Over Images And Text'
 authors: Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William W. Cohen
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 28
+citations: 32
 bibkey: chen2022multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.02928'}]
-tags: [Transformer, RAG, Reinforcement Learning, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Transformer, RAG, Reinforcement Learning, Multimodal Models]
 ---
 While language Models store a massive amount of world knowledge implicitly in
 their parameters, even very large models often fail to encode information about

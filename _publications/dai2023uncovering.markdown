@@ -2,13 +2,14 @@
 layout: publication
 title: Uncovering Chatgpt's Capabilities In Recommender Systems
 authors: Sunhao Dai et al.
-conference: Arxiv
+conference: 'RecSys ''23: Seventeenth ACM Conference on Recommender Systems'
 year: 2023
-citations: 70
+citations: 75
 bibkey: dai2023uncovering
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.02182v3'}, {name: Code,
     url: 'https://github.com/rainym00d/LLM4RS'}]
-tags: [GPT, Fine-Tuning, Attention Mechanism, RecSys, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Fine-Tuning, RecSys, Prompting,
+  GPT]
 ---
 The debut of ChatGPT has recently attracted the attention of the natural
 language processing (NLP) community and beyond. Existing studies have

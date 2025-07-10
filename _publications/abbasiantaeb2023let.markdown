@@ -3,12 +3,13 @@ layout: publication
 title: 'Let The Llms Talk: Simulating Human-to-human Conversational QA Via Zero-shot
   Llm-to-llm Interactions'
 authors: Zahra Abbasiantaeb, Yifei Yuan, Evangelos Kanoulas, Mohammad Aliannejadi
-conference: Arxiv
+conference: 'WSDM ''24: The 17th ACM International Conference on Web Search and Data
+  Mining'
 year: 2023
-citations: 24
+citations: 27
 bibkey: abbasiantaeb2023let
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.02913'}]
-tags: [Tools, Model Architecture, GPT, Prompting]
+tags: [Model Architecture, Tools, Prompting, GPT, Evaluation]
 ---
 Conversational question-answering (CQA) systems aim to create interactive
 search systems that effectively retrieve information by interacting with users.

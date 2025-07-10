@@ -4,11 +4,12 @@ title: Fine-grained Human Feedback Gives Better Rewards For Language Model Train
 authors: Zeqiu Wu et al.
 conference: Arxiv
 year: 2023
-citations: 22
+citations: 23
 bibkey: wu2023fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.01693'}, {name: Code,
     url: 'https://FineGrainedRLHF.github.io'}]
-tags: [Training Techniques, Tools, Reinforcement Learning, Has Code, Language Modeling]
+tags: [Language Modeling, Has Code, Reinforcement Learning, Tools, Training Techniques,
+  Evaluation]
 ---
 Language models (LMs) often exhibit undesirable text generation behaviors,
 including generating false, toxic, or irrelevant outputs. Reinforcement

@@ -8,8 +8,8 @@ year: 2023
 citations: 24
 bibkey: toma2023clinical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.12031'}]
-tags: [Ethics and Bias, Training Techniques, GPT, RAG, Fine-Tuning, Responsible AI,
-  Applications, Model Architecture]
+tags: [Responsible AI, Model Architecture, Ethics and Bias, GPT, RAG, Fine-Tuning,
+  Applications, Training Techniques, Evaluation]
 ---
 We present Clinical Camel, an open large language model (LLM) explicitly
 tailored for clinical research. Fine-tuned from LLaMA-2 using QLoRA, Clinical

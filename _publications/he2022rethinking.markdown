@@ -7,8 +7,8 @@ year: 2022
 citations: 41
 bibkey: he2022rethinking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.00303'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Interpretability and Explainability,
-  Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Interpretability and Explainability,
+  Prompting, Training Techniques]
 ---
 Despite the success of large language models (LLMs) in various natural
 language processing (NLP) tasks, the stored knowledge in these models may

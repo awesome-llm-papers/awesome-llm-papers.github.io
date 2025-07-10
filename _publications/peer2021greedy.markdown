@@ -3,14 +3,14 @@ layout: publication
 title: 'Greedy-layer Pruning: Speeding Up Transformer Models For Natural Language
   Processing'
 authors: David Peer, Sebastian Stabinger, Stefan Engl, Antonio Rodriguez-sanchez
-conference: Arxiv
+conference: Pattern Recognition Letters
 year: 2021
-citations: 26
+citations: 27
 bibkey: peer2021greedy
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.14839'}, {name: Code,
     url: 'https://github.com/deepopinion/greedy-layer-pruning'}]
-tags: [Distillation, Transformer, Training Techniques, Fine-Tuning, Pre-Training,
-  Efficiency and Optimization, Has Code, Pruning, Model Architecture]
+tags: [Has Code, Model Architecture, Distillation, Transformer, Pruning, Fine-Tuning,
+  Pre-Training, Efficiency and Optimization, Training Techniques]
 ---
 Fine-tuning transformer models after unsupervised pre-training reaches a very
 high performance on many different natural language processing tasks.

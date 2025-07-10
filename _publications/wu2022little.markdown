@@ -3,12 +3,13 @@ layout: publication
 title: 'Noisytune: A Little Noise Can Help You Finetune Pretrained Language Models
   Better'
 authors: Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang, Xing Xie
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 2: Short Papers)'
 year: 2022
 citations: 17
 bibkey: wu2022little
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.12024'}]
-tags: [Fine-Tuning, Training Techniques]
+tags: [Training Techniques, Fine-Tuning, Evaluation]
 ---
 Effectively finetuning pretrained language models (PLMs) is critical for
 their success in downstream tasks. However, PLMs may have risks in overfitting

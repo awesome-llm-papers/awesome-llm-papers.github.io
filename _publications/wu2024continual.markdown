@@ -7,7 +7,7 @@ year: 2024
 citations: 16
 bibkey: wu2024continual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.01364'}]
-tags: [RAG, Tools, Training Techniques, Survey Paper]
+tags: [RAG, Survey Paper, Tools, Training Techniques, Evaluation]
 ---
 Large language models (LLMs) are not amenable to frequent re-training, due to
 high training costs arising from their massive scale. However, updates are

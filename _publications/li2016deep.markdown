@@ -2,12 +2,13 @@
 layout: publication
 title: Deep Reinforcement Learning For Dialogue Generation
 authors: Jiwei Li et al.
-conference: Arxiv
+conference: Proceedings of the 2016 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2016
-citations: 439
+citations: 440
 bibkey: li2016deep
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.01541'}]
-tags: [Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning]
 ---
 Recent neural models of dialogue generation offer great promise for
 generating responses for conversational agents, but tend to be shortsighted,

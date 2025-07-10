@@ -4,10 +4,10 @@ title: Memorizing Transformers
 authors: Yuhuai Wu, Markus N. Rabe, Delesley Hutchins, Christian Szegedy
 conference: Arxiv
 year: 2022
-citations: 33
+citations: 34
 bibkey: wu2022memorizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.08913'}]
-tags: [Language Modeling, Arxiv, Transformer, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Arxiv, Evaluation]
 ---
 Language models typically need to be trained or finetuned in order to acquire
 new knowledge, which involves updating their weights. We instead envision

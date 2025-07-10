@@ -2,13 +2,13 @@
 layout: publication
 title: A Survey Of GPT-3 Family Large Language Models Including Chatgpt And GPT-4
 authors: Katikapalli Subramanyam Kalyan
-conference: Arxiv
+conference: Natural Language Processing Journal
 year: 2023
-citations: 133
+citations: 141
 bibkey: kalyan2023survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.12321'}]
-tags: [Training Techniques, Transformer, GPT, Fine-Tuning, Security, Survey Paper,
-  Model Architecture]
+tags: [Security, Model Architecture, GPT, Transformer, Fine-Tuning, Survey Paper,
+  Training Techniques]
 ---
 Large language models (LLMs) are a special class of pretrained language
 models obtained by scaling model size, pretraining corpus and computation.

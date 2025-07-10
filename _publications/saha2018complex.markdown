@@ -4,12 +4,12 @@ title: 'Complex Sequential Question Answering: Towards Learning To Converse Over
   Question Answer Pairs With A Knowledge Graph'
 authors: Amrita Saha, Vardaan Pahuja, Mitesh M. Khapra, Karthik Sankaranarayanan,
   Sarath Chandar
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2018
 citations: 77
 bibkey: saha2018complex
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1801.10314'}]
-tags: [RAG, Reinforcement Learning]
+tags: [Reinforcement Learning, RAG]
 ---
 While conversing with chatbots, humans typically tend to ask many questions,
 a significant portion of which can be answered by referring to large-scale

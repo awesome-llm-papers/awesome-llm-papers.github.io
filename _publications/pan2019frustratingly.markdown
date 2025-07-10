@@ -7,7 +7,7 @@ year: 2019
 citations: 18
 bibkey: pan2019frustratingly
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.05286'}]
-tags: [Fine-Tuning, Attention Mechanism, Model Architecture, BERT]
+tags: [Model Architecture, Attention Mechanism, Fine-Tuning, BERT, Evaluation]
 ---
 Existing literature on Question Answering (QA) mostly focuses on algorithmic
 novelty, data augmentation, or increasingly large pre-trained language models

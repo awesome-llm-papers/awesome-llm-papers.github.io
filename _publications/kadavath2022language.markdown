@@ -7,7 +7,7 @@ year: 2022
 citations: 122
 bibkey: kadavath2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.05221'}]
-tags: [RAG, Training Techniques]
+tags: [Training Techniques, RAG, Evaluation]
 ---
 We study whether language models can evaluate the validity of their own
 claims and predict which questions they will be able to answer correctly. We

@@ -3,12 +3,12 @@ layout: publication
 title: 'Personallm: Investigating The Ability Of Large Language Models To Express
   Personality Traits'
 authors: Hang Jiang et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: NAACL 2024'
 year: 2023
-citations: 19
+citations: 22
 bibkey: jiang2023investigating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.02547'}]
-tags: [GPT, Merging, Agentic, Applications, Model Architecture]
+tags: [Model Architecture, Applications, Agentic, GPT, Evaluation, Merging]
 ---
 Despite the many use cases for large language models (LLMs) in creating
 personalized chatbots, there has been limited research on evaluating the extent

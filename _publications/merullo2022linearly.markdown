@@ -8,7 +8,7 @@ citations: 24
 bibkey: merullo2022linearly
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.15162'}, {name: Code,
     url: 'https://github.com/jmerullo/limber'}]
-tags: [Has Code, Reinforcement Learning, Training Techniques, Prompting]
+tags: [Has Code, Reinforcement Learning, Prompting, Training Techniques, Evaluation]
 ---
 The extent to which text-only language models (LMs) learn to represent
 features of the non-linguistic world is an open question. Prior work has shown

@@ -2,13 +2,14 @@
 layout: publication
 title: 'TOD-BERT: Pre-trained Natural Language Understanding For Task-oriented Dialogue'
 authors: Chien-sheng Wu, Steven Hoi, Richard Socher, Caiming Xiong
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 78
+citations: 79
 bibkey: wu2020tod
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.06871'}]
-tags: [Masked Language Model, Training Techniques, Pre-Training, Few-Shot, Reinforcement
-    Learning, BERT, Applications, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Few-Shot, Applications, Masked Language
+    Model, Reinforcement Learning, Pre-Training, BERT, Training Techniques]
 ---
 The underlying difference of linguistic patterns between general text and
 task-oriented dialogue makes existing pre-trained language models less useful

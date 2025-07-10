@@ -9,8 +9,8 @@ citations: 104
 bibkey: dai2020funnel
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.03236'}, {name: Code,
     url: 'https://github.com/laiguokun/Funnel-Transformer'}]
-tags: [Training Techniques, Transformer, Reinforcement Learning, Efficiency and Optimization,
-  Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Reinforcement Learning, Efficiency
+    and Optimization, Training Techniques]
 ---
 With the success of language pretraining, it is highly desirable to develop
 more efficient architectures of good scalability that can exploit the abundant

@@ -7,7 +7,8 @@ year: 2018
 citations: 276
 bibkey: fedus2018better
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1801.07736'}]
-tags: [GPT, Training Techniques, Reinforcement Learning, Security, Language Modeling]
+tags: [Language Modeling, Security, GPT, Reinforcement Learning, Training Techniques,
+  Evaluation]
 ---
 Neural text generation models are often autoregressive language models or
 seq2seq models. These models generate text by sampling words sequentially, with

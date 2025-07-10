@@ -2,12 +2,12 @@
 layout: publication
 title: A Categorical Archive Of Chatgpt Failures
 authors: Ali Borji
-conference: Arxiv
+conference: Research Square Platform LLC
 year: 2023
-citations: 190
+citations: 194
 bibkey: borji2023categorical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.03494'}]
-tags: [Ethics and Bias, GPT, Attention Mechanism, Security, Model Architecture]
+tags: [Security, Model Architecture, Attention Mechanism, Ethics and Bias, GPT]
 ---
 Large language models have been demonstrated to be valuable in different
 fields. ChatGPT, developed by OpenAI, has been trained using massive amounts of

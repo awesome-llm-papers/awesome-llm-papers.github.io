@@ -3,13 +3,14 @@ layout: publication
 title: 'ATTEMPT: Parameter-efficient Multi-task Tuning Via Attentional Mixtures Of
   Soft Prompts'
 authors: Akari Asai, Mohammadreza Salehi, Matthew E. Peters, Hannaneh Hajishirzi
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 20
+citations: 21
 bibkey: asai2022parameter
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.11961'}]
-tags: [Training Techniques, Few-Shot, Attention Mechanism, Fine-Tuning, Prompting,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Fine-Tuning, Few-Shot, Prompting,
+  Training Techniques]
 ---
 This work introduces a new multi-task, parameter-efficient language model
 (LM) tuning method that learns to transfer knowledge across different tasks via

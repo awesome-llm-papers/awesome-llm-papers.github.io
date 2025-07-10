@@ -2,14 +2,14 @@
 layout: publication
 title: 'VIP5: Towards Multimodal Foundation Models For Recommendation'
 authors: Shijie Geng, Juntao Tan, Shuchang Liu, Zuohui Fu, Yongfeng Zhang
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
-citations: 21
+citations: 23
 bibkey: geng2023towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14302'}, {name: Code,
     url: 'https://github.com/jeykigung/VIP5'}]
-tags: [Training Techniques, Fine-Tuning, RecSys, Efficiency and Optimization, Has
-    Code, Applications, Prompting, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Fine-Tuning, Applications, RecSys, Multimodal
+    Models, Prompting, Efficiency and Optimization, Training Techniques]
 ---
 Computer Vision (CV), Natural Language Processing (NLP), and Recommender
 Systems (RecSys) are three prominent AI applications that have traditionally

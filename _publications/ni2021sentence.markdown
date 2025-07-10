@@ -2,13 +2,14 @@
 layout: publication
 title: 'Sentence-t5: Scalable Sentence Encoders From Pre-trained Text-to-text Models'
 authors: Jianmo Ni et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2022'
 year: 2021
-citations: 117
+citations: 120
 bibkey: ni2021sentence
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.08877'}, {name: Code,
     url: 'https://tfhub.dev/google/collections/sentence-t5/1'}]
-tags: [Transformer, Fine-Tuning, Reinforcement Learning, BERT, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Fine-Tuning, Reinforcement Learning,
+  BERT, Evaluation]
 ---
 We provide the first exploration of sentence embeddings from text-to-text
 transformers (T5). Sentence embeddings are broadly useful for language

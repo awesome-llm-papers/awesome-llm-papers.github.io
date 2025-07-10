@@ -2,13 +2,13 @@
 layout: publication
 title: Leveraging Pre-trained Checkpoints For Sequence Generation Tasks
 authors: Sascha Rothe, Shashi Narayan, Aliaksei Severyn
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2019
-citations: 165
+citations: 168
 bibkey: rothe2019leveraging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.12461'}]
-tags: [Training Techniques, Transformer, GPT, Merging, RAG, Pre-Training, BERT, Model
-    Architecture]
+tags: [Model Architecture, GPT, Transformer, RAG, Pre-Training, BERT, Training Techniques,
+  Evaluation, Merging]
 ---
 Unsupervised pre-training of large neural models has recently revolutionized
 Natural Language Processing. By warm-starting from the publicly released

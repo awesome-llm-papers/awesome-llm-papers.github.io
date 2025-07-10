@@ -2,12 +2,13 @@
 layout: publication
 title: 'Maieutic Prompting: Logically Consistent Reasoning With Recursive Explanations'
 authors: Jaehun Jung et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 22
+citations: 24
 bibkey: jung2022maieutic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.11822'}]
-tags: [Interpretability and Explainability, Security, Prompting]
+tags: [Interpretability and Explainability, Security, Prompting, Evaluation]
 ---
 Despite their impressive capabilities, large pre-trained language models
 (LMs) struggle with consistent reasoning; recently, prompting LMs to generate

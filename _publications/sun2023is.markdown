@@ -3,13 +3,14 @@ layout: publication
 title: Is Chatgpt Good At Search? Investigating Large Language Models As Re-ranking
   Agents
 authors: Weiwei Sun et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 82
+citations: 88
 bibkey: sun2023is
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2304.09542v2'}]
-tags: [Distillation, GPT, Training Techniques, Pre-Training, Reinforcement Learning,
-  Agentic, Efficiency and Optimization, Applications, Model Architecture]
+tags: [Model Architecture, Distillation, GPT, Applications, Reinforcement Learning,
+  Pre-Training, Agentic, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 Large Language Models (LLMs) have demonstrated remarkable zero-shot
 generalization across various language-related tasks, including search engines.

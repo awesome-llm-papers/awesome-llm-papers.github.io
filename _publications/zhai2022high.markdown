@@ -3,13 +3,14 @@ layout: publication
 title: 'Bytetransformer: A High-performance Transformer Boosted For Variable-length
   Inputs'
 authors: Yujia Zhai et al.
-conference: Arxiv
+conference: 2023 IEEE International Parallel and Distributed Processing Symposium
+  (IPDPS)
 year: 2022
-citations: 28
+citations: 29
 bibkey: zhai2022high
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.03052'}]
-tags: [Transformer, Fine-Tuning, Tools, Attention Mechanism, BERT, Efficiency and
-    Optimization, Applications, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Fine-Tuning, Applications,
+  Tools, Efficiency and Optimization, BERT]
 ---
 Transformers have become keystone models in natural language processing over
 the past decade. They have achieved great popularity in deep learning

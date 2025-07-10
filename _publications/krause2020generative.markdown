@@ -2,12 +2,12 @@
 layout: publication
 title: 'Gedi: Generative Discriminator Guided Sequence Generation'
 authors: Ben Krause et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
 year: 2020
-citations: 43
+citations: 44
 bibkey: krause2020generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.06367'}]
-tags: [Ethics and Bias, Training Techniques, Model Architecture, GPT]
+tags: [Training Techniques, Model Architecture, Ethics and Bias, GPT]
 ---
 While large-scale language models (LMs) are able to imitate the distribution
 of natural language well enough to generate realistic text, it is difficult to

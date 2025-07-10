@@ -8,7 +8,7 @@ citations: 77
 bibkey: xu2023empowering
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2304.12244v2'}, {name: Code,
     url: 'https://github.com/nlpxucan/WizardLM'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Fine-Tuning, Training Techniques, Evaluation]
 ---
 Training large language models (LLMs) with open-domain instruction following
 data brings colossal success. However, manually creating such instruction data

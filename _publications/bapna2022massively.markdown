@@ -7,8 +7,8 @@ year: 2022
 citations: 57
 bibkey: bapna2022massively
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.01374'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Reinforcement Learning, Pre-Training,
-  BERT, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, Reinforcement Learning, Multimodal Models,
+  Pre-Training, BERT, Training Techniques]
 ---
 We present mSLAM, a multilingual Speech and LAnguage Model that learns
 cross-lingual cross-modal representations of speech and text by pre-training

@@ -2,13 +2,13 @@
 layout: publication
 title: Exploring Human-like Translation Strategy With Large Language Models
 authors: Zhiwei He et al.
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2023
-citations: 17
+citations: 20
 bibkey: he2023exploring
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.04118v3'}, {name: Code,
     url: 'https://github.com/zwhe99/MAPS-mt'}]
-tags: [Tools, Attention Mechanism, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Tools, Prompting, Evaluation]
 ---
 Large language models (LLMs) have demonstrated impressive capabilities in
 general scenarios, exhibiting a level of aptitude that approaches, in some

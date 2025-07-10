@@ -2,9 +2,9 @@
 layout: publication
 title: Introducing Language Guidance In Prompt-based Continual Learning
 authors: Muhammad Gul Zain Ali Khan et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2023
-citations: 19
+citations: 21
 bibkey: khan2023introducing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.15827'}]
 tags: [Reinforcement Learning, Prompting]

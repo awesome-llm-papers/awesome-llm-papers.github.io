@@ -2,14 +2,14 @@
 layout: publication
 title: 'How Can Recommender Systems Benefit From Large Language Models: A Survey'
 authors: Jianghao Lin et al.
-conference: Arxiv
+conference: ACM Transactions on Information Systems
 year: 2023
-citations: 28
+citations: 30
 bibkey: lin2023how
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2306.05817v6'}, {name: Code,
     url: 'https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/'}]
-tags: [Ethics and Bias, Training Techniques, RecSys, Tools, Reinforcement Learning,
-  Responsible AI, Efficiency and Optimization, Has Code, Survey Paper]
+tags: [Responsible AI, Has Code, Ethics and Bias, RecSys, Reinforcement Learning,
+  Tools, Survey Paper, Efficiency and Optimization, Training Techniques]
 ---
 With the rapid development of online services, recommender systems (RS) have
 become increasingly indispensable for mitigating information overload. Despite

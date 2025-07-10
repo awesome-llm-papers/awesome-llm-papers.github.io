@@ -7,8 +7,8 @@ year: 2023
 citations: 47
 bibkey: gao2023chat
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.14524v2'}]
-tags: [GPT, Tools, Interpretability and Explainability, RecSys, Reinforcement Learning,
-  Prompting, Model Architecture]
+tags: [Model Architecture, RecSys, Tools, Reinforcement Learning, Interpretability
+    and Explainability, Prompting, GPT]
 ---
 Large language models (LLMs) have demonstrated their significant potential to
 be applied for addressing various application tasks. However, traditional

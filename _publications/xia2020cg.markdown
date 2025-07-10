@@ -8,7 +8,8 @@ year: 2020
 citations: 37
 bibkey: xia2020cg
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.01881'}]
-tags: [RAG, Few-Shot, Reinforcement Learning, BERT, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Few-Shot, RAG, Reinforcement Learning,
+  BERT]
 ---
 In this paper, we formulate a more realistic and difficult problem setup for
 the intent detection task in natural language understanding, namely Generalized

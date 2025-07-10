@@ -5,10 +5,11 @@ title: 'History Of Generative Artificial Intelligence (AI) Chatbots: Past, Prese
 authors: Md. Al-amin et al.
 conference: Arxiv
 year: 2024
-citations: 16
+citations: 17
 bibkey: alamin2024history
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.05122'}]
-tags: [GPT, Transformer, Reinforcement Learning, Agentic, Survey Paper, Model Architecture]
+tags: [Model Architecture, Transformer, Survey Paper, Reinforcement Learning, Agentic,
+  GPT]
 ---
 This research provides an in-depth comprehensive review of the progress of
 chatbot technology over time, from the initial basic systems relying on rules

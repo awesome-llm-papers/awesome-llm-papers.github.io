@@ -2,12 +2,12 @@
 layout: publication
 title: Prompt Distribution Learning
 authors: Yuning Lu, Jianzhuang Liu, Yonggang Zhang, Yajing Liu, Xinmei Tian
-conference: Arxiv
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
-citations: 142
+citations: 145
 bibkey: lu2022prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.03340'}]
-tags: [Ethics and Bias, Training Techniques, RAG, Prompting, Multimodal Models]
+tags: [Ethics and Bias, RAG, Multimodal Models, Prompting, Training Techniques]
 ---
 We present prompt distribution learning for effectively adapting a
 pre-trained vision-language model to address downstream recognition tasks. Our

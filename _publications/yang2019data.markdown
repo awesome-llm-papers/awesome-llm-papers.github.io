@@ -7,7 +7,7 @@ year: 2019
 citations: 42
 bibkey: yang2019data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.06652'}]
-tags: [Fine-Tuning, Training Techniques, Model Architecture, BERT]
+tags: [Model Architecture, Fine-Tuning, Training Techniques, BERT, Evaluation]
 ---
 Recently, a simple combination of passage retrieval using off-the-shelf IR
 techniques and a BERT reader was found to be very effective for question

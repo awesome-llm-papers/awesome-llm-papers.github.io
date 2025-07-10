@@ -7,7 +7,7 @@ year: 2022
 citations: 54
 bibkey: kandpal2022large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.08411'}]
-tags: [Pre-Training, Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Pre-Training]
 ---
 The Internet contains a wealth of knowledge -- from the birthdays of
 historical figures to tutorials on how to code -- all of which may be learned

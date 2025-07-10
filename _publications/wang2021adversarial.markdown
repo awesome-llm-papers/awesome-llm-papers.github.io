@@ -8,7 +8,7 @@ year: 2021
 citations: 45
 bibkey: wang2021adversarial
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.02840'}]
-tags: [Reinforcement Learning, Security, Training Techniques]
+tags: [Training Techniques, Reinforcement Learning, Security, Evaluation]
 ---
 Large-scale pre-trained language models have achieved tremendous success
 across a wide range of natural language understanding (NLU) tasks, even

@@ -3,12 +3,12 @@ layout: publication
 title: 'Artificial Intelligence Versus Maya Angelou: Experimental Evidence That People
   Cannot Differentiate Ai-generated From Human-written Poetry'
 authors: "Nils K\xF6bis, Luca Mossink"
-conference: Arxiv
+conference: Computers in Human Behavior
 year: 2020
-citations: 204
+citations: 210
 bibkey: "k\xF6bis2020artificial"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.09980'}]
-tags: [Ethics and Bias, GPT, Attention Mechanism, Agentic, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, Agentic, GPT]
 ---
 The release of openly available, robust natural language generation
 algorithms (NLG) has spurred much public attention and debate. One reason lies

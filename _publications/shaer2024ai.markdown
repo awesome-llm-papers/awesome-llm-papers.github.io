@@ -2,12 +2,12 @@
 layout: publication
 title: 'Ai-augmented Brainwriting: Investigating The Use Of Llms In Group Ideation'
 authors: Orit Shaer, Angelora Cooper, Osnat Mokryn, Andrew L. Kun, Hagit Ben Shoshan
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2024
-citations: 38
+citations: 52
 bibkey: shaer2024ai
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.14978'}]
-tags: [Tools, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, Evaluation]
 ---
 The growing availability of generative AI technologies such as large language
 models (LLMs) has significant implications for creative work. This paper

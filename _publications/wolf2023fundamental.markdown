@@ -7,8 +7,8 @@ year: 2023
 citations: 34
 bibkey: wolf2023fundamental
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2304.11082v6'}]
-tags: [GPT, Responsible AI, Agentic, Reinforcement Learning, Tools, Security, Prompting,
-  Model Architecture]
+tags: [Responsible AI, Security, Model Architecture, Tools, Reinforcement Learning,
+  Prompting, Agentic, GPT]
 ---
 An important aspect in developing language models that interact with humans
 is aligning their behavior to be useful and unharmful for their human users.

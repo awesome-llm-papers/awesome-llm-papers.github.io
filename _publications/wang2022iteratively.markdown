@@ -2,7 +2,8 @@
 layout: publication
 title: Iteratively Prompt Pre-trained Language Models For Chain Of Thought
 authors: Boshi Wang, Xiang Deng, Huan Sun
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
 citations: 26
 bibkey: wang2022iteratively

@@ -2,12 +2,13 @@
 layout: publication
 title: Prompting For Multimodal Hateful Meme Classification
 authors: Rui Cao, Roy Ka-wei Lee, Wen-haw Chong, Jing Jiang
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 33
+citations: 34
 bibkey: cao2023prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.04156'}]
-tags: [RAG, BERT, Prompting, Multimodal Models, Model Architecture]
+tags: [Model Architecture, RAG, Multimodal Models, Prompting, BERT]
 ---
 Hateful meme classification is a challenging multimodal task that requires
 complex reasoning and contextual background knowledge. Ideally, we could

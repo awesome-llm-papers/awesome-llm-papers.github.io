@@ -5,11 +5,11 @@ title: 'ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training For Language Unde
 authors: Yu Sun et al.
 conference: Arxiv
 year: 2021
-citations: 163
+citations: 164
 bibkey: sun2021ernie
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.02137'}]
-tags: [Training Techniques, GPT, Pre-Training, Fine-Tuning, Tools, Few-Shot, Reinforcement
-    Learning, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Few-Shot, Tools, Reinforcement Learning,
+  Pre-Training, Training Techniques, Evaluation]
 ---
 Pre-trained models have achieved state-of-the-art results in various Natural
 Language Processing (NLP) tasks. Recent works such as T5 and GPT-3 have shown

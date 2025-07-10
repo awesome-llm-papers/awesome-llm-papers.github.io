@@ -3,12 +3,13 @@ layout: publication
 title: 'Data Is All You Need: Finetuning Llms For Chip Design Via An Automated Design-data
   Augmentation Framework'
 authors: Kaiyan Chang et al.
-conference: Arxiv
+conference: 'DAC ''24: 61st ACM/IEEE Design Automation Conference'
 year: 2024
-citations: 17
+citations: 21
 bibkey: chang2024data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.11202'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Tools, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Tools, Prompting, Training Techniques,
+  Evaluation]
 ---
 Recent advances in large language models have demonstrated their potential
 for automated generation of hardware description language (HDL) code from

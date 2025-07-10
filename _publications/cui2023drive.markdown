@@ -3,12 +3,12 @@ layout: publication
 title: 'Receive, Reason, And React: Drive As You Say With Large Language Models In
   Autonomous Vehicles'
 authors: Can Cui, Yunsheng Ma, Xu Cao, Wenqian Ye, Ziran Wang
-conference: Arxiv
+conference: IEEE Intelligent Transportation Systems Magazine
 year: 2023
-citations: 45
+citations: 49
 bibkey: cui2023drive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.08034'}]
-tags: [Merging, RAG, Tools, Responsible AI, Reinforcement Learning, Prompting]
+tags: [Responsible AI, RAG, Tools, Reinforcement Learning, Prompting, Merging]
 ---
 The fusion of human-centric design and artificial intelligence (AI)
 capabilities has opened up new possibilities for next-generation autonomous

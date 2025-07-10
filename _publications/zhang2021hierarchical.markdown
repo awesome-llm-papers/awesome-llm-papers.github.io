@@ -3,12 +3,13 @@ layout: publication
 title: Hierarchical Task Learning From Language Instructions With Unified Transformers
   And Self-monitoring
 authors: Yichi Zhang, Joyce Chai
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP
+  2021'
 year: 2021
-citations: 25
+citations: 26
 bibkey: zhang2021hierarchical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.03427'}]
-tags: [Model Architecture, Transformer, Agentic]
+tags: [Transformer, Model Architecture, Evaluation, Agentic]
 ---
 Despite recent progress, learning new tasks through language instructions
 remains an extremely challenging problem. On the ALFRED benchmark for task

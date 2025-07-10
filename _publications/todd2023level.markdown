@@ -3,13 +3,12 @@ layout: publication
 title: Level Generation Through Large Language Models
 authors: Graham Todd, Sam Earle, Muhammad Umair Nasir, Michael Cerny Green, Julian
   Togelius
-conference: FDG 2023 Proceedings of the 18th International Conference on the Foundations
-  of Digital Games
+conference: 'FDG 2023: Foundations of Digital Games 2023'
 year: 2023
-citations: 44
+citations: 47
 bibkey: todd2023level
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.05817'}]
-tags: [RAG, Tools, Training Techniques]
+tags: [Tools, Training Techniques, RAG]
 ---
 Large Language Models (LLMs) are powerful tools, capable of leveraging their
 training on natural language to write stories, generate code, and answer

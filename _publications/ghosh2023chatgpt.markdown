@@ -3,12 +3,12 @@ layout: publication
 title: 'Chatgpt Perpetuates Gender Bias In Machine Translation And Ignores Non-gendered
   Pronouns: Findings Across Bengali And Five Other Low-resource Languages'
 authors: Sourojit Ghosh, Aylin Caliskan
-conference: Arxiv
+conference: 'AIES ''23: AAAI/ACM Conference on AI, Ethics, and Society'
 year: 2023
-citations: 47
+citations: 55
 bibkey: ghosh2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.10510'}]
-tags: [Ethics and Bias, GPT, Tools, Prompting, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, Tools, Prompting, GPT]
 ---
 In this multicultural age, language translation is one of the most performed
 tasks, and it is becoming increasingly AI-moderated and automated. As a novel

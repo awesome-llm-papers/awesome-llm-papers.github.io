@@ -3,12 +3,13 @@ layout: publication
 title: 'Generative AI In EU Law: Liability, Privacy, Intellectual Property, And Cybersecurity'
 authors: Claudio Novelli, Federico Casolari, Philipp Hacker, Giorgio Spedicato, Luciano
   Floridi
-conference: Arxiv
+conference: Elsevier BV
 year: 2024
-citations: 30
+citations: 31
 bibkey: novelli2024generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.07348'}]
-tags: [GPT, Tools, Reinforcement Learning, Security, Multimodal Models, Model Architecture]
+tags: [Security, Model Architecture, Tools, Reinforcement Learning, Multimodal Models,
+  GPT]
 ---
 The advent of Generative AI, particularly through Large Language Models
 (LLMs) like ChatGPT and its successors, marks a paradigm shift in the AI

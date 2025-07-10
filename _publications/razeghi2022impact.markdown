@@ -2,12 +2,12 @@
 layout: publication
 title: Impact Of Pretraining Term Frequencies On Few-shot Reasoning
 authors: Yasaman Razeghi, Robert L. Iv Logan, Matt Gardner, Sameer Singh
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2022
-citations: 27
+citations: 28
 bibkey: razeghi2022impact
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.07206'}]
-tags: [Training Techniques, GPT, RAG, Few-Shot, Model Architecture]
+tags: [Model Architecture, GPT, Few-Shot, RAG, Training Techniques, Evaluation]
 ---
 Pretrained Language Models (LMs) have demonstrated ability to perform
 numerical reasoning by extrapolating from a few examples in few-shot settings.

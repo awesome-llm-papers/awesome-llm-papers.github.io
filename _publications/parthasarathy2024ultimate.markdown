@@ -9,9 +9,9 @@ year: 2024
 citations: 15
 bibkey: parthasarathy2024ultimate
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2408.13296'}]
-tags: [Training Techniques, Merging, RAG, Fine-Tuning, Tools, Reinforcement Learning,
-  Attention Mechanism, Responsible AI, Agentic, Efficiency and Optimization, Applications,
-  Multimodal Models, Pruning, Model Architecture]
+tags: [Responsible AI, Model Architecture, Attention Mechanism, Pruning, RAG, Fine-Tuning,
+  Applications, Tools, Reinforcement Learning, Multimodal Models, Agentic, Efficiency
+    and Optimization, Training Techniques, Merging]
 ---
 This report examines the fine-tuning of Large Language Models (LLMs),
 integrating theoretical insights with practical applications. It outlines the

@@ -8,7 +8,7 @@ citations: 35
 bibkey: tafjord2021general
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.02593'}, {name: Code,
     url: 'https://github.com/allenai/macaw'}]
-tags: [Has Code, Training Techniques, Model Architecture, GPT]
+tags: [Training Techniques, Has Code, Model Architecture, GPT]
 ---
 Despite the successes of pretrained language models, there are still few
 high-quality, general-purpose QA systems that are freely available. In

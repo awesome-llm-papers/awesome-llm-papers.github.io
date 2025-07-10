@@ -2,12 +2,12 @@
 layout: publication
 title: Document Ranking With A Pretrained Sequence-to-sequence Model
 authors: Rodrigo Nogueira, Zhiying Jiang, Jimmy Lin
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
-citations: 202
+citations: 203
 bibkey: nogueira2020document
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.06713'}]
-tags: [Training Techniques, Transformer, Reinforcement Learning, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, Reinforcement Learning, BERT, Training Techniques]
 ---
 This work proposes a novel adaptation of a pretrained sequence-to-sequence
 model to the task of document ranking. Our approach is fundamentally different

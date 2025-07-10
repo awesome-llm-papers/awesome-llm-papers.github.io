@@ -2,13 +2,13 @@
 layout: publication
 title: Theory Of Mind For Multi-agent Collaboration Via Large Language Models
 authors: Huao Li et al.
-conference: in Proceedings of the 2023 Conference on Empirical Methods in Natural
-  Language Processing Page 180-192 ACL
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 18
+citations: 19
 bibkey: li2023theory
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.10701'}]
-tags: [Efficiency and Optimization, Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning, Efficiency and Optimization]
 ---
 While Large Language Models (LLMs) have demonstrated impressive
 accomplishments in both reasoning and planning, their abilities in multi-agent

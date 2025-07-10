@@ -2,13 +2,13 @@
 layout: publication
 title: 'One Embedder, Any Task: Instruction-finetuned Text Embeddings'
 authors: Hongjin Su et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2022
-citations: 44
+citations: 45
 bibkey: su2022one
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09741'}, {name: Code,
     url: 'https://instructor-embedding.github.io'}]
-tags: [RAG, Has Code, Training Techniques, Language Modeling]
+tags: [Language Modeling, Has Code, RAG, Training Techniques, Evaluation]
 ---
 We introduce INSTRUCTOR, a new method for computing text embeddings given
 task instructions: every text input is embedded together with instructions

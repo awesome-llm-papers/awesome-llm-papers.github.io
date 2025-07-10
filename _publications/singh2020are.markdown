@@ -7,7 +7,7 @@ year: 2020
 citations: 31
 bibkey: singh2020are
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.08744'}]
-tags: [Training Techniques, Attention Mechanism, Model Architecture]
+tags: [Training Techniques, Model Architecture, Attention Mechanism]
 ---
 Numerous recent works have proposed pretraining generic visio-linguistic
 representations and then finetuning them for downstream vision and language

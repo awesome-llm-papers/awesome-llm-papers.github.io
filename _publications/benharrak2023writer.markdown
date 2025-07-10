@@ -2,12 +2,12 @@
 layout: publication
 title: Writer-defined AI Personas For On-demand Feedback Generation
 authors: Karim Benharrak, Tim Zindulka, Florian Lehmann, Hendrik Heuer, Daniel Buschek
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 20
+citations: 26
 bibkey: benharrak2023writer
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.10433'}]
-tags: [Reinforcement Learning, Model Architecture, GPT]
+tags: [Reinforcement Learning, GPT, Model Architecture]
 ---
 Compelling writing is tailored to its audience. This is challenging, as
 writers may struggle to empathize with readers, get feedback in time, or gain

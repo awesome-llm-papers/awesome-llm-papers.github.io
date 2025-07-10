@@ -8,7 +8,7 @@ citations: 78
 bibkey: sun2019language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.03329'}, {name: Code,
     url: 'https://github.com/jojotenya/LAMOL'}]
-tags: [Language Modeling, Has Code, Training Techniques]
+tags: [Language Modeling, Training Techniques, Has Code]
 ---
 Most research on lifelong learning applies to images or games, but not
 language. We present LAMOL, a simple yet effective method for lifelong language

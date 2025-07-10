@@ -2,12 +2,14 @@
 layout: publication
 title: Counterfactual Story Reasoning And Generation
 authors: Lianhui Qin et al.
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 24
+citations: 25
 bibkey: qin2019counterfactual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.04076'}]
-tags: [Language Modeling, Reinforcement Learning]
+tags: [Language Modeling, Reinforcement Learning, Evaluation]
 ---
 Counterfactual reasoning requires predicting how alternative events, contrary
 to what actually happened, might have resulted in different outcomes. Despite

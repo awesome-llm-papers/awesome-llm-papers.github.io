@@ -3,12 +3,12 @@ layout: publication
 title: 'Llm-grounder: Open-vocabulary 3D Visual Grounding With Large Language Model
   As An Agent'
 authors: Jianing Yang et al.
-conference: Arxiv
+conference: 2024 IEEE International Conference on Robotics and Automation (ICRA)
 year: 2023
 citations: 16
 bibkey: yang2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.12311'}]
-tags: [Training Techniques, Agentic, Multimodal Models]
+tags: [Agentic, Training Techniques, Multimodal Models, Evaluation]
 ---
 3D visual grounding is a critical skill for household robots, enabling them
 to navigate, manipulate objects, and answer questions based on their

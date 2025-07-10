@@ -3,12 +3,14 @@ layout: publication
 title: On The Effectiveness Of Adapter-based Tuning For Pretrained Language Model
   Adaptation
 authors: Ruidan He et al.
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
-citations: 43
+citations: 45
 bibkey: he2021effectiveness
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.03164'}]
-tags: [Fine-Tuning, Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Fine-Tuning]
 ---
 Adapter-based tuning has recently arisen as an alternative to fine-tuning. It
 works by adding light-weight adapter modules to a pretrained language model

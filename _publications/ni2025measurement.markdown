@@ -2,13 +2,13 @@
 layout: publication
 title: Measurement Of Llm's Philosophies Of Human Nature
 authors: Minheng Ni et al.
-conference: Arxiv
+conference: Psychological Reports
 year: 2025
 citations: 179
 bibkey: ni2025measurement
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2504.02304'}, {name: Code,
     url: 'https://github.com/kodenii/M-PHNS'}]
-tags: [Ethics and Bias, Has Code, Tools, Prompting]
+tags: [Has Code, Ethics and Bias, Tools, Prompting, Evaluation]
 ---
 The widespread application of artificial intelligence (AI) in various tasks,
 along with frequent reports of conflicts or violations involving AI, has

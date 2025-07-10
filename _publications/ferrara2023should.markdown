@@ -2,13 +2,13 @@
 layout: publication
 title: Should Chatgpt Be Biased? Challenges And Risks Of Bias In Large Language Models
 authors: Emilio Ferrara
-conference: First Monday Volume 28 Number 11 - 6 November 2023
+conference: First Monday
 year: 2023
-citations: 49
+citations: 50
 bibkey: ferrara2023should
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.03738'}]
-tags: [Ethics and Bias, Training Techniques, GPT, RAG, Reinforcement Learning, Attention
-    Mechanism, Responsible AI, Applications, Survey Paper, Model Architecture]
+tags: [Responsible AI, Model Architecture, Attention Mechanism, Ethics and Bias, GPT,
+  RAG, Applications, Survey Paper, Reinforcement Learning, Training Techniques]
 ---
 As the capabilities of generative language models continue to advance, the
 implications of biases ingrained within these models have garnered increasing

@@ -8,7 +8,7 @@ year: 2019
 citations: 159
 bibkey: asai2019learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.10470'}]
-tags: [RAG, Security]
+tags: [Security, RAG]
 ---
 Answering questions that require multi-hop reasoning at web-scale
 necessitates retrieving multiple evidence documents, one of which often has

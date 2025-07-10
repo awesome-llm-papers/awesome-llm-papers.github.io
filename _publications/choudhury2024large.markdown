@@ -3,12 +3,12 @@ layout: publication
 title: 'Large Language Models And User Trust: Consequence Of Self-referential Learning
   Loop And The Deskilling Of Healthcare Professionals'
 authors: Avishek Choudhury, Zaria Chaudhry
-conference: Arxiv
+conference: Journal of Medical Internet Research
 year: 2024
-citations: 37
+citations: 39
 bibkey: choudhury2024large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.14691'}]
-tags: [RAG, Ethics and Bias, Reinforcement Learning]
+tags: [Reinforcement Learning, RAG, Ethics and Bias]
 ---
 This paper explores the evolving relationship between clinician trust in
 LLMs, the transformation of data sources from predominantly human-generated to

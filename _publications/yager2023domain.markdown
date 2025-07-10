@@ -2,7 +2,7 @@
 layout: publication
 title: Domain-specific Chatbots For Science Using Embeddings
 authors: Kevin G. Yager
-conference: Arxiv
+conference: Digital Discovery
 year: 2023
 citations: 15
 bibkey: yager2023domain

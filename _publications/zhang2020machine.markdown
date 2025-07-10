@@ -8,7 +8,7 @@ year: 2020
 citations: 46
 bibkey: zhang2020machine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.06249'}]
-tags: [Tools, Model Architecture, Survey Paper, Merging]
+tags: [Model Architecture, Survey Paper, Tools, Evaluation, Merging]
 ---
 Machine reading comprehension (MRC) aims to teach machines to read and
 comprehend human languages, which is a long-standing goal of natural language

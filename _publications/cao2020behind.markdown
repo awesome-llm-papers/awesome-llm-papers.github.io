@@ -3,13 +3,13 @@ layout: publication
 title: 'Behind The Scene: Revealing The Secrets Of Pre-trained Vision-and-language
   Models'
 authors: Jize Cao et al.
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2020
 citations: 35
 bibkey: cao2020behind
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.07310'}]
-tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, BERT,
-  Multimodal Models, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Multimodal Models, Pre-Training,
+  BERT, Training Techniques, Evaluation]
 ---
 Recent Transformer-based large-scale pre-trained models have revolutionized
 vision-and-language (V+L) research. Models such as ViLBERT, LXMERT and UNITER

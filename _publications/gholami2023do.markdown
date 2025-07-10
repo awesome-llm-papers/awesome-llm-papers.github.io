@@ -2,12 +2,12 @@
 layout: publication
 title: Do Generative Large Language Models Need Billions Of Parameters?
 authors: Sia Gholami, Marwan Omar
-conference: Arxiv
+conference: Advances in Information Security, Privacy, and Ethics
 year: 2023
 citations: 16
 bibkey: gholami2023do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.06589'}]
-tags: [Language Modeling, Efficiency and Optimization, Tools]
+tags: [Language Modeling, Tools, Efficiency and Optimization]
 ---
 This paper presents novel systems and methodologies for the development of
 efficient large language models (LLMs). It explores the trade-offs between

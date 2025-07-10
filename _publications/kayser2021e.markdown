@@ -3,14 +3,14 @@ layout: publication
 title: 'E-vil: A Dataset And Benchmark For Natural Language Explanations In Vision-language
   Tasks'
 authors: Maxime Kayser et al.
-conference: Arxiv
+conference: 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2021
 citations: 28
 bibkey: kayser2021e
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.03761'}, {name: Code,
     url: 'https://github.com/maximek3/e-ViL'}]
-tags: [GPT, Tools, Interpretability and Explainability, Has Code, Multimodal Models,
-  Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Interpretability and Explainability,
+  Tools, Multimodal Models, GPT, Evaluation]
 ---
 Recently, there has been an increasing number of efforts to introduce models
 capable of generating natural language explanations (NLEs) for their

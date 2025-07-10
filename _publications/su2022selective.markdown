@@ -8,7 +8,7 @@ citations: 50
 bibkey: su2022selective
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.01975'}, {name: Code,
     url: 'https://github.com/HKUNLP/icl-selective-annotation'}]
-tags: [RAG, Few-Shot, Tools, In-Context Learning, Has Code, Prompting]
+tags: [Has Code, Few-Shot, RAG, Tools, In-Context Learning, Prompting]
 ---
 Many recent approaches to natural language tasks are built on the remarkable
 abilities of large language models. Large language models can perform

@@ -3,13 +3,13 @@ layout: publication
 title: Large Language Models Are Competitive Near Cold-start Recommenders For Language-
   And Item-based Preferences
 authors: Scott Sanner, Krisztian Balog, Filip Radlinski, Ben Wedin, Lucas Dixon
-conference: Arxiv
+conference: 'RecSys ''23: Seventeenth ACM Conference on Recommender Systems'
 year: 2023
-citations: 55
+citations: 56
 bibkey: sanner2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.14225'}]
-tags: [Ethics and Bias, Training Techniques, RAG, Few-Shot, Reinforcement Learning,
-  RecSys, Prompting]
+tags: [Ethics and Bias, RAG, Few-Shot, RecSys, Reinforcement Learning, Prompting,
+  Training Techniques]
 ---
 Traditional recommender systems leverage users' item preference history to
 recommend novel content that users may like. However, modern dialog interfaces

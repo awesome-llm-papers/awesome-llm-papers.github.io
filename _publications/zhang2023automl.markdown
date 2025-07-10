@@ -4,11 +4,11 @@ title: 'Automl-gpt: Automatic Machine Learning With GPT'
 authors: Shujian Zhang, Chengyue Gong, Lemeng Wu, Xingchao Liu, Mingyuan Zhou
 conference: Arxiv
 year: 2023
-citations: 15
+citations: 16
 bibkey: zhang2023automl
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.02499'}]
-tags: [Training Techniques, GPT, RAG, Efficiency and Optimization, Applications, Prompting,
-  Model Architecture]
+tags: [Model Architecture, GPT, RAG, Applications, Prompting, Efficiency and Optimization,
+  Training Techniques]
 ---
 AI tasks encompass a wide range of domains and fields. While numerous AI
 models have been designed for specific tasks and applications, they often

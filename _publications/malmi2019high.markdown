@@ -2,12 +2,14 @@
 layout: publication
 title: 'Encode, Tag, Realize: High-precision Text Editing'
 authors: Eric Malmi, Sebastian Krause, Sascha Rothe, Daniil Mirylenka, Aliaksei Severyn
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
 citations: 40
 bibkey: malmi2019high
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.01187'}]
-tags: [Training Techniques, Transformer, GPT, Merging, BERT, Model Architecture]
+tags: [Model Architecture, GPT, Transformer, BERT, Training Techniques, Merging]
 ---
 We propose LaserTagger - a sequence tagging approach that casts text
 generation as a text editing task. Target texts are reconstructed from the

@@ -2,14 +2,14 @@
 layout: publication
 title: Aligning Large Multimodal Models With Factually Augmented RLHF
 authors: Zhiqing Sun et al.
-conference: Arxiv
+conference: Findings of the Association for Computational Linguistics ACL 2024
 year: 2023
 citations: 28
 bibkey: sun2023aligning
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2309.14525v1'}, {name: Code,
     url: 'https://llava-rlhf.github.io'}]
-tags: [GPT, Training Techniques, Reinforcement Learning, Has Code, Multimodal Models,
-  Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Reinforcement Learning, Multimodal Models,
+  Training Techniques, Evaluation]
 ---
 Large Multimodal Models (LMM) are built across modalities and the
 misalignment between two modalities can result in "hallucination", generating

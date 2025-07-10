@@ -8,8 +8,8 @@ year: 2023
 citations: 620
 bibkey: li2023blip
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2301.12597v3'}]
-tags: [Training Techniques, Transformer, Merging, Pre-Training, Multimodal Models,
-  Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Multimodal Models, Pre-Training,
+  Training Techniques, Merging]
 ---
 The cost of vision-and-language pre-training has become increasingly
 prohibitive due to end-to-end training of large-scale models. This paper

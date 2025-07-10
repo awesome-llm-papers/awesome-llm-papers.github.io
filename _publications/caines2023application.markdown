@@ -8,8 +8,8 @@ year: 2023
 citations: 18
 bibkey: caines2023application
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.08393'}]
-tags: [Ethics and Bias, GPT, Attention Mechanism, Reinforcement Learning, Prompting,
-  Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Ethics and Bias,
+  Reinforcement Learning, Prompting, GPT, Evaluation]
 ---
 The recent release of very large language models such as PaLM and GPT-4 has
 made an unprecedented impact in the popular media and public consciousness,

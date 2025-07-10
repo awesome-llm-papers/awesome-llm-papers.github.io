@@ -9,7 +9,7 @@ citations: 26
 bibkey: jang2022can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.12711'}, {name: Code,
     url: 'https://github.com/joeljang/negated-prompts-for-llms'}]
-tags: [GPT, RAG, Few-Shot, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Few-Shot, RAG, Prompting, GPT]
 ---
 Previous work has shown that there exists a scaling law between the size of
 Language Models (LMs) and their zero-shot performance on different downstream

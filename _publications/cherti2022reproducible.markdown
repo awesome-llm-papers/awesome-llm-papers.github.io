@@ -2,15 +2,14 @@
 layout: publication
 title: Reproducible Scaling Laws For Contrastive Language-image Learning
 authors: Mehdi Cherti et al.
-conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-  Recognition (CVPR) 2023 pp. 2818-2829
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
-citations: 239
+citations: 247
 bibkey: cherti2022reproducible
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.07143'}, {name: Code,
     url: 'https://github.com/LAION-AI/scaling-laws-openclip'}]
-tags: [Scaling Laws, Large-Scale Training, Training Techniques, Pre-Training, Fine-Tuning,
-  Efficiency and Optimization, Has Code, Model Architecture]
+tags: [Scaling Laws, Has Code, Model Architecture, Fine-Tuning, Pre-Training, Evaluation,
+  Efficiency and Optimization, Training Techniques, Large-Scale Training]
 ---
 Scaling up neural networks has led to remarkable performance across a wide
 range of tasks. Moreover, performance often follows reliable scaling laws as a

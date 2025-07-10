@@ -2,14 +2,15 @@
 layout: publication
 title: 'Unist: A Prompt-empowered Universal Model For Urban Spatio-temporal Prediction'
 authors: Yuan Yuan, Jingtao Ding, Jie Feng, Depeng Jin, Yong Li
-conference: Arxiv
+conference: 'KDD ''24: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data
+  Mining'
 year: 2024
-citations: 18
+citations: 21
 bibkey: yuan2024prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.11838'}, {name: Code,
     url: 'https://github.com/tsinghua-fib-lab/UniST'}]
-tags: [Training Techniques, Pre-Training, Few-Shot, Efficiency and Optimization, Has
-    Code, Prompting]
+tags: [Has Code, Few-Shot, Prompting, Pre-Training, Efficiency and Optimization, Training
+    Techniques, Time Series]
 ---
 Urban spatio-temporal prediction is crucial for informed decision-making,
 such as traffic management, resource optimization, and emergence response.

@@ -2,12 +2,13 @@
 layout: publication
 title: Perspectives On Large Language Models For Relevance Judgment
 authors: Guglielmo Faggioli et al.
-conference: Arxiv
+conference: 'ICTIR ''23: The 2023 ACM SIGIR International Conference on the Theory
+  of Information Retrieval'
 year: 2023
-citations: 58
+citations: 59
 bibkey: faggioli2023perspectives
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.09161'}]
-tags: [Reinforcement Learning, Model Architecture, GPT]
+tags: [Reinforcement Learning, GPT, Model Architecture, Evaluation]
 ---
 When asked, large language models (LLMs) like ChatGPT claim that they can
 assist with relevance judgments but it is not clear whether automated judgments

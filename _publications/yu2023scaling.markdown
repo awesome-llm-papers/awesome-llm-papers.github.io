@@ -7,8 +7,8 @@ year: 2023
 citations: 21
 bibkey: yu2023scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.02591'}]
-tags: [Training Techniques, GPT, RAG, Pre-Training, Fine-Tuning, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Fine-Tuning, RAG, Pre-Training,
+  Training Techniques]
 ---
 We present CM3Leon (pronounced "Chameleon"), a retrieval-augmented,
 token-based, decoder-only multi-modal language model capable of generating and

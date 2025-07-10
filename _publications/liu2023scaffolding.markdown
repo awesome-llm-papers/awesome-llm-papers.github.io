@@ -3,12 +3,12 @@ layout: publication
 title: 'Selenite: Scaffolding Online Sensemaking With Comprehensive Overviews Elicited
   From Large Language Models'
 authors: Michael Xieyang Liu et al.
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 21
+citations: 22
 bibkey: liu2023scaffolding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.02161'}]
-tags: [RAG, Ethics and Bias, Tools]
+tags: [Tools, RAG, Ethics and Bias]
 ---
 Sensemaking in unfamiliar domains can be challenging, demanding considerable
 user effort to compare different options with respect to various criteria.

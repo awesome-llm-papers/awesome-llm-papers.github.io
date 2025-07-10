@@ -3,12 +3,12 @@ layout: publication
 title: 'WANLI: Worker And AI Collaboration For Natural Language Inference Dataset
   Creation'
 authors: Alisa Liu, Swabha Swayamdipta, Noah A. Smith, Yejin Choi
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2022
 citations: 20
 bibkey: liu2022worker
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.05955'}]
-tags: [Training Techniques, GPT, RAG, Security, Model Architecture]
+tags: [Security, Model Architecture, GPT, RAG, Training Techniques, Evaluation]
 ---
 A recurring challenge of crowdsourcing NLP datasets at scale is that human
 writers often rely on repetitive patterns when crafting examples, leading to a

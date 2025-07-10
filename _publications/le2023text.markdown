@@ -7,7 +7,7 @@ year: 2023
 citations: 25
 bibkey: le2023text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.15687'}]
-tags: [GPT, Model Architecture, In-Context Learning]
+tags: [In-Context Learning, GPT, Model Architecture]
 ---
 Large-scale generative models such as GPT and DALL-E have revolutionized the
 research community. These models not only generate high fidelity outputs, but

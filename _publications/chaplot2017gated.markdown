@@ -3,12 +3,12 @@ layout: publication
 title: Gated-attention Architectures For Task-oriented Language Grounding
 authors: Devendra Singh Chaplot, Kanthashree Mysore Sathyendra, Rama Kumar Pasumarthi,
   Dheeraj Rajagopal, Ruslan Salakhutdinov
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2017
-citations: 56
+citations: 57
 bibkey: chaplot2017gated
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1706.07230'}]
-tags: [Model Architecture, Attention Mechanism, Transformer, Agentic]
+tags: [Transformer, Model Architecture, Attention Mechanism, Agentic]
 ---
 To perform tasks specified by natural language instructions, autonomous
 agents need to extract semantically meaningful representations of language and

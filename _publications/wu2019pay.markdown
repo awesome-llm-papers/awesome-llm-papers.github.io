@@ -7,8 +7,8 @@ year: 2019
 citations: 347
 bibkey: wu2019pay
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1901.10430'}]
-tags: [Transformer, Reinforcement Learning, Attention Mechanism, WMT, Model Architecture,
-  Language Modeling]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, WMT,
+  Reinforcement Learning, Evaluation]
 ---
 Self-attention is a useful mechanism to build generative models for language
 and images. It determines the importance of context elements by comparing each

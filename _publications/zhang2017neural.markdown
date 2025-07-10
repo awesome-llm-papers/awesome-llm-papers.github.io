@@ -2,12 +2,12 @@
 layout: publication
 title: Neural Personalized Response Generation As Domain Adaptation
 authors: Weinan Zhang, Ting Liu, Yifa Wang, Qingfu Zhu
-conference: Arxiv
+conference: World Wide Web
 year: 2017
 citations: 41
 bibkey: zhang2017neural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1701.02073'}]
-tags: [Fine-Tuning, Tools]
+tags: [Tools, Fine-Tuning, Evaluation]
 ---
 In this paper, we focus on the personalized response generation for
 conversational systems. Based on the sequence to sequence learning, especially

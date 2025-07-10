@@ -2,12 +2,14 @@
 layout: publication
 title: When Do You Need Billions Of Words Of Pretraining Data?
 authors: Yian Zhang, Alex Warstadt, Haau-sing Li, Samuel R. Bowman
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2020
 citations: 23
 bibkey: zhang2020when
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.04946'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, BERT, Training Techniques]
 ---
 NLP is currently dominated by general-purpose pretrained language models like
 RoBERTa, which achieve strong performance on NLU tasks through pretraining on

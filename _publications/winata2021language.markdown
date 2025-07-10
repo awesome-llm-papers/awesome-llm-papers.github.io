@@ -2,12 +2,12 @@
 layout: publication
 title: Language Models Are Few-shot Multilingual Learners
 authors: Genta Indra Winata et al.
-conference: Arxiv
+conference: Proceedings of the 1st Workshop on Multilingual Representation Learning
 year: 2021
 citations: 41
 bibkey: winata2021language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.07684'}]
-tags: [Few-Shot, GPT, Model Architecture]
+tags: [GPT, Few-Shot, Model Architecture, Evaluation]
 ---
 General-purpose language models have demonstrated impressive capabilities,
 performing on par with state-of-the-art approaches on a range of downstream

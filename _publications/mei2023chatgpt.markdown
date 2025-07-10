@@ -3,13 +3,13 @@ layout: publication
 title: 'Wavcaps: A Chatgpt-assisted Weakly-labelled Audio Captioning Dataset For Audio-language
   Multimodal Research'
 authors: Xinhao Mei et al.
-conference: Arxiv
+conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing
 year: 2023
 citations: 48
 bibkey: mei2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.17395'}, {name: Code,
     url: 'https://github.com/XinhaoMei/WavCaps'}]
-tags: [GPT, RAG, Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, RAG, Multimodal Models, GPT]
 ---
 The advancement of audio-language (AL) multimodal learning tasks has been
 significant in recent years. However, researchers face challenges due to the

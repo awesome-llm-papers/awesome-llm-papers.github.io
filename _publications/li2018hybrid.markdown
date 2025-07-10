@@ -7,7 +7,7 @@ year: 2018
 citations: 130
 bibkey: li2018hybrid
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1805.08298'}]
-tags: [RAG, Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning, RAG, Evaluation]
 ---
 Generating long and coherent reports to describe medical images poses
 challenges to bridging visual patterns with informative human linguistic

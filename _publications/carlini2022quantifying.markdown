@@ -7,7 +7,7 @@ year: 2022
 citations: 119
 bibkey: carlini2022quantifying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.07646'}]
-tags: [Ethics and Bias, Training Techniques, Fairness, Bias Mitigation, Prompting]
+tags: [Ethics and Bias, Fairness, Bias Mitigation, Prompting, Training Techniques]
 ---
 Large language models (LMs) have been shown to memorize parts of their
 training data, and when prompted appropriately, they will emit the memorized

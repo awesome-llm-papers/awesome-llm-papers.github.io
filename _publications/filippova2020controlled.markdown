@@ -2,13 +2,13 @@
 layout: publication
 title: 'Controlled Hallucinations: Learning To Generate Faithfully From Noisy Data'
 authors: Katja Filippova
-conference: Findings of EMNLP 2020
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
-citations: 18
+citations: 21
 bibkey: filippova2020controlled
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.05873'}]
-tags: [Training Techniques, Reinforcement Learning, Applications, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, Applications, Reinforcement Learning,
+  Training Techniques, Evaluation]
 ---
 Neural text generation (data- or text-to-text) demonstrates remarkable
 performance when training data is abundant which for many applications is not

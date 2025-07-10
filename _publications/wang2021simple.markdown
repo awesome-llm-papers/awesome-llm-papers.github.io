@@ -7,7 +7,7 @@ year: 2021
 citations: 307
 bibkey: wang2021simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.10904'}]
-tags: [Training Techniques, RAG, Tools, Multimodal Models, Language Modeling]
+tags: [Language Modeling, RAG, Tools, Multimodal Models, Training Techniques, Evaluation]
 ---
 With recent progress in joint modeling of visual and textual representations,
 Vision-Language Pretraining (VLP) has achieved impressive performance on many

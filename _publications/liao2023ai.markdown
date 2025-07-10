@@ -2,13 +2,13 @@
 layout: publication
 title: 'AI Transparency In The Age Of Llms: A Human-centered Research Roadmap'
 authors: Q. Vera Liao, Jennifer Wortman Vaughan
-conference: Arxiv
+conference: Harvard Data Science Review
 year: 2023
-citations: 49
+citations: 53
 bibkey: liao2023ai
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.01941'}]
-tags: [Ethics and Bias, Merging, Reinforcement Learning, Interpretability and Explainability,
-  Responsible AI, Applications]
+tags: [Responsible AI, Ethics and Bias, Applications, Interpretability and Explainability,
+  Reinforcement Learning, Evaluation, Merging]
 ---
 The rise of powerful large language models (LLMs) brings about tremendous
 opportunities for innovation but also looming risks for individuals and society

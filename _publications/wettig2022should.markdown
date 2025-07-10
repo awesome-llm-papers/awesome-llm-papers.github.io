@@ -2,13 +2,14 @@
 layout: publication
 title: Should You Mask 15% In Masked Language Modeling?
 authors: Alexander Wettig, Tianyu Gao, Zexuan Zhong, Danqi Chen
-conference: Arxiv
+conference: Proceedings of the 17th Conference of the European Chapter of the Association
+  for Computational Linguistics
 year: 2022
-citations: 48
+citations: 50
 bibkey: wettig2022should
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.08005'}]
-tags: [Masked Language Model, Training Techniques, Pre-Training, Tools, Fine-Tuning,
-  BERT, Efficiency and Optimization, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Fine-Tuning, Masked Language Model,
+  Tools, Pre-Training, BERT, Efficiency and Optimization, Training Techniques]
 ---
 Masked language models (MLMs) conventionally mask 15% of tokens due to the
 belief that more masking would leave insufficient context to learn good

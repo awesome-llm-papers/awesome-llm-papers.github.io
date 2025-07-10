@@ -2,13 +2,14 @@
 layout: publication
 title: 'Onellm: One Framework To Align All Modalities With Language'
 authors: Jiaming Han et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 17
+citations: 20
 bibkey: han2023one
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.03700'}, {name: Code,
     url: 'https://github.com/csuhan/OneLLM'}]
-tags: [RAG, Tools, Attention Mechanism, Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, RAG, Tools, Multimodal Models,
+  Evaluation]
 ---
 Multimodal large language models (MLLMs) have gained significant attention
 due to their strong multimodal understanding capability. However, existing

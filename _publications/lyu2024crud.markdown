@@ -3,12 +3,12 @@ layout: publication
 title: 'CRUD-RAG: A Comprehensive Chinese Benchmark For Retrieval-augmented Generation
   Of Large Language Models'
 authors: Yuanjie Lyu et al.
-conference: Arxiv
+conference: ACM Transactions on Information Systems
 year: 2024
 citations: 16
 bibkey: lyu2024crud
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.17043'}]
-tags: [RAG, Applications, Reinforcement Learning]
+tags: [Reinforcement Learning, Evaluation, RAG, Applications]
 ---
 Retrieval-Augmented Generation (RAG) is a technique that enhances the
 capabilities of large language models (LLMs) by incorporating external

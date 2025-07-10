@@ -3,12 +3,12 @@ layout: publication
 title: Simplifying Paragraph-level Question Generation Via Transformer Language Models
 authors: Luis Enrico Lopez, Diane Kathryn Cruz, Jan Christian Blaise Cruz, Charibeth
   Cheng
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2020
-citations: 24
+citations: 25
 bibkey: lopez2020simplifying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.01107'}]
-tags: [GPT, Transformer, RAG, Security, Model Architecture]
+tags: [Security, Model Architecture, Transformer, RAG, GPT]
 ---
 Question generation (QG) is a natural language generation task where a model
 is trained to ask questions corresponding to some input text. Most recent

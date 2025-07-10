@@ -2,13 +2,13 @@
 layout: publication
 title: 'Tacl: Improving BERT Pre-training With Token-aware Contrastive Learning'
 authors: Yixuan Su et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: NAACL 2022'
 year: 2021
 citations: 16
 bibkey: su2021improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.04198'}]
-tags: [Masked Language Model, Training Techniques, RAG, ACL, Pre-Training, BERT, TACL,
-  Model Architecture]
+tags: [Model Architecture, RAG, TACL, Masked Language Model, ACL, Pre-Training, BERT,
+  Training Techniques, Evaluation]
 ---
 Masked language models (MLMs) such as BERT and RoBERTa have revolutionized
 the field of Natural Language Understanding in the past few years. However,

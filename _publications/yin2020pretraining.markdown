@@ -2,12 +2,13 @@
 layout: publication
 title: 'Tabert: Pretraining For Joint Understanding Of Textual And Tabular Data'
 authors: Pengcheng Yin, Graham Neubig, Wen-tau Yih, Sebastian Riedel
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
-citations: 160
+citations: 164
 bibkey: yin2020pretraining
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.08314'}]
-tags: [Reinforcement Learning, Model Architecture, Training Techniques, BERT]
+tags: [Model Architecture, Reinforcement Learning, Training Techniques, BERT, Evaluation]
 ---
 Recent years have witnessed the burgeoning of pretrained language models
 (LMs) for text-based natural language (NL) understanding tasks. Such models are

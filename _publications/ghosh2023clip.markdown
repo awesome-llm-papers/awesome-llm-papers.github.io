@@ -3,12 +3,12 @@ layout: publication
 title: 'Clipsyntel: CLIP And LLM Synergy For Multimodal Question Summarization In
   Healthcare'
 authors: Akash Ghosh et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
 citations: 15
 bibkey: ghosh2023clip
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.11541'}]
-tags: [Training Techniques, RAG, Tools, Multimodal Models, Language Modeling]
+tags: [Language Modeling, RAG, Tools, Multimodal Models, Training Techniques]
 ---
 In the era of modern healthcare, swiftly generating medical question
 summaries is crucial for informed and timely patient care. Despite the

@@ -7,7 +7,7 @@ year: 2023
 citations: 25
 bibkey: luo2023reasoning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.01061'}]
-tags: [Training Techniques, Tools, Reinforcement Learning]
+tags: [Tools, Training Techniques, Evaluation, Reinforcement Learning]
 ---
 Large language models (LLMs) have demonstrated impressive reasoning abilities
 in complex tasks. However, they lack up-to-date knowledge and experience

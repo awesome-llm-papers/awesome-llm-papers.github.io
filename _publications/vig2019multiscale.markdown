@@ -2,13 +2,14 @@
 layout: publication
 title: A Multiscale Visualization Of Attention In The Transformer Model
 authors: Jesse Vig
-conference: Arxiv
+conference: 'Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics: System Demonstrations'
 year: 2019
-citations: 257
+citations: 262
 bibkey: vig2019multiscale
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.05714'}]
-tags: [Ethics and Bias, GPT, Transformer, Attention Mechanism, BERT, Applications,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, GPT, Transformer,
+  Applications, BERT]
 ---
 The Transformer is a sequence model that forgoes traditional recurrent
 architectures in favor of a fully attention-based approach. Besides improving

@@ -9,8 +9,8 @@ citations: 26
 bibkey: chen2021lightweight
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.00720'}, {name: Code,
     url: 'https://github.com/zjunlp/DeepKE/tree/main/example/ner/few-shot'}]
-tags: [Training Techniques, Transformer, Few-Shot, Attention Mechanism, Has Code,
-  Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, Few-Shot, Prompting,
+  Training Techniques]
 ---
 Most NER methods rely on extensive labeled data for model training, which
 struggles in the low-resource scenarios with limited training data. Existing

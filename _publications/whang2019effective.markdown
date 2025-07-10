@@ -2,12 +2,12 @@
 layout: publication
 title: An Effective Domain Adaptive Post-training Method For BERT In Response Selection
 authors: Taesun Whang et al.
-conference: Arxiv
+conference: Interspeech 2020
 year: 2019
 citations: 31
 bibkey: whang2019effective
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.04812'}]
-tags: [Training Techniques, Transformer, Model Architecture, BERT]
+tags: [Model Architecture, Transformer, BERT, Training Techniques, Evaluation]
 ---
 We focus on multi-turn response selection in a retrieval-based dialog system.
 In this paper, we utilize the powerful pre-trained language model

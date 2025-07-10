@@ -7,7 +7,7 @@ year: 2018
 citations: 68
 bibkey: chevalierboisvert2018platform
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1810.08272'}]
-tags: [Efficiency and Optimization, Tools, Agentic, Reinforcement Learning]
+tags: [Agentic, Tools, Reinforcement Learning, Efficiency and Optimization]
 ---
 Allowing humans to interactively train artificial agents to understand
 language instructions is desirable for both practical and scientific reasons,

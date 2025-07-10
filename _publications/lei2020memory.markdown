@@ -3,13 +3,14 @@ layout: publication
 title: 'MART: Memory-augmented Recurrent Transformer For Coherent Video Paragraph
   Captioning'
 authors: Jie Lei et al.
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
-citations: 112
+citations: 113
 bibkey: lei2020memory
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.05402'}, {name: Code,
     url: 'https://github.com/jayleicn/recurrent-transformer'}]
-tags: [RAG, Has Code, Transformer, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, RAG, Evaluation]
 ---
 Generating multi-sentence descriptions for videos is one of the most
 challenging captioning tasks due to its high requirements for not only visual

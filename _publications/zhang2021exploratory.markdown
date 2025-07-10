@@ -3,13 +3,13 @@ layout: publication
 title: 'An Exploratory Study On Long Dialogue Summarization: What Works And What''s
   Next'
 authors: Yusen Zhang et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
 year: 2021
-citations: 21
+citations: 22
 bibkey: zhang2021exploratory
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.04609'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Reinforcement Learning, Survey
-    Paper, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, Survey Paper, Reinforcement Learning,
+  Training Techniques]
 ---
 Dialogue summarization helps readers capture salient information from long
 conversations in meetings, interviews, and TV series. However, real-world

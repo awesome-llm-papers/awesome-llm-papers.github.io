@@ -2,12 +2,13 @@
 layout: publication
 title: Large Language Model Capabilities In Perioperative Risk Prediction And Prognostication
 authors: Philip Chung et al.
-conference: Arxiv
+conference: JAMA Surgery
 year: 2024
-citations: 30
+citations: 31
 bibkey: chung2024large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.01620'}]
-tags: [GPT, Few-Shot, Interpretability and Explainability, Prompting, Model Architecture]
+tags: [Model Architecture, Few-Shot, Interpretability and Explainability, Prompting,
+  GPT]
 ---
 We investigate whether general-domain large language models such as GPT-4
 Turbo can perform risk stratification and predict post-operative outcome

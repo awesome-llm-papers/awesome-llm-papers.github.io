@@ -8,8 +8,8 @@ citations: 55
 bibkey: cui2023efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.08177'}, {name: Code,
     url: 'https://github.com/ymcui/Chinese-LLaMA-Alpaca'}, {name: Code, url: 'https://github.com/ymcui/Chinese-LLaMA-Alpaca-2'}]
-tags: [Training Techniques, GPT, ACL, Pre-Training, Efficiency and Optimization, Has
-    Code, TACL, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, TACL, ACL, Pre-Training, Efficiency and
+    Optimization, Training Techniques]
 ---
 Large Language Models (LLMs), such as ChatGPT and GPT-4, have dramatically
 transformed natural language processing research and shown promising strides

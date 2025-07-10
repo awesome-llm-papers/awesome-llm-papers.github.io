@@ -2,14 +2,14 @@
 layout: publication
 title: Grounding Language With Visual Affordances Over Unstructured Data
 authors: Oier Mees, Jessica Borja-diaz, Wolfram Burgard
-conference: Arxiv
+conference: 2023 IEEE International Conference on Robotics and Automation (ICRA)
 year: 2022
 citations: 39
 bibkey: mees2022grounding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.01911'}, {name: Code,
     url: 'http://hulc2.cs.uni-freiburg.de'}]
-tags: [Training Techniques, Few-Shot, Reinforcement Learning, In-Context Learning,
-  Has Code, Prompting]
+tags: [Has Code, Few-Shot, Reinforcement Learning, In-Context Learning, Prompting,
+  Training Techniques, Evaluation]
 ---
 Recent works have shown that Large Language Models (LLMs) can be applied to
 ground natural language to a wide variety of robot skills. However, in

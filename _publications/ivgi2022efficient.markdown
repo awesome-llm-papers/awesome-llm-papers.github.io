@@ -2,13 +2,13 @@
 layout: publication
 title: Efficient Long-text Understanding With Short-text Models
 authors: Maor Ivgi, Uri Shaham, Jonathan Berant
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2022
-citations: 16
+citations: 18
 bibkey: ivgi2022efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.00748'}]
-tags: [Training Techniques, Transformer, Merging, RAG, Reinforcement Learning, Model
-    Architecture]
+tags: [Model Architecture, Transformer, RAG, Reinforcement Learning, Training Techniques,
+  Evaluation, Merging]
 ---
 Transformer-based pretrained language models (LMs) are ubiquitous across
 natural language understanding, but cannot be applied to long sequences such as

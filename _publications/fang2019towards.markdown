@@ -8,8 +8,8 @@ year: 2019
 citations: 27
 bibkey: fang2019towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.07307'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Attention Mechanism, BERT, Dataset,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Dataset, Fine-Tuning, RAG, Training
+    Techniques, BERT]
 ---
 Modern text-to-speech (TTS) systems are able to generate audio that sounds
 almost as natural as human speech. However, the bar of developing high-quality

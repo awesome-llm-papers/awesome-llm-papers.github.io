@@ -2,12 +2,13 @@
 layout: publication
 title: 'Sequence Length Is A Domain: Length-based Overfitting In Transformer Models'
 authors: "Du\u0161an Vari\u0161, Ond\u0159ej Bojar"
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 22
 bibkey: "vari\u01612021sequence"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.07276'}]
-tags: [Training Techniques, Transformer, Model Architecture]
+tags: [Transformer, Training Techniques, Model Architecture]
 ---
 Transformer-based sequence-to-sequence architectures, while achieving
 state-of-the-art results on a large number of NLP tasks, can still suffer from

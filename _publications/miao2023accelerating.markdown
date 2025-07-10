@@ -3,13 +3,14 @@ layout: publication
 title: 'Specinfer: Accelerating Generative Large Language Model Serving With Tree-based
   Speculative Inference And Verification'
 authors: Xupeng Miao et al.
-conference: Arxiv
+conference: 'ASPLOS ''24: 29th ACM International Conference on Architectural Support
+  for Programming Languages and Operating Systems, Volume 3'
 year: 2023
-citations: 21
+citations: 25
 bibkey: miao2023accelerating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.09781'}, {name: Code,
     url: 'https://github.com/flexflow/FlexFlow/'}]
-tags: [RAG, Has Code]
+tags: [Has Code, RAG, Evaluation]
 ---
 This paper introduces SpecInfer, a system that accelerates generative large
 language model (LLM) serving with tree-based speculative inference and

@@ -4,11 +4,12 @@ title: Variational Information Bottleneck For Effective Low-resource Fine-tuning
 authors: Rabeeh Karimi Mahabadi, Yonatan Belinkov, James Henderson
 conference: Arxiv
 year: 2021
-citations: 32
+citations: 33
 bibkey: mahabadi2021variational
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.05469'}, {name: Code,
     url: 'https://github.com/rabeehk/vibert'}]
-tags: [Ethics and Bias, Training Techniques, Fine-Tuning, BERT, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Ethics and Bias, Fine-Tuning, Training Techniques,
+  BERT, Evaluation]
 ---
 While large-scale pretrained language models have obtained impressive results
 when fine-tuned on a wide variety of tasks, they still often suffer from

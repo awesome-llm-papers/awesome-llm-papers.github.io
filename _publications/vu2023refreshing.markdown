@@ -2,12 +2,12 @@
 layout: publication
 title: 'Freshllms: Refreshing Large Language Models With Search Engine Augmentation'
 authors: Tu Vu et al.
-conference: Arxiv
+conference: Findings of the Association for Computational Linguistics ACL 2024
 year: 2023
 citations: 20
 bibkey: vu2023refreshing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.03214'}]
-tags: [RAG, Few-Shot, Reinforcement Learning, In-Context Learning, Prompting]
+tags: [Few-Shot, RAG, Reinforcement Learning, In-Context Learning, Prompting, Evaluation]
 ---
 Most large language models (LLMs) are trained once and never updated; thus,
 they lack the ability to dynamically adapt to our ever-changing world. In this

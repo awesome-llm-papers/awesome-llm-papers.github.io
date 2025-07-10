@@ -2,13 +2,13 @@
 layout: publication
 title: 'Visbert: Hidden-state Visualizations For Transformers'
 authors: "Betty Van Aken, Benjamin Winter, Alexander L\xF6ser, Felix A. Gers"
-conference: Companion Proceedings of the Web Conference 2020
+conference: 'WWW ''20: The Web Conference 2020'
 year: 2020
 citations: 18
 bibkey: vanaken2020hidden
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.04507'}]
-tags: [Transformer, Attention Mechanism, Interpretability and Explainability, BERT,
-  Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Interpretability and
+    Explainability, Reinforcement Learning, BERT]
 ---
 Explainability and interpretability are two important concepts, the absence
 of which can and should impede the application of well-performing neural

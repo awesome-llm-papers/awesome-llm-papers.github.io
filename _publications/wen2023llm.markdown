@@ -2,14 +2,15 @@
 layout: publication
 title: 'Autodroid: Llm-powered Task Automation In Android'
 authors: Hao Wen et al.
-conference: Arxiv
+conference: 'ACM MobiCom ''24: 30th Annual International Conference on Mobile Computing
+  and Networking'
 year: 2023
-citations: 18
+citations: 21
 bibkey: wen2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.15272'}, {name: Code,
     url: 'https://autodroid-sys.github.io/'}]
-tags: [GPT, Fine-Tuning, Reinforcement Learning, Efficiency and Optimization, Has
-    Code, Model Architecture]
+tags: [Has Code, Model Architecture, Fine-Tuning, Reinforcement Learning, Efficiency
+    and Optimization, GPT, Evaluation]
 ---
 Mobile task automation is an attractive technique that aims to enable
 voice-based hands-free user interaction with smartphones. However, existing

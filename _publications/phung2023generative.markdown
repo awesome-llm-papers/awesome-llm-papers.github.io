@@ -3,12 +3,12 @@ layout: publication
 title: 'Generative AI For Programming Education: Benchmarking Chatgpt, GPT-4, And
   Human Tutors'
 authors: Tung Phung et al.
-conference: Arxiv
+conference: 'ICER 2023: ACM Conference on International Computing Education Research'
 year: 2023
-citations: 43
+citations: 45
 bibkey: phung2023generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.17156'}]
-tags: [GPT, Model Architecture, Reinforcement Learning, Tools]
+tags: [Model Architecture, Tools, Reinforcement Learning, GPT, Evaluation]
 ---
 Generative AI and large language models hold great promise in enhancing
 computing education by powering next-generation educational technologies for

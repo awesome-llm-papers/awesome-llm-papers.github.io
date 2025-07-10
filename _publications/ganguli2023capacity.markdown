@@ -7,7 +7,7 @@ year: 2023
 citations: 36
 bibkey: ganguli2023capacity
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.07459'}]
-tags: [Ethics and Bias, Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Ethics and Bias]
 ---
 We test the hypothesis that language models trained with reinforcement
 learning from human feedback (RLHF) have the capability to "morally

@@ -2,12 +2,13 @@
 layout: publication
 title: Llm-powered Data Augmentation For Enhanced Cross-lingual Performance
 authors: Chenxi Whitehouse, Monojit Choudhury, Alham Fikri Aji
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 21
+citations: 22
 bibkey: whitehouse2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14288'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Training Techniques, BERT, Evaluation]
 ---
 This paper explores the potential of leveraging Large Language Models (LLMs)
 for data augmentation in multilingual commonsense reasoning datasets where the

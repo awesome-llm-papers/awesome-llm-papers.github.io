@@ -3,12 +3,12 @@ layout: publication
 title: 'Graphix-t5: Mixing Pre-trained Transformers With Graph-aware Layers For Text-to-sql
   Parsing'
 authors: Jinyang Li et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 29
+citations: 32
 bibkey: li2023graphix
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.07507'}]
-tags: [Ethics and Bias, Attention Mechanism, Transformer, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, Transformer, Evaluation]
 ---
 The task of text-to-SQL parsing, which aims at converting natural language
 questions into executable SQL queries, has garnered increasing attention in

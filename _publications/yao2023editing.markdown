@@ -2,13 +2,14 @@
 layout: publication
 title: 'Editing Large Language Models: Problems, Methods, And Opportunities'
 authors: Yunzhi Yao et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 34
+citations: 37
 bibkey: yao2023editing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.13172'}, {name: Code,
     url: 'https://github.com/zjunlp/EasyEdit'}]
-tags: [Fine-Tuning, Reinforcement Learning, Has Code]
+tags: [Reinforcement Learning, Has Code, Fine-Tuning, Evaluation]
 ---
 Despite the ability to train capable LLMs, the methodology for maintaining
 their relevancy and rectifying errors remains elusive. To this end, the past

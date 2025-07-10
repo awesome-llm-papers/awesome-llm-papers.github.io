@@ -7,8 +7,7 @@ year: 2023
 citations: 20
 bibkey: nicholas2023lost
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.07377'}]
-tags: [Reinforcement Learning, Interpretability and Explainability, Model Architecture,
-  GPT]
+tags: [Interpretability and Explainability, Reinforcement Learning, GPT, Model Architecture]
 ---
 In recent years, large language models (e.g., Open AI's GPT-4, Meta's LLaMa,
 Google's PaLM) have become the dominant approach for building AI systems to

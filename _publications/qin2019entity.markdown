@@ -2,13 +2,15 @@
 layout: publication
 title: Entity-consistent End-to-end Task-oriented Dialogue System With KB Retriever
 authors: Libo Qin et al.
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
 citations: 21
 bibkey: qin2019entity
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.06762'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, Reinforcement Learning,
-  Tools, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Tools, Reinforcement
+    Learning, Training Techniques]
 ---
 Querying the knowledge base (KB) has long been a challenge in the end-to-end
 task-oriented dialogue system. Previous sequence-to-sequence (Seq2Seq) dialogue

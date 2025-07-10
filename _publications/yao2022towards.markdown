@@ -8,7 +8,7 @@ year: 2022
 citations: 28
 bibkey: yao2022towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.01206'}]
-tags: [Fine-Tuning, Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning, Fine-Tuning, Evaluation]
 ---
 Existing benchmarks for grounding language in interactive environments either
 lack real-world linguistic elements, or prove difficult to scale up due to

@@ -3,12 +3,12 @@ layout: publication
 title: 'Agentcf: Collaborative Learning With Autonomous Language Agents For Recommender
   Systems'
 authors: Junjie Zhang et al.
-conference: Arxiv
+conference: 'WWW ''24: The ACM Web Conference 2024'
 year: 2023
-citations: 23
+citations: 24
 bibkey: zhang2023collaborative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.09233'}]
-tags: [RecSys, Agentic, Tools, Reinforcement Learning, Prompting]
+tags: [RecSys, Tools, Reinforcement Learning, Prompting, Agentic]
 ---
 Recently, there has been an emergence of employing LLM-powered agents as
 believable human proxies, based on their remarkable decision-making capability.

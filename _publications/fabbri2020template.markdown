@@ -3,7 +3,8 @@ layout: publication
 title: Template-based Question Generation From Retrieved Sentences For Improved Unsupervised
   Question Answering
 authors: Alexander R. Fabbri, Patrick Ng, Zhiguo Wang, Ramesh Nallapati, Bing Xiang
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
 citations: 23
 bibkey: fabbri2020template

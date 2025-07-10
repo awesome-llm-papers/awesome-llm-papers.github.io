@@ -2,12 +2,12 @@
 layout: publication
 title: Demystifying Prompts In Language Models Via Perplexity Estimation
 authors: Hila Gonen, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2022
-citations: 28
+citations: 30
 bibkey: gonen2022demystifying
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2212.04037v2'}]
-tags: [Few-Shot, GPT, Model Architecture, Prompting]
+tags: [GPT, Few-Shot, Model Architecture, Prompting]
 ---
 Language models can be prompted to perform a wide variety of zero- and
 few-shot learning problems. However, performance varies significantly with the

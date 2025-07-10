@@ -3,14 +3,14 @@ layout: publication
 title: Distilling Step-by-step! Outperforming Larger Language Models With Less Training
   Data And Smaller Model Sizes
 authors: Cheng-yu Hsieh et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2023
-citations: 84
+citations: 94
 bibkey: hsieh2023distilling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.02301'}, {name: Code,
     url: 'https://github.com/google-research/distilling-step-by-step'}]
-tags: [Distillation, Training Techniques, RAG, Few-Shot, Tools, Efficiency and Optimization,
-  Has Code, Applications, Prompting]
+tags: [Has Code, Distillation, Few-Shot, RAG, Applications, Tools, Prompting, Efficiency
+    and Optimization, Training Techniques, Evaluation]
 ---
 Deploying large language models (LLMs) is challenging because they are memory
 inefficient and compute-intensive for practical applications. In reaction,

@@ -3,13 +3,14 @@ layout: publication
 title: 'Grips: Gradient-free, Edit-based Instruction Search For Prompting Large Language
   Models'
 authors: Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal
-conference: Arxiv
+conference: Proceedings of the 17th Conference of the European Chapter of the Association
+  for Computational Linguistics
 year: 2022
-citations: 19
+citations: 20
 bibkey: prasad2022gradient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.07281'}, {name: Code,
     url: 'https://github.com/archiki/GrIPS'}]
-tags: [GPT, RAG, Tools, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, RAG, Tools, Prompting, GPT]
 ---
 Providing natural language instructions in prompts is a useful new paradigm
 for improving task performance of large language models in a zero-shot setting.

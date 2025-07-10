@@ -5,10 +5,10 @@ title: Medalpaca -- An Open-source Collection Of Medical Conversational AI Model
 authors: Tianyu Han et al.
 conference: Arxiv
 year: 2023
-citations: 66
+citations: 67
 bibkey: han2023medalpaca
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.08247'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Applications, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Applications, Training Techniques]
 ---
 As large language models (LLMs) like OpenAI's GPT series continue to make
 strides, we witness the emergence of artificial intelligence applications in an

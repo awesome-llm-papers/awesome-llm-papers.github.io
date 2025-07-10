@@ -2,12 +2,13 @@
 layout: publication
 title: Logic-guided Data Augmentation And Regularization For Consistent Question Answering
 authors: Akari Asai, Hannaneh Hajishirzi
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
 citations: 19
 bibkey: asai2020logic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.10157'}]
-tags: [RAG, Training Techniques, Model Architecture, BERT]
+tags: [BERT, Training Techniques, RAG, Model Architecture]
 ---
 Many natural language questions require qualitative, quantitative or logical
 comparisons between two entities or events. This paper addresses the problem of

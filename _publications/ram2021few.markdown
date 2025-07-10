@@ -2,12 +2,14 @@
 layout: publication
 title: Few-shot Question Answering By Pretraining Span Selection
 authors: Ori Ram, Yuval Kirstain, Jonathan Berant, Amir Globerson, Omer Levy
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
 citations: 19
 bibkey: ram2021few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00438'}]
-tags: [Fine-Tuning, Training Techniques, Few-Shot, Reinforcement Learning]
+tags: [Fine-Tuning, Few-Shot, Reinforcement Learning, Training Techniques, Evaluation]
 ---
 In several question answering benchmarks, pretrained models have reached
 human parity through fine-tuning on an order of 100,000 annotated questions and

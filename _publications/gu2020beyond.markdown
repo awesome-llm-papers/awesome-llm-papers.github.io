@@ -3,12 +3,12 @@ layout: publication
 title: 'Beyond I.I.D.: Three Levels Of Generalization For Question Answering On Knowledge
   Bases'
 authors: Yu Gu et al.
-conference: Arxiv
+conference: 'WWW ''21: The Web Conference 2021'
 year: 2020
-citations: 60
+citations: 64
 bibkey: gu2020beyond
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.07743'}]
-tags: [Training Techniques, Model Architecture, BERT]
+tags: [BERT, Training Techniques, Model Architecture, Evaluation]
 ---
 Existing studies on question answering on knowledge bases (KBQA) mainly
 operate with the standard i.i.d assumption, i.e., training distribution over

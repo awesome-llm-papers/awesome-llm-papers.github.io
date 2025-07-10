@@ -3,12 +3,13 @@ layout: publication
 title: 'Copiloting The Copilots: Fusing Large Language Models With Completion Engines
   For Automated Program Repair'
 authors: Yuxiang Wei, Chunqiu Steven Xia, Lingming Zhang
-conference: Arxiv
+conference: 'ESEC/FSE ''23: 31st ACM Joint European Software Engineering Conference
+  and Symposium on the Foundations of Software Engineering'
 year: 2023
-citations: 40
+citations: 53
 bibkey: wei2023copiloting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.00608'}]
-tags: [RAG, Tools, GPT, Reinforcement Learning]
+tags: [RAG, Tools, Reinforcement Learning, GPT, Evaluation]
 ---
 During Automated Program Repair (APR), it can be challenging to synthesize
 correct patches for real-world systems in general-purpose programming

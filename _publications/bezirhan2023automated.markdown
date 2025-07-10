@@ -2,12 +2,13 @@
 layout: publication
 title: Automated Reading Passage Generation With Openai's Large Language Model
 authors: Ummugul Bezirhan, Matthias Von Davier
-conference: Arxiv
+conference: 'Computers and Education: Artificial Intelligence'
 year: 2023
 citations: 17
 bibkey: bezirhan2023automated
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.04616'}]
-tags: [GPT, Transformer, Tools, Efficiency and Optimization, Prompting, Model Architecture]
+tags: [Model Architecture, Transformer, Tools, Prompting, Efficiency and Optimization,
+  GPT]
 ---
 The widespread usage of computer-based assessments and individualized
 learning platforms has resulted in an increased demand for the rapid production

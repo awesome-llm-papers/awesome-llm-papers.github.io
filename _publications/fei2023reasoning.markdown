@@ -2,13 +2,14 @@
 layout: publication
 title: Reasoning Implicit Sentiment With Chain-of-thought Prompting
 authors: Hao Fei et al.
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 2: Short Papers)'
 year: 2023
-citations: 34
+citations: 35
 bibkey: fei2023reasoning
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.11255v4'}, {name: Code,
     url: 'https://github.com/scofield7419/THOR-ISA'}]
-tags: [GPT, Tools, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Tools, Prompting, GPT]
 ---
 While sentiment analysis systems try to determine the sentiment polarities of
 given targets based on the key opinion expressions in input texts, in implicit

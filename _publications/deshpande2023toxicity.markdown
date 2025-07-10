@@ -3,12 +3,12 @@ layout: publication
 title: 'Toxicity In Chatgpt: Analyzing Persona-assigned Language Models'
 authors: Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, Karthik
   Narasimhan
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
-citations: 64
+citations: 71
 bibkey: deshpande2023toxicity
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.05335'}]
-tags: [Ethics and Bias, GPT, Responsible AI, Model Architecture]
+tags: [Responsible AI, GPT, Model Architecture, Ethics and Bias]
 ---
 Large language models (LLMs) have shown incredible capabilities and
 transcended the natural language processing (NLP) community, with adoption

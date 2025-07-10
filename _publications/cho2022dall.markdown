@@ -3,13 +3,14 @@ layout: publication
 title: 'Dall-eval: Probing The Reasoning Skills And Social Biases Of Text-to-image
   Generation Models'
 authors: Jaemin Cho, Abhay Zala, Mohit Bansal
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2022
-citations: 72
+citations: 82
 bibkey: cho2022dall
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.04053'}, {name: Code,
     url: 'https://github.com/j-min/DallEval'}]
-tags: [Ethics and Bias, Transformer, Merging, Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Ethics and Bias, Transformer, Multimodal Models,
+  Evaluation, Merging]
 ---
 Recently, DALL-E, a multimodal transformer language model, and its variants,
 including diffusion models, have shown high-quality text-to-image generation

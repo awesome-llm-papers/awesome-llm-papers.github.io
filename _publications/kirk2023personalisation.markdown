@@ -8,8 +8,8 @@ year: 2023
 citations: 18
 bibkey: kirk2023personalisation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.05453'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, Tools, Responsible
-    AI, Agentic, Survey Paper, Model Architecture]
+tags: [Responsible AI, Model Architecture, GPT, Fine-Tuning, Survey Paper, Tools,
+  Reinforcement Learning, Agentic, Training Techniques]
 ---
 Large language models (LLMs) are used to generate content for a wide range of
 tasks, and are set to reach a growing audience in coming years due to

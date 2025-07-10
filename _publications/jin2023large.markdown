@@ -2,13 +2,14 @@
 layout: publication
 title: 'Large Language Models On Graphs: A Comprehensive Survey'
 authors: Bowen Jin et al.
-conference: Transactions on Knowledge and Data Engineering (TKDE) 2024
+conference: IEEE Transactions on Knowledge and Data Engineering
 year: 2023
-citations: 17
+citations: 19
 bibkey: jin2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.02783'}, {name: Code,
     url: 'https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs'}]
-tags: [GPT, Reinforcement Learning, Has Code, Applications, Survey Paper, Model Architecture]
+tags: [Has Code, Model Architecture, Applications, Survey Paper, Reinforcement Learning,
+  GPT, Evaluation]
 ---
 Large language models (LLMs), such as GPT4 and LLaMA, are creating
 significant advancements in natural language processing, due to their strong

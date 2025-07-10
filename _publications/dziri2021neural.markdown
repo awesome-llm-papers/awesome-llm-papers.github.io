@@ -2,12 +2,13 @@
 layout: publication
 title: 'Neural Path Hunter: Reducing Hallucination In Dialogue Systems Via Path Grounding'
 authors: Nouha Dziri, Andrea Madotto, Osmar Zaiane, Avishek Joey Bose
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 24
+citations: 25
 bibkey: dziri2021neural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08455'}]
-tags: [RAG, Training Techniques]
+tags: [Training Techniques, RAG, Evaluation]
 ---
 Dialogue systems powered by large pre-trained language models (LM) exhibit an
 innate ability to deliver fluent and natural-looking responses. Despite their

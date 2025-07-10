@@ -2,12 +2,13 @@
 layout: publication
 title: 'Simple Fusion: Return Of The Language Model'
 authors: Felix Stahlberg, James Cross, Veselin Stoyanov
-conference: Arxiv
+conference: 'Proceedings of the Third Conference on Machine Translation: Research
+  Papers'
 year: 2018
-citations: 19
+citations: 21
 bibkey: stahlberg2018simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.00125'}]
-tags: [RAG, Training Techniques, Model Architecture, Merging]
+tags: [Training Techniques, RAG, Model Architecture, Merging]
 ---
 Neural Machine Translation (NMT) typically leverages monolingual data in
 training through backtranslation. We investigate an alternative simple method

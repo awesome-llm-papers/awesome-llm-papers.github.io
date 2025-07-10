@@ -7,7 +7,7 @@ year: 2020
 citations: 86
 bibkey: zhao2020low
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.10348'}]
-tags: [Training Techniques, Agentic]
+tags: [Agentic, Training Techniques, Evaluation]
 ---
 Responding with knowledge has been recognized as an important capability for
 an intelligent conversational agent. Yet knowledge-grounded dialogues, as

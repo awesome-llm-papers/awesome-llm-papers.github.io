@@ -3,9 +3,11 @@ layout: publication
 title: 'Build It Break It Fix It For Dialogue Safety: Robustness From Adversarial
   Human Attack'
 authors: Emily Dinan, Samuel Humeau, Bharath Chintagunta, Jason Weston
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 34
+citations: 36
 bibkey: dinan2019build
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.06083'}]
 tags: [Training Techniques, Security, Responsible AI]

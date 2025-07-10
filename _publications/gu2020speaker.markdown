@@ -2,12 +2,13 @@
 layout: publication
 title: Speaker-aware BERT For Multi-turn Response Selection In Retrieval-based Chatbots
 authors: Jia-chen Gu et al.
-conference: Arxiv
+conference: 'CIKM ''20: The 29th ACM International Conference on Information and Knowledge
+  Management'
 year: 2020
 citations: 54
 bibkey: gu2020speaker
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.03588'}]
-tags: [Fine-Tuning, Model Architecture, BERT]
+tags: [BERT, Fine-Tuning, Model Architecture, Evaluation]
 ---
 In this paper, we study the problem of employing pre-trained language models
 for multi-turn response selection in retrieval-based chatbots. A new model,

@@ -3,13 +3,14 @@ layout: publication
 title: How Far Are We To GPT-4V? Closing The Gap To Commercial Multimodal Models With
   Open-source Suites
 authors: Zhe Chen et al.
-conference: Arxiv
+conference: Science China Information Sciences
 year: 2024
-citations: 31
+citations: 36
 bibkey: chen2024how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.16821'}, {name: Code,
     url: 'https://github.com/OpenGVLab/InternVL'}]
-tags: [GPT, Reinforcement Learning, Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Reinforcement Learning, Multimodal Models, GPT,
+  Evaluation]
 ---
 In this report, we introduce InternVL 1.5, an open-source multimodal large
 language model (MLLM) to bridge the capability gap between open-source and

@@ -2,13 +2,13 @@
 layout: publication
 title: Enabling Multimodal Generation On CLIP Via Vision-language Knowledge Distillation
 authors: Wenliang Dai et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2022'
 year: 2022
 citations: 29
 bibkey: dai2022enabling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.06386'}]
-tags: [Distillation, Training Techniques, Pre-Training, Efficiency and Optimization,
-  Multimodal Models, Model Architecture]
+tags: [Model Architecture, Distillation, Multimodal Models, Pre-Training, Efficiency
+    and Optimization, Training Techniques]
 ---
 The recent large-scale vision-language pre-training (VLP) of dual-stream
 architectures (e.g., CLIP) with a tremendous amount of image-text pair data,

@@ -3,13 +3,13 @@ layout: publication
 title: 'Multilingual Machine Translation With Large Language Models: Empirical Results
   And Analysis'
 authors: Wenhao Zhu et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: NAACL 2024'
 year: 2023
-citations: 34
+citations: 36
 bibkey: zhu2023multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.04675'}, {name: Code,
     url: 'https://github.com/NJUNLP/MMT-LLM'}]
-tags: [Has Code, GPT, Model Architecture]
+tags: [GPT, Has Code, Model Architecture]
 ---
 Large language models (LLMs) have demonstrated remarkable potential in
 handling multilingual machine translation (MMT). In this paper, we

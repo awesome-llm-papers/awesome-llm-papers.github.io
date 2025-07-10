@@ -8,7 +8,7 @@ year: 2022
 citations: 116
 bibkey: huang2022language
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2201.07207v2'}]
-tags: [Reinforcement Learning, Agentic, Training Techniques, Prompting]
+tags: [Reinforcement Learning, Prompting, Agentic, Training Techniques, Evaluation]
 ---
 Can world knowledge learned by large language models (LLMs) be used to act in
 interactive environments? In this paper, we investigate the possibility of

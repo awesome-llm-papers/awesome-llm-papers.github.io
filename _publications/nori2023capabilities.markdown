@@ -4,11 +4,12 @@ title: Capabilities Of GPT-4 On Medical Challenge Problems
 authors: Harsha Nori, Nicholas King, Scott Mayer Mckinney, Dean Carignan, Eric Horvitz
 conference: Arxiv
 year: 2023
-citations: 377
+citations: 380
 bibkey: nori2023capabilities
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.13375'}]
-tags: [Training Techniques, GPT, Attention Mechanism, Interpretability and Explainability,
-  Reinforcement Learning, Responsible AI, Applications, Prompting, Model Architecture]
+tags: [Responsible AI, Model Architecture, Attention Mechanism, GPT, Applications,
+  Interpretability and Explainability, Reinforcement Learning, Prompting, Training
+    Techniques, Evaluation]
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 natural language understanding and generation across various domains, including

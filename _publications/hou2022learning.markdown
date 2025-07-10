@@ -2,13 +2,14 @@
 layout: publication
 title: Learning Vector-quantized Item Representation For Transferable Sequential Recommenders
 authors: Yupeng Hou, Zhankui He, Julian Mcauley, Wayne Xin Zhao
-conference: Arxiv
+conference: 'WWW ''23: The ACM Web Conference 2023'
 year: 2022
-citations: 70
+citations: 72
 bibkey: hou2022learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.12316'}, {name: Code,
     url: 'https://github.com/RUCAIBox/VQ-Rec'}]
-tags: [Training Techniques, RAG, Pre-Training, Tools, RecSys, Fine-Tuning, Has Code]
+tags: [Has Code, Fine-Tuning, RAG, RecSys, Tools, Pre-Training, Training Techniques,
+  Evaluation]
 ---
 Recently, the generality of natural language text has been leveraged to
 develop transferable recommender systems. The basic idea is to employ

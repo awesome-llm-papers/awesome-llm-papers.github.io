@@ -3,13 +3,14 @@ layout: publication
 title: 'Repocoder: Repository-level Code Completion Through Iterative Retrieval And
   Generation'
 authors: Fengji Zhang et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 30
+citations: 43
 bibkey: zhang2023repository
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.12570'}, {name: Code,
     url: 'https://github.com/microsoft/CodeT/tree/main/RepoCoder'}]
-tags: [RAG, Has Code, Tools, Reinforcement Learning]
+tags: [Has Code, RAG, Tools, Reinforcement Learning, Evaluation]
 ---
 The task of repository-level code completion is to continue writing the
 unfinished code based on a broader context of the repository. While for

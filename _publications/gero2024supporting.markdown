@@ -3,12 +3,12 @@ layout: publication
 title: Supporting Sensemaking Of Large Language Model Outputs At Scale
 authors: Katy Ilonka Gero, Chelse Swoopes, Ziwei Gu, Jonathan K. Kummerfeld, Elena
   L. Glassman
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2024
-citations: 21
+citations: 23
 bibkey: gero2024supporting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.13726'}]
-tags: [Fine-Tuning, Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Fine-Tuning, Prompting]
 ---
 Large language models (LLMs) are capable of generating multiple responses to
 a single prompt, yet little effort has been expended to help end-users or

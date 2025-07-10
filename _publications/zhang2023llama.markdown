@@ -8,8 +8,8 @@ citations: 137
 bibkey: zhang2023llama
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.16199'}, {name: Code,
     url: 'https://github.com/OpenGVLab/LLaMA-Adapter'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Attention Mechanism, BERT, Has
-    Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, Fine-Tuning,
+  Prompting, BERT, Training Techniques, Evaluation]
 ---
 We present LLaMA-Adapter, a lightweight adaption method to efficiently
 fine-tune LLaMA into an instruction-following model. Using 52K self-instruct

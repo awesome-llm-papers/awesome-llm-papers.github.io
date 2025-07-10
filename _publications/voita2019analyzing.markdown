@@ -3,13 +3,14 @@ layout: publication
 title: 'Analyzing Multi-head Self-attention: Specialized Heads Do The Heavy Lifting,
   The Rest Can Be Pruned'
 authors: Elena Voita, David Talbot, Fedor Moiseev, Rico Sennrich, Ivan Titov
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
-citations: 407
+citations: 422
 bibkey: voita2019analyzing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.09418'}]
-tags: [Transformer, Attention Mechanism, Efficiency and Optimization, WMT, Pruning,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Pruning, WMT, Efficiency
+    and Optimization]
 ---
 Multi-head self-attention is a key component of the Transformer, a
 state-of-the-art architecture for neural machine translation. In this work we

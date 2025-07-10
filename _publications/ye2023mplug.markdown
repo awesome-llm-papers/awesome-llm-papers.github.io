@@ -8,8 +8,8 @@ citations: 125
 bibkey: ye2023mplug
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2304.14178v3'}, {name: Code,
     url: 'https://github.com/X-PLUG/mPLUG-Owl'}, {name: Code, url: 'https://www.modelscope.cn/studios/damo/mPLUG-Owl'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Reinforcement Learning, Has Code, Multimodal
-    Models]
+tags: [Has Code, Fine-Tuning, RAG, Reinforcement Learning, Multimodal Models, Training
+    Techniques, Evaluation]
 ---
 Large language models (LLMs) have demonstrated impressive zero-shot abilities
 on a variety of open-ended tasks, while recent research has also explored the

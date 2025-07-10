@@ -2,12 +2,13 @@
 layout: publication
 title: Deep Active Learning For Dialogue Generation
 authors: Nabiha Asghar, Pascal Poupart, Xin Jiang, Hang Li
-conference: Arxiv
+conference: Proceedings of the 6th Joint Conference on Lexical and Computational Semantics
+  (*SEM 2017)
 year: 2016
 citations: 15
 bibkey: asghar2016deep
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1612.03929'}]
-tags: [Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning]
 ---
 We propose an online, end-to-end, neural generative conversational model for
 open-domain dialogue. It is trained using a unique combination of offline

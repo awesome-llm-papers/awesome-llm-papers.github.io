@@ -2,14 +2,14 @@
 layout: publication
 title: Towards Making The Most Of BERT In Neural Machine Translation
 authors: Jiacheng Yang et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
 citations: 47
 bibkey: yang2019towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.05672'}, {name: Code,
     url: 'https://github.com/bytedance/neurst/'}]
-tags: [Distillation, Transformer, GPT, Training Techniques, Pre-Training, Tools, Fine-Tuning,
-  BERT, Efficiency and Optimization, Has Code, WMT, Model Architecture]
+tags: [Has Code, Model Architecture, Distillation, Transformer, GPT, WMT, Fine-Tuning,
+  Tools, Pre-Training, BERT, Efficiency and Optimization, Training Techniques]
 ---
 GPT-2 and BERT demonstrate the effectiveness of using pre-trained language
 models (LMs) on various natural language processing tasks. However, LM

@@ -8,7 +8,7 @@ citations: 17
 bibkey: athiwaratkun2022multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.14868'}, {name: Code,
     url: 'https://github.com/amazon-research/mxeval'}]
-tags: [Few-Shot, Tools, In-Context Learning, Has Code, Security, Prompting]
+tags: [Security, Has Code, Few-Shot, Tools, In-Context Learning, Prompting, Evaluation]
 ---
 We present new benchmarks on evaluation code generation models: MBXP and
 Multilingual HumanEval, and MathQA-X. These datasets cover over 10 programming

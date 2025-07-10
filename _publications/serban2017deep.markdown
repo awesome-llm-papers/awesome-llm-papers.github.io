@@ -7,7 +7,7 @@ year: 2017
 citations: 208
 bibkey: serban2017deep
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1709.02349'}]
-tags: [Reinforcement Learning, Agentic, Model Architecture]
+tags: [Agentic, Reinforcement Learning, Model Architecture]
 ---
 We present MILABOT: a deep reinforcement learning chatbot developed by the
 Montreal Institute for Learning Algorithms (MILA) for the Amazon Alexa Prize

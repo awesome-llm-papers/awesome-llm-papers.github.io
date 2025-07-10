@@ -3,12 +3,13 @@ layout: publication
 title: Do Large Language Models Show Decision Heuristics Similar To Humans? A Case
   Study Using GPT-3.5
 authors: Gaurav Suri, Lily R. Slater, Ali Ziaee, Morgan Nguyen
-conference: Arxiv
+conference: 'Journal of Experimental Psychology: General'
 year: 2023
-citations: 24
+citations: 26
 bibkey: suri2023do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.04400'}]
-tags: [Ethics and Bias, GPT, Reinforcement Learning, Agentic, Prompting, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, Reinforcement Learning, Prompting, Agentic,
+  GPT]
 ---
 A Large Language Model (LLM) is an artificial intelligence system that has
 been trained on vast amounts of natural language data, enabling it to generate

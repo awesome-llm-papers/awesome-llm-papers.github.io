@@ -2,13 +2,14 @@
 layout: publication
 title: Generated Knowledge Prompting For Commonsense Reasoning
 authors: Jiacheng Liu et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
-citations: 74
+citations: 75
 bibkey: liu2021generated
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.08387'}, {name: Code,
     url: 'https://github.com/liujch1998/GKP'}]
-tags: [Has Code, Prompting]
+tags: [Has Code, Prompting, Evaluation]
 ---
 It remains an open question whether incorporating external knowledge benefits
 commonsense reasoning while maintaining the flexibility of pretrained sequence

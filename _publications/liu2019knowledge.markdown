@@ -3,7 +3,9 @@ layout: publication
 title: Knowledge Aware Conversation Generation With Explainable Reasoning Over Augmented
   Graphs
 authors: Zhibin Liu, Zheng-yu Niu, Hua Wu, Haifeng Wang
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
 citations: 27
 bibkey: liu2019knowledge

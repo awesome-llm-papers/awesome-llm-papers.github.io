@@ -2,13 +2,14 @@
 layout: publication
 title: Evaluating The Robustness Of Retrieval Pipelines With Query Variation Generators
 authors: "Gustavo Penha, Arthur C\xE2mara, Claudia Hauff"
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2021
 citations: 17
 bibkey: penha2021evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.13057'}, {name: Code,
     url: 'https://github.com/Guzpenha/query_variation_generators'}]
-tags: [Transformer, RAG, Reinforcement Learning, BERT, Has Code, Security, Model Architecture]
+tags: [Security, Has Code, Model Architecture, Transformer, RAG, Reinforcement Learning,
+  BERT, Evaluation]
 ---
 Heavily pre-trained transformers for language modelling, such as BERT, have
 shown to be remarkably effective for Information Retrieval (IR) tasks,

@@ -2,12 +2,12 @@
 layout: publication
 title: What Makes A Good Conversation? How Controllable Attributes Affect Human Judgments
 authors: Abigail See, Stephen Roller, Douwe Kiela, Jason Weston
-conference: Arxiv
+conference: Proceedings of the 2019 Conference of the North
 year: 2019
 citations: 43
 bibkey: see2019what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.08654'}]
-tags: [Language Modeling, Training Techniques, Agentic]
+tags: [Agentic, Language Modeling, Training Techniques, Evaluation]
 ---
 A good conversation requires balance -- between simplicity and detail;
 staying on topic and changing it; asking questions and answering them. Although

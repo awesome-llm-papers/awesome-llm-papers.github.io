@@ -8,7 +8,7 @@ citations: 59
 bibkey: yang2023mm
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.11381v1'}, {name: Code,
     url: 'https://multimodal-react.github.io/'}]
-tags: [GPT, Has Code, Prompting, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Multimodal Models, Prompting, GPT]
 ---
 We propose MM-REACT, a system paradigm that integrates ChatGPT with a pool of
 vision experts to achieve multimodal reasoning and action. In this paper, we

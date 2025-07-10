@@ -2,12 +2,13 @@
 layout: publication
 title: What To Pre-train On? Efficient Intermediate Task Selection
 authors: "Clifton Poth, Jonas Pfeiffer, Andreas R\xFCckl\xE9, Iryna Gurevych"
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 15
 bibkey: poth2021what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08247'}]
-tags: [RAG, Few-Shot, Training Techniques, Fine-Tuning]
+tags: [Training Techniques, Fine-Tuning, RAG, Few-Shot]
 ---
 Intermediate task fine-tuning has been shown to culminate in large transfer
 gains across many NLP tasks. With an abundance of candidate datasets as well as

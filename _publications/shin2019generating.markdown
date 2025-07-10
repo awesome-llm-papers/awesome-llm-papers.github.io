@@ -2,12 +2,13 @@
 layout: publication
 title: Generating Empathetic Responses By Looking Ahead The User's Sentiment
 authors: Jamin Shin, Peng Xu, Andrea Madotto, Pascale Fung
-conference: Arxiv
+conference: ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech
+  and Signal Processing (ICASSP)
 year: 2019
 citations: 21
 bibkey: shin2019generating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.08487'}]
-tags: [Tools, Agentic, Reinforcement Learning]
+tags: [Agentic, Tools, Reinforcement Learning]
 ---
 An important aspect of human conversation difficult for machines is
 conversing with empathy, which is to understand the user's emotion and respond

@@ -4,10 +4,10 @@ title: 'Pali: A Jointly-scaled Multilingual Language-image Model'
 authors: Xi Chen et al.
 conference: Arxiv
 year: 2022
-citations: 150
+citations: 152
 bibkey: chen2022jointly
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.06794'}]
-tags: [Training Techniques, Transformer, RAG, Tools, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Transformer, RAG, Tools, Multimodal Models, Training Techniques]
 ---
 Effective scaling and a flexible task interface enable large language models
 to excel at many tasks. We present PaLI (Pathways Language and Image model), a

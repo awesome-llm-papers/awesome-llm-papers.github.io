@@ -2,13 +2,14 @@
 layout: publication
 title: Learned Token Pruning For Transformers
 authors: Sehoon Kim et al.
-conference: Arxiv
+conference: 'KDD ''22: The 28th ACM SIGKDD Conference on Knowledge Discovery and Data
+  Mining'
 year: 2021
-citations: 56
+citations: 58
 bibkey: kim2021learned
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.00910'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, Efficiency and Optimization,
-  Pruning, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Pruning, Efficiency and
+    Optimization, Training Techniques]
 ---
 Deploying transformer models in practice is challenging due to their
 inference cost, which scales quadratically with input sequence length. To

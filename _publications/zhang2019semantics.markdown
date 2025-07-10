@@ -2,12 +2,12 @@
 layout: publication
 title: Semantics-aware BERT For Language Understanding
 authors: Zhuosheng Zhang et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
-citations: 130
+citations: 132
 bibkey: zhang2019semantics
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.02209'}]
-tags: [Training Techniques, GPT, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Training Techniques, BERT]
 ---
 The latest work on language representations carefully integrates
 contextualized features into language model training, which enables a series of

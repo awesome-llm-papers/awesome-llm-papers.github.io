@@ -3,12 +3,13 @@ layout: publication
 title: 'Llm-eval: Unified Multi-dimensional Automatic Evaluation For Open-domain Conversations
   With Large Language Models'
 authors: Yen-ting Lin, Yun-nung Chen
-conference: Arxiv
+conference: Proceedings of the 5th Workshop on NLP for Conversational AI (NLP4ConvAI
+  2023)
 year: 2023
-citations: 23
+citations: 28
 bibkey: lin2023llm
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.13711v1'}]
-tags: [RAG, Efficiency and Optimization, Prompting]
+tags: [Efficiency and Optimization, RAG, Prompting, Evaluation]
 ---
 We propose LLM-Eval, a unified multi-dimensional automatic evaluation method
 for open-domain conversations with large language models (LLMs). Existing

@@ -7,7 +7,7 @@ year: 2023
 citations: 23
 bibkey: poldrack2023ai
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.13187'}]
-tags: [RAG, GPT, Tools, Model Architecture]
+tags: [Model Architecture, RAG, Tools, GPT, Evaluation]
 ---
 Artificial intelligence (AI) tools based on large language models have
 acheived human-level performance on some computer programming tasks. We report

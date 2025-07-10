@@ -2,12 +2,13 @@
 layout: publication
 title: A Knowledge-enhanced Pretraining Model For Commonsense Story Generation
 authors: Jian Guan, Fei Huang, Zhihao Zhao, Xiaoyan Zhu, Minlie Huang
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2020
-citations: 96
+citations: 100
 bibkey: guan2020knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2001.05139'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Reinforcement Learning, Training Techniques,
+  Evaluation]
 ---
 Story generation, namely generating a reasonable story from a leading
 context, is an important but challenging task. In spite of the success in

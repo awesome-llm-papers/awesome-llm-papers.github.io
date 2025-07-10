@@ -3,13 +3,13 @@ layout: publication
 title: Hallucination Augmented Contrastive Learning For Multimodal Large Language
   Model
 authors: Chaoya Jiang et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 17
+citations: 18
 bibkey: jiang2023hallucination
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2312.06968v4'}, {name: Code,
     url: 'https://github.com/X-PLUG/mPLUG-HalOwl/tree/main/hacl'}]
-tags: [GPT, ACL, Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, ACL, Multimodal Models, GPT, Evaluation]
 ---
 Multi-modal large language models (MLLMs) have been shown to efficiently
 integrate natural language with visual information to handle multi-modal tasks.

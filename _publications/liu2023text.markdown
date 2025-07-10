@@ -2,13 +2,14 @@
 layout: publication
 title: Text Matching Improves Sequential Recommendation By Reducing Popularity Biases
 authors: Zhenghao Liu et al.
-conference: Arxiv
+conference: 'CIKM ''23: The 32nd ACM International Conference on Information and Knowledge
+  Management'
 year: 2023
-citations: 16
+citations: 18
 bibkey: liu2023text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.14029'}, {name: Code,
     url: 'https://github.com/OpenMatch/TASTE'}]
-tags: [Ethics and Bias, Transformer, Attention Mechanism, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Ethics and Bias, Transformer]
 ---
 This paper proposes Text mAtching based SequenTial rEcommendation model
 (TASTE), which maps items and users in an embedding space and recommends items

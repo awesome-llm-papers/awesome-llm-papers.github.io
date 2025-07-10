@@ -3,12 +3,14 @@ layout: publication
 title: A Simple Recipe For Multilingual Grammatical Error Correction
 authors: Sascha Rothe, Jonathan Mallinson, Eric Malmi, Sebastian Krause, Aliaksei
   Severyn
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 2: Short Papers)'
 year: 2021
-citations: 34
+citations: 36
 bibkey: rothe2021simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.03830'}]
-tags: [Fine-Tuning, Training Techniques]
+tags: [Training Techniques, Fine-Tuning, Evaluation]
 ---
 This paper presents a simple recipe to train state-of-the-art multilingual
 Grammatical Error Correction (GEC) models. We achieve this by first proposing a

@@ -3,12 +3,13 @@ layout: publication
 title: '\(Q^{2}\): Evaluating Factual Consistency In Knowledge-grounded Dialogues
   Via Question Generation And Question Answering'
 authors: Or Honovich et al.
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 21
+citations: 22
 bibkey: honovich2021evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08202'}]
-tags: [Uncategorized]
+tags: [Evaluation]
 ---
 Neural knowledge-grounded generative models for dialogue often produce
 content that is factually inconsistent with the knowledge they rely on, making

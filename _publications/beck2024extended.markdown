@@ -4,10 +4,10 @@ title: 'Xlstm: Extended Long Short-term Memory'
 authors: Maximilian Beck et al.
 conference: Arxiv
 year: 2024
-citations: 32
+citations: 33
 bibkey: beck2024extended
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2405.04517'}]
-tags: [Transformer, RAG, Attention Mechanism, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, RAG]
 ---
 In the 1990s, the constant error carousel and gating were introduced as the
 central ideas of the Long Short-Term Memory (LSTM). Since then, LSTMs have

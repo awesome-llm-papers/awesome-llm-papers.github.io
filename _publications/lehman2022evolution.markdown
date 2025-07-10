@@ -2,12 +2,12 @@
 layout: publication
 title: Evolution Through Large Models
 authors: Joel Lehman et al.
-conference: Arxiv
+conference: Genetic and Evolutionary Computation
 year: 2022
-citations: 26
+citations: 28
 bibkey: lehman2022evolution
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.08896'}]
-tags: [Pre-Training, Reinforcement Learning, Agentic, Training Techniques]
+tags: [Agentic, Reinforcement Learning, Training Techniques, Pre-Training]
 ---
 This paper pursues the insight that large language models (LLMs) trained to
 generate code can vastly improve the effectiveness of mutation operators

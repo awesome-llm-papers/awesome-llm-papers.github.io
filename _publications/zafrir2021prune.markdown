@@ -7,8 +7,8 @@ year: 2021
 citations: 26
 bibkey: zafrir2021prune
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.05754'}]
-tags: [Distillation, Transformer, Training Techniques, Fine-Tuning, BERT, Efficiency
-    and Optimization, Applications, Pruning, Model Architecture, Quantization]
+tags: [Model Architecture, Distillation, Transformer, Pruning, Fine-Tuning, Applications,
+  Quantization, BERT, Efficiency and Optimization, Training Techniques]
 ---
 Transformer-based language models are applied to a wide range of applications
 in natural language processing. However, they are inefficient and difficult to

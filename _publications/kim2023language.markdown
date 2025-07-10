@@ -8,8 +8,8 @@ citations: 55
 bibkey: kim2023language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.17491'}, {name: Code,
     url: 'https://github.com/posgnu/rci-agent'}]
-tags: [GPT, Reinforcement Learning, Agentic, Efficiency and Optimization, Has Code,
-  Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Reinforcement Learning, Prompting, Agentic, Efficiency
+    and Optimization, GPT, Evaluation]
 ---
 Agents capable of carrying out general tasks on a computer can improve
 efficiency and productivity by automating repetitive tasks and assisting in

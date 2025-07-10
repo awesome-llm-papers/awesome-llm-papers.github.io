@@ -2,13 +2,13 @@
 layout: publication
 title: 'UC2: Universal Cross-lingual Cross-modal Vision-and-language Pre-training'
 authors: Mingyang Zhou et al.
-conference: Arxiv
+conference: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2021
-citations: 40
+citations: 41
 bibkey: zhou2021universal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.00332'}]
-tags: [Training Techniques, RAG, Pre-Training, Tools, Multimodal Models, Language
-    Modeling]
+tags: [Language Modeling, RAG, Tools, Multimodal Models, Pre-Training, Training Techniques,
+  Evaluation]
 ---
 Vision-and-language pre-training has achieved impressive success in learning
 multimodal representations between vision and language. To generalize this

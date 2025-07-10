@@ -3,12 +3,12 @@ layout: publication
 title: Can Chatgpt And Bard Generate Aligned Assessment Items? A Reliability Analysis
   Against Human Performance
 authors: Abdolvahab Khademi
-conference: Journal of Applied Learning and Teaching 2023
+conference: Journal of Applied Learning &amp; Teaching
 year: 2023
 citations: 15
 bibkey: khademi2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.05372'}]
-tags: [GPT, ACL, Tools, Applications, Prompting, Model Architecture]
+tags: [Model Architecture, Applications, ACL, Tools, Prompting, GPT]
 ---
 ChatGPT and Bard are AI chatbots based on Large Language Models (LLM) that
 are slated to promise different applications in diverse areas. In education,

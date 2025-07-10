@@ -2,14 +2,14 @@
 layout: publication
 title: 'Clip-adapter: Better Vision-language Models With Feature Adapters'
 authors: Peng Gao et al.
-conference: Arxiv
+conference: International Journal of Computer Vision
 year: 2021
-citations: 368
+citations: 384
 bibkey: gao2021clip
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.04544'}, {name: Code,
     url: 'https://github.com/gaopengcuhk/CLIP-Adapter'}]
-tags: [Training Techniques, Pre-Training, Few-Shot, Fine-Tuning, Efficiency and Optimization,
-  Has Code, Prompting, Multimodal Models]
+tags: [Has Code, Fine-Tuning, Few-Shot, Multimodal Models, Pre-Training, Prompting,
+  Efficiency and Optimization, Training Techniques]
 ---
 Large-scale contrastive vision-language pre-training has shown significant
 progress in visual representation learning. Unlike traditional visual systems

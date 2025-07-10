@@ -4,7 +4,7 @@ title: Emergent Abilities Of Large Language Models
 authors: Jason Wei et al.
 conference: Arxiv
 year: 2022
-citations: 796
+citations: 816
 bibkey: wei2022emergent
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2206.07682v2'}]
 tags: [Efficiency and Optimization]

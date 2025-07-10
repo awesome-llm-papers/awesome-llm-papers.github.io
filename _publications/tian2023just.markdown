@@ -3,13 +3,14 @@ layout: publication
 title: 'Just Ask For Calibration: Strategies For Eliciting Calibrated Confidence Scores
   From Language Models Fine-tuned With Human Feedback'
 authors: Katherine Tian et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 24
+citations: 27
 bibkey: tian2023just
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14975'}]
-tags: [GPT, Training Techniques, Pre-Training, Reinforcement Learning, Agentic, Model
-    Architecture]
+tags: [Model Architecture, GPT, Reinforcement Learning, Pre-Training, Agentic, Training
+    Techniques, Evaluation]
 ---
 A trustworthy real-world prediction system should produce well-calibrated
 confidence scores; that is, its confidence in an answer should be indicative of

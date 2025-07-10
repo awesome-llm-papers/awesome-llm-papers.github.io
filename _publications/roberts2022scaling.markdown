@@ -8,7 +8,7 @@ citations: 47
 bibkey: roberts2022scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.17189'}, {name: Code,
     url: 'https://github.com/google-research/t5x'}, {name: Code, url: 'https://github.com/google/seqio,'}]
-tags: [GPT, Training Techniques, Tools, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Tools, Training Techniques, Evaluation]
 ---
 Recent neural network-based language models have benefited greatly from
 scaling up the size of training datasets and the number of parameters in the

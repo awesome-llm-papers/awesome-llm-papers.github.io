@@ -2,12 +2,13 @@
 layout: publication
 title: 'Genaug: Data Augmentation For Finetuning Text Generators'
 authors: Steven Y. Feng, Varun Gangal, Dongyeop Kang, Teruko Mitamura, Eduard Hovy
-conference: Arxiv
+conference: 'Proceedings of Deep Learning Inside Out (DeeLIO): The First Workshop
+  on Knowledge Extraction and Integration for Deep Learning Architectures'
 year: 2020
-citations: 27
+citations: 28
 bibkey: feng2020data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.01794'}]
-tags: [Language Modeling, GPT, Model Architecture]
+tags: [Language Modeling, GPT, Model Architecture, Evaluation]
 ---
 In this paper, we investigate data augmentation for text generation, which we
 call GenAug. Text generation and language modeling are important tasks within

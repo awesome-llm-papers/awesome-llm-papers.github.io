@@ -3,12 +3,13 @@ layout: publication
 title: 'Medcpt: Contrastive Pre-trained Transformers With Large-scale Pubmed Search
   Logs For Zero-shot Biomedical Information Retrieval'
 authors: Qiao Jin et al.
-conference: Arxiv
+conference: Bioinformatics
 year: 2023
-citations: 35
+citations: 40
 bibkey: jin2023contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.00589'}]
-tags: [GPT, Transformer, Training Techniques, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, GPT, Transformer, Reinforcement Learning, Training Techniques,
+  Evaluation]
 ---
 Information retrieval (IR) is essential in biomedical knowledge acquisition
 and clinical decision support. While recent progress has shown that language

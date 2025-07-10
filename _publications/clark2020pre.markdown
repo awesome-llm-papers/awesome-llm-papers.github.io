@@ -4,11 +4,11 @@ title: 'ELECTRA: Pre-training Text Encoders As Discriminators Rather Than Genera
 authors: Kevin Clark, Minh-thang Luong, Quoc V. Le, Christopher D. Manning
 conference: Arxiv
 year: 2020
-citations: 1589
+citations: 1590
 bibkey: clark2020pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.10555'}]
-tags: [Masked Language Model, Training Techniques, GPT, Pre-Training, Reinforcement
-    Learning, BERT, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Masked Language Model, Reinforcement
+    Learning, Pre-Training, Training Techniques, BERT, Evaluation]
 ---
 Masked language modeling (MLM) pre-training methods such as BERT corrupt the
 input by replacing some tokens with [MASK] and then train a model to

@@ -2,13 +2,13 @@
 layout: publication
 title: Long Text Generation Via Adversarial Training With Leaked Information
 authors: Jiaxian Guo et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2017
-citations: 186
+citations: 191
 bibkey: guo2017long
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1709.08624'}]
-tags: [Training Techniques, Tools, Agentic, Reinforcement Learning, Applications,
-  Security, Language Modeling]
+tags: [Language Modeling, Security, Applications, Tools, Reinforcement Learning, Agentic,
+  Training Techniques]
 ---
 Automatically generating coherent and semantically meaningful text has many
 applications in machine translation, dialogue systems, image captioning, etc.

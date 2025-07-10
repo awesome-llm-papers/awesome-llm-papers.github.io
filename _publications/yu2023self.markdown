@@ -7,7 +7,7 @@ year: 2023
 citations: 20
 bibkey: yu2023self
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.06988'}]
-tags: [Training Techniques, RAG, Pre-Training, Tools, Fine-Tuning]
+tags: [Fine-Tuning, RAG, Tools, Pre-Training, Training Techniques, Time Series, Evaluation]
 ---
 Recent studies have shown promising results on utilizing large pre-trained
 image-language models for video question answering. While these image-language

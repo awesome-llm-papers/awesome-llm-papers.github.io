@@ -7,7 +7,7 @@ year: 2020
 citations: 40
 bibkey: efrat2020turking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.11982'}]
-tags: [Few-Shot, Reinforcement Learning]
+tags: [Reinforcement Learning, Few-Shot, Evaluation]
 ---
 Supervised machine learning provides the learner with a set of input-output
 examples of the target task. Humans, however, can also learn to perform new

@@ -3,13 +3,13 @@ layout: publication
 title: 'Chatdoctor: A Medical Chat Model Fine-tuned On A Large Language Model Meta-ai
   (llama) Using Medical Domain Knowledge'
 authors: Yunxiang Li et al.
-conference: Arxiv
+conference: Cureus
 year: 2023
-citations: 180
+citations: 188
 bibkey: li2023medical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.14070'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, Tools, Model
-    Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Tools, Reinforcement Learning, Training
+    Techniques]
 ---
 The primary aim of this research was to address the limitations observed in
 the medical knowledge of prevalent large language models (LLMs) such as

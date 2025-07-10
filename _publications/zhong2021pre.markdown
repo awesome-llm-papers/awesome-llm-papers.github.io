@@ -2,14 +2,14 @@
 layout: publication
 title: 'Dialoglm: Pre-trained Model For Long Dialogue Understanding And Summarization'
 authors: Ming Zhong, Yang Liu, Yichong Xu, Chenguang Zhu, Michael Zeng
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2021
 citations: 32
 bibkey: zhong2021pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.02492'}, {name: Code,
     url: 'https://github.com/microsoft/DialogLM)'}]
-tags: [Training Techniques, Pre-Training, Attention Mechanism, Reinforcement Learning,
-  Tools, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Tools, Reinforcement Learning,
+  Pre-Training, Training Techniques]
 ---
 Dialogue is an essential part of human communication and cooperation.
 Existing research mainly focuses on short dialogue scenarios in a one-on-one

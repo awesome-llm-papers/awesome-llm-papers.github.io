@@ -3,12 +3,13 @@ layout: publication
 title: 'Multilingual LAMA: Investigating Knowledge In Multilingual Pretrained Language
   Models'
 authors: "Nora Kassner, Philipp Dufter, Hinrich Sch\xFCtze"
-conference: Arxiv
+conference: 'Proceedings of the 16th Conference of the European Chapter of the Association
+  for Computational Linguistics: Main Volume'
 year: 2021
-citations: 21
+citations: 22
 bibkey: kassner2021multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.00894'}]
-tags: [Ethics and Bias, RAG, Tools, BERT, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, RAG, Tools, BERT, Evaluation]
 ---
 Recently, it has been found that monolingual English language models can be
 used as knowledge bases. Instead of structural knowledge base queries, masked

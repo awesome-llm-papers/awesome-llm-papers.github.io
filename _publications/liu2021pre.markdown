@@ -3,12 +3,12 @@ layout: publication
 title: 'Pre-train, Prompt, And Predict: A Systematic Survey Of Prompting Methods In
   Natural Language Processing'
 authors: Pengfei Liu et al.
-conference: Arxiv
+conference: ACM Computing Surveys
 year: 2021
-citations: 1755
+citations: 1857
 bibkey: liu2021pre
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2107.13586v1'}]
-tags: [Few-Shot, Tools, Reinforcement Learning, Survey Paper, Prompting]
+tags: [Few-Shot, Survey Paper, Tools, Reinforcement Learning, Prompting]
 ---
 This paper surveys and organizes research works in a new paradigm in natural
 language processing, which we dub "prompt-based learning". Unlike traditional

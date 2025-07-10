@@ -2,12 +2,12 @@
 layout: publication
 title: 'March In Chat: Interactive Prompting For Remote Embodied Referring Expression'
 authors: Yanyuan Qiao, Yuankai Qi, Zheng Yu, Jing Liu, Qi Wu
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2023
-citations: 17
+citations: 18
 bibkey: qiao2023march
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.10141'}]
-tags: [Agentic, Prompting]
+tags: [Agentic, Prompting, Evaluation]
 ---
 Many Vision-and-Language Navigation (VLN) tasks have been proposed in recent
 years, from room-based to object-based and indoor to outdoor. The REVERIE

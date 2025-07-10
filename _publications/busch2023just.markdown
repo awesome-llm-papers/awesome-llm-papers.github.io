@@ -2,12 +2,12 @@
 layout: publication
 title: 'Just Tell Me: Prompt Engineering In Business Process Management'
 authors: Kiran Busch, Alexander Rochlitzer, Diana Sola, Henrik Leopold
-conference: Arxiv
+conference: Lecture Notes in Business Information Processing
 year: 2023
-citations: 34
+citations: 35
 bibkey: busch2023just
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.07183'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Prompting, Training Techniques]
 ---
 GPT-3 and several other language models (LMs) can effectively address various
 natural language processing (NLP) tasks, including machine translation and text

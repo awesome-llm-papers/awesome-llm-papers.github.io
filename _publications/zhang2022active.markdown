@@ -2,13 +2,14 @@
 layout: publication
 title: Active Example Selection For In-context Learning
 authors: Yiming Zhang, Shi Feng, Chenhao Tan
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 26
+citations: 27
 bibkey: zhang2022active
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2211.04486v1'}]
-tags: [Training Techniques, GPT, Merging, RAG, Fine-Tuning, Reinforcement Learning,
-  Agentic, In-Context Learning, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Reinforcement Learning, In-Context
+    Learning, Agentic, Training Techniques, Merging]
 ---
 With a handful of demonstration examples, large-scale language models show
 strong capability to perform various tasks by in-context learning from these

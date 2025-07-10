@@ -2,14 +2,16 @@
 layout: publication
 title: Text Summarization With Pretrained Encoders
 authors: Yang Liu, Mirella Lapata
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 703
+citations: 708
 bibkey: liu2019text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.08345'}, {name: Code,
     url: 'https://github.com/nlpyang/PreSumm'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Tools, BERT, Has Code, Model
-    Architecture]
+tags: [Has Code, Model Architecture, Transformer, Fine-Tuning, Tools, BERT, Training
+    Techniques]
 ---
 Bidirectional Encoder Representations from Transformers (BERT) represents the
 latest incarnation of pretrained language models which have recently advanced a

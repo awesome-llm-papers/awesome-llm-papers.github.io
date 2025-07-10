@@ -2,12 +2,12 @@
 layout: publication
 title: 'Large Language Models In Medicine: The Potentials And Pitfalls'
 authors: Jesutofunmi A. Omiye, Haiwen Gui, Shawheen J. Rezaei, James Zou, Roxana Daneshjou
-conference: Ann. Intern. Med. 177(2) 210-220(2024)
+conference: Annals of Internal Medicine
 year: 2023
-citations: 124
+citations: 135
 bibkey: omiye2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.00087'}]
-tags: [Applications, Tools, Reinforcement Learning, Survey Paper]
+tags: [Survey Paper, Tools, Reinforcement Learning, Applications]
 ---
 Large language models (LLMs) have been applied to tasks in healthcare,
 ranging from medical exam questions to responding to patient questions. With

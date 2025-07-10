@@ -3,12 +3,12 @@ layout: publication
 title: 'Earthgpt: A Universal Multi-modal Large Language Model For Multi-sensor Image
   Comprehension In Remote Sensing Domain'
 authors: Wei Zhang, Miaoxin Cai, Tong Zhang, Yin Zhuang, Xuerui Mao
-conference: Arxiv
+conference: IEEE Transactions on Geoscience and Remote Sensing
 year: 2024
-citations: 37
+citations: 39
 bibkey: zhang2024universal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.16822'}]
-tags: [GPT, Model Architecture, Multimodal Models]
+tags: [GPT, Multimodal Models, Model Architecture]
 ---
 Multi-modal large language models (MLLMs) have demonstrated remarkable
 success in vision and visual-language tasks within the natural image domain.

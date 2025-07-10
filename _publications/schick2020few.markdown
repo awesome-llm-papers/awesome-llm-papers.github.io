@@ -7,7 +7,7 @@ year: 2020
 citations: 77
 bibkey: schick2020few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.11926'}]
-tags: [Language Modeling, Efficiency and Optimization, Few-Shot, Training Techniques]
+tags: [Language Modeling, Training Techniques, Few-Shot, Efficiency and Optimization]
 ---
 Providing pretrained language models with simple task descriptions in natural
 language enables them to solve some tasks in a fully unsupervised fashion.

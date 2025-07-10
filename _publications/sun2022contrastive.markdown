@@ -2,12 +2,12 @@
 layout: publication
 title: Contrastive Learning Reduces Hallucination In Conversations
 authors: Weiwei Sun et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2022
-citations: 22
+citations: 25
 bibkey: sun2022contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10400'}]
-tags: [Efficiency and Optimization, Agentic]
+tags: [Agentic, Efficiency and Optimization, Evaluation]
 ---
 Pre-trained language models (LMs) store knowledge in their parameters and can
 generate informative responses when used in conversational systems. However,

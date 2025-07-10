@@ -2,12 +2,13 @@
 layout: publication
 title: 'Breaking The Silence: The Threats Of Using Llms In Software Engineering'
 authors: June Sallou, Thomas Durieux, Annibale Panichella
-conference: Arxiv
+conference: 'ICSE-NIER''24: 2024 ACM/IEEE 44th International Conference on Software
+  Engineering: New Ideas and Emerging Results'
 year: 2023
-citations: 25
+citations: 33
 bibkey: sallou2023breaking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.08055'}]
-tags: [Training Techniques]
+tags: [Training Techniques, Evaluation]
 ---
 Large Language Models (LLMs) have gained considerable traction within the
 Software Engineering (SE) community, impacting various SE tasks from code

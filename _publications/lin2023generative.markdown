@@ -8,7 +8,8 @@ year: 2023
 citations: 17
 bibkey: lin2023generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.17390'}]
-tags: [GPT, ACL, Tools, Agentic, Reinforcement Learning, Prompting, Model Architecture]
+tags: [Model Architecture, ACL, Tools, Reinforcement Learning, Prompting, Agentic,
+  GPT, Evaluation]
 ---
 We introduce SwiftSage, a novel agent framework inspired by the dual-process
 theory of human cognition, designed to excel in action planning for complex

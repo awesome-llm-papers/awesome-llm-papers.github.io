@@ -8,7 +8,7 @@ year: 2020
 citations: 15
 bibkey: lee2020multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.08299'}]
-tags: [Transformer, Attention Mechanism, Tools, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Tools, Multimodal Models]
 ---
 Audio Visual Scene-aware Dialog (AVSD) is the task of generating a response
 for a question with a given scene, video, audio, and the history of previous

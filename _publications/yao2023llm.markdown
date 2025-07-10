@@ -4,11 +4,11 @@ title: 'LLM Lies: Hallucinations Are Not Bugs, But Features As Adversarial Examp
 authors: Jia-yu Yao et al.
 conference: Arxiv
 year: 2023
-citations: 39
+citations: 40
 bibkey: yao2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.01469'}, {name: Code,
     url: 'https://github.com/PKU-YuanGroup/Hallucination-Attack'}]
-tags: [GPT, Transformer, Has Code, Security, Prompting, Model Architecture]
+tags: [Security, Has Code, Model Architecture, Transformer, Prompting, GPT]
 ---
 Large Language Models (LLMs), including GPT-3.5, LLaMA, and PaLM, seem to be
 knowledgeable and able to adapt to many tasks. However, we still cannot

@@ -7,7 +7,7 @@ year: 2020
 citations: 38
 bibkey: smith2020controlling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.10855'}]
-tags: [Training Techniques, Agentic, Model Architecture]
+tags: [Agentic, Training Techniques, Model Architecture]
 ---
 Open-domain conversation models have become good at generating
 natural-sounding dialogue, using very large architectures with billions of

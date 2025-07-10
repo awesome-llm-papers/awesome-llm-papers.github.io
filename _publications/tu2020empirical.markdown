@@ -3,12 +3,12 @@ layout: publication
 title: An Empirical Study On Robustness To Spurious Correlations Using Pre-trained
   Language Models
 authors: Lifu Tu, Garima Lalwani, Spandana Gella, He He
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2020
 citations: 37
 bibkey: tu2020empirical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.06778'}]
-tags: [Reinforcement Learning, Security, Model Architecture, BERT]
+tags: [BERT, Reinforcement Learning, Security, Model Architecture]
 ---
 Recent work has shown that pre-trained language models such as BERT improve
 robustness to spurious correlations in the dataset. Intrigued by these results,

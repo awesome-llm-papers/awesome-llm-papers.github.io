@@ -7,8 +7,8 @@ year: 2020
 citations: 40
 bibkey: guo2020incorporating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.06138'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Tools, BERT, SLT, WMT, Model Architecture,
-  Language Modeling]
+tags: [Language Modeling, Model Architecture, GPT, WMT, RAG, Fine-Tuning, SLT, Tools,
+  BERT, Training Techniques]
 ---
 While large scale pre-trained language models such as BERT have achieved
 great success on various natural language understanding tasks, how to

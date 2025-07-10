@@ -2,14 +2,15 @@
 layout: publication
 title: Distilling Knowledge Learned In BERT For Text Generation
 authors: Yen-chun Chen, Zhe Gan, Yu Cheng, Jingzhou Liu, Jingjing Liu
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 57
 bibkey: chen2019distilling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03829'}, {name: Code,
     url: 'https://github.com/ChenRocks/Distill-BERT-Textgen'}]
-tags: [Masked Language Model, Transformer, RAG, BERT, Has Code, SLT, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Transformer, RAG, Masked Language
+    Model, SLT, BERT]
 ---
 Large-scale pre-trained language model such as BERT has achieved great
 success in language understanding tasks. However, it remains an open question

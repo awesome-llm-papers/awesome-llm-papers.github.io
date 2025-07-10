@@ -3,12 +3,13 @@ layout: publication
 title: An Empirical Evaluation Of Using Large Language Models For Automated Unit Test
   Generation
 authors: "Max Sch\xE4fer, Sarah Nadi, Aryaz Eghbali, Frank Tip"
-conference: Arxiv
+conference: IEEE Transactions on Software Engineering
 year: 2023
-citations: 103
+citations: 125
 bibkey: "sch\xE4fer2023empirical"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.06527'}]
-tags: [Training Techniques, GPT, RAG, Few-Shot, Tools, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Few-Shot, RAG, Tools, Prompting, Training Techniques,
+  Evaluation]
 ---
 Unit tests play a key role in ensuring the correctness of software. However,
 manually creating unit tests is a laborious task, motivating the need for

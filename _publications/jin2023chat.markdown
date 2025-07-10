@@ -3,13 +3,13 @@ layout: publication
 title: 'Chat-univi: Unified Visual Representation Empowers Large Language Models With
   Image And Video Understanding'
 authors: Peng Jin, Ryuichi Takanobu, Wancai Zhang, Xiaochun Cao, Li Yuan
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 21
+citations: 23
 bibkey: jin2023chat
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.08046'}, {name: Code,
     url: 'https://github.com/PKU-YuanGroup/Chat-UniVi'}]
-tags: [RAG, Tools, Reinforcement Learning, Has Code, Multimodal Models]
+tags: [Has Code, RAG, Tools, Reinforcement Learning, Multimodal Models]
 ---
 Large language models have demonstrated impressive universal capabilities
 across a wide range of open-ended tasks and have extended their utility to

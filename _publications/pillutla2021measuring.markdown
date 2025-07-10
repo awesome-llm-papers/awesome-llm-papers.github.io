@@ -8,7 +8,7 @@ year: 2021
 citations: 87
 bibkey: pillutla2021measuring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.01454'}]
-tags: [Language Modeling]
+tags: [Language Modeling, Evaluation]
 ---
 As major progress is made in open-ended text generation, measuring how close
 machine-generated text is to human language remains a critical open problem. We

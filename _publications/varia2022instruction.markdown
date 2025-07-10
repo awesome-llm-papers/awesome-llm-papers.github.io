@@ -2,12 +2,13 @@
 layout: publication
 title: Instruction Tuning For Few-shot Aspect-based Sentiment Analysis
 authors: Siddharth Varia et al.
-conference: Arxiv
+conference: Proceedings of the 13th Workshop on Computational Approaches to Subjectivity,
+  Sentiment, & Social Media Analysis
 year: 2022
 citations: 15
 bibkey: varia2022instruction
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.06629'}]
-tags: [Few-Shot, Tools, Prompting]
+tags: [Tools, Few-Shot, Prompting, Evaluation]
 ---
 Aspect-based Sentiment Analysis (ABSA) is a fine-grained sentiment analysis
 task which involves four elements from user-generated texts: aspect term,

@@ -2,12 +2,13 @@
 layout: publication
 title: Internet-augmented Dialogue Generation
 authors: Mojtaba Komeili, Kurt Shuster, Jason Weston
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
 citations: 53
 bibkey: komeili2021internet
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.07566'}]
-tags: [Training Techniques, Agentic]
+tags: [Agentic, Training Techniques]
 ---
 The largest store of continually updating knowledge on our planet can be
 accessed via internet search. In this work we study giving access to this

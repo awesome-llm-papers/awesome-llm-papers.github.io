@@ -3,12 +3,14 @@ layout: publication
 title: Prompting Or Fine-tuning? A Comparative Study Of Large Language Models For
   Taxonomy Construction
 authors: "Boqi Chen, Fandi Yi, D\xE1niel Varr\xF3"
-conference: Arxiv
+conference: 2023 ACM/IEEE International Conference on Model Driven Engineering Languages
+  and Systems Companion (MODELS-C)
 year: 2023
 citations: 15
 bibkey: chen2023prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.01715'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Tools, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Tools, Prompting, Training Techniques,
+  Evaluation]
 ---
 Taxonomies represent hierarchical relations between entities, frequently
 applied in various software modeling and natural language processing (NLP)

@@ -7,7 +7,7 @@ year: 2022
 citations: 28
 bibkey: bavarian2022efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.14255'}]
-tags: [Efficiency and Optimization, Tools, GPT, Training Techniques]
+tags: [GPT, Tools, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 We show that autoregressive language models can learn to infill text after we
 apply a straightforward transformation to the dataset, which simply moves a

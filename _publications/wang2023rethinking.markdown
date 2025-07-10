@@ -3,13 +3,15 @@ layout: publication
 title: Rethinking The Evaluation For Conversational Recommendation In The Era Of Large
   Language Models
 authors: Xiaolei Wang, Xinyu Tang, Wayne Xin Zhao, Jingyuan Wang, Ji-rong Wen
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 31
+citations: 33
 bibkey: wang2023rethinking
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.13112v2'}, {name: Code,
     url: 'https://github.com/RUCAIBox/iEvaLM-CRS'}]
-tags: [GPT, Tools, Interpretability and Explainability, RecSys, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, RecSys, Tools, Interpretability and Explainability,
+  GPT, Evaluation]
 ---
 The recent success of large language models (LLMs) has shown great potential
 to develop more powerful conversational recommender systems (CRSs), which rely

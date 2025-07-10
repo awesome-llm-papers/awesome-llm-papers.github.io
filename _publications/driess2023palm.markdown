@@ -4,10 +4,10 @@ title: 'Palm-e: An Embodied Multimodal Language Model'
 authors: Danny Driess et al.
 conference: Arxiv
 year: 2023
-citations: 286
+citations: 287
 bibkey: driess2023palm
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.03378v1'}]
-tags: [Reinforcement Learning, Training Techniques, Multimodal Models]
+tags: [Reinforcement Learning, Training Techniques, Multimodal Models, Evaluation]
 ---
 Large language models excel at a wide range of complex tasks. However,
 enabling general inference in the real world, e.g., for robotics problems,

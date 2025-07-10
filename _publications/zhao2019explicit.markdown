@@ -8,8 +8,8 @@ citations: 80
 bibkey: zhao2019explicit
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.11637'}, {name: Code,
     url: 'https://github.com/lancopku/Explicit-Sparse-Transformer'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, Has Code, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Attention Mechanism, Transformer,
+  Training Techniques]
 ---
 Self-attention based Transformer has demonstrated the state-of-the-art
 performances in a number of natural language processing tasks. Self-attention

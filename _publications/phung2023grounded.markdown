@@ -2,12 +2,13 @@
 layout: publication
 title: Grounded Text-to-image Synthesis With Attention Refocusing
 authors: Quynh Phung, Songwei Ge, Jia-bin Huang
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
 citations: 21
 bibkey: phung2023grounded
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.05427'}]
-tags: [Transformer, Merging, Attention Mechanism, Prompting, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Prompting, Evaluation,
+  Merging]
 ---
 Driven by the scalable diffusion models trained on large-scale datasets,
 text-to-image synthesis methods have shown compelling results. However, these

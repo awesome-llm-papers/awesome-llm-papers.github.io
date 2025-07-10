@@ -3,13 +3,14 @@ layout: publication
 title: 'Triviaqa: A Large Scale Distantly Supervised Challenge Dataset For Reading
   Comprehension'
 authors: Mandar Joshi, Eunsol Choi, Daniel S. Weld, Luke Zettlemoyer
-conference: Arxiv
+conference: 'Proceedings of the 55th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2017
-citations: 420
+citations: 428
 bibkey: joshi2017large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1705.03551'}, {name: Code,
     url: 'http://nlp.cs.washington.edu/triviaqa/'}]
-tags: [RAG, Has Code]
+tags: [Has Code, RAG]
 ---
 We present TriviaQA, a challenging reading comprehension dataset containing
 over 650K question-answer-evidence triples. TriviaQA includes 95K

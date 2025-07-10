@@ -7,7 +7,7 @@ year: 2020
 citations: 101
 bibkey: xu2020recipes
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.07079'}]
-tags: [Ethics and Bias, Tools, Responsible AI, Training Techniques]
+tags: [Responsible AI, Ethics and Bias, Tools, Training Techniques, Evaluation]
 ---
 Models trained on large unlabeled corpora of human interactions will learn
 patterns and mimic behaviors therein, which include offensive or otherwise

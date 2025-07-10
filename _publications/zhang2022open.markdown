@@ -4,10 +4,10 @@ title: 'OPT: Open Pre-trained Transformer Language Models'
 authors: Susan Zhang et al.
 conference: Arxiv
 year: 2022
-citations: 809
+citations: 811
 bibkey: zhang2022open
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2205.01068v4'}]
-tags: [GPT, Transformer, Few-Shot, Tools, Model Architecture]
+tags: [Model Architecture, Transformer, Few-Shot, Tools, GPT]
 ---
 Large language models, which are often trained for hundreds of thousands of
 compute days, have shown remarkable capabilities for zero- and few-shot

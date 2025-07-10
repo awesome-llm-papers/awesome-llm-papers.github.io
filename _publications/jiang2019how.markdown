@@ -2,13 +2,13 @@
 layout: publication
 title: How Can We Know What Language Models Know?
 authors: Zhengbao Jiang, Frank F. Xu, Jun Araki, Graham Neubig
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2019
-citations: 455
+citations: 471
 bibkey: jiang2019how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.12543'}, {name: Code,
     url: 'https://github.com/jzbjyb/LPAQA'}]
-tags: [Has Code, Prompting]
+tags: [Has Code, Prompting, Evaluation]
 ---
 Recent work has presented intriguing results examining the knowledge
 contained in language models (LM) by having the LM fill in the blanks of

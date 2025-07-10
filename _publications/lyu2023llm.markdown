@@ -2,12 +2,12 @@
 layout: publication
 title: 'Llm-rec: Personalized Recommendation Via Prompting Large Language Models'
 authors: Hanjia Lyu et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: NAACL 2024'
 year: 2023
 citations: 34
 bibkey: lyu2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.15780'}]
-tags: [Applications, Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Prompting, Applications]
 ---
 Text-based recommendation holds a wide range of practical applications due to
 its versatility, as textual descriptions can represent nearly any type of item.

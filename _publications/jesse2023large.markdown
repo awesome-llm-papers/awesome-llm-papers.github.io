@@ -2,9 +2,10 @@
 layout: publication
 title: Large Language Models And Simple, Stupid Bugs
 authors: Kevin Jesse, Toufique Ahmed, Premkumar T. Devanbu, Emily Morgan
-conference: Arxiv
+conference: 2023 IEEE/ACM 20th International Conference on Mining Software Repositories
+  (MSR)
 year: 2023
-citations: 20
+citations: 26
 bibkey: jesse2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.11455'}]
 tags: [Training Techniques, Prompting]

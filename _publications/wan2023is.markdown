@@ -3,13 +3,13 @@ layout: publication
 title: '"kelly Is A Warm Person, Joseph Is A Role Model": Gender Biases In Llm-generated
   Reference Letters'
 authors: Yixin Wan et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
-citations: 36
+citations: 46
 bibkey: wan2023is
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.09219'}]
-tags: [Ethics and Bias, GPT, Reinforcement Learning, Fairness, Bias Mitigation, Model
-    Architecture]
+tags: [Model Architecture, Ethics and Bias, Fairness, Reinforcement Learning, Bias
+    Mitigation, GPT, Evaluation]
 ---
 Large Language Models (LLMs) have recently emerged as an effective tool to
 assist individuals in writing various types of content, including professional

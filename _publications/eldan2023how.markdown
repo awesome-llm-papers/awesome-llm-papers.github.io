@@ -7,8 +7,8 @@ year: 2023
 citations: 38
 bibkey: eldan2023how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.07759'}]
-tags: [Training Techniques, Transformer, GPT, RAG, Tools, Attention Mechanism, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, GPT, Transformer, RAG, Tools, Training
+    Techniques, Evaluation]
 ---
 Language models (LMs) are powerful tools for natural language processing, but
 they often struggle to produce coherent and fluent text when they are small.

@@ -2,12 +2,13 @@
 layout: publication
 title: 'Character-llm: A Trainable Agent For Role-playing'
 authors: Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 31
+citations: 37
 bibkey: shao2023character
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.10158'}]
-tags: [GPT, Training Techniques, Tools, Agentic, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Tools, Prompting, Agentic, Training Techniques]
 ---
 Large language models (LLMs) can be used to serve as agents to simulate human
 behaviors, given the powerful ability to understand human instructions and

@@ -2,13 +2,14 @@
 layout: publication
 title: 'Mobilebert: A Compact Task-agnostic BERT For Resource-limited Devices'
 authors: Zhiqing Sun et al.
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
-citations: 261
+citations: 267
 bibkey: sun2020compact
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.02984'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Attention Mechanism, BERT, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Fine-Tuning, BERT, Training
+    Techniques, Evaluation]
 ---
 Natural Language Processing (NLP) has recently achieved great success by
 using huge pre-trained models with hundreds of millions of parameters. However,

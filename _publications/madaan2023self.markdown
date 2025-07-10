@@ -4,10 +4,11 @@ title: 'Self-refine: Iterative Refinement With Self-feedback'
 authors: Aman Madaan et al.
 conference: Arxiv
 year: 2023
-citations: 136
+citations: 137
 bibkey: madaan2023self
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.17651'}]
-tags: [GPT, Training Techniques, RAG, Reinforcement Learning, Agentic, Model Architecture]
+tags: [Model Architecture, GPT, RAG, Reinforcement Learning, Agentic, Training Techniques,
+  Evaluation]
 ---
 Like humans, large language models (LLMs) do not always generate the best
 output on their first try. Motivated by how humans refine their written text,

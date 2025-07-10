@@ -3,12 +3,13 @@ layout: publication
 title: 'Increasing Diversity While Maintaining Accuracy: Text Data Generation With
   Large Language Models And Human Interventions'
 authors: John Joon Young Chung, Ece Kamar, Saleema Amershi
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
 citations: 34
 bibkey: chung2023increasing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.04140'}]
-tags: [Language Modeling, Few-Shot, Training Techniques, ACL]
+tags: [ACL, Language Modeling, Training Techniques, Few-Shot]
 ---
 Large language models (LLMs) can be used to generate text data for training
 and evaluating other models. However, creating high-quality datasets with LLMs

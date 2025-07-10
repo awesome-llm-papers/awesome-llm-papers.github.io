@@ -4,11 +4,11 @@ title: 'Bartscore: Evaluating Generated Text As Text Generation'
 authors: Weizhe Yuan, Graham Neubig, Pengfei Liu
 conference: Arxiv
 year: 2021
-citations: 281
+citations: 282
 bibkey: yuan2021evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.11520'}, {name: Code,
     url: 'https://github.com/neulab/BARTScore,'}, {name: Code, url: 'http://explainaboard.nlpedia.ai/leaderboard/task-meval/'}]
-tags: [Language Modeling, Has Code, Applications, Tools]
+tags: [Language Modeling, Has Code, Applications, Tools, Evaluation]
 ---
 A wide variety of NLP applications, such as machine translation,
 summarization, and dialog, involve text generation. One major challenge for

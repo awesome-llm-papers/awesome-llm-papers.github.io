@@ -2,12 +2,12 @@
 layout: publication
 title: Fully Autonomous Programming With Large Language Models
 authors: "Vadim Liventsev, Anastasiia Grishina, Aki H\xE4rm\xE4, Leon Moonen"
-conference: Arxiv
+conference: 'GECCO ''23: Genetic and Evolutionary Computation Conference'
 year: 2023
-citations: 24
+citations: 26
 bibkey: liventsev2023fully
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.10423'}]
-tags: [Tools, Prompting]
+tags: [Tools, Prompting, Evaluation]
 ---
 Current approaches to program synthesis with Large Language Models (LLMs)
 exhibit a "near miss syndrome": they tend to generate programs that

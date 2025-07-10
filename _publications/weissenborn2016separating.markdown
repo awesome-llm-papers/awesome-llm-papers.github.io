@@ -7,7 +7,7 @@ year: 2016
 citations: 18
 bibkey: weissenborn2016separating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1607.03316'}]
-tags: [RAG, Reinforcement Learning, Model Architecture]
+tags: [Reinforcement Learning, RAG, Model Architecture, Evaluation]
 ---
 We present a novel neural architecture for answering queries, designed to
 optimally leverage explicit support in the form of query-answer memories. Our

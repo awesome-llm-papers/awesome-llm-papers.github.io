@@ -3,12 +3,12 @@ layout: publication
 title: Performance Of The Pre-trained Large Language Model GPT-4 On Automated Short
   Answer Grading
 authors: Gerd Kortemeyer
-conference: Arxiv
+conference: Discover Artificial Intelligence
 year: 2023
-citations: 16
+citations: 17
 bibkey: kortemeyer2023performance
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.09338'}]
-tags: [Training Techniques, Model Architecture, GPT]
+tags: [Training Techniques, Model Architecture, Evaluation, GPT]
 ---
 Automated Short Answer Grading (ASAG) has been an active area of
 machine-learning research for over a decade. It promises to let educators grade

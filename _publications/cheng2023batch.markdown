@@ -2,13 +2,15 @@
 layout: publication
 title: 'Batch Prompting: Efficient Inference With Large Language Model Apis'
 authors: Zhoujun Cheng, Jungo Kasai, Tao Yu
-conference: Arxiv
+conference: 'Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing: Industry Track'
 year: 2023
-citations: 15
+citations: 16
 bibkey: cheng2023batch
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.08721'}, {name: Code,
     url: 'https://github.com/xlang-ai/batch-prompting'}]
-tags: [GPT, Few-Shot, Tools, Reinforcement Learning, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Few-Shot, Tools, Reinforcement Learning, Prompting,
+  GPT]
 ---
 Performing inference on large volumes of samples with large language models
 (LLMs) can be computationally and financially costly in industry and real-world

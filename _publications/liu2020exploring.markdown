@@ -8,7 +8,7 @@ year: 2020
 citations: 17
 bibkey: liu2020exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.14218'}]
-tags: [Training Techniques, RAG, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, Training Techniques, BERT]
 ---
 Recently, fine-tuning pre-trained language models (e.g., multilingual BERT)
 to downstream cross-lingual tasks has shown promising results. However, the

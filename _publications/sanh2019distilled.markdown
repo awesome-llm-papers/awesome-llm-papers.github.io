@@ -4,11 +4,11 @@ title: 'Distilbert, A Distilled Version Of BERT: Smaller, Faster, Cheaper And Li
 authors: Victor Sanh, Lysandre Debut, Julien Chaumond, Thomas Wolf
 conference: Arxiv
 year: 2019
-citations: 4289
+citations: 4293
 bibkey: sanh2019distilled
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.01108'}]
-tags: [Ethics and Bias, Distillation, Training Techniques, RAG, Pre-Training, Fine-Tuning,
-  BERT, Efficiency and Optimization, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Ethics and Bias, Distillation, Fine-Tuning,
+  RAG, Pre-Training, BERT, Efficiency and Optimization, Training Techniques]
 ---
 As Transfer Learning from large-scale pre-trained models becomes more
 prevalent in Natural Language Processing (NLP), operating these large models in

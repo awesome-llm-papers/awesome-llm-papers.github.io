@@ -2,12 +2,12 @@
 layout: publication
 title: Meaningful Answer Generation Of E-commerce Question-answering
 authors: Shen Gao, Xiuying Chen, Zhaochun Ren, Dongyan Zhao, Rui Yan
-conference: Arxiv
+conference: ACM Transactions on Information Systems
 year: 2020
 citations: 19
 bibkey: gao2020meaningful
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.07307'}]
-tags: [Language Modeling, Tools, Reinforcement Learning, Survey Paper]
+tags: [Language Modeling, Survey Paper, Reinforcement Learning, Tools, Evaluation]
 ---
 In e-commerce portals, generating answers for product-related questions has
 become a crucial task. In this paper, we focus on the task of product-aware

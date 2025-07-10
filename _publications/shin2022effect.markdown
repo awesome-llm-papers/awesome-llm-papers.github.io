@@ -3,13 +3,14 @@ layout: publication
 title: On The Effect Of Pretraining Corpora On In-context Learning By A Large-scale
   Language Model
 authors: Seongjin Shin et al.
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2022
 citations: 18
 bibkey: shin2022effect
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2204.13509v2'}]
-tags: [Training Techniques, GPT, Few-Shot, In-Context Learning, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Few-Shot, In-Context Learning,
+  Training Techniques]
 ---
 Many recent studies on large-scale language models have reported successful
 in-context zero- and few-shot learning ability. However, the in-depth analysis

@@ -3,12 +3,13 @@ layout: publication
 title: Probing Pretrained Language Models For Lexical Semantics
 authors: "Ivan Vuli\u0107, Edoardo Maria Ponti, Robert Litschko, Goran Glava\u0161\
   , Anna Korhonen"
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 49
+citations: 50
 bibkey: "vuli\u01072020probing"
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2010.05731v1'}]
-tags: [Transformer, Merging, RAG, Reinforcement Learning, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, RAG, Reinforcement Learning, BERT, Merging]
 ---
 The success of large pretrained language models (LMs) such as BERT and
 RoBERTa has sparked interest in probing their representations, in order to

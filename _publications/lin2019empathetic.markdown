@@ -7,7 +7,7 @@ year: 2019
 citations: 24
 bibkey: lin2019empathetic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.12108'}]
-tags: [Language Modeling, Agentic]
+tags: [Agentic, Language Modeling]
 ---
 In this paper, we present an end-to-end empathetic conversation agent CAiRE.
 Our system adapts TransferTransfo (Wolf et al., 2019) learning approach that

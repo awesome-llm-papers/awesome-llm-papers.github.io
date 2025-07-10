@@ -2,13 +2,13 @@
 layout: publication
 title: Evaluating Commonsense In Pre-trained Language Models
 authors: Xuhui Zhou, Yue Zhang, Leyang Cui, Dandan Huang
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
 citations: 46
 bibkey: zhou2019evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.11931'}]
-tags: [Training Techniques, GPT, Merging, Reinforcement Learning, BERT, Security,
-  Language Modeling, Model Architecture]
+tags: [Language Modeling, Security, Model Architecture, GPT, Reinforcement Learning,
+  BERT, Training Techniques, Evaluation, Merging]
 ---
 Contextualized representations trained over large raw text data have given
 remarkable improvements for NLP tasks including question answering and reading

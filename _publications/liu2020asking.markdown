@@ -3,12 +3,12 @@ layout: publication
 title: 'Asking Questions The Human Way: Scalable Question-answer Generation From Text
   Corpus'
 authors: Bang Liu, Haojie Wei, Di Niu, Haolan Chen, Yancheng He
-conference: Arxiv
+conference: 'WWW ''20: The Web Conference 2020'
 year: 2020
 citations: 41
 bibkey: liu2020asking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.00748'}]
-tags: [RAG]
+tags: [RAG, Evaluation]
 ---
 The ability to ask questions is important in both human and machine
 intelligence. Learning to ask questions helps knowledge acquisition, improves

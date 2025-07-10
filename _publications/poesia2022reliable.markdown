@@ -7,8 +7,8 @@ year: 2022
 citations: 57
 bibkey: poesia2022reliable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.11227'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Few-Shot, Tools, Reinforcement
-    Learning, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Few-Shot, Tools, Reinforcement Learning,
+  Training Techniques]
 ---
 Large pre-trained language models have been used to generate code,providing a
 flexible interface for synthesizing programs from natural language

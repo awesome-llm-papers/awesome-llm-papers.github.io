@@ -7,7 +7,7 @@ year: 2023
 citations: 24
 bibkey: li2023mimic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.05425'}]
-tags: [GPT, Model Architecture, In-Context Learning, Multimodal Models]
+tags: [Model Architecture, In-Context Learning, Multimodal Models, GPT, Evaluation]
 ---
 High-quality instructions and responses are essential for the zero-shot
 performance of large language models on interactive natural language tasks. For

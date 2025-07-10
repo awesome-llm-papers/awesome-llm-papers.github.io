@@ -8,8 +8,8 @@ year: 2022
 citations: 17
 bibkey: wang2022exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.04173'}]
-tags: [Ethics and Bias, Training Techniques, GPT, RAG, Pre-Training, Efficiency and
-    Optimization, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, RAG, Pre-Training, Efficiency and
+    Optimization, Training Techniques, Evaluation]
 ---
 Pre-trained language models (LMs) are shown to easily generate toxic
 language. In this work, we systematically explore domain-adaptive training to

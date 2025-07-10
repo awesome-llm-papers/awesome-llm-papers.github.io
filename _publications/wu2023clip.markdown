@@ -2,14 +2,14 @@
 layout: publication
 title: 'Tinyclip: CLIP Distillation Via Affinity Mimicking And Weight Inheritance'
 authors: Kan Stephen Wu et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2023
 citations: 22
 bibkey: wu2023clip
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.12314'}, {name: Code,
     url: 'https://aka.ms/tinyclip'}]
-tags: [Distillation, Training Techniques, Efficiency and Optimization, Has Code, Multimodal
-    Models]
+tags: [Has Code, Distillation, Multimodal Models, Efficiency and Optimization, Training
+    Techniques]
 ---
 In this paper, we propose a novel cross-modal distillation method, called
 TinyCLIP, for large-scale language-image pre-trained models. The method

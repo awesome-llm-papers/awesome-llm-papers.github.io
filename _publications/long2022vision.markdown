@@ -2,12 +2,13 @@
 layout: publication
 title: 'Vision-and-language Pretrained Models: A Survey'
 authors: Siqu Long, Feiqi Cao, Soyeon Caren Han, Haiqin Yang
-conference: Arxiv
+conference: Thirty-First International Joint Conference on Artificial Intelligence
+  {IJCAI-22}
 year: 2022
-citations: 20
+citations: 21
 bibkey: long2022vision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.07356'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Survey Paper, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, Survey Paper, Training Techniques]
 ---
 Pretrained models have produced great success in both Computer Vision (CV)
 and Natural Language Processing (NLP). This progress leads to learning joint

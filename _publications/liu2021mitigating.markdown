@@ -2,13 +2,13 @@
 layout: publication
 title: Mitigating Political Bias In Language Models Through Reinforced Calibration
 authors: Ruibo Liu et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2021
 citations: 24
 bibkey: liu2021mitigating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.14795'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Reinforcement Learning, Tools, Model
-    Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, Tools, Reinforcement Learning, Training
+    Techniques, Evaluation]
 ---
 Current large-scale language models can be politically biased as a result of
 the data they are trained on, potentially causing serious problems when they

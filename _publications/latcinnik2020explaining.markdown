@@ -7,8 +7,8 @@ year: 2020
 citations: 55
 bibkey: latcinnik2020explaining
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.05569'}]
-tags: [Training Techniques, RAG, Reinforcement Learning, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, RAG, Reinforcement Learning, Training
+    Techniques]
 ---
 Large pre-trained language models (LMs) have been shown to perform
 surprisingly well when fine-tuned on tasks that require commonsense and world

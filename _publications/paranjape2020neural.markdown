@@ -8,7 +8,7 @@ year: 2020
 citations: 26
 bibkey: paranjape2020neural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.12348'}]
-tags: [RAG, Tools, Agentic, Reinforcement Learning]
+tags: [Agentic, Tools, Reinforcement Learning, RAG]
 ---
 We present Chirpy Cardinal, an open-domain dialogue agent, as a research
 platform for the 2019 Alexa Prize competition. Building an open-domain

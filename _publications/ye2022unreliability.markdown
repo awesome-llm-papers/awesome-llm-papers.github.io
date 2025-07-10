@@ -4,11 +4,11 @@ title: The Unreliability Of Explanations In Few-shot Prompting For Textual Reaso
 authors: Xi Ye, Greg Durrett
 conference: Arxiv
 year: 2022
-citations: 42
+citations: 44
 bibkey: ye2022unreliability
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2205.03401v2'}]
-tags: [GPT, Few-Shot, Interpretability and Explainability, In-Context Learning, Prompting,
-  Model Architecture]
+tags: [Model Architecture, Few-Shot, Interpretability and Explainability, In-Context
+    Learning, Prompting, GPT]
 ---
 Does prompting a large language model (LLM) like GPT-3 with explanations
 improve in-context learning? We study this question on two NLP tasks that

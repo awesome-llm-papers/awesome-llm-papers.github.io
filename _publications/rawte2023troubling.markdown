@@ -3,12 +3,13 @@ layout: publication
 title: The Troubling Emergence Of Hallucination In Large Language Models -- An Extensive
   Definition, Quantification, And Prescriptive Remediations
 authors: Vipula Rawte et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 35
+citations: 39
 bibkey: rawte2023troubling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.04988'}]
-tags: [RAG, Security, Merging]
+tags: [Security, RAG, Merging]
 ---
 The recent advancements in Large Language Models (LLMs) have garnered
 widespread acclaim for their remarkable emerging capabilities. However, the

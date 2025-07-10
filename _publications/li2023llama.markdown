@@ -2,13 +2,13 @@
 layout: publication
 title: 'Llama-vid: An Image Is Worth 2 Tokens In Large Language Models'
 authors: Yanwei Li, Chengyao Wang, Jiaya Jia
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2023
-citations: 22
+citations: 25
 bibkey: li2023llama
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.17043'}, {name: Code,
     url: 'https://github.com/dvlab-research/LLaMA-VID}{https://github.com/dvlab-research/LLaMA-VID'}]
-tags: [Has Code, Tools, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, Has Code, Evaluation]
 ---
 In this work, we present a novel method to tackle the token generation
 challenge in Vision Language Models (VLMs) for video and image understanding,

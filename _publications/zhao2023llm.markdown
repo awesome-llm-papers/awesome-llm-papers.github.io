@@ -2,13 +2,13 @@
 layout: publication
 title: 'Expel: LLM Agents Are Experiential Learners'
 authors: Andrew Zhao et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 31
+citations: 34
 bibkey: zhao2023llm
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2308.10144v2'}]
-tags: [Training Techniques, GPT, Merging, RAG, Fine-Tuning, Tools, Reinforcement Learning,
-  Agentic, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Tools, Reinforcement Learning, Agentic,
+  Training Techniques, Merging]
 ---
 The recent surge in research interest in applying large language models
 (LLMs) to decision-making tasks has flourished by leveraging the extensive

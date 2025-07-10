@@ -7,7 +7,8 @@ year: 2023
 citations: 33
 bibkey: sha2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.03026'}]
-tags: [RAG, Efficiency and Optimization, Responsible AI, Interpretability and Explainability]
+tags: [Interpretability and Explainability, Efficiency and Optimization, RAG, Responsible
+    AI]
 ---
 Existing learning-based autonomous driving (AD) systems face challenges in
 comprehending high-level information, generalizing to rare events, and

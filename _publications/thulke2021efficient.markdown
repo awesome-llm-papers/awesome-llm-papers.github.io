@@ -8,7 +8,7 @@ year: 2021
 citations: 29
 bibkey: thulke2021efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.04643'}]
-tags: [RAG, Tools]
+tags: [Tools, RAG]
 ---
 This paper summarizes our work on the first track of the ninth Dialog System
 Technology Challenge (DSTC 9), "Beyond Domain APIs: Task-oriented

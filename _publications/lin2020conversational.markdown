@@ -8,7 +8,7 @@ year: 2020
 citations: 37
 bibkey: lin2020conversational
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.01909'}]
-tags: [RAG, Transformer, Model Architecture]
+tags: [Transformer, RAG, Model Architecture, Evaluation]
 ---
 This paper presents an empirical study of conversational question
 reformulation (CQR) with sequence-to-sequence architectures and pretrained

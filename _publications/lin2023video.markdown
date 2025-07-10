@@ -2,13 +2,14 @@
 layout: publication
 title: 'Video-llava: Learning United Visual Representation By Alignment Before Projection'
 authors: Bin Lin et al.
-conference: Arxiv
+conference: Proceedings of the 2024 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 42
+citations: 44
 bibkey: lin2023video
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.10122'}, {name: Code,
     url: 'https://github.com/PKU-YuanGroup/Video-LLaVA'}]
-tags: [GPT, Has Code, Multimodal Models, Model Architecture, Tokenization]
+tags: [Has Code, Tokenization, Model Architecture, Multimodal Models, GPT, Evaluation]
 ---
 The Large Vision-Language Model (LVLM) has enhanced the performance of
 various downstream tasks in visual-language understanding. Most existing

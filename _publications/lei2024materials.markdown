@@ -2,12 +2,12 @@
 layout: publication
 title: 'Materials Science In The Era Of Large Language Models: A Perspective'
 authors: Ge Lei, Ronan Docherty, Samuel J. Cooper
-conference: Digital Discovery 20243 1257-1272
+conference: Digital Discovery
 year: 2024
-citations: 28
+citations: 30
 bibkey: lei2024materials
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.06949'}]
-tags: [RAG, Fine-Tuning, Tools, ACL]
+tags: [ACL, Tools, Fine-Tuning, RAG]
 ---
 Large Language Models (LLMs) have garnered considerable interest due to their
 impressive natural language capabilities, which in conjunction with various

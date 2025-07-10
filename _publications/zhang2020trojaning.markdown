@@ -2,12 +2,12 @@
 layout: publication
 title: Trojaning Language Models For Fun And Profit
 authors: Xinyang Zhang, Zheng Zhang, Shouling Ji, Ting Wang
-conference: Arxiv
+conference: 2021 IEEE European Symposium on Security and Privacy (EuroS&P)
 year: 2020
 citations: 54
 bibkey: zhang2020trojaning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.00312'}]
-tags: [GPT, Tools, BERT, Security, Model Architecture]
+tags: [Security, Model Architecture, GPT, Tools, BERT]
 ---
 Recent years have witnessed the emergence of a new paradigm of building
 natural language processing (NLP) systems: general-purpose, pre-trained

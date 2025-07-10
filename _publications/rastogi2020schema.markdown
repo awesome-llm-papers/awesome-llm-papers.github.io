@@ -7,7 +7,7 @@ year: 2020
 citations: 35
 bibkey: rastogi2020schema
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.01359'}]
-tags: [Tools, Training Techniques]
+tags: [Tools, Training Techniques, Evaluation]
 ---
 This paper gives an overview of the Schema-Guided Dialogue State Tracking
 task of the 8th Dialogue System Technology Challenge. The goal of this task is

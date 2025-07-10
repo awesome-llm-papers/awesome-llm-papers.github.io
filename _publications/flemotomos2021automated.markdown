@@ -3,13 +3,13 @@ layout: publication
 title: Automated Quality Assessment Of Cognitive Behavioral Therapy Sessions Through
   Highly Contextualized Language Representations
 authors: Nikolaos Flemotomos et al.
-conference: Arxiv
+conference: PLOS ONE
 year: 2021
 citations: 20
 bibkey: flemotomos2021automated
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.11573'}]
-tags: [Reinforcement Learning, Interpretability and Explainability, Model Architecture,
-  BERT]
+tags: [Model Architecture, Interpretability and Explainability, Reinforcement Learning,
+  BERT, Evaluation]
 ---
 During a psychotherapy session, the counselor typically adopts techniques
 which are codified along specific dimensions (e.g., 'displays warmth and

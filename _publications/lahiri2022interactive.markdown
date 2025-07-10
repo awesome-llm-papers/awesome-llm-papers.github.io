@@ -7,7 +7,7 @@ year: 2022
 citations: 17
 bibkey: lahiri2022interactive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.05950'}]
-tags: [RAG, Efficiency and Optimization, Pruning]
+tags: [Pruning, RAG, Efficiency and Optimization, Evaluation]
 ---
 Large language models (LLMs) have shown great potential in automating
 significant aspects of coding by producing natural code from informal natural

@@ -2,9 +2,11 @@
 layout: publication
 title: Generation-augmented Retrieval For Open-domain Question Answering
 authors: Yuning Mao et al.
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2020
-citations: 46
+citations: 48
 bibkey: mao2020generation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.08553'}]
 tags: [Language Modeling]

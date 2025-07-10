@@ -2,13 +2,15 @@
 layout: publication
 title: 'Prefix-tuning: Optimizing Continuous Prompts For Generation'
 authors: Xiang Lisa Li, Percy Liang
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
-citations: 850
+citations: 882
 bibkey: li2021prefix
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00190'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Prompting, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Fine-Tuning, RAG, Prompting, Training
+    Techniques]
 ---
 Fine-tuning is the de facto way to leverage large pretrained language models
 to perform downstream tasks. However, it modifies all the language model

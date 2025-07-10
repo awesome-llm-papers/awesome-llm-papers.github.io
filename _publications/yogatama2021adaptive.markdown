@@ -2,12 +2,12 @@
 layout: publication
 title: Adaptive Semiparametric Language Models
 authors: Dani Yogatama, Cyprien De Masson D'autume, Lingpeng Kong
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2021
 citations: 16
 bibkey: yogatama2021adaptive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.02557'}]
-tags: [Language Modeling, Transformer, Model Architecture]
+tags: [Transformer, Language Modeling, Model Architecture]
 ---
 We present a language model that combines a large parametric neural network
 (i.e., a transformer) with a non-parametric episodic memory component in an

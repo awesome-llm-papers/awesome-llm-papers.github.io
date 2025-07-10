@@ -2,12 +2,13 @@
 layout: publication
 title: Masking As An Efficient Alternative To Finetuning For Pretrained Language Models
 authors: "Mengjie Zhao, Tao Lin, Fei Mi, Martin Jaggi, Hinrich Sch\xFCtze"
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 26
+citations: 28
 bibkey: zhao2020masking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.12406'}]
-tags: [Masked Language Model, Reinforcement Learning, Model Architecture, BERT]
+tags: [Model Architecture, Masked Language Model, Reinforcement Learning, BERT, Evaluation]
 ---
 We present an efficient method of utilizing pretrained language models, where
 we learn selective binary masks for pretrained weights in lieu of modifying

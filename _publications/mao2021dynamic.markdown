@@ -2,13 +2,14 @@
 layout: publication
 title: 'DYLE: Dynamic Latent Extraction For Abstractive Long-input Summarization'
 authors: Ziming Mao et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
 citations: 19
 bibkey: mao2021dynamic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.08168'}]
-tags: [Transformer, RAG, Attention Mechanism, Interpretability and Explainability,
-  Model Architecture, Arxiv, ACL]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, ACL, Arxiv, Interpretability
+    and Explainability]
 ---
 Transformer-based models have achieved state-of-the-art performance on
 short-input summarization. However, they still struggle with summarizing longer

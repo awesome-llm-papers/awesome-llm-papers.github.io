@@ -2,12 +2,13 @@
 layout: publication
 title: Scheduled Sampling For Transformers
 authors: "Tsvetomila Mihaylova, Andr\xE9 F. T. Martins"
-conference: ACL 2019 Student Research Workshop
+conference: 'Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics: Student Research Workshop'
 year: 2019
 citations: 25
 bibkey: mihaylova2019scheduled
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.07651'}]
-tags: [Ethics and Bias, Training Techniques, Transformer, Fine-Tuning, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, Transformer, Fine-Tuning, Training Techniques]
 ---
 Scheduled sampling is a technique for avoiding one of the known problems in
 sequence-to-sequence generation: exposure bias. It consists of feeding the

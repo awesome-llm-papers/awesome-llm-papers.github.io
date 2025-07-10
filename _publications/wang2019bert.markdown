@@ -8,7 +8,7 @@ year: 2019
 citations: 139
 bibkey: wang2019bert
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.04094'}]
-tags: [Model Architecture, BERT]
+tags: [BERT, Model Architecture]
 ---
 We show that BERT (Devlin et al., 2018) is a Markov random field language
 model. This formulation gives way to a natural procedure to sample sentences

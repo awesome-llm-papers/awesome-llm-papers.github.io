@@ -8,7 +8,8 @@ citations: 36
 bibkey: wang2023aligning
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2307.12966v1'}, {name: Code,
     url: 'https://github.com/GaryYufei/AlignLLMHumanSurvey'}]
-tags: [Ethics and Bias, Training Techniques, RAG, Fine-Tuning, Has Code, Survey Paper]
+tags: [Has Code, Ethics and Bias, Fine-Tuning, RAG, Survey Paper, Training Techniques,
+  Evaluation]
 ---
 Large Language Models (LLMs) trained on extensive textual corpora have
 emerged as leading solutions for a broad array of Natural Language Processing

@@ -3,13 +3,13 @@ layout: publication
 title: 'A New Path: Scaling Vision-and-language Navigation With Synthetic Instructions
   And Imitation Learning'
 authors: Aishwarya Kamath et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
 citations: 19
 bibkey: kamath2022new
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.03112'}]
-tags: [Training Techniques, Transformer, RAG, Reinforcement Learning, Agentic, Model
-    Architecture]
+tags: [Model Architecture, Transformer, RAG, Reinforcement Learning, Agentic, Training
+    Techniques]
 ---
 Recent studies in Vision-and-Language Navigation (VLN) train RL agents to
 execute natural-language navigation instructions in photorealistic

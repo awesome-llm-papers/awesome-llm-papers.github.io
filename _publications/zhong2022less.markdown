@@ -3,12 +3,13 @@ layout: publication
 title: 'Less Is More: Learning To Refine Dialogue History For Personalized Dialogue
   Generation'
 authors: Hanxun Zhong, Zhicheng Dou, Yutao Zhu, Hongjin Qian, Ji-rong Wen
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2022
 citations: 25
 bibkey: zhong2022less
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.08128'}]
-tags: [RAG, Reinforcement Learning, Attention Mechanism, Model Architecture]
+tags: [Reinforcement Learning, RAG, Model Architecture, Attention Mechanism]
 ---
 Personalized dialogue systems explore the problem of generating responses
 that are consistent with the user's personality, which has raised much

@@ -2,12 +2,13 @@
 layout: publication
 title: Hard-coded Gaussian Attention For Neural Machine Translation
 authors: Weiqiu You, Simeng Sun, Mohit Iyyer
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
 citations: 17
 bibkey: you2020hard
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00742'}]
-tags: [Attention Mechanism, Transformer, Model Architecture]
+tags: [Transformer, Model Architecture, Attention Mechanism]
 ---
 Recent work has questioned the importance of the Transformer's multi-headed
 attention for achieving high translation quality. We push further in this

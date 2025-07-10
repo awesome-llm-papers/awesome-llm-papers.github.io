@@ -7,8 +7,8 @@ year: 2024
 citations: 20
 bibkey: balaguer2024rag
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.08406'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Applications, Prompting, Model
-    Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Applications, Prompting, Training
+    Techniques, Evaluation]
 ---
 There are two common ways in which developers are incorporating proprietary
 and domain-specific data when building applications of Large Language Models

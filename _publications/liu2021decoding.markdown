@@ -2,12 +2,14 @@
 layout: publication
 title: 'Dexperts: Decoding-time Controlled Text Generation With Experts And Anti-experts'
 authors: Alisa Liu et al.
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
-citations: 30
+citations: 32
 bibkey: liu2021decoding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.03023'}]
-tags: [Language Modeling, GPT, Model Architecture]
+tags: [Language Modeling, GPT, Model Architecture, Evaluation]
 ---
 Despite recent advances in natural language generation, it remains
 challenging to control attributes of generated text. We propose DExperts:

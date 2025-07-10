@@ -2,13 +2,13 @@
 layout: publication
 title: Probing Natural Language Inference Models Through Semantic Fragments
 authors: Kyle Richardson, Hai Hu, Lawrence S. Moss, Ashish Sabharwal
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
 citations: 30
 bibkey: richardson2019probing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.07521'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Tools, Reinforcement Learning, BERT,
-  Model Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, Reinforcement Learning, Tools, BERT,
+  Training Techniques, Evaluation]
 ---
 Do state-of-the-art models for language understanding already have, or can
 they easily learn, abilities such as boolean coordination, quantification,

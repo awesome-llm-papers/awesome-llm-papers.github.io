@@ -2,13 +2,14 @@
 layout: publication
 title: Generative Language Models For Paragraph-level Question Generation
 authors: Asahi Ushio, Fernando Alva-manchego, Jose Camacho-collados
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
 citations: 19
 bibkey: ushio2022generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.03992'}, {name: Code,
     url: 'https://github.com/asahi417/lm-question-generation,'}]
-tags: [RAG, Fine-Tuning, Training Techniques, Has Code]
+tags: [Has Code, Fine-Tuning, RAG, Training Techniques, Evaluation]
 ---
 Powerful generative models have led to recent progress in question generation
 (QG). However, it is difficult to measure advances in QG research since there

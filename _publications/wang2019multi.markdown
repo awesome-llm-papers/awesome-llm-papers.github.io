@@ -3,12 +3,14 @@ layout: publication
 title: 'Multi-passage BERT: A Globally Normalized BERT Model For Open-domain Question
   Answering'
 authors: Zhiguo Wang, Patrick Ng, Xiaofei Ma, Ramesh Nallapati, Bing Xiang
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
 citations: 101
 bibkey: wang2019multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.08167'}]
-tags: [RAG, Training Techniques, Model Architecture, BERT]
+tags: [Model Architecture, RAG, Training Techniques, BERT, Evaluation]
 ---
 BERT model has been successfully applied to open-domain QA tasks. However,
 previous work trains BERT by viewing passages corresponding to the same

@@ -2,12 +2,13 @@
 layout: publication
 title: 'PLATO-2: Towards Building An Open-domain Chatbot Via Curriculum Learning'
 authors: Siqi Bao et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP
+  2021'
 year: 2020
-citations: 35
+citations: 34
 bibkey: bao2020plato
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.16779'}]
-tags: [Tools, Training Techniques]
+tags: [Tools, Training Techniques, Evaluation]
 ---
 To build a high-quality open-domain chatbot, we introduce the effective
 training process of PLATO-2 via curriculum learning. There are two stages

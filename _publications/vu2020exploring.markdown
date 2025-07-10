@@ -2,12 +2,13 @@
 layout: publication
 title: Exploring And Predicting Transferability Across NLP Tasks
 authors: Tu Vu et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 26
 bibkey: vu2020exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00770'}]
-tags: [Language Modeling, Fine-Tuning, Training Techniques]
+tags: [Language Modeling, Training Techniques, Fine-Tuning]
 ---
 Recent advances in NLP demonstrate the effectiveness of training large-scale
 language models and transferring them to downstream tasks. Can fine-tuning

@@ -2,12 +2,13 @@
 layout: publication
 title: Chatgpt Hallucinates When Attributing Answers
 authors: Guido Zuccon, Bevan Koopman, Razia Shaik
-conference: Arxiv
+conference: 'SIGIR-AP ''23: Annual International ACM SIGIR Conference on Research
+  and Development in Information Retrieval in the Asia Pacific Region'
 year: 2023
-citations: 27
+citations: 29
 bibkey: zuccon2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.09401'}]
-tags: [GPT, RAG, Reinforcement Learning, Prompting, Model Architecture]
+tags: [Model Architecture, RAG, Reinforcement Learning, Prompting, GPT]
 ---
 Can ChatGPT provide evidence to support its answers? Does the evidence it
 suggests actually exist and does it really support its answer? We investigate

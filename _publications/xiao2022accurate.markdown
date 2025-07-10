@@ -9,7 +9,7 @@ citations: 53
 bibkey: xiao2022accurate
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.10438'}, {name: Code,
     url: 'https://github.com/mit-han-lab/smoothquant'}]
-tags: [Efficiency and Optimization, Has Code, Training Techniques, Quantization]
+tags: [Efficiency and Optimization, Training Techniques, Has Code, Quantization]
 ---
 Large language models (LLMs) show excellent performance but are compute- and
 memory-intensive. Quantization can reduce memory and accelerate inference.

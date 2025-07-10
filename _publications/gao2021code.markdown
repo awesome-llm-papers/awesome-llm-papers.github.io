@@ -2,12 +2,12 @@
 layout: publication
 title: Code Structure Guided Transformer For Source Code Summarization
 authors: Shuzheng Gao et al.
-conference: Arxiv
+conference: ACM Transactions on Software Engineering and Methodology
 year: 2021
-citations: 52
+citations: 57
 bibkey: gao2021code
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.09340'}]
-tags: [Ethics and Bias, Attention Mechanism, Transformer, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, Transformer, Evaluation]
 ---
 Code summaries help developers comprehend programs and reduce their time to
 infer the program functionalities during software maintenance. Recent efforts

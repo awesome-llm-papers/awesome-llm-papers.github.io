@@ -2,12 +2,14 @@
 layout: publication
 title: Countering Language Drift Via Visual Grounding
 authors: Jason Lee, Kyunghyun Cho, Douwe Kiela
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 27
+citations: 28
 bibkey: lee2019countering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.04499'}]
-tags: [Reinforcement Learning, Agentic, Training Techniques]
+tags: [Agentic, Reinforcement Learning, Training Techniques]
 ---
 Emergent multi-agent communication protocols are very different from natural
 language and not easily interpretable by humans. We find that agents that were

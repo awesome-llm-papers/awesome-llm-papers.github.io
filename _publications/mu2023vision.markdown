@@ -4,11 +4,11 @@ title: 'Embodiedgpt: Vision-language Pre-training Via Embodied Chain Of Thought'
 authors: Yao Mu et al.
 conference: Arxiv
 year: 2023
-citations: 27
+citations: 28
 bibkey: mu2023vision
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.15021v2'}]
-tags: [Training Techniques, GPT, Pre-Training, Reinforcement Learning, Agentic, Multimodal
-    Models, Model Architecture]
+tags: [Model Architecture, GPT, Reinforcement Learning, Multimodal Models, Pre-Training,
+  Agentic, Training Techniques, Evaluation]
 ---
 Embodied AI is a crucial frontier in robotics, capable of planning and
 executing action sequences for robots to accomplish long-horizon tasks in

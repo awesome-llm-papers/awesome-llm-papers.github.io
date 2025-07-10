@@ -9,7 +9,7 @@ year: 2023
 citations: 15
 bibkey: herbold2023write
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.14276'}]
-tags: [Model Architecture, GPT, Tools, Reinforcement Learning]
+tags: [Model Architecture, Tools, Reinforcement Learning, GPT, Evaluation]
 ---
 Background: Recently, ChatGPT and similar generative AI models have attracted
 hundreds of millions of users and become part of the public discourse. Many

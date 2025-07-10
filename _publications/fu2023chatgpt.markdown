@@ -3,14 +3,14 @@ layout: publication
 title: 'Chatgpt For Vulnerability Detection, Classification, And Repair: How Far Are
   We?'
 authors: Michael Fu, Chakkrit Tantithamthavorn, Van Nguyen, Trung Le
-conference: Arxiv
+conference: 2023 30th Asia-Pacific Software Engineering Conference (APSEC)
 year: 2023
-citations: 36
+citations: 40
 bibkey: fu2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.09810'}, {name: Code,
     url: 'https://github.com/awsm-research/ChatGPT4Vul'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, BERT, Has Code,
-  Security, Survey Paper, Prompting, Model Architecture]
+tags: [Security, Has Code, Model Architecture, GPT, Fine-Tuning, Survey Paper, Reinforcement
+    Learning, Prompting, BERT, Training Techniques]
 ---
 Large language models (LLMs) like ChatGPT (i.e., gpt-3.5-turbo and gpt-4)
 exhibited remarkable advancement in a range of software engineering tasks

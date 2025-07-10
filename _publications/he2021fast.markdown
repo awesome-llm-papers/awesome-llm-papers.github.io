@@ -8,8 +8,8 @@ citations: 35
 bibkey: he2021fast
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.13262'}, {name: Code,
     url: 'https://github.com/laekov/fastmoe'}]
-tags: [Large-Scale Training, Training Techniques, Transformer, Tools, Reinforcement
-    Learning, Has Code, Applications, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Applications, Tools, Reinforcement
+    Learning, Training Techniques, Large-Scale Training]
 ---
 Mixture-of-Expert (MoE) presents a strong potential in enlarging the size of
 language model to trillions of parameters. However, training trillion-scale MoE

@@ -2,12 +2,12 @@
 layout: publication
 title: 'Large Language Models And Games: A Survey And Roadmap'
 authors: Roberto Gallotta et al.
-conference: IEEE Transactions on Games 2024 (early access)
+conference: IEEE Transactions on Games
 year: 2024
-citations: 22
+citations: 29
 bibkey: gallotta2024large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.18659'}]
-tags: [Applications, Survey Paper]
+tags: [Survey Paper, Applications]
 ---
 Recent years have seen an explosive increase in research on large language
 models (LLMs), and accompanying public engagement on the topic. While starting

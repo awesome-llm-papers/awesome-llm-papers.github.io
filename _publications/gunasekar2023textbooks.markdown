@@ -7,7 +7,7 @@ year: 2023
 citations: 73
 bibkey: gunasekar2023textbooks
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.11644'}]
-tags: [GPT, Transformer, Model Architecture]
+tags: [Transformer, GPT, Model Architecture]
 ---
 We introduce phi-1, a new large language model for code, with significantly
 smaller size than competing models: phi-1 is a Transformer-based model with

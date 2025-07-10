@@ -3,12 +3,13 @@ layout: publication
 title: How Much Do Language Models Copy From Their Training Data? Evaluating Linguistic
   Novelty In Text Generation Using RAVEN
 authors: R. Thomas Mccoy, Paul Smolensky, Tal Linzen, Jianfeng Gao, Asli Celikyilmaz
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2021
-citations: 22
+citations: 24
 bibkey: mccoy2021how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.09509'}]
-tags: [Training Techniques, Transformer, GPT, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Transformer, Training Techniques,
+  Evaluation]
 ---
 Current language models can generate high-quality text. Are they simply
 copying text they have seen before, or have they learned generalizable

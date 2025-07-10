@@ -3,14 +3,15 @@ layout: publication
 title: 'Trankit: A Light-weight Transformer-based Toolkit For Multilingual Natural
   Language Processing'
 authors: Minh Van Nguyen, Viet Dac Lai, Amir Pouran Ben Veyseh, Thien Huu Nguyen
-conference: Arxiv
+conference: 'Proceedings of the 16th Conference of the European Chapter of the Association
+  for Computational Linguistics: System Demonstrations'
 year: 2021
-citations: 31
+citations: 33
 bibkey: vannguyen2021light
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.03289'}, {name: Code,
     url: 'https://github.com/nlp-uoregon/trankit'}, {name: Code, url: 'http://nlp.uoregon.edu/trankit'},
   {name: Code, url: 'https://youtu.be/q0KGP3zGjGc'}]
-tags: [Has Code, Transformer, Model Architecture, Tokenization]
+tags: [Transformer, Has Code, Tokenization, Model Architecture]
 ---
 We introduce Trankit, a light-weight Transformer-based Toolkit for
 multilingual Natural Language Processing (NLP). It provides a trainable

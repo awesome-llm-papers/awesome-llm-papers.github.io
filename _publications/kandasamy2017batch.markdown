@@ -8,7 +8,7 @@ year: 2017
 citations: 22
 bibkey: kandasamy2017batch
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1702.03334'}]
-tags: [Reinforcement Learning, Agentic, Model Architecture]
+tags: [Agentic, Reinforcement Learning, Model Architecture]
 ---
 We study reinforcement learning of chatbots with recurrent neural network
 architectures when the rewards are noisy and expensive to obtain. For instance,

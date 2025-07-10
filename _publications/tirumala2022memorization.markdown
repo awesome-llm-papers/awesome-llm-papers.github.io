@@ -8,8 +8,8 @@ year: 2022
 citations: 41
 bibkey: tirumala2022memorization
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.10770'}]
-tags: [Masked Language Model, Training Techniques, Reinforcement Learning, BERT, Language
-    Modeling]
+tags: [Language Modeling, Masked Language Model, Reinforcement Learning, Training
+    Techniques, BERT]
 ---
 Despite their wide adoption, the underlying training and memorization
 dynamics of very large language models is not well understood. We empirically

@@ -2,12 +2,12 @@
 layout: publication
 title: How Effective Is Task-agnostic Data Augmentation For Pretrained Transformers?
 authors: Shayne Longpre, Yu Wang, Christopher Dubois
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
-citations: 31
+citations: 32
 bibkey: longpre2020how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.01764'}]
-tags: [Training Techniques, Transformer, Model Architecture, BERT]
+tags: [Transformer, Training Techniques, Model Architecture, BERT]
 ---
 Task-agnostic forms of data augmentation have proven widely effective in
 computer vision, even on pretrained models. In NLP similar results are reported

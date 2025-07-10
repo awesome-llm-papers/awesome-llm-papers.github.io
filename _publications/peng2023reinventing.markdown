@@ -2,13 +2,13 @@
 layout: publication
 title: 'RWKV: Reinventing Rnns For The Transformer Era'
 authors: Bo Peng et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
-citations: 95
+citations: 107
 bibkey: peng2023reinventing
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.13048v2'}]
-tags: [Large-Scale Training, Training Techniques, Transformer, RAG, Reinforcement
-    Learning, Attention Mechanism, Efficiency and Optimization, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, Reinforcement Learning,
+  Efficiency and Optimization, Training Techniques, Large-Scale Training]
 ---
 Transformers have revolutionized almost all natural language processing (NLP)
 tasks but suffer from memory and computational complexity that scales

@@ -8,8 +8,8 @@ citations: 84
 bibkey: wu2023next
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.05519'}, {name: Code,
     url: 'https://next-gpt.github.io/'}]
-tags: [Training Techniques, GPT, Merging, RAG, Reinforcement Learning, Agentic, Has
-    Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, RAG, Reinforcement Learning, Multimodal
+    Models, Agentic, Training Techniques, Merging]
 ---
 While recently Multimodal Large Language Models (MM-LLMs) have made exciting
 strides, they mostly fall prey to the limitation of only input-side multimodal

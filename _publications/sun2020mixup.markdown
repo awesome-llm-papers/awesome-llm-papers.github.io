@@ -2,13 +2,13 @@
 layout: publication
 title: 'Mixup-transformer: Dynamic Data Augmentation For NLP Tasks'
 authors: Lichao Sun et al.
-conference: Arxiv
+conference: Proceedings of the 28th International Conference on Computational Linguistics
 year: 2020
-citations: 60
+citations: 64
 bibkey: sun2020mixup
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.02394'}]
-tags: [Training Techniques, Transformer, Tools, Reinforcement Learning, BERT, Model
-    Architecture]
+tags: [Model Architecture, Transformer, Tools, Reinforcement Learning, BERT, Training
+    Techniques, Evaluation]
 ---
 Mixup is the latest data augmentation technique that linearly interpolates
 input examples and the corresponding labels. It has shown strong effectiveness

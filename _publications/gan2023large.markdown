@@ -2,12 +2,12 @@
 layout: publication
 title: 'Large Language Models In Education: Vision And Opportunities'
 authors: Wensheng Gan, Zhenlian Qi, Jiayang Wu, Jerry Chun-wei Lin
-conference: Arxiv
+conference: 2023 IEEE International Conference on Big Data (BigData)
 year: 2023
-citations: 58
+citations: 61
 bibkey: gan2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.13160'}]
-tags: [Fine-Tuning, Tools, Reinforcement Learning, Applications]
+tags: [Tools, Reinforcement Learning, Fine-Tuning, Applications]
 ---
 With the rapid development of artificial intelligence technology, large
 language models (LLMs) have become a hot research topic. Education plays an

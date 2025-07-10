@@ -2,13 +2,14 @@
 layout: publication
 title: Detecting Hallucinated Content In Conditional Neural Sequence Generation
 authors: Chunting Zhou et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP
+  2021'
 year: 2020
 citations: 38
 bibkey: zhou2020detecting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.02593'}, {name: Code,
     url: 'https://github.com/violet-zct/fairseq-detect-hallucination'}]
-tags: [Has Code, Reinforcement Learning]
+tags: [Reinforcement Learning, Has Code, Evaluation]
 ---
 Neural sequence models can generate highly fluent sentences, but recent
 studies have also shown that they are also prone to hallucinate additional

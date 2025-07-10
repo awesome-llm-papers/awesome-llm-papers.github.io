@@ -3,12 +3,12 @@ layout: publication
 title: 'Large Language Models For Telecom: Forthcoming Impact On The Industry'
 authors: Ali Maatouk, Nicola Piovesan, Fadhel Ayed, Antonio De Domenico, Merouane
   Debbah
-conference: Arxiv
+conference: IEEE Communications Magazine
 year: 2023
-citations: 24
+citations: 25
 bibkey: maatouk2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.06013'}]
-tags: [Efficiency and Optimization, Applications, Attention Mechanism, Model Architecture]
+tags: [Efficiency and Optimization, Model Architecture, Attention Mechanism, Applications]
 ---
 Large Language Models (LLMs), AI-driven models that can achieve
 general-purpose language understanding and generation, have emerged as a

@@ -2,12 +2,12 @@
 layout: publication
 title: Defending Against Backdoor Attacks In Natural Language Generation
 authors: Xiaofei Sun et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2021
-citations: 15
+citations: 16
 bibkey: sun2021defending
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.01810'}]
-tags: [RAG, Security]
+tags: [Security, RAG]
 ---
 The frustratingly fragile nature of neural network models make current
 natural language generation (NLG) systems prone to backdoor attacks and

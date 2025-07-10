@@ -7,7 +7,7 @@ year: 2019
 citations: 60
 bibkey: ye2019bp
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.04070'}]
-tags: [Language Modeling, Attention Mechanism, Transformer, Model Architecture]
+tags: [Transformer, Language Modeling, Model Architecture, Attention Mechanism]
 ---
 The Transformer model is widely successful on many natural language
 processing tasks. However, the quadratic complexity of self-attention limit its

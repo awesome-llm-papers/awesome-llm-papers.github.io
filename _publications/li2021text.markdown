@@ -2,12 +2,12 @@
 layout: publication
 title: Text Compression-aided Transformer Encoding
 authors: Zuchao Li et al.
-conference: Arxiv
+conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
 year: 2021
 citations: 15
 bibkey: li2021text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.05951'}]
-tags: [Attention Mechanism, Transformer, Model Architecture, Merging]
+tags: [Model Architecture, Attention Mechanism, Transformer, Evaluation, Merging]
 ---
 Text encoding is one of the most important steps in Natural Language
 Processing (NLP). It has been done well by the self-attention mechanism in the

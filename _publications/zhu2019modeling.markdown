@@ -2,12 +2,15 @@
 layout: publication
 title: Modeling Graph Structure In Transformer For Better Amr-to-text Generation
 authors: Jie Zhu et al.
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
 citations: 20
 bibkey: zhu2019modeling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.00136'}]
-tags: [Transformer, Attention Mechanism, Tools, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Tools,
+  Evaluation]
 ---
 Recent studies on AMR-to-text generation often formalize the task as a
 sequence-to-sequence (seq2seq) learning problem by converting an Abstract

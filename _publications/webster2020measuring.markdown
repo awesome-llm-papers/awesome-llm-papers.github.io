@@ -7,7 +7,7 @@ year: 2020
 citations: 105
 bibkey: webster2020measuring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.06032'}]
-tags: [Applications, Training Techniques]
+tags: [Training Techniques, Evaluation, Applications]
 ---
 Pre-trained models have revolutionized natural language understanding.
 However, researchers have found they can encode artifacts undesired in many

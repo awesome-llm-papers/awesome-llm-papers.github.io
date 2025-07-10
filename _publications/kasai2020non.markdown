@@ -8,7 +8,7 @@ citations: 51
 bibkey: kasai2020non
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2001.05136'}, {name: Code,
     url: 'https://github.com/facebookresearch/DisCo'}]
-tags: [GPT, Transformer, RAG, Attention Mechanism, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, RAG, GPT]
 ---
 State-of-the-art neural machine translation models generate a translation
 from left to right and every step is conditioned on the previously generated

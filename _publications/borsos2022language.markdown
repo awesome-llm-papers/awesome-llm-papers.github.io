@@ -2,13 +2,13 @@
 layout: publication
 title: 'Audiolm: A Language Modeling Approach To Audio Generation'
 authors: "Zal\xE1n Borsos et al."
-conference: Arxiv
+conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing
 year: 2022
-citations: 170
+citations: 174
 bibkey: borsos2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.03143'}]
-tags: [Masked Language Model, Training Techniques, RAG, Tools, BERT, Prompting, Language
-    Modeling, Tokenization]
+tags: [Language Modeling, Tokenization, RAG, Masked Language Model, Tools, Prompting,
+  Training Techniques, BERT]
 ---
 We introduce AudioLM, a framework for high-quality audio generation with
 long-term consistency. AudioLM maps the input audio to a sequence of discrete

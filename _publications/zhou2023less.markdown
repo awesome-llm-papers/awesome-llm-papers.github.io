@@ -7,8 +7,8 @@ year: 2023
 citations: 96
 bibkey: zhou2023less
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.11206v1'}]
-tags: [GPT, Training Techniques, Reinforcement Learning, Agentic, Prompting, Model
-    Architecture]
+tags: [Model Architecture, GPT, Reinforcement Learning, Prompting, Agentic, Training
+    Techniques]
 ---
 Large language models are trained in two stages: (1) unsupervised pretraining
 from raw text, to learn general-purpose representations, and (2) large scale

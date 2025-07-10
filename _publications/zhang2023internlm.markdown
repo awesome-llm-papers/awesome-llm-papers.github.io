@@ -5,12 +5,12 @@ title: 'Internlm-xcomposer: A Vision-language Large Model For Advanced Text-imag
 authors: Pan Zhang et al.
 conference: Arxiv
 year: 2023
-citations: 21
+citations: 22
 bibkey: zhang2023internlm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.15112'}, {name: Code,
     url: 'https://github.com/InternLM/InternLM-XComposer'}]
-tags: [GPT, Training Techniques, Reinforcement Learning, Has Code, Multimodal Models,
-  Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Reinforcement Learning, Multimodal Models,
+  Training Techniques, Evaluation]
 ---
 We propose InternLM-XComposer, a vision-language large model that enables
 advanced image-text comprehension and composition. The innovative nature of our

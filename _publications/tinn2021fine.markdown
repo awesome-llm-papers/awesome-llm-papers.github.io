@@ -2,13 +2,13 @@
 layout: publication
 title: Fine-tuning Large Neural Language Models For Biomedical Natural Language Processing
 authors: Robert Tinn et al.
-conference: Arxiv
+conference: Patterns
 year: 2021
-citations: 70
+citations: 71
 bibkey: tinn2021fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.07869'}]
-tags: [Training Techniques, Fine-Tuning, Tools, Reinforcement Learning, BERT, Applications,
-  Model Architecture]
+tags: [Model Architecture, Fine-Tuning, Applications, Tools, Reinforcement Learning,
+  BERT, Training Techniques]
 ---
 Motivation: A perennial challenge for biomedical researchers and clinical
 practitioners is to stay abreast with the rapid growth of publications and

@@ -7,7 +7,7 @@ year: 2022
 citations: 96
 bibkey: zelikman2022bootstrapping
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2203.14465v2'}]
-tags: [Training Techniques, RAG, Few-Shot, Fine-Tuning, Prompting]
+tags: [Fine-Tuning, RAG, Few-Shot, Prompting, Training Techniques]
 ---
 Generating step-by-step "chain-of-thought" rationales improves language model
 performance on complex reasoning tasks like mathematics or commonsense

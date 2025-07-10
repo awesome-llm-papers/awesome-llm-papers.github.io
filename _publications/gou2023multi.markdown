@@ -2,12 +2,13 @@
 layout: publication
 title: 'Mvp: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction'
 authors: Zhibin Gou, Qingyan Guo, Yujiu Yang
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
-citations: 17
+citations: 18
 bibkey: gou2023multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.12627'}]
-tags: [RAG, Prompting]
+tags: [RAG, Prompting, Evaluation]
 ---
 Generative methods greatly promote aspect-based sentiment analysis via
 generating a sequence of sentiment elements in a specified format. However,

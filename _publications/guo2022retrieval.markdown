@@ -2,14 +2,14 @@
 layout: publication
 title: Retrieval Augmentation Of Large Language Models For Lay Language Generation
 authors: Yue Guo, Wei Qiu, Gondy Leroy, Sheng Wang, Trevor Cohen
-conference: Arxiv
+conference: Journal of Biomedical Informatics
 year: 2022
-citations: 25
+citations: 26
 bibkey: guo2022retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.03818'}, {name: Code,
     url: 'https://github.com/LinguisticAnomalies/pls_retrieval'}]
-tags: [Transformer, RAG, Interpretability and Explainability, Has Code, Survey Paper,
-  Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, RAG, Interpretability and Explainability,
+  Survey Paper, Evaluation]
 ---
 Recent lay language generation systems have used Transformer models trained
 on a parallel corpus to increase health information accessibility. However, the

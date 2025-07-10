@@ -2,13 +2,14 @@
 layout: publication
 title: Revisiting Relation Extraction In The Era Of Large Language Models
 authors: Somin Wadhwa, Silvio Amir, Byron C. Wallace
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
-citations: 63
+citations: 69
 bibkey: wadhwa2023revisiting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.05003'}]
-tags: [Training Techniques, GPT, Few-Shot, Fine-Tuning, Interpretability and Explainability,
-  In-Context Learning, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Few-Shot, Interpretability and Explainability,
+  In-Context Learning, Prompting, Training Techniques, Evaluation]
 ---
 Relation extraction (RE) is the core NLP task of inferring semantic
 relationships between entities from text. Standard supervised RE techniques

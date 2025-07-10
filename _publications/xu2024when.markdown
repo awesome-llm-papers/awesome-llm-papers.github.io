@@ -3,12 +3,12 @@ layout: publication
 title: 'When Large Language Model Agents Meet 6G Networks: Perception, Grounding,
   And Alignment'
 authors: Minrui Xu et al.
-conference: Arxiv
+conference: IEEE Wireless Communications
 year: 2024
-citations: 17
+citations: 20
 bibkey: xu2024when
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.07764'}]
-tags: [RAG, Agentic, Multimodal Models]
+tags: [Agentic, Multimodal Models, RAG]
 ---
 AI agents based on multimodal large language models (LLMs) are expected to
 revolutionize human-computer interaction and offer more personalized assistant

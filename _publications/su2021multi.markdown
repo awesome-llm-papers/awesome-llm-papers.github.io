@@ -2,12 +2,13 @@
 layout: publication
 title: Multi-task Pre-training For Plug-and-play Task-oriented Dialogue System
 authors: Yixuan Su et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
-citations: 37
+citations: 39
 bibkey: su2021multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.14739'}]
-tags: [Pre-Training, Training Techniques]
+tags: [Training Techniques, Pre-Training, Evaluation]
 ---
 Pre-trained language models have been recently shown to benefit task-oriented
 dialogue (TOD) systems. Despite their success, existing methods often formulate

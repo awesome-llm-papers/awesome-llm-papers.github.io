@@ -8,7 +8,7 @@ citations: 18
 bibkey: bsharat2023principled
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.16171'}, {name: Code,
     url: 'https://github.com/VILA-Lab/ATLAS'}]
-tags: [GPT, Reinforcement Learning, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Reinforcement Learning, Prompting, GPT]
 ---
 This paper introduces 26 guiding principles designed to streamline the
 process of querying and prompting large language models. Our goal is to

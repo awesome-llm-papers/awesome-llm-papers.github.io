@@ -7,7 +7,7 @@ year: 2021
 citations: 183
 bibkey: perez2021true
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.11447'}]
-tags: [RAG, Few-Shot, Training Techniques, Prompting]
+tags: [Training Techniques, Few-Shot, Prompting, RAG]
 ---
 Pretrained language models (LMs) perform well on many tasks even when
 learning from a few examples, but prior work uses many held-out examples to

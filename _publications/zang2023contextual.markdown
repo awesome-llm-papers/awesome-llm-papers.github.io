@@ -2,13 +2,13 @@
 layout: publication
 title: Contextual Object Detection With Multimodal Large Language Models
 authors: Yuhang Zang, Wei Li, Jun Han, Kaiyang Zhou, Chen Change Loy
-conference: Arxiv
+conference: International Journal of Computer Vision
 year: 2023
-citations: 16
+citations: 17
 bibkey: zang2023contextual
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.18279v2'}, {name: Code,
     url: 'https://github.com/yuhangzang/ContextDET'}]
-tags: [Has Code, Tools, Multimodal Models]
+tags: [Tools, Has Code, Multimodal Models, Evaluation]
 ---
 Recent Multimodal Large Language Models (MLLMs) are remarkable in
 vision-language tasks, such as image captioning and question answering, but

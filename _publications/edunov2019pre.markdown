@@ -2,9 +2,9 @@
 layout: publication
 title: Pre-trained Language Model Representations For Language Generation
 authors: Sergey Edunov, Alexei Baevski, Michael Auli
-conference: Arxiv
+conference: Proceedings of the 2019 Conference of the North
 year: 2019
-citations: 43
+citations: 44
 bibkey: edunov2019pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1903.09722'}]
 tags: [Uncategorized]

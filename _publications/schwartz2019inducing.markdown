@@ -7,7 +7,7 @@ year: 2019
 citations: 22
 bibkey: schwartz2019inducing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03268'}]
-tags: [Ethics and Bias, Training Techniques, RAG, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, Fine-Tuning, RAG, BERT, Training Techniques]
 ---
 Progress in natural language processing (NLP) models that estimate
 representations of word sequences has recently been leveraged to improve the

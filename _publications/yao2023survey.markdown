@@ -3,13 +3,13 @@ layout: publication
 title: 'A Survey On Large Language Model (LLM) Security And Privacy: The Good, The
   Bad, And The Ugly'
 authors: Yifan Yao et al.
-conference: Arxiv
+conference: High-Confidence Computing
 year: 2023
-citations: 324
+citations: 360
 bibkey: yao2023survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.02003'}]
-tags: [GPT, Fine-Tuning, Reinforcement Learning, Applications, Security, Survey Paper,
-  Language Modeling, Model Architecture]
+tags: [Language Modeling, Security, Model Architecture, Fine-Tuning, Applications,
+  Survey Paper, Reinforcement Learning, GPT]
 ---
 Large Language Models (LLMs), such as ChatGPT and Bard, have revolutionized
 natural language understanding and generation. They possess deep language

@@ -3,12 +3,12 @@ layout: publication
 title: Evaluating Large Language Models On A Highly-specialized Topic, Radiation Oncology
   Physics
 authors: Jason Holmes et al.
-conference: Arxiv
+conference: Frontiers in Oncology
 year: 2023
-citations: 87
+citations: 88
 bibkey: holmes2023evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.01938'}]
-tags: [RAG, GPT, Model Architecture, Prompting]
+tags: [Model Architecture, RAG, Prompting, GPT, Evaluation]
 ---
 We present the first study to investigate Large Language Models (LLMs) in
 answering radiation oncology physics questions. Because popular exams like AP

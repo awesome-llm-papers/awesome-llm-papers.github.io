@@ -2,13 +2,14 @@
 layout: publication
 title: Human-centric Autonomous Systems With Llms For User Command Reasoning
 authors: Yi Yang et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops
+  (WACVW)
 year: 2023
 citations: 15
 bibkey: yang2023human
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.08206'}, {name: Code,
     url: 'https://github.com/KTH-RPL/DriveCmd_LLM'}]
-tags: [RAG, Few-Shot, Reinforcement Learning, Has Code, Prompting]
+tags: [Has Code, Few-Shot, RAG, Reinforcement Learning, Prompting]
 ---
 The evolution of autonomous driving has made remarkable advancements in
 recent years, evolving into a tangible reality. However, a human-centric

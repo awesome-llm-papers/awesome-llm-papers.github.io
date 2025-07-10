@@ -9,7 +9,7 @@ citations: 16
 bibkey: zhao2022vl
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.00221'}, {name: Code,
     url: 'https://github.com/om-ai-lab/VL-CheckList'}]
-tags: [Training Techniques, RAG, Tools, Has Code, Multimodal Models]
+tags: [Has Code, RAG, Tools, Multimodal Models, Training Techniques, Evaluation]
 ---
 Vision-Language Pretraining (VLP) models have recently successfully
 facilitated many cross-modal downstream tasks. Most existing works evaluated

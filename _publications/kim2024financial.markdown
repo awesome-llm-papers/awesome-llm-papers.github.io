@@ -2,9 +2,9 @@
 layout: publication
 title: Financial Statement Analysis With Large Language Models
 authors: Alex Kim, Maximilian Muhn, Valeri Nikolaev
-conference: Arxiv
+conference: Elsevier BV
 year: 2024
-citations: 15
+citations: 20
 bibkey: kim2024financial
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2407.17866'}]
 tags: [Training Techniques, Model Architecture, GPT]

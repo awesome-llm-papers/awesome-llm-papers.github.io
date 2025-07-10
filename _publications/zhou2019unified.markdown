@@ -2,14 +2,14 @@
 layout: publication
 title: Unified Vision-language Pre-training For Image Captioning And VQA
 authors: Luowei Zhou et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
-citations: 465
+citations: 470
 bibkey: zhou2019unified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.11059'}, {name: Code,
     url: 'https://github.com/LuoweiZhou/VLP'}]
-tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, Has Code,
-  Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, Multimodal
+    Models, Pre-Training, Training Techniques, Evaluation]
 ---
 This paper presents a unified Vision-Language Pre-training (VLP) model. The
 model is unified in that (1) it can be fine-tuned for either vision-language

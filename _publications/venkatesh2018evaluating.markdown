@@ -8,7 +8,7 @@ year: 2018
 citations: 28
 bibkey: venkatesh2018evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1801.03625'}]
-tags: [Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning, Evaluation]
 ---
 Conversational agents are exploding in popularity. However, much work remains
 in the area of non goal-oriented conversations, despite significant growth in

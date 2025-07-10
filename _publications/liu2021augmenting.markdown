@@ -3,14 +3,15 @@ layout: publication
 title: Augmenting Sequential Recommendation With Pseudo-prior Items Via Reversely
   Pre-training Transformer
 authors: Zhiwei Liu, Ziwei Fan, Yu Wang, Philip S. Yu
-conference: Arxiv
+conference: 'SIGIR ''21: The 44th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2021
-citations: 92
+citations: 97
 bibkey: liu2021augmenting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.00522'}, {name: Code,
     url: 'https://github.com/DyGRec/ASReP'}]
-tags: [Training Techniques, Transformer, Pre-Training, Tools, Reinforcement Learning,
-  BERT, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Tools, Reinforcement Learning, Pre-Training,
+  BERT, Training Techniques]
 ---
 Sequential Recommendation characterizes the evolving patterns by modeling
 item sequences chronologically. The essential target of it is to capture the

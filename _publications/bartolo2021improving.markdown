@@ -4,12 +4,12 @@ title: Improving Question Answering Model Robustness With Synthetic Adversarial 
   Generation
 authors: Max Bartolo et al.
 conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
-  Processing p.8830-8848. Association for Computational Linguistics
+  Processing
 year: 2021
-citations: 21
+citations: 22
 bibkey: bartolo2021improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08678'}]
-tags: [RAG, Security]
+tags: [Security, RAG, Evaluation]
 ---
 Despite recent progress, state-of-the-art question answering models remain
 vulnerable to a variety of adversarial attacks. While dynamic adversarial data

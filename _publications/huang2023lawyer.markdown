@@ -7,8 +7,8 @@ year: 2023
 citations: 30
 bibkey: huang2023lawyer
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.15062'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Tools, Reinforcement Learning,
-  Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Tools, Reinforcement Learning, Training
+    Techniques]
 ---
 Large Language Models (LLMs), like LLaMA, have exhibited remarkable
 performance across various tasks. Nevertheless, when deployed to specific

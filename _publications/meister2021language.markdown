@@ -2,12 +2,14 @@
 layout: publication
 title: Language Model Evaluation Beyond Perplexity
 authors: Clara Meister, Ryan Cotterell
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
 citations: 23
 bibkey: meister2021language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.00085'}]
-tags: [Tools, Model Architecture]
+tags: [Tools, Model Architecture, Evaluation]
 ---
 We propose an alternate approach to quantifying how well language models
 learn natural language: we ask how well they match the statistical tendencies

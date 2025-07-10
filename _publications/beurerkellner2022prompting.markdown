@@ -2,12 +2,12 @@
 layout: publication
 title: 'Prompting Is Programming: A Query Language For Large Language Models'
 authors: Luca Beurer-kellner, Marc Fischer, Martin Vechev
-conference: Arxiv
+conference: Proceedings of the ACM on Programming Languages
 year: 2022
-citations: 43
+citations: 44
 bibkey: beurerkellner2022prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.06094'}]
-tags: [RAG, Tools, Reinforcement Learning, Prompting]
+tags: [RAG, Tools, Reinforcement Learning, Prompting, Evaluation]
 ---
 Large language models have demonstrated outstanding performance on a wide
 range of tasks such as question answering and code generation. On a high level,

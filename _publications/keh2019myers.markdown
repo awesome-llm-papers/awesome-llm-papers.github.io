@@ -8,7 +8,7 @@ year: 2019
 citations: 30
 bibkey: keh2019myers
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.06333'}]
-tags: [Model Architecture, BERT]
+tags: [BERT, Model Architecture]
 ---
 The Myers-Briggs Type Indicator (MBTI) is a popular personality metric that
 uses four dichotomies as indicators of personality traits. This paper examines

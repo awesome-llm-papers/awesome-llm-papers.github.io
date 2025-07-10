@@ -9,7 +9,7 @@ citations: 51
 bibkey: ma2021encoder
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.13736'}, {name: Code,
     url: 'https://aka.ms/deltalm'}]
-tags: [Pre-Training, Tools, Training Techniques, Has Code]
+tags: [Tools, Training Techniques, Has Code, Pre-Training]
 ---
 While pretrained encoders have achieved success in various natural language
 understanding (NLU) tasks, there is a gap between these pretrained encoders and

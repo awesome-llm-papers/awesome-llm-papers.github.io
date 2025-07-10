@@ -7,8 +7,8 @@ year: 2020
 citations: 36
 bibkey: zhou2020pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.07956'}]
-tags: [Training Techniques, Transformer, Pre-Training, Tools, Fine-Tuning, BERT, Model
-    Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, Tools, Pre-Training, BERT, Training
+    Techniques]
 ---
 Pre-trained language models (PTLM) have achieved impressive results in a
 range of natural language understanding (NLU) and generation (NLG) tasks.

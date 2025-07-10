@@ -7,7 +7,7 @@ year: 2022
 citations: 232
 bibkey: lewkowycz2022solving
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2206.14858v2'}]
-tags: [Tools, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, Evaluation]
 ---
 Language models have achieved remarkable performance on a wide range of tasks
 that require natural language understanding. Nevertheless, state-of-the-art

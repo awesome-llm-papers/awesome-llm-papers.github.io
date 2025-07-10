@@ -8,7 +8,7 @@ year: 2022
 citations: 24
 bibkey: "barei\xDF2022code"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.01335'}]
-tags: [Few-Shot, Tools, ACL, Prompting]
+tags: [ACL, Tools, Few-Shot, Prompting]
 ---
 Few-shot learning with large-scale, pre-trained language models is a powerful
 way to answer questions about code, e.g., how to complete a given code example,

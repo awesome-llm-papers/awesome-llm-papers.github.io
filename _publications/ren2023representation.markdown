@@ -2,14 +2,14 @@
 layout: publication
 title: Representation Learning With Large Language Models For Recommendation
 authors: Xubin Ren et al.
-conference: Arxiv
+conference: 'WWW ''24: The ACM Web Conference 2024'
 year: 2023
-citations: 45
+citations: 49
 bibkey: ren2023representation
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2310.15950v4'}, {name: Code,
     url: 'https://github.com/HKUDS/RLMRec'}]
-tags: [Ethics and Bias, RecSys, Attention Mechanism, Reinforcement Learning, Tools,
-  Efficiency and Optimization, Has Code, Security, Prompting, Model Architecture]
+tags: [Security, Has Code, Model Architecture, Attention Mechanism, Ethics and Bias,
+  RecSys, Tools, Reinforcement Learning, Prompting, Efficiency and Optimization, Evaluation]
 ---
 Recommender systems have seen significant advancements with the influence of
 deep learning and graph neural networks, particularly in capturing complex

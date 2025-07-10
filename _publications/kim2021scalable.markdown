@@ -7,8 +7,8 @@ year: 2021
 citations: 29
 bibkey: kim2021scalable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.10465'}]
-tags: [Training Techniques, Merging, RAG, Fine-Tuning, Tools, Reinforcement Learning,
-  Efficiency and Optimization, Pruning, Model Architecture]
+tags: [Model Architecture, Pruning, RAG, Fine-Tuning, Tools, Reinforcement Learning,
+  Efficiency and Optimization, Training Techniques, Merging]
 ---
 The Mixture of Experts (MoE) models are an emerging class of sparsely
 activated deep learning models that have sublinear compute costs with respect

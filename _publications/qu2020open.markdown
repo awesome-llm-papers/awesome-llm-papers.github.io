@@ -2,9 +2,10 @@
 layout: publication
 title: Open-retrieval Conversational Question Answering
 authors: Chen Qu et al.
-conference: Arxiv
+conference: 'SIGIR ''20: The 43rd International ACM SIGIR conference on research and
+  development in Information Retrieval'
 year: 2020
-citations: 61
+citations: 62
 bibkey: qu2020open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.11364'}]
 tags: [Transformer, Model Architecture]

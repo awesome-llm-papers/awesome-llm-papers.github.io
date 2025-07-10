@@ -8,7 +8,8 @@ year: 2022
 citations: 204
 bibkey: liu2022few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.05638'}]
-tags: [Training Techniques, RAG, Few-Shot, Fine-Tuning, In-Context Learning, Prompting]
+tags: [Fine-Tuning, RAG, Few-Shot, In-Context Learning, Prompting, Training Techniques,
+  Evaluation]
 ---
 Few-shot in-context learning (ICL) enables pre-trained language models to
 perform a previously-unseen task without any gradient-based training by feeding

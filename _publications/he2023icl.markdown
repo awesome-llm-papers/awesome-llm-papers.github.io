@@ -3,13 +3,14 @@ layout: publication
 title: 'ICL-D3IE: In-context Learning With Diverse Demonstrations Updating For Document
   Information Extraction'
 authors: Jiabang He et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2023
 citations: 15
 bibkey: he2023icl
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.05063'}, {name: Code,
     url: 'https://github.com/MAEHCM/ICL-D3IE'}]
-tags: [GPT, Training Techniques, Tools, In-Context Learning, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Tools, In-Context Learning, Training Techniques,
+  Evaluation]
 ---
 Large language models (LLMs), such as GPT-3 and ChatGPT, have demonstrated
 remarkable results in various natural language processing (NLP) tasks with

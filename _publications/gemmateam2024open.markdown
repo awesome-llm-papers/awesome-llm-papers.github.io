@@ -4,10 +4,10 @@ title: 'Gemma: Open Models Based On Gemini Research And Technology'
 authors: Gemma Team et al.
 conference: Arxiv
 year: 2024
-citations: 83
+citations: 86
 bibkey: gemmateam2024open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.08295'}]
-tags: [Reinforcement Learning, Responsible AI]
+tags: [Responsible AI, Reinforcement Learning, Evaluation]
 ---
 This work introduces Gemma, a family of lightweight, state-of-the art open
 models built from the research and technology used to create Gemini models.

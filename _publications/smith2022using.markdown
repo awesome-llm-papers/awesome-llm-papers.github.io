@@ -8,8 +8,8 @@ year: 2022
 citations: 262
 bibkey: smith2022using
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2201.11990v3'}]
-tags: [Large-Scale Training, Training Techniques, Transformer, Few-Shot, Tools, Fine-Tuning,
-  Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, Few-Shot, Tools, Evaluation,
+  Training Techniques, Large-Scale Training]
 ---
 Pretrained general-purpose language models can achieve state-of-the-art
 accuracies in various natural language processing domains by adapting to

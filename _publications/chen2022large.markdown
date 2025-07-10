@@ -2,13 +2,13 @@
 layout: publication
 title: Large Language Models Are Few(1)-shot Table Reasoners
 authors: Wenhu Chen
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EACL 2023'
 year: 2022
 citations: 25
 bibkey: chen2022large
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2210.06710v2'}, {name: Code,
     url: 'https://github.com/wenhuchen/TableCoT'}]
-tags: [Few-Shot, Reinforcement Learning, In-Context Learning, Has Code, Prompting]
+tags: [Has Code, Few-Shot, Reinforcement Learning, In-Context Learning, Prompting]
 ---
 Recent literature has shown that large language models (LLMs) are generally
 excellent few-shot reasoners to solve text reasoning tasks. However, the

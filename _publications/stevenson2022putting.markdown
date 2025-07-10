@@ -7,7 +7,7 @@ year: 2022
 citations: 28
 bibkey: stevenson2022putting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.08932'}]
-tags: [RAG, GPT, Model Architecture]
+tags: [GPT, RAG, Model Architecture]
 ---
 AI large language models have (co-)produced amazing written works from
 newspaper articles to novels and poetry. These works meet the standards of the

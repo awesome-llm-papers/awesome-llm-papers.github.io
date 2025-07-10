@@ -8,8 +8,8 @@ citations: 31
 bibkey: moor2023med
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.15189'}, {name: Code,
     url: 'https://github.com/snap-stanford/med-flamingo'}]
-tags: [Training Techniques, Pre-Training, Few-Shot, Reinforcement Learning, Has Code,
-  Applications, Survey Paper, Multimodal Models]
+tags: [Has Code, Few-Shot, Applications, Survey Paper, Reinforcement Learning, Multimodal
+    Models, Pre-Training, Training Techniques, Evaluation]
 ---
 Medicine, by its nature, is a multifaceted domain that requires the synthesis
 of information across various modalities. Medical generative vision-language

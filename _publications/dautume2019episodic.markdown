@@ -4,7 +4,7 @@ title: Episodic Memory In Lifelong Language Learning
 authors: Cyprien De Masson D'autume, Sebastian Ruder, Lingpeng Kong, Dani Yogatama
 conference: Arxiv
 year: 2019
-citations: 101
+citations: 102
 bibkey: dautume2019episodic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.01076'}]
 tags: [Uncategorized]

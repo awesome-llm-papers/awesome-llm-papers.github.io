@@ -2,12 +2,13 @@
 layout: publication
 title: Recipes For Building An Open-domain Chatbot
 authors: Stephen Roller et al.
-conference: Arxiv
+conference: 'Proceedings of the 16th Conference of the European Chapter of the Association
+  for Computational Linguistics: Main Volume'
 year: 2020
-citations: 206
+citations: 212
 bibkey: roller2020recipes
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.13637'}]
-tags: [Training Techniques]
+tags: [Training Techniques, Evaluation]
 ---
 Building open-domain chatbots is a challenging area for machine learning
 research. While prior work has shown that scaling neural models in the number

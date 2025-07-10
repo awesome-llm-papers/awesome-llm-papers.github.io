@@ -2,12 +2,13 @@
 layout: publication
 title: Unified Pre-training For Program Understanding And Generation
 authors: Wasi Uddin Ahmad, Saikat Chakraborty, Baishakhi Ray, Kai-wei Chang
-conference: Arxiv
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
-citations: 318
+citations: 328
 bibkey: ahmad2021unified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.06333'}]
-tags: [Pre-Training, Training Techniques]
+tags: [Training Techniques, Pre-Training]
 ---
 Code summarization and generation empower conversion between programming
 language (PL) and natural language (NL), while code translation avails the

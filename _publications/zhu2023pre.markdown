@@ -2,14 +2,14 @@
 layout: publication
 title: '3d-vista: Pre-trained Transformer For 3D Vision And Text Alignment'
 authors: Ziyu Zhu et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2023
-citations: 36
+citations: 38
 bibkey: zhu2023pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.04352'}]
-tags: [Training Techniques, Transformer, GPT, Merging, Pre-Training, Reinforcement
-    Learning, Fine-Tuning, Attention Mechanism, Efficiency and Optimization, Multimodal
-    Models, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, GPT, Transformer, Fine-Tuning, Reinforcement
+    Learning, Multimodal Models, Pre-Training, Efficiency and Optimization, Training
+    Techniques, Merging]
 ---
 3D vision-language grounding (3D-VL) is an emerging field that aims to
 connect the 3D physical world with natural language, which is crucial for

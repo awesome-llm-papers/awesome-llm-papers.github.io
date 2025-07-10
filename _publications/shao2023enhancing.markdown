@@ -3,12 +3,12 @@ layout: publication
 title: Enhancing Retrieval-augmented Large Language Models With Iterative Retrieval-generation
   Synergy
 authors: Zhihong Shao et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
-citations: 42
+citations: 46
 bibkey: shao2023enhancing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.15294'}]
-tags: [RAG, Reinforcement Learning, Attention Mechanism, Model Architecture]
+tags: [Reinforcement Learning, RAG, Model Architecture, Attention Mechanism]
 ---
 Large language models are powerful text processors and reasoners, but are
 still subject to limitations including outdated knowledge and hallucinations,

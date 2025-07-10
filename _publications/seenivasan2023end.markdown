@@ -3,12 +3,12 @@ layout: publication
 title: 'Surgicalgpt: End-to-end Language-vision GPT For Visual Question Answering
   In Surgery'
 authors: Lalithkumar Seenivasan, Mobarakol Islam, Gokul Kannan, Hongliang Ren
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2023
-citations: 18
+citations: 19
 bibkey: seenivasan2023end
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.09974'}]
-tags: [GPT, Merging, RAG, Attention Mechanism, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, RAG, GPT, Merging]
 ---
 Advances in GPT-based large language models (LLMs) are revolutionizing
 natural language processing, exponentially increasing its use across various

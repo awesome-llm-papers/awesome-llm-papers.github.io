@@ -9,7 +9,8 @@ citations: 72
 bibkey: mitchell2021fast
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.11309'}, {name: Code,
     url: 'https://sites.google.com/view/mend-editing'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Tools, BERT, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Fine-Tuning, Tools, Training Techniques,
+  BERT]
 ---
 While large pre-trained models have enabled impressive results on a variety
 of downstream tasks, the largest existing models still make errors, and even

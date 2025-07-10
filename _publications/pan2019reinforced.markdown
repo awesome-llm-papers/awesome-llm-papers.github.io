@@ -2,12 +2,13 @@
 layout: publication
 title: Reinforced Dynamic Reasoning For Conversational Question Generation
 authors: Boyuan Pan, Hao Li, Ziyu Yao, Deng Cai, Huan Sun
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 17
 bibkey: pan2019reinforced
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.12667'}]
-tags: [RAG, Tools, Agentic, Reinforcement Learning]
+tags: [Agentic, Tools, Reinforcement Learning, RAG]
 ---
 This paper investigates a new task named Conversational Question Generation
 (CQG) which is to generate a question based on a passage and a conversation

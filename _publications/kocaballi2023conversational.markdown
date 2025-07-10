@@ -7,7 +7,7 @@ year: 2023
 citations: 25
 bibkey: kocaballi2023conversational
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.07406'}]
-tags: [GPT, Tools, Reinforcement Learning, Prompting, Model Architecture]
+tags: [Model Architecture, Tools, Reinforcement Learning, Prompting, GPT]
 ---
 The recent advancements in Large Language Models (LLMs), particularly
 conversational LLMs like ChatGPT, have prompted changes in a range of fields,

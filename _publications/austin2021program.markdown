@@ -7,7 +7,8 @@ year: 2021
 citations: 198
 bibkey: austin2021program
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.07732'}]
-tags: [Training Techniques, Fine-Tuning, Few-Shot, Reinforcement Learning, Prompting]
+tags: [Fine-Tuning, Few-Shot, Reinforcement Learning, Prompting, Training Techniques,
+  Evaluation]
 ---
 This paper explores the limits of the current generation of large language
 models for program synthesis in general purpose programming languages. We

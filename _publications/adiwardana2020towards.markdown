@@ -7,7 +7,7 @@ year: 2020
 citations: 440
 bibkey: adiwardana2020towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2001.09977'}]
-tags: [RAG]
+tags: [RAG, Evaluation]
 ---
 We present Meena, a multi-turn open-domain chatbot trained end-to-end on data
 mined and filtered from public domain social media conversations. This 2.6B

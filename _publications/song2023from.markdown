@@ -2,12 +2,12 @@
 layout: publication
 title: 'Moviechat: From Dense Token To Sparse Memory For Long Video Understanding'
 authors: Enxin Song et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 26
+citations: 27
 bibkey: song2023from
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.16449'}]
-tags: [Transformer, Model Architecture]
+tags: [Transformer, Model Architecture, Evaluation]
 ---
 Recently, integrating video foundation models and large language models to
 build a video understanding system can overcome the limitations of specific

@@ -2,12 +2,13 @@
 layout: publication
 title: Knowledge Prompting In Pre-trained Language Model For Natural Language Understanding
 authors: Jianing Wang et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 15
+citations: 16
 bibkey: wang2022knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.08536'}]
-tags: [Training Techniques, RAG, Attention Mechanism, Tools, Prompting, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, RAG, Tools, Prompting, Training Techniques]
 ---
 Knowledge-enhanced Pre-trained Language Model (PLM) has recently received
 significant attention, which aims to incorporate factual knowledge into PLMs.

@@ -7,7 +7,7 @@ year: 2021
 citations: 25
 bibkey: zhou2021open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.01547'}]
-tags: [Pre-Training, Training Techniques]
+tags: [Training Techniques, Pre-Training, Evaluation]
 ---
 Although pre-trained language models have remarkably enhanced the generation
 ability of dialogue systems, open-domain Chinese dialogue systems are still

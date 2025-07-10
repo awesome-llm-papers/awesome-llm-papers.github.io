@@ -3,13 +3,14 @@ layout: publication
 title: Contrastive Distillation On Intermediate Representations For Language Model
   Compression
 authors: Siqi Sun et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 17
 bibkey: sun2020contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.14167'}]
-tags: [Distillation, Training Techniques, Pre-Training, Tools, BERT, Efficiency and
-    Optimization, Model Architecture, Quantization]
+tags: [Model Architecture, Distillation, Quantization, Tools, Pre-Training, BERT,
+  Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 Existing language model compression methods mostly use a simple L2 loss to
 distill knowledge in the intermediate representations of a large BERT model to

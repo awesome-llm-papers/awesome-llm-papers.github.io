@@ -3,14 +3,14 @@ layout: publication
 title: Scheduled Sampling In Vision-language Pretraining With Decoupled Encoder-decoder
   Network
 authors: Yehao Li, Yingwei Pan, Ting Yao, Jingwen Chen, Tao Mei
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2021
-citations: 35
+citations: 36
 bibkey: li2021scheduled
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.11562'}, {name: Code,
     url: 'https://github.com/YehLi/TDEN'}]
-tags: [Training Techniques, Fine-Tuning, Tools, BERT, Has Code, Multimodal Models,
-  Model Architecture]
+tags: [Has Code, Model Architecture, Fine-Tuning, Tools, Multimodal Models, BERT,
+  Training Techniques]
 ---
 Despite having impressive vision-language (VL) pretraining with BERT-based
 encoder for VL understanding, the pretraining of a universal encoder-decoder

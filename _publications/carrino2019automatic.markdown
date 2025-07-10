@@ -8,7 +8,7 @@ year: 2019
 citations: 40
 bibkey: carrino2019automatic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.05200'}]
-tags: [Fine-Tuning, Training Techniques, Model Architecture, BERT]
+tags: [Model Architecture, Fine-Tuning, Training Techniques, BERT, Evaluation]
 ---
 Recently, multilingual question answering became a crucial research topic,
 and it is receiving increased interest in the NLP community. However, the

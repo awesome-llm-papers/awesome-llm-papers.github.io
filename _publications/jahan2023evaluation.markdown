@@ -3,12 +3,13 @@ layout: publication
 title: 'Evaluation Of Chatgpt On Biomedical Tasks: A Zero-shot Comparison With Fine-tuned
   Generative Transformers'
 authors: Israt Jahan, Md Tahmid Rahman Laskar, Chun Peng, Jimmy Huang
-conference: Arxiv
+conference: The 22nd Workshop on Biomedical Natural Language Processing and BioNLP
+  Shared Tasks
 year: 2023
 citations: 15
 bibkey: jahan2023evaluation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.04504'}]
-tags: [Training Techniques, Transformer, GPT, Pre-Training, Model Architecture]
+tags: [Model Architecture, GPT, Transformer, Pre-Training, Training Techniques, Evaluation]
 ---
 ChatGPT is a large language model developed by OpenAI. Despite its impressive
 performance across various tasks, no prior work has investigated its capability

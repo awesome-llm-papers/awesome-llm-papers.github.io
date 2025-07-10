@@ -2,13 +2,14 @@
 layout: publication
 title: 'KALA: Knowledge-augmented Language Model Adaptation'
 authors: Minki Kang, Jinheon Baek, Sung Ju Hwang
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2022
 citations: 15
 bibkey: kang2022knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.10555'}, {name: Code,
     url: 'https://github.com/Nardien/KALA/'}]
-tags: [Training Techniques, Pre-Training, Tools, Fine-Tuning, Has Code]
+tags: [Has Code, Fine-Tuning, Tools, Pre-Training, Training Techniques]
 ---
 Pre-trained language models (PLMs) have achieved remarkable success on
 various natural language understanding tasks. Simple fine-tuning of PLMs, on

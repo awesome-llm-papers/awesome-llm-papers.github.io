@@ -2,13 +2,14 @@
 layout: publication
 title: 'Linrec: Linear Attention Mechanism For Long-term Sequential Recommender Systems'
 authors: Langming Liu et al.
-conference: Arxiv
+conference: 'SIGIR ''23: The 46th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2024
 citations: 26
 bibkey: liu2024linear
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2411.01537'}]
-tags: [Transformer, Attention Mechanism, RecSys, Efficiency and Optimization, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RecSys, Efficiency and
+    Optimization, Evaluation]
 ---
 Transformer models have achieved remarkable success in sequential recommender
 systems (SRSs). However, computing the attention matrix in traditional

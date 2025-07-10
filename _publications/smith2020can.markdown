@@ -3,12 +3,13 @@ layout: publication
 title: 'Can You Put It All Together: Evaluating Conversational Agents'' Ability To
   Blend Skills'
 authors: Eric Michael Smith, Mary Williamson, Kurt Shuster, Jason Weston, Y-lan Boureau
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
-citations: 36
+citations: 39
 bibkey: smith2020can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.08449'}]
-tags: [Ethics and Bias, Training Techniques, Agentic, Model Architecture]
+tags: [Agentic, Training Techniques, Model Architecture, Ethics and Bias]
 ---
 Being engaging, knowledgeable, and empathetic are all desirable general
 qualities in a conversational agent. Previous work has introduced tasks and

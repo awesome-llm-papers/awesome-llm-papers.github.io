@@ -2,13 +2,13 @@
 layout: publication
 title: Scaling Vision-language Models With Sparse Mixture Of Experts
 authors: Sheng Shen et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
-citations: 17
+citations: 18
 bibkey: shen2023scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.07226'}]
-tags: [Training Techniques, Reinforcement Learning, Interpretability and Explainability,
-  Applications, Multimodal Models]
+tags: [Applications, Interpretability and Explainability, Reinforcement Learning,
+  Multimodal Models, Training Techniques, Evaluation]
 ---
 The field of natural language processing (NLP) has made significant strides
 in recent years, particularly in the development of large-scale vision-language

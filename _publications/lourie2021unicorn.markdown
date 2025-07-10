@@ -3,12 +3,12 @@ layout: publication
 title: 'UNICORN On RAINBOW: A Universal Commonsense Reasoning Model On A New Multitask
   Benchmark'
 authors: Nicholas Lourie, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2021
 citations: 22
 bibkey: lourie2021unicorn
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.13009'}]
-tags: [Efficiency and Optimization, Fine-Tuning]
+tags: [Efficiency and Optimization, Fine-Tuning, Evaluation]
 ---
 Commonsense AI has long been seen as a near impossible goal -- until
 recently. Now, research interest has sharply increased with an influx of new

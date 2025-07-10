@@ -2,12 +2,12 @@
 layout: publication
 title: 'Large Language Models In Cybersecurity: State-of-the-art'
 authors: Farzad Nourmohammadzadeh Motlagh et al.
-conference: Arxiv
+conference: 11th International Conference on Information Systems Security and Privacy
 year: 2024
-citations: 19
+citations: 20
 bibkey: motlagh2024large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.00891'}]
-tags: [Applications, Security, Reinforcement Learning, Survey Paper]
+tags: [Survey Paper, Reinforcement Learning, Security, Applications]
 ---
 The rise of Large Language Models (LLMs) has revolutionized our comprehension
 of intelligence bringing us closer to Artificial Intelligence. Since their

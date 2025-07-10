@@ -3,12 +3,14 @@ layout: publication
 title: 'Dykgchat: Benchmarking Dialogue Generation Grounding On Dynamic Knowledge
   Graphs'
 authors: Yi-lin Tuan, Yun-nung Chen, Hung-yi Lee
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
 citations: 18
 bibkey: tuan2019benchmarking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.00610'}]
-tags: [Reinforcement Learning]
+tags: [Reinforcement Learning, Evaluation]
 ---
 Data-driven, knowledge-grounded neural conversation models are capable of
 generating more informative responses. However, these models have not yet

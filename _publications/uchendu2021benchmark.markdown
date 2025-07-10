@@ -3,13 +3,13 @@ layout: publication
 title: 'TURINGBENCH: A Benchmark Environment For Turing Test In The Age Of Neural
   Text Generation'
 authors: Adaku Uchendu, Zeyu Ma, Thai Le, Rui Zhang, Dongwon Lee
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
 year: 2021
 citations: 22
 bibkey: uchendu2021benchmark
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.13296'}]
-tags: [GPT, Transformer, Reinforcement Learning, Applications, WMT, Model Architecture,
-  Language Modeling]
+tags: [Language Modeling, Model Architecture, Transformer, WMT, Applications, Reinforcement
+    Learning, GPT, Evaluation]
 ---
 Recent progress in generative language models has enabled machines to
 generate astonishingly realistic texts. While there are many legitimate

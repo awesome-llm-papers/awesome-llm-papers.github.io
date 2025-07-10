@@ -8,8 +8,8 @@ citations: 113
 bibkey: zhang2021tip
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.03930'}, {name: Code,
     url: 'https://github.com/gaopengcuhk/Tip-Adapter'}]
-tags: [Training Techniques, Pre-Training, Fine-Tuning, Few-Shot, Reinforcement Learning,
-  Has Code, Multimodal Models, Language Modeling]
+tags: [Language Modeling, Has Code, Few-Shot, Fine-Tuning, Reinforcement Learning,
+  Multimodal Models, Pre-Training, Training Techniques]
 ---
 Contrastive Vision-Language Pre-training, known as CLIP, has provided a new
 paradigm for learning visual representations by using large-scale contrastive

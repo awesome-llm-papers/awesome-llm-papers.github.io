@@ -2,13 +2,13 @@
 layout: publication
 title: Accelerating Attention Through Gradient-based Learned Runtime Pruning
 authors: Zheng Li, Soroush Ghodrati, Amir Yazdanbakhsh, Hadi Esmaeilzadeh, Mingu Kang
-conference: Arxiv
+conference: 'ISCA ''22: The 49th Annual International Symposium on Computer Architecture'
 year: 2022
-citations: 29
+citations: 31
 bibkey: li2022accelerating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.03227'}]
-tags: [Training Techniques, Transformer, GPT, RAG, Reinforcement Learning, Attention
-    Mechanism, BERT, Efficiency and Optimization, Pruning, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, GPT, Transformer, Pruning, RAG, Reinforcement
+    Learning, BERT, Efficiency and Optimization, Training Techniques]
 ---
 Self-attention is a key enabler of state-of-art accuracy for various
 transformer-based Natural Language Processing models. This attention mechanism

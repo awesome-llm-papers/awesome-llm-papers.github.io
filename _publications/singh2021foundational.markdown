@@ -2,12 +2,12 @@
 layout: publication
 title: 'FLAVA: A Foundational Language And Vision Alignment Model'
 authors: Amanpreet Singh et al.
-conference: Arxiv
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2021
-citations: 253
+citations: 256
 bibkey: singh2021foundational
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.04482'}]
-tags: [Reinforcement Learning, Merging, Training Techniques, Multimodal Models]
+tags: [Reinforcement Learning, Training Techniques, Multimodal Models, Merging]
 ---
 State-of-the-art vision and vision-and-language models rely on large-scale
 visio-linguistic pretraining for obtaining good performance on a variety of

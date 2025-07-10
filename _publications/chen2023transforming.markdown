@@ -6,10 +6,10 @@ authors: Yongchao Chen, Rujul Gandhi, Yang Zhang, Chuchu Fan
 conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
   Processing
 year: 2023
-citations: 20
+citations: 22
 bibkey: chen2023transforming
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.07766'}]
-tags: [Applications, Tools, Training Techniques]
+tags: [Tools, Training Techniques, Applications]
 ---
 Temporal Logic (TL) can be used to rigorously specify complex high-level
 specification for systems in many engineering applications. The translation

@@ -2,13 +2,14 @@
 layout: publication
 title: 'Muppet: Massive Multi-task Representations With Pre-finetuning'
 authors: Armen Aghajanyan et al.
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 63
+citations: 64
 bibkey: aghajanyan2021massive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.11038'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Reinforcement Learning, Pre-Training,
-  BERT, Efficiency and Optimization, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, Reinforcement Learning, Pre-Training,
+  BERT, Efficiency and Optimization, Training Techniques]
 ---
 We propose pre-finetuning, an additional large-scale learning stage between
 language model pre-training and fine-tuning. Pre-finetuning is massively

@@ -3,12 +3,13 @@ layout: publication
 title: 'Gptaraeval: A Comprehensive Evaluation Of Chatgpt On Arabic NLP'
 authors: Md Tawkat Islam Khondaker, Abdul Waheed, El Moatez Billah Nagoudi, Muhammad
   Abdul-mageed
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 23
+citations: 24
 bibkey: khondaker2023comprehensive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14976'}]
-tags: [Reinforcement Learning, Model Architecture, GPT, Survey Paper]
+tags: [Model Architecture, Survey Paper, Reinforcement Learning, GPT, Evaluation]
 ---
 ChatGPT's emergence heralds a transformative phase in NLP, particularly
 demonstrated through its excellent performance on many English benchmarks.

@@ -3,12 +3,12 @@ layout: publication
 title: 'Clochat: Understanding How People Customize, Interact, And Experience Personas
   In Large Language Models'
 authors: Juhye Ha, Hyeon Jeon, Daeun Han, Jinwook Seo, Changhoon Oh
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2024
-citations: 25
+citations: 30
 bibkey: ha2024understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.15265'}]
-tags: [Reinforcement Learning, Agentic, Model Architecture, GPT]
+tags: [Agentic, Reinforcement Learning, GPT, Model Architecture]
 ---
 Large language models (LLMs) have facilitated significant strides in
 generating conversational agents, enabling seamless, contextually relevant

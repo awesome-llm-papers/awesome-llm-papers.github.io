@@ -2,12 +2,13 @@
 layout: publication
 title: 'Emrqa: A Large Corpus For Question Answering On Electronic Medical Records'
 authors: Anusri Pampari, Preethi Raghavan, Jennifer Liang, Jian Peng
-conference: Arxiv
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2018
-citations: 69
+citations: 70
 bibkey: pampari2018large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.00732'}]
-tags: [RAG, Training Techniques]
+tags: [Training Techniques, RAG]
 ---
 We propose a novel methodology to generate domain-specific large-scale
 question answering (QA) datasets by re-purposing existing annotations for other

@@ -8,8 +8,9 @@ citations: 26
 bibkey: shleifer2021improved
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.09456'}, {name: Code,
     url: 'https://github.com/pytorch/fairseq/tree/main/examples/normformer'}]
-tags: [Masked Language Model, Training Techniques, Transformer, GPT, RAG, Reinforcement
-    Learning, Attention Mechanism, BERT, Has Code, Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Attention Mechanism, GPT,
+  Transformer, RAG, Masked Language Model, Reinforcement Learning, BERT, Training
+    Techniques]
 ---
 During pretraining, the Pre-LayerNorm transformer suffers from a gradient
 magnitude mismatch: gradients at early layers are much larger than at later

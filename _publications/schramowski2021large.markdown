@@ -4,13 +4,13 @@ title: Large Pre-trained Language Models Contain Human-like Biases Of What Is Ri
   And Wrong To Do
 authors: Patrick Schramowski, Cigdem Turan, Nico Andersen, Constantin A. Rothkopf,
   Kristian Kersting
-conference: Arxiv
+conference: Nature Machine Intelligence
 year: 2021
-citations: 154
+citations: 159
 bibkey: schramowski2021large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.11790'}]
-tags: [Ethics and Bias, Training Techniques, Transformer, GPT, Fine-Tuning, BERT,
-  Prompting, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, Transformer, Fine-Tuning, Prompting,
+  BERT, Training Techniques]
 ---
 Artificial writing is permeating our lives due to recent advances in
 large-scale, transformer-based language models (LMs) such as BERT, its

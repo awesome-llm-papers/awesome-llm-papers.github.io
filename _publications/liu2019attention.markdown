@@ -3,13 +3,13 @@ layout: publication
 title: Attention-informed Mixed-language Training For Zero-shot Cross-lingual Task-oriented
   Dialogue Systems
 authors: Zihan Liu, Genta Indra Winata, Zhaojiang Lin, Peng Xu, Pascale Fung
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
 citations: 21
 bibkey: liu2019attention
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.09273'}]
-tags: [Training Techniques, RAG, Attention Mechanism, Reinforcement Learning, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, RAG, Reinforcement Learning, Training
+    Techniques]
 ---
 Recently, data-driven task-oriented dialogue systems have achieved promising
 performance in English. However, developing dialogue systems that support

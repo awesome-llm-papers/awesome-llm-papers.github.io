@@ -2,13 +2,13 @@
 layout: publication
 title: 'Denseclip: Language-guided Dense Prediction With Context-aware Prompting'
 authors: Yongming Rao et al.
-conference: Arxiv
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2021
-citations: 344
+citations: 355
 bibkey: rao2021language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.01518'}, {name: Code,
     url: 'https://github.com/raoyongming/DenseCLIP'}]
-tags: [Training Techniques, RAG, Pre-Training, Tools, Has Code, Prompting]
+tags: [Has Code, RAG, Tools, Prompting, Pre-Training, Training Techniques]
 ---
 Recent progress has shown that large-scale pre-training using contrastive
 image-text pairs can be a promising alternative for high-quality visual

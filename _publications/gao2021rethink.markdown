@@ -2,12 +2,12 @@
 layout: publication
 title: Rethink Training Of BERT Rerankers In Multi-stage Retrieval Pipeline
 authors: Luyu Gao, Zhuyun Dai, Jamie Callan
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2021
-citations: 35
+citations: 36
 bibkey: gao2021rethink
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.08751'}]
-tags: [RAG, Training Techniques, Model Architecture, BERT]
+tags: [BERT, Training Techniques, RAG, Model Architecture]
 ---
 Pre-trained deep language models~(LM) have advanced the state-of-the-art of
 text retrieval. Rerankers fine-tuned from deep LM estimates candidate relevance

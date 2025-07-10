@@ -2,13 +2,14 @@
 layout: publication
 title: Automatic Prompt Optimization With "gradient Descent" And Beam Search
 authors: Reid Pryzant et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 47
+citations: 55
 bibkey: pryzant2023automatic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.03495'}]
-tags: [Training Techniques, Tools, Agentic, Reinforcement Learning, Efficiency and
-    Optimization, Prompting]
+tags: [Tools, Reinforcement Learning, Prompting, Agentic, Efficiency and Optimization,
+  Training Techniques, Evaluation]
 ---
 Large Language Models (LLMs) have shown impressive performance as general
 purpose agents, but their abilities remain highly dependent on prompts which

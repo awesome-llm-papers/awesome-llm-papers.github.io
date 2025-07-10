@@ -3,13 +3,14 @@ layout: publication
 title: 'Element-aware Summarization With Large Language Models: Expert-aligned Evaluation
   And Chain-of-thought Method'
 authors: Yiming Wang, Zhuosheng Zhang, Rui Wang
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
-citations: 19
+citations: 21
 bibkey: wang2023element
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.13412v1'}, {name: Code,
     url: 'https://github.com/Alsace08/SumCoT'}]
-tags: [Has Code, Uncategorized]
+tags: [Has Code, Evaluation]
 ---
 Automatic summarization generates concise summaries that contain key ideas of
 source documents. As the most mainstream datasets for the news sub-domain,

@@ -3,12 +3,12 @@ layout: publication
 title: One Adapter For All Programming Languages? Adapter Tuning For Code Search And
   Summarization
 authors: Deze Wang et al.
-conference: Arxiv
+conference: 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE)
 year: 2023
-citations: 21
+citations: 24
 bibkey: wang2023one
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.15822'}]
-tags: [Fine-Tuning, Training Techniques]
+tags: [Training Techniques, Fine-Tuning]
 ---
 As pre-trained models automate many code intelligence tasks, a widely used
 paradigm is to fine-tune a model on the task dataset for each programming

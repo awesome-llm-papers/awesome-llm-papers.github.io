@@ -2,12 +2,13 @@
 layout: publication
 title: Large Language Models Can Self-improve
 authors: Jiaxin Huang et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 64
+citations: 68
 bibkey: huang2022large
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2210.11610v2'}]
-tags: [Fine-Tuning, Training Techniques, Prompting]
+tags: [Training Techniques, Fine-Tuning, Prompting]
 ---
 Large Language Models (LLMs) have achieved excellent performances in various
 tasks. However, fine-tuning an LLM requires extensive supervision. Human, on

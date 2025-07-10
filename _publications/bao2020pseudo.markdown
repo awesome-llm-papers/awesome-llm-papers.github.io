@@ -7,8 +7,8 @@ year: 2020
 citations: 171
 bibkey: bao2020pseudo
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.12804'}]
-tags: [Masked Language Model, Training Techniques, Transformer, GPT, Pre-Training,
-  Attention Mechanism, BERT, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, GPT, Transformer,
+  Masked Language Model, Pre-Training, BERT, Training Techniques, Evaluation]
 ---
 We propose to pre-train a unified language model for both autoencoding and
 partially autoregressive language modeling tasks using a novel training

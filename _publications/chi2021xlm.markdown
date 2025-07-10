@@ -2,12 +2,13 @@
 layout: publication
 title: 'XLM-E: Cross-lingual Language Model Pre-training Via ELECTRA'
 authors: Zewen Chi et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
-citations: 31
+citations: 32
 bibkey: chi2021xlm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.16138'}]
-tags: [Pre-Training, Training Techniques]
+tags: [Training Techniques, Pre-Training]
 ---
 In this paper, we introduce ELECTRA-style tasks to cross-lingual language
 model pre-training. Specifically, we present two pre-training tasks, namely

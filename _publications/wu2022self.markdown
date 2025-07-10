@@ -3,13 +3,14 @@ layout: publication
 title: 'Self-adaptive In-context Learning: An Information Compression Perspective
   For In-context Example Selection And Ordering'
 authors: Zhiyong Wu, Yaoxiang Wang, Jiacheng Ye, Lingpeng Kong
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 21
+citations: 24
 bibkey: wu2022self
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2212.10375v2'}, {name: Code,
     url: 'https://github.com/Shark-NLP/self-adaptive-ICL'}]
-tags: [Few-Shot, Tools, In-Context Learning, Has Code]
+tags: [Has Code, Few-Shot, Tools, In-Context Learning, Evaluation]
 ---
 Despite the surprising few-shot performance of in-context learning (ICL), it
 is still a common practice to randomly sample examples to serve as context.

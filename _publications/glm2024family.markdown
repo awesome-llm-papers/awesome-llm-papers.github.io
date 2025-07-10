@@ -4,12 +4,12 @@ title: 'Chatglm: A Family Of Large Language Models From GLM-130B To GLM-4 All To
 authors: Team Glm et al.
 conference: Arxiv
 year: 2024
-citations: 60
+citations: 61
 bibkey: glm2024family
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2406.12793'}, {name: Code,
     url: 'https://github.com/THUDM'}, {name: Code, url: 'https://huggingface.co/THUDM'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Tools, Has Code, Applications, Model
-    Architecture]
+tags: [Has Code, Model Architecture, GPT, Fine-Tuning, Applications, Tools, Training
+    Techniques, Evaluation]
 ---
 We introduce ChatGLM, an evolving family of large language models that we
 have been developing over time. This report primarily focuses on the GLM-4

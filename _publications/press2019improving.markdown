@@ -2,13 +2,14 @@
 layout: publication
 title: Improving Transformer Models By Reordering Their Sublayers
 authors: Ofir Press, Noah A. Smith, Omer Levy
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
-citations: 25
+citations: 26
 bibkey: press2019improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03864'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Attention Mechanism, Reinforcement
-    Learning, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Fine-Tuning,
+  Reinforcement Learning, Training Techniques, Evaluation]
 ---
 Multilayer transformer networks consist of interleaved self-attention and
 feedforward sublayers. Could ordering the sublayers in a different pattern lead

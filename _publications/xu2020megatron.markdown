@@ -3,12 +3,13 @@ layout: publication
 title: 'MEGATRON-CNTRL: Controllable Story Generation With External Knowledge Using
   Large-scale Language Models'
 authors: Peng Xu et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 41
 bibkey: xu2020megatron
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.00840'}]
-tags: [Language Modeling, Tools, Reinforcement Learning]
+tags: [Language Modeling, Reinforcement Learning, Tools, Evaluation]
 ---
 Existing pre-trained large language models have shown unparalleled generative
 capabilities. However, they are not controllable. In this paper, we propose

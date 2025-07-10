@@ -7,8 +7,8 @@ year: 2020
 citations: 845
 bibkey: wang2020self
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.04768'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, Applications, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Applications, Training
+    Techniques]
 ---
 Large transformer models have shown extraordinary success in achieving
 state-of-the-art results in many natural language processing applications.

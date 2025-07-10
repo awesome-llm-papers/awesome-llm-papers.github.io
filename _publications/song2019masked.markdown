@@ -7,8 +7,8 @@ year: 2019
 citations: 523
 bibkey: song2019masked
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.02450'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Tools, Pre-Training, Reinforcement Learning,
-  BERT, Attention Mechanism, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Fine-Tuning, RAG, Tools, Reinforcement
+    Learning, Pre-Training, BERT, Training Techniques]
 ---
 Pre-training and fine-tuning, e.g., BERT, have achieved great success in
 language understanding by transferring knowledge from rich-resource

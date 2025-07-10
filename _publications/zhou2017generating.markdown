@@ -2,12 +2,13 @@
 layout: publication
 title: 'Mojitalk: Generating Emotional Responses At Scale'
 authors: Xianda Zhou, William Yang Wang
-conference: Arxiv
+conference: 'Proceedings of the 56th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2017
 citations: 73
 bibkey: zhou2017generating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1711.04090'}]
-tags: [RAG, Reinforcement Learning, Agentic, Training Techniques]
+tags: [Agentic, Reinforcement Learning, Training Techniques, RAG]
 ---
 Generating emotional language is a key step towards building empathetic
 natural language processing agents. However, a major challenge for this line of

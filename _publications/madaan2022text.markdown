@@ -7,7 +7,8 @@ year: 2022
 citations: 19
 bibkey: madaan2022text
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2209.07686v2'}]
-tags: [GPT, Few-Shot, In-Context Learning, Prompting, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Few-Shot, In-Context Learning, Prompting,
+  GPT]
 ---
 The past decade has witnessed dramatic gains in natural language processing
 and an unprecedented scaling of large language models. These developments have

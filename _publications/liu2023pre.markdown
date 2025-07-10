@@ -3,12 +3,12 @@ layout: publication
 title: 'Pre-train, Prompt And Recommendation: A Comprehensive Survey Of Language Modelling
   Paradigm Adaptations In Recommender Systems'
 authors: Peng Liu, Lemei Zhang, Jon Atle Gulla
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2023
-citations: 41
+citations: 42
 bibkey: liu2023pre
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2302.03735v3'}]
-tags: [Training Techniques, RecSys, Efficiency and Optimization, Survey Paper, Prompting]
+tags: [RecSys, Survey Paper, Prompting, Efficiency and Optimization, Training Techniques]
 ---
 The emergence of Pre-trained Language Models (PLMs) has achieved tremendous
 success in the field of Natural Language Processing (NLP) by learning universal

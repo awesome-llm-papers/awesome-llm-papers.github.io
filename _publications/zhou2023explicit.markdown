@@ -3,12 +3,12 @@ layout: publication
 title: 'Navgpt: Explicit Reasoning In Vision-and-language Navigation With Large Language
   Models'
 authors: Gengze Zhou, Yicong Hong, Qi Wu
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 44
+citations: 46
 bibkey: zhou2023explicit
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.16986'}]
-tags: [Scaling Laws, Training Techniques, GPT, Fine-Tuning, Agentic, Model Architecture]
+tags: [Scaling Laws, Model Architecture, GPT, Fine-Tuning, Agentic, Training Techniques]
 ---
 Trained with an unprecedented scale of data, large language models (LLMs)
 like ChatGPT and GPT-4 exhibit the emergence of significant reasoning abilities

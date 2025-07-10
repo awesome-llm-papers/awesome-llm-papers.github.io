@@ -2,13 +2,14 @@
 layout: publication
 title: 'Bert-of-theseus: Compressing BERT By Progressive Module Replacing'
 authors: Canwen Xu, Wangchunshu Zhou, Tao Ge, Furu Wei, Ming Zhou
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 49
+citations: 51
 bibkey: xu2020bert
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.02925'}]
-tags: [Distillation, Training Techniques, BERT, Efficiency and Optimization, Model
-    Architecture, Quantization]
+tags: [Model Architecture, Distillation, Quantization, Training Techniques, Efficiency
+    and Optimization, BERT, Evaluation]
 ---
 In this paper, we propose a novel model compression approach to effectively
 compress BERT by progressive module replacing. Our approach first divides the

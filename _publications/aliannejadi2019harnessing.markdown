@@ -3,12 +3,12 @@ layout: publication
 title: Harnessing Evolution Of Multi-turn Conversations For Effective Answer Retrieval
 authors: "Mohammad Aliannejadi, Manajit Chakraborty, Esteban Andr\xE9s R\xEDssola,\
   \ Fabio Crestani"
-conference: Arxiv
+conference: 'CHIIR ''20: Conference on Human Information Interaction and Retrieval'
 year: 2019
-citations: 25
+citations: 26
 bibkey: aliannejadi2019harnessing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.10554'}]
-tags: [Training Techniques, INTERSPEECH, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, Training Techniques, BERT, INTERSPEECH]
 ---
 With the improvements in speech recognition and voice generation technologies
 over the last years, a lot of companies have sought to develop conversation

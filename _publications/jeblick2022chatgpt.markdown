@@ -3,12 +3,12 @@ layout: publication
 title: 'Chatgpt Makes Medicine Easy To Swallow: An Exploratory Case Study On Simplified
   Radiology Reports'
 authors: Katharina Jeblick et al.
-conference: Arxiv
+conference: European Radiology
 year: 2022
-citations: 256
+citations: 267
 bibkey: jeblick2022chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.14882'}]
-tags: [GPT, Fine-Tuning, Attention Mechanism, Prompting, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Fine-Tuning, Prompting, GPT]
 ---
 The release of ChatGPT, a language model capable of generating text that
 appears human-like and authentic, has gained significant attention beyond the

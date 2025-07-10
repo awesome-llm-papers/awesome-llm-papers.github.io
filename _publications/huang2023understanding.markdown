@@ -2,13 +2,13 @@
 layout: publication
 title: 'Audiogpt: Understanding And Generating Speech, Music, Sound, And Talking Head'
 authors: Rongjie Huang et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 32
+citations: 34
 bibkey: huang2023understanding
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2304.12995v1'}, {name: Code,
     url: 'https://github.com/AIGC-Audio/AudioGPT'}]
-tags: [GPT, Reinforcement Learning, Has Code, Security, Model Architecture]
+tags: [Security, Has Code, Model Architecture, Reinforcement Learning, GPT]
 ---
 Large language models (LLMs) have exhibited remarkable capabilities across a
 variety of domains and tasks, challenging our understanding of learning and

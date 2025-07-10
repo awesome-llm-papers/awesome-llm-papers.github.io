@@ -2,9 +2,10 @@
 layout: publication
 title: Do Prompt-based Models Really Understand The Meaning Of Their Prompts?
 authors: Albert Webson, Ellie Pavlick
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
-citations: 58
+citations: 61
 bibkey: webson2021do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.01247'}]
 tags: [Few-Shot, Prompting]

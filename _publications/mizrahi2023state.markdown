@@ -2,12 +2,12 @@
 layout: publication
 title: State Of What Art? A Call For Multi-prompt LLM Evaluation
 authors: Moran Mizrahi et al.
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2023
-citations: 28
+citations: 29
 bibkey: mizrahi2023state
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.00595'}]
-tags: [Applications, Security, Prompting]
+tags: [Security, Prompting, Evaluation, Applications]
 ---
 Recent advances in large language models (LLMs) have led to the development
 of various evaluation benchmarks. These benchmarks typically rely on a single

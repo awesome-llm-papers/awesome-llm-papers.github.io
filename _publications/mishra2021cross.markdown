@@ -2,9 +2,10 @@
 layout: publication
 title: Cross-task Generalization Via Natural Language Crowdsourcing Instructions
 authors: Swaroop Mishra, Daniel Khashabi, Chitta Baral, Hannaneh Hajishirzi
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
-citations: 70
+citations: 77
 bibkey: mishra2021cross
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2104.08773v4'}]
 tags: [Training Techniques]

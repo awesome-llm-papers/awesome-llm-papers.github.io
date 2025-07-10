@@ -2,13 +2,13 @@
 layout: publication
 title: 'Analogy Generation By Prompting Large Language Models: A Case Study Of Instructgpt'
 authors: Bhavya Bhavya, Jinjun Xiong, Chengxiang Zhai
-conference: Arxiv
+conference: Proceedings of the 15th International Conference on Natural Language Generation
 year: 2022
 citations: 18
 bibkey: bhavya2022analogy
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.04186'}]
-tags: [GPT, Reinforcement Learning, Interpretability and Explainability, Prompting,
-  Model Architecture]
+tags: [Model Architecture, Interpretability and Explainability, Reinforcement Learning,
+  Prompting, GPT, Evaluation]
 ---
 We propose a novel application of prompting Pre-trained Language Models
 (PLMs) to generate analogies and study how to design effective prompts for two

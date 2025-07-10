@@ -4,10 +4,10 @@ title: Summarization Is (almost) Dead
 authors: Xiao Pu, Mingqi Gao, Xiaojun Wan
 conference: Arxiv
 year: 2023
-citations: 21
+citations: 22
 bibkey: pu2023summarization
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.09558'}]
-tags: [Uncategorized]
+tags: [Evaluation]
 ---
 How well can large language models (LLMs) generate summaries? We develop new
 datasets and conduct human evaluation experiments to evaluate the zero-shot

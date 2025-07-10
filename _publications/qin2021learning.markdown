@@ -2,12 +2,13 @@
 layout: publication
 title: 'Learning How To Ask: Querying Lms With Mixtures Of Soft Prompts'
 authors: Guanghui Qin, Jason Eisner
-conference: NAACL-HLT 2021
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
-citations: 122
+citations: 123
 bibkey: qin2021learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.06599'}]
-tags: [Training Techniques, Fine-Tuning, Few-Shot, Reinforcement Learning, Prompting]
+tags: [Fine-Tuning, Few-Shot, Reinforcement Learning, Prompting, Training Techniques]
 ---
 Natural-language prompts have recently been used to coax pretrained language
 models into performing other AI tasks, using a fill-in-the-blank paradigm

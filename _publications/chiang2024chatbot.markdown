@@ -7,7 +7,7 @@ year: 2024
 citations: 33
 bibkey: chiang2024chatbot
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.04132'}]
-tags: [RAG, Applications, Tools]
+tags: [Tools, Evaluation, RAG, Applications]
 ---
 Large Language Models (LLMs) have unlocked new capabilities and applications;
 however, evaluating the alignment with human preferences still poses

@@ -3,12 +3,13 @@ layout: publication
 title: 'VISAR: A Human-ai Argumentative Writing Assistant With Visual Programming
   And Rapid Draft Prototyping'
 authors: Zheng Zhang, Jie Gao, Ranjodh Singh Dhaliwal, Toby Jia-jun Li
-conference: Arxiv
+conference: 'UIST ''23: The 36th Annual ACM Symposium on User Interface Software and
+  Technology'
 year: 2023
-citations: 41
+citations: 45
 bibkey: zhang2023human
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.07810'}]
-tags: [GPT, Tools, Reinforcement Learning, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Reinforcement Learning, Tools, GPT]
 ---
 In argumentative writing, writers must brainstorm hierarchical writing goals,
 ensure the persuasiveness of their arguments, and revise and organize their

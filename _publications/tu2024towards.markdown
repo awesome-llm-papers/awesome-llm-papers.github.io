@@ -7,7 +7,7 @@ year: 2024
 citations: 75
 bibkey: tu2024towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.05654'}]
-tags: [Tools, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, Evaluation]
 ---
 At the heart of medicine lies the physician-patient dialogue, where skillful
 history-taking paves the way for accurate diagnosis, effective management, and

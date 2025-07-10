@@ -2,13 +2,14 @@
 layout: publication
 title: 'Contrastive Decoding: Open-ended Text Generation As Optimization'
 authors: Xiang Lisa Li et al.
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 18
+citations: 19
 bibkey: li2022contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.15097'}]
-tags: [Training Techniques, GPT, Efficiency and Optimization, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Efficiency and Optimization, Training
+    Techniques, Evaluation]
 ---
 Given a language model (LM), maximum probability is a poor decoding objective
 for open-ended generation, because it produces short and repetitive text. On

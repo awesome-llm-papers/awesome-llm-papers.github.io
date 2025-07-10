@@ -2,12 +2,13 @@
 layout: publication
 title: Data Augmentation Using Pre-trained Transformer Models
 authors: Varun Kumar, Ashutosh Choudhary, Eunah Cho
-conference: Arxiv
+conference: Proceedings of the 2nd Workshop on Life-long Learning for Spoken Language
+  Systems
 year: 2020
-citations: 35
+citations: 39
 bibkey: kumar2020data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.02245'}]
-tags: [GPT, Transformer, Model Architecture, BERT]
+tags: [Model Architecture, GPT, Transformer, BERT, Evaluation]
 ---
 Language model based pre-trained models such as BERT have provided
 significant gains across different NLP tasks. In this paper, we study different

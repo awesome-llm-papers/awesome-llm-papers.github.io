@@ -3,12 +3,12 @@ layout: publication
 title: 'Abscribe: Rapid Exploration & Organization Of Multiple Writing Variations
   In Human-ai Co-writing Tasks Using Large Language Models'
 authors: Mohi Reza et al.
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 21
+citations: 26
 bibkey: reza2023rapid
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.00117'}]
-tags: [Fine-Tuning, Tools, Reinforcement Learning, Prompting]
+tags: [Tools, Reinforcement Learning, Fine-Tuning, Prompting]
 ---
 Exploring alternative ideas by rewriting text is integral to the writing
 process. State-of-the-art Large Language Models (LLMs) can simplify writing

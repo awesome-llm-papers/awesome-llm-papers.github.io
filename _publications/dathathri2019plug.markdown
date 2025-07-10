@@ -7,8 +7,8 @@ year: 2019
 citations: 439
 bibkey: dathathri2019plug
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.02164'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Applications, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Fine-Tuning, Applications,
+  Training Techniques, Evaluation]
 ---
 Large transformer-based language models (LMs) trained on huge text corpora
 have shown unparalleled generation capabilities. However, controlling

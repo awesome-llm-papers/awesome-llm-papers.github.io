@@ -3,12 +3,12 @@ layout: publication
 title: Do Response Selection Models Really Know What's Next? Utterance Manipulation
   Strategies For Multi-turn Response Selection
 authors: Taesun Whang et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2020
 citations: 16
 bibkey: whang2020do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.04703'}]
-tags: [Training Techniques, Model Architecture, BERT]
+tags: [BERT, Training Techniques, Model Architecture, Evaluation]
 ---
 In this paper, we study the task of selecting the optimal response given a
 user and system utterance history in retrieval-based multi-turn dialog systems.

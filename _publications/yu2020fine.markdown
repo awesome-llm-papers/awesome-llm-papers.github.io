@@ -3,12 +3,13 @@ layout: publication
 title: 'Fine-tuning Pre-trained Language Model With Weak Supervision: A Contrastive-regularized
   Self-training Approach'
 authors: Yue Yu et al.
-conference: NAACL-HLT 2021
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2020
 citations: 32
 bibkey: yu2020fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.07835'}]
-tags: [Fine-Tuning, Tools, Training Techniques]
+tags: [Tools, Training Techniques, Fine-Tuning, Evaluation]
 ---
 Fine-tuned pre-trained language models (LMs) have achieved enormous success
 in many natural language processing (NLP) tasks, but they still require

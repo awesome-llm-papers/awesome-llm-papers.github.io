@@ -2,12 +2,12 @@
 layout: publication
 title: 'Lost In The Middle: How Language Models Use Long Contexts'
 authors: Nelson F. Liu et al.
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2023
-citations: 246
+citations: 273
 bibkey: liu2023lost
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.03172'}]
-tags: [Uncategorized]
+tags: [Evaluation]
 ---
 While recent language models have the ability to take long contexts as input,
 relatively little is known about how well they use longer context. We analyze

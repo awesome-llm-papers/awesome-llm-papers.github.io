@@ -2,12 +2,12 @@
 layout: publication
 title: Multilingual Denoising Pre-training For Neural Machine Translation
 authors: Yinhan Liu et al.
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2020
-citations: 486
+citations: 494
 bibkey: liu2020multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2001.08210'}]
-tags: [Pre-Training, Training Techniques]
+tags: [Training Techniques, Pre-Training]
 ---
 This paper demonstrates that multilingual denoising pre-training produces
 significant performance gains across a wide variety of machine translation (MT)

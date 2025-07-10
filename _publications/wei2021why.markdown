@@ -8,7 +8,7 @@ year: 2021
 citations: 28
 bibkey: wei2021why
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.09226'}]
-tags: [Training Techniques, Tools, Reinforcement Learning, Prompting]
+tags: [Tools, Training Techniques, Prompting, Reinforcement Learning]
 ---
 Pretrained language models have achieved state-of-the-art performance when
 adapted to a downstream NLP task. However, theoretical analysis of these models

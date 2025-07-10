@@ -8,8 +8,8 @@ citations: 19
 bibkey: han2023imagebind
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.03905'}, {name: Code,
     url: 'https://github.com/OpenGVLab/LLaMA-Adapter'}]
-tags: [Training Techniques, Attention Mechanism, Has Code, Multimodal Models, Model
-    Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Multimodal Models, Training
+    Techniques]
 ---
 We present ImageBind-LLM, a multi-modality instruction tuning method of large
 language models (LLMs) via ImageBind. Existing works mainly focus on language

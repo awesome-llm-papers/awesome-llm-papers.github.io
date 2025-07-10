@@ -3,12 +3,12 @@ layout: publication
 title: 'Coauthor: Designing A Human-ai Collaborative Writing Dataset For Exploring
   Language Model Capabilities'
 authors: Mina Lee, Percy Liang, Qian Yang
-conference: Arxiv
+conference: 'CHI ''22: CHI Conference on Human Factors in Computing Systems'
 year: 2022
-citations: 191
+citations: 201
 bibkey: lee2022designing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.06796'}]
-tags: [Reinforcement Learning, Model Architecture, GPT]
+tags: [Reinforcement Learning, GPT, Model Architecture]
 ---
 Large language models (LMs) offer unprecedented language generation
 capabilities and exciting opportunities for interaction design. However, their

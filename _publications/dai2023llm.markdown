@@ -2,13 +2,13 @@
 layout: publication
 title: 'Llm-in-the-loop: Leveraging Large Language Model For Thematic Analysis'
 authors: Shih-chieh Dai, Aiping Xiong, Lun-wei Ku
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
-citations: 23
+citations: 25
 bibkey: dai2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.15100'}]
-tags: [GPT, Merging, RAG, Reinforcement Learning, Tools, In-Context Learning, Survey
-    Paper, Prompting, Model Architecture]
+tags: [Model Architecture, RAG, Survey Paper, Tools, Reinforcement Learning, Prompting,
+  In-Context Learning, GPT, Merging]
 ---
 Thematic analysis (TA) has been widely used for analyzing qualitative data in
 many disciplines and fields. To ensure reliable analysis, the same piece of

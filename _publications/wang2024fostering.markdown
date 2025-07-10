@@ -2,14 +2,14 @@
 layout: publication
 title: 'Farsight: Fostering Responsible AI Awareness During AI Application Prototyping'
 authors: Zijie J. Wang, Chinmay Kulkarni, Lauren Wilcox, Michael Terry, Michael Madaio
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2024
-citations: 28
+citations: 29
 bibkey: wang2024fostering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.15350'}, {name: Code,
     url: 'https://PAIR-code.github.io/farsight'}]
-tags: [Ethics and Bias, RAG, Reinforcement Learning, Responsible AI, Has Code, Applications,
-  Prompting]
+tags: [Responsible AI, Has Code, Ethics and Bias, RAG, Applications, Reinforcement
+    Learning, Prompting]
 ---
 Prompt-based interfaces for Large Language Models (LLMs) have made
 prototyping and building AI-powered applications easier than ever before.

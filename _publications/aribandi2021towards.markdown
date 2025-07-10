@@ -7,7 +7,7 @@ year: 2021
 citations: 72
 bibkey: aribandi2021towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.10952'}]
-tags: [Efficiency and Optimization, Pre-Training, Training Techniques, Fine-Tuning]
+tags: [Efficiency and Optimization, Training Techniques, Fine-Tuning, Pre-Training]
 ---
 Despite the recent success of multi-task learning and transfer learning for
 natural language processing (NLP), few works have systematically studied the

@@ -3,12 +3,12 @@ layout: publication
 title: Exploring The Responses Of Large Language Models To Beginner Programmers' Help
   Requests
 authors: Arto Hellas et al.
-conference: Arxiv
+conference: 'ICER 2023: ACM Conference on International Computing Education Research'
 year: 2023
-citations: 72
+citations: 77
 bibkey: hellas2023exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.05715'}]
-tags: [Reinforcement Learning, Model Architecture, GPT, Prompting]
+tags: [Reinforcement Learning, GPT, Prompting, Model Architecture]
 ---
 Background and Context: Over the past year, large language models (LLMs) have
 taken the world by storm. In computing education, like in other walks of life,

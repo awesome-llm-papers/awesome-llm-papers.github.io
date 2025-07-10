@@ -2,7 +2,8 @@
 layout: publication
 title: Are Large Language Models Geospatially Knowledgeable?
 authors: Prabin Bhandari, Antonios Anastasopoulos, Dieter Pfoser
-conference: Arxiv
+conference: 'SIGSPATIAL ''23: 31st ACM International Conference on Advances in Geographic
+  Information Systems'
 year: 2023
 citations: 17
 bibkey: bhandari2023are

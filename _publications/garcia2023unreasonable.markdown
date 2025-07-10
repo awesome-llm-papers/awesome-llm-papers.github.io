@@ -7,7 +7,7 @@ year: 2023
 citations: 17
 bibkey: garcia2023unreasonable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.01398'}]
-tags: [Training Techniques, Transformer, Few-Shot, WMT, Model Architecture]
+tags: [Model Architecture, Transformer, WMT, Few-Shot, Training Techniques]
 ---
 We demonstrate the potential of few-shot translation systems, trained with
 unpaired language data, for both high and low-resource language pairs. We show

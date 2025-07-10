@@ -9,8 +9,8 @@ citations: 159
 bibkey: wang2022unifying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.03052'}, {name: Code,
     url: 'https://github.com/OFA-Sys/OFA'}]
-tags: [Training Techniques, Tools, Reinforcement Learning, Has Code, Multimodal Models,
-  Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Reinforcement Learning, Tools,
+  Multimodal Models, Training Techniques]
 ---
 In this work, we pursue a unified paradigm for multimodal pretraining to
 break the scaffolds of complex task/modality-specific customization. We propose

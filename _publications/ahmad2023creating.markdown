@@ -2,9 +2,9 @@
 layout: publication
 title: 'Creating Trustworthy Llms: Dealing With Hallucinations In Healthcare AI'
 authors: Muhammad Aurangzeb Ahmad, Ilker Yaramis, Taposh Dutta Roy
-conference: Arxiv
+conference: MDPI AG
 year: 2023
-citations: 19
+citations: 22
 bibkey: ahmad2023creating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.01463'}]
 tags: [Ethics and Bias]

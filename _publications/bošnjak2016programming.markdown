@@ -7,7 +7,7 @@ year: 2016
 citations: 64
 bibkey: "bo\u0161njak2016programming"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1605.06640'}]
-tags: [RAG, Training Techniques, Model Architecture]
+tags: [Training Techniques, RAG, Model Architecture]
 ---
 Given that in practice training data is scarce for all but a small set of
 problems, a core question is how to incorporate prior knowledge into a model.

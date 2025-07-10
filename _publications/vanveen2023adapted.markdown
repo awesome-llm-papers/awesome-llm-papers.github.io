@@ -3,12 +3,12 @@ layout: publication
 title: Adapted Large Language Models Can Outperform Medical Experts In Clinical Text
   Summarization
 authors: Dave Van Veen et al.
-conference: Nature Medicine 2024
+conference: Nature Medicine
 year: 2023
-citations: 225
+citations: 235
 bibkey: vanveen2023adapted
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.07430'}]
-tags: [Responsible AI]
+tags: [Responsible AI, Evaluation]
 ---
 Analyzing vast textual data and summarizing key information from electronic
 health records imposes a substantial burden on how clinicians allocate their

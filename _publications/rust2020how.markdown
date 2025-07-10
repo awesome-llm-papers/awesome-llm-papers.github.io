@@ -3,9 +3,11 @@ layout: publication
 title: How Good Is Your Tokenizer? On The Monolingual Performance Of Multilingual
   Language Models
 authors: "Phillip Rust, Jonas Pfeiffer, Ivan Vuli\u0107, Sebastian Ruder, Iryna Gurevych"
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2020
-citations: 38
+citations: 39
 bibkey: rust2020how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15613'}]
 tags: [Training Techniques]

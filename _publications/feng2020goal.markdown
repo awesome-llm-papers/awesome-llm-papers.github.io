@@ -2,7 +2,8 @@
 layout: publication
 title: 'Doc2dial: A Goal-oriented Document-grounded Dialogue Dataset'
 authors: Song Feng et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 19
 bibkey: feng2020goal

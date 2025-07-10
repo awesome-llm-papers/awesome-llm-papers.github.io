@@ -7,7 +7,7 @@ year: 2023
 citations: 61
 bibkey: wu2023enabling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.08155'}]
-tags: [Applications, Agentic, Tools]
+tags: [Agentic, Tools, Applications]
 ---
 AutoGen is an open-source framework that allows developers to build LLM
 applications via multiple agents that can converse with each other to

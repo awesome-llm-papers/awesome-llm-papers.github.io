@@ -3,13 +3,14 @@ layout: publication
 title: 'Promptsource: An Integrated Development Environment And Repository For Natural
   Language Prompts'
 authors: Stephen H. Bach et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics: System Demonstrations'
 year: 2022
-citations: 49
+citations: 53
 bibkey: bach2022integrated
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.01279'}, {name: Code,
     url: 'https://github.com/bigscience-workshop/promptsource'}]
-tags: [Has Code, Tools, Merging, Prompting]
+tags: [Tools, Has Code, Prompting, Merging]
 ---
 PromptSource is a system for creating, sharing, and using natural language
 prompts. Prompts are functions that map an example from a dataset to a natural

@@ -3,12 +3,14 @@ layout: publication
 title: Can Generative Pre-trained Language Models Serve As Knowledge Bases For Closed-book
   QA?
 authors: Cunxiang Wang, Pai Liu, Yue Zhang
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
 citations: 20
 bibkey: wang2021can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.01561'}]
-tags: [Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Evaluation]
 ---
 Recent work has investigated the interesting question using pre-trained
 language models (PLMs) as knowledge bases for answering open questions.

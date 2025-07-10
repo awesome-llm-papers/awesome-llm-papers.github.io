@@ -2,13 +2,13 @@
 layout: publication
 title: Unifying Multimodal Transformer For Bi-directional Image And Text Generation
 authors: Yupan Huang, Hongwei Xue, Bei Liu, Yutong Lu
-conference: Arxiv
+conference: 'MM ''21: ACM Multimedia Conference'
 year: 2021
 citations: 28
 bibkey: huang2021unifying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.09753'}]
-tags: [Training Techniques, Transformer, Tools, Multimodal Models, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Tools, Multimodal Models,
+  Training Techniques]
 ---
 We study the joint learning of image-to-text and text-to-image generations,
 which are naturally bi-directional tasks. Typical existing works design two

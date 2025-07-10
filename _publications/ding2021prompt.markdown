@@ -2,14 +2,14 @@
 layout: publication
 title: Prompt-learning For Fine-grained Entity Typing
 authors: Ning Ding et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2021
 citations: 52
 bibkey: ding2021prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.10604'}]
-tags: [Masked Language Model, Training Techniques, Few-Shot, Attention Mechanism,
-  Fine-Tuning, BERT, Efficiency and Optimization, Prompting, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Fine-Tuning, Few-Shot,
+  Masked Language Model, Prompting, BERT, Efficiency and Optimization, Training Techniques,
+  Evaluation]
 ---
 As an effective approach to tune pre-trained language models (PLMs) for
 specific tasks, prompt-learning has recently attracted much attention from

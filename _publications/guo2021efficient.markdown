@@ -2,13 +2,13 @@
 layout: publication
 title: 'Longt5: Efficient Text-to-text Transformer For Long Sequences'
 authors: Mandy Guo et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: NAACL 2022'
 year: 2021
-citations: 63
+citations: 67
 bibkey: guo2021efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.07916'}]
-tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Pre-Training, Training
+    Techniques]
 ---
 Recent work has shown that either (1) increasing the input length or (2)
 increasing model size can improve the performance of Transformer-based neural

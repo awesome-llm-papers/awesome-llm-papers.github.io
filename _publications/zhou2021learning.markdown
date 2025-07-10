@@ -4,11 +4,11 @@ title: Learning To Prompt For Vision-language Models
 authors: Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu
 conference: Arxiv
 year: 2021
-citations: 1232
+citations: 1234
 bibkey: zhou2021learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.01134'}]
-tags: [Training Techniques, RAG, Pre-Training, Efficiency and Optimization, Prompting,
-  Multimodal Models]
+tags: [RAG, Multimodal Models, Pre-Training, Prompting, Efficiency and Optimization,
+  Training Techniques]
 ---
 Large pre-trained vision-language models like CLIP have shown great potential
 in learning representations that are transferable across a wide range of

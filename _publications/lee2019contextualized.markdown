@@ -2,12 +2,13 @@
 layout: publication
 title: Contextualized Sparse Representations For Real-time Open-domain Question Answering
 authors: Jinhyuk Lee, Minjoon Seo, Hannaneh Hajishirzi, Jaewoo Kang
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 17
 bibkey: lee2019contextualized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.02896'}]
-tags: [RAG, Attention Mechanism, Transformer, Model Architecture]
+tags: [Transformer, RAG, Model Architecture, Attention Mechanism]
 ---
 Open-domain question answering can be formulated as a phrase retrieval
 problem, in which we can expect huge scalability and speed benefit but often

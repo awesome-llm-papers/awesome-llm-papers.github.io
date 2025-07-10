@@ -3,14 +3,15 @@ layout: publication
 title: 'Large Language Models Meet Collaborative Filtering: An Efficient All-round
   Llm-based Recommender System'
 authors: Sein Kim et al.
-conference: Arxiv
+conference: 'KDD ''24: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data
+  Mining'
 year: 2024
-citations: 20
+citations: 22
 bibkey: kim2024large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.11343'}, {name: Code,
     url: 'https://github.com/ghdtjr/A-LLMRec'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Few-Shot, Tools, Reinforcement Learning,
-  RecSys, Efficiency and Optimization, Has Code]
+tags: [Has Code, Fine-Tuning, RAG, Few-Shot, RecSys, Tools, Reinforcement Learning,
+  Efficiency and Optimization, Training Techniques]
 ---
 Collaborative filtering recommender systems (CF-RecSys) have shown successive
 results in enhancing the user experience on social media and e-commerce

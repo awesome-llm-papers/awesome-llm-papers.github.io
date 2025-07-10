@@ -2,13 +2,13 @@
 layout: publication
 title: 'Lmdrive: Closed-loop End-to-end Driving With Large Language Models'
 authors: Hao Shao et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 23
+citations: 24
 bibkey: shao2023closed
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.07488'}, {name: Code,
     url: 'https://github.com/opendilab/LMDrive'}]
-tags: [RAG, Has Code, Tools]
+tags: [Tools, Has Code, RAG, Evaluation]
 ---
 Despite significant recent progress in the field of autonomous driving,
 modern methods still struggle and can incur serious accidents when encountering

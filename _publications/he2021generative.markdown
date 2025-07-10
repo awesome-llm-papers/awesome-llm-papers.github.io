@@ -3,12 +3,12 @@ layout: publication
 title: 'GALAXY: A Generative Pre-trained Model For Task-oriented Dialog With Semi-supervised
   Learning And Explicit Policy Injection'
 authors: Wanwei He et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2021
-citations: 37
+citations: 38
 bibkey: he2021generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.14592'}]
-tags: [Efficiency and Optimization, Pre-Training, Training Techniques, Few-Shot]
+tags: [Few-Shot, Pre-Training, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 Pre-trained models have proved to be powerful in enhancing task-oriented
 dialog systems. However, current pre-training methods mainly focus on enhancing

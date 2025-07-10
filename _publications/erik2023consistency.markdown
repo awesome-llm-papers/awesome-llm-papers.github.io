@@ -2,13 +2,13 @@
 layout: publication
 title: Consistency Analysis Of Chatgpt
 authors: Myeongjun Erik Jang, Thomas Lukasiewicz
-conference: The 2023 Conference on Empirical Methods in Natural Language Processing
-  (EMNLP 2023)
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 24
+citations: 26
 bibkey: erik2023consistency
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.06273v3'}]
-tags: [GPT, Few-Shot, Tools, Reinforcement Learning, Prompting, Model Architecture]
+tags: [Model Architecture, Few-Shot, Tools, Reinforcement Learning, Prompting, GPT]
 ---
 ChatGPT has gained a huge popularity since its introduction. Its positive
 aspects have been reported through many media platforms, and some analyses even

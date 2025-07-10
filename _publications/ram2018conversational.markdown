@@ -8,7 +8,7 @@ year: 2018
 citations: 222
 bibkey: ram2018conversational
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1801.03604'}]
-tags: [Tools, Agentic, INTERSPEECH, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, INTERSPEECH, Agentic, Evaluation]
 ---
 Conversational agents are exploding in popularity. However, much work remains
 in the area of social conversation as well as free-form conversation over a

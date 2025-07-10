@@ -2,12 +2,14 @@
 layout: publication
 title: 'Prompt-and-align: Prompt-based Social Alignment For Few-shot Fake News Detection'
 authors: Jiaying Wu, Shen Li, Ailin Deng, Miao Xiong, Bryan Hooi
-conference: Arxiv
+conference: 'CIKM ''23: The 32nd ACM International Conference on Information and Knowledge
+  Management'
 year: 2023
 citations: 15
 bibkey: wu2023prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.16424'}]
-tags: [Training Techniques, RAG, Pre-Training, Few-Shot, Reinforcement Learning, Prompting]
+tags: [Few-Shot, RAG, Reinforcement Learning, Prompting, Pre-Training, Training Techniques,
+  Evaluation]
 ---
 Despite considerable advances in automated fake news detection, due to the
 timely nature of news, it remains a critical open question how to effectively

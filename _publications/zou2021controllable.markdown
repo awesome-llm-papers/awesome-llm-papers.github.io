@@ -2,14 +2,15 @@
 layout: publication
 title: Controllable Generation From Pre-trained Language Models Via Inverse Prompting
 authors: Xu Zou et al.
-conference: Arxiv
+conference: 'KDD ''21: The 27th ACM SIGKDD Conference on Knowledge Discovery and Data
+  Mining'
 year: 2021
 citations: 18
 bibkey: zou2021controllable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.10685'}, {name: Code,
     url: 'https://pretrain.aminer.cn/apps/poetry.html,'}, {name: Code, url: 'https://pretrain.aminer.cn/app/qa'},
   {name: Code, url: 'https://github.com/THUDM/InversePrompting'}]
-tags: [Language Modeling, Has Code, Prompting]
+tags: [Language Modeling, Has Code, Prompting, Evaluation]
 ---
 Large-scale pre-trained language models have demonstrated strong capabilities
 of generating realistic text. However, it remains challenging to control the

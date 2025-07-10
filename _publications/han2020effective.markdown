@@ -3,13 +3,14 @@ layout: publication
 title: 'ECONET: Effective Continual Pretraining Of Language Models For Event Temporal
   Reasoning'
 authors: Rujun Han, Xiang Ren, Nanyun Peng
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2020
 citations: 21
 bibkey: han2020effective
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15283'}]
-tags: [Training Techniques, Pre-Training, Attention Mechanism, Fine-Tuning, Tools,
-  Applications, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Fine-Tuning, Applications, Tools,
+  Pre-Training, Training Techniques]
 ---
 While pre-trained language models (PTLMs) have achieved noticeable success on
 many NLP tasks, they still struggle for tasks that require event temporal

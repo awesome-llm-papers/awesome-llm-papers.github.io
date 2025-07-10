@@ -3,9 +3,10 @@ layout: publication
 title: 'Same Task, More Tokens: The Impact Of Input Length On The Reasoning Performance
   Of Large Language Models'
 authors: Mosh Levy, Alon Jacoby, Yoav Goldberg
-conference: Arxiv
+conference: 'Proceedings of the 62nd Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2024
-citations: 20
+citations: 22
 bibkey: levy2024same
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.14848'}]
 tags: [Tools]

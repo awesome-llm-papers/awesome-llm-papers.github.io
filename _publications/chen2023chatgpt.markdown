@@ -2,12 +2,13 @@
 layout: publication
 title: 'Gptutor: A Chatgpt-powered Programming Tool For Code Explanation'
 authors: Eason Chen, Ray Huang, Han-shin Chen, Yuen-hsien Tseng, Liang-yi Li
-conference: Arxiv
+conference: Communications in Computer and Information Science
 year: 2023
-citations: 37
+citations: 40
 bibkey: chen2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.01863'}]
-tags: [GPT, Tools, Interpretability and Explainability, Prompting, Model Architecture]
+tags: [Model Architecture, Interpretability and Explainability, Tools, Prompting,
+  GPT, Evaluation]
 ---
 Learning new programming skills requires tailored guidance. With the
 emergence of advanced Natural Language Generation models like the ChatGPT API,

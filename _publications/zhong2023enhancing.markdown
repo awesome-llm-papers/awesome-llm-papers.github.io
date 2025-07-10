@@ -2,12 +2,12 @@
 layout: publication
 title: 'Memorybank: Enhancing Large Language Models With Long-term Memory'
 authors: Wanjun Zhong, Lianghong Guo, Qiqi Gao, He Ye, Yanlin Wang
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 38
+citations: 41
 bibkey: zhong2023enhancing
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.10250v3'}]
-tags: [Reinforcement Learning, Model Architecture, GPT]
+tags: [Reinforcement Learning, GPT, Model Architecture]
 ---
 Revolutionary advancements in Large Language Models have drastically reshaped
 our interactions with artificial intelligence systems. Despite this, a notable

@@ -3,9 +3,9 @@ layout: publication
 title: 'A Piece Of Theatre: Investigating How Teachers Design LLM Chatbots To Assist
   Adolescent Cyberbullying Education'
 authors: Michael A. Hedderich et al.
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2024
-citations: 19
+citations: 23
 bibkey: hedderich2024piece
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.17456'}]
 tags: [Tools, Reinforcement Learning, Prompting]

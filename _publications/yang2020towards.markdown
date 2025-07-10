@@ -2,12 +2,13 @@
 layout: publication
 title: 'UBAR: Towards Fully End-to-end Task-oriented Dialog Systems With GPT-2'
 authors: Yunyi Yang, Yunhao Li, Xiaojun Quan
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2020
-citations: 55
+citations: 56
 bibkey: yang2020towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.03539'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Efficiency and Optimization, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Efficiency and Optimization, Training
+    Techniques]
 ---
 This paper presents our task-oriented dialog system UBAR which models
 task-oriented dialogs on a dialog session level. Specifically, UBAR is acquired

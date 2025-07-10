@@ -2,12 +2,13 @@
 layout: publication
 title: 'Promda: Prompt-based Data Augmentation For Low-resource NLU Tasks'
 authors: Yufei Wang et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
 citations: 25
 bibkey: wang2022prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.12499'}]
-tags: [Training Techniques, Prompting]
+tags: [Training Techniques, Prompting, Evaluation]
 ---
 This paper focuses on the Data Augmentation for low-resource Natural Language
 Understanding (NLU) tasks. We propose Prompt-based D\}ata Augmentation model

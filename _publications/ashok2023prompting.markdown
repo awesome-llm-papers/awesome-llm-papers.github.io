@@ -7,8 +7,8 @@ year: 2023
 citations: 17
 bibkey: ashok2023prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.15444'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Few-Shot, Reinforcement Learning, Interpretability
-    and Explainability, Prompting]
+tags: [Fine-Tuning, RAG, Few-Shot, Interpretability and Explainability, Reinforcement
+    Learning, Prompting, Training Techniques]
 ---
 In a surprising turn, Large Language Models (LLMs) together with a growing
 arsenal of prompt-based heuristics now offer powerful off-the-shelf approaches

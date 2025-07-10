@@ -7,7 +7,7 @@ year: 2019
 citations: 37
 bibkey: hoang2019efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.00138'}]
-tags: [Training Techniques, Transformer, Model Architecture]
+tags: [Transformer, Training Techniques, Model Architecture]
 ---
 Large-scale learning of transformer language models has yielded improvements
 on a variety of natural language understanding tasks. Whether they can be

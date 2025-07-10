@@ -2,12 +2,12 @@
 layout: publication
 title: 'Auditing Large Language Models: A Three-layered Approach'
 authors: "Jakob M\xF6kander, Jonas Schuett, Hannah Rose Kirk, Luciano Floridi"
-conference: Arxiv
+conference: SSRN Electronic Journal
 year: 2023
-citations: 27
+citations: 28
 bibkey: "m\xF6kander2023auditing"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.08500'}]
-tags: [Pre-Training, Applications, Training Techniques]
+tags: [Training Techniques, Pre-Training, Applications]
 ---
 Large language models (LLMs) represent a major advance in artificial
 intelligence (AI) research. However, the widespread use of LLMs is also coupled

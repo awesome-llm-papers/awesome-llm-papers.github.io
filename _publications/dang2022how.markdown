@@ -8,7 +8,7 @@ year: 2022
 citations: 42
 bibkey: dang2022how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.01390'}]
-tags: [RAG, Few-Shot, Reinforcement Learning, Applications, Prompting]
+tags: [Few-Shot, RAG, Applications, Reinforcement Learning, Prompting]
 ---
 Deep generative models have the potential to fundamentally change the way we
 create high-fidelity digital content but are often hard to control. Prompting a

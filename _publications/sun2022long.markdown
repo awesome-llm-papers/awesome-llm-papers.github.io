@@ -9,8 +9,8 @@ citations: 28
 bibkey: sun2022long
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.06031'}, {name: Code,
     url: 'https://github.com/microsoft/XPretrain'}]
-tags: [Training Techniques, Transformer, RAG, Pre-Training, Attention Mechanism, Has
-    Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, RAG, Multimodal
+    Models, Pre-Training, Training Techniques]
 ---
 Large-scale video-language pre-training has shown significant improvement in
 video-language understanding tasks. Previous studies of video-language

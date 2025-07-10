@@ -3,13 +3,14 @@ layout: publication
 title: Transformer Feed-forward Layers Build Predictions By Promoting Concepts In
   The Vocabulary Space
 authors: Mor Geva, Avi Caciularu, Kevin Ro Wang, Yoav Goldberg
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
 citations: 28
 bibkey: geva2022transformer
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.14680'}]
-tags: [GPT, Transformer, RAG, Reinforcement Learning, Efficiency and Optimization,
-  Model Architecture]
+tags: [Model Architecture, Transformer, RAG, Reinforcement Learning, Efficiency and
+    Optimization, GPT]
 ---
 Transformer-based language models (LMs) are at the core of modern NLP, but
 their internal prediction construction process is opaque and largely not

@@ -2,9 +2,9 @@
 layout: publication
 title: Human Heuristics For Ai-generated Language Are Flawed
 authors: Maurice Jakesch, Jeffrey Hancock, Mor Naaman
-conference: Proceedings of the National Academy of Sciences 120 no. 11 (2023) e2208839120
+conference: Proceedings of the National Academy of Sciences
 year: 2022
-citations: 126
+citations: 134
 bibkey: jakesch2022human
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.07271'}]
 tags: [Uncategorized]

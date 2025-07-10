@@ -3,13 +3,13 @@ layout: publication
 title: 'Not What You''ve Signed Up For: Compromising Real-world Llm-integrated Applications
   With Indirect Prompt Injection'
 authors: Kai Greshake et al.
-conference: Arxiv
+conference: 'CCS ''23: ACM SIGSAC Conference on Computer and Communications Security'
 year: 2023
-citations: 106
+citations: 116
 bibkey: greshake2023not
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.12173'}]
-tags: [GPT, Merging, Reinforcement Learning, Tools, Applications, Security, Prompting,
-  Model Architecture]
+tags: [Security, Model Architecture, Applications, Tools, Reinforcement Learning,
+  Prompting, GPT, Merging]
 ---
 Large Language Models (LLMs) are increasingly being integrated into various
 applications. The functionalities of recent LLMs can be flexibly modulated via

@@ -3,12 +3,13 @@ layout: publication
 title: 'Proofwriter: Generating Implications, Proofs, And Abductive Statements Over
   Natural Language'
 authors: Oyvind Tafjord, Bhavana Dalvi Mishra, Peter Clark
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP
+  2021'
 year: 2020
-citations: 15
+citations: 22
 bibkey: tafjord2020generating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.13048'}]
-tags: [Reinforcement Learning, Transformer, Model Architecture, Training Techniques]
+tags: [Transformer, Reinforcement Learning, Training Techniques, Model Architecture]
 ---
 Transformers have been shown to emulate logical deduction over natural
 language theories (logical rules expressed in natural language), reliably

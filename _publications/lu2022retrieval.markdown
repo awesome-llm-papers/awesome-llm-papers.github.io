@@ -2,12 +2,14 @@
 layout: publication
 title: 'Reacc: A Retrieval-augmented Code Completion Framework'
 authors: Shuai Lu et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 22
+citations: 27
 bibkey: lu2022retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.07722'}]
-tags: [Training Techniques, Transformer, RAG, Tools, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, RAG, Tools, Training Techniques,
+  Evaluation]
 ---
 Code completion, which aims to predict the following code token(s) according
 to the code context, can improve the productivity of software development.

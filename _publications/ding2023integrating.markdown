@@ -3,12 +3,12 @@ layout: publication
 title: Integrating Action Knowledge And Llms For Task Planning And Situation Handling
   In Open Worlds
 authors: Yan Ding et al.
-conference: Autonomous Robots 2023
+conference: Autonomous Robots
 year: 2023
-citations: 21
+citations: 22
 bibkey: ding2023integrating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.17590'}]
-tags: [RAG, Tools, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, RAG, Evaluation]
 ---
 Task planning systems have been developed to help robots use human knowledge
 (about actions) to complete long-horizon tasks. Most of them have been

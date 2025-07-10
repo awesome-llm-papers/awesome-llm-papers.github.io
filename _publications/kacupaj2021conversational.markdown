@@ -3,12 +3,13 @@ layout: publication
 title: Conversational Question Answering Over Knowledge Graphs With Transformer And
   Graph Attention Networks
 authors: Endri Kacupaj et al.
-conference: Arxiv
+conference: 'Proceedings of the 16th Conference of the European Chapter of the Association
+  for Computational Linguistics: Main Volume'
 year: 2021
 citations: 31
 bibkey: kacupaj2021conversational
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.01569'}]
-tags: [RAG, Attention Mechanism, Transformer, Model Architecture]
+tags: [Transformer, RAG, Model Architecture, Attention Mechanism]
 ---
 This paper addresses the task of (complex) conversational question answering
 over a knowledge graph. For this task, we propose LASAGNE (muLti-task semAntic

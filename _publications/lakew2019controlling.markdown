@@ -7,7 +7,7 @@ year: 2019
 citations: 35
 bibkey: lakew2019controlling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.10408'}]
-tags: [Ethics and Bias, Tools, Transformer, Model Architecture]
+tags: [Transformer, Tools, Model Architecture, Ethics and Bias]
 ---
 The recent advances introduced by neural machine translation (NMT) are
 rapidly expanding the application fields of machine translation, as well as

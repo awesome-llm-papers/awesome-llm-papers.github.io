@@ -2,14 +2,14 @@
 layout: publication
 title: Read-only Prompt Optimization For Vision-language Few-shot Learning
 authors: Dongjun Lee et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2023
-citations: 20
+citations: 21
 bibkey: lee2023read
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.14960'}, {name: Code,
     url: 'https://github.com/mlvlab/RPO'}]
-tags: [Transformer, RAG, Few-Shot, Attention Mechanism, Efficiency and Optimization,
-  Has Code, Security, Prompting, Multimodal Models, Model Architecture]
+tags: [Security, Has Code, Model Architecture, Attention Mechanism, Transformer, Few-Shot,
+  RAG, Multimodal Models, Prompting, Efficiency and Optimization]
 ---
 In recent years, prompt tuning has proven effective in adapting pre-trained
 vision-language models to downstream tasks. These methods aim to adapt the

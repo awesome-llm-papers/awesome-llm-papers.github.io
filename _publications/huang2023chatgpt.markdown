@@ -3,13 +3,13 @@ layout: publication
 title: 'Chatgpt For Shaping The Future Of Dentistry: The Potential Of Multi-modal
   Large Language Model'
 authors: Hanyao Huang et al.
-conference: Int J Oral Sci. 2023 Jul 28;15(1)29
+conference: International Journal of Oral Science
 year: 2023
-citations: 169
+citations: 177
 bibkey: huang2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.03086'}]
-tags: [Ethics and Bias, GPT, Transformer, Tools, Applications, Multimodal Models,
-  Model Architecture]
+tags: [Model Architecture, Ethics and Bias, Transformer, Applications, Tools, Multimodal
+    Models, GPT]
 ---
 The ChatGPT, a lite and conversational variant of Generative Pretrained
 Transformer 4 (GPT-4) developed by OpenAI, is one of the milestone Large

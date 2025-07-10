@@ -8,7 +8,7 @@ year: 2020
 citations: 17
 bibkey: mao2020exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.07637'}]
-tags: [Transformer, Model Architecture, Merging]
+tags: [Transformer, Model Architecture, Evaluation, Merging]
 ---
 Emotion Recognition in Conversations (ERC) is essential for building
 empathetic human-machine systems. Existing studies on ERC primarily focus on

@@ -2,12 +2,13 @@
 layout: publication
 title: Neural Theory-of-mind? On The Limits Of Social Intelligence In Large Lms
 authors: Maarten Sap, Ronan Lebras, Daniel Fried, Yejin Choi
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 34
+citations: 37
 bibkey: sap2022neural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.13312'}]
-tags: [GPT, Training Techniques, RAG, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, GPT, RAG, Reinforcement Learning, Training Techniques]
 ---
 Social intelligence and Theory of Mind (ToM), i.e., the ability to reason
 about the different mental states, intents, and reactions of all people

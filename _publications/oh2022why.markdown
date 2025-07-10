@@ -3,12 +3,12 @@ layout: publication
 title: Why Does Surprisal From Larger Transformer-based Language Models Provide A
   Poorer Fit To Human Reading Times?
 authors: Byung-doh Oh, William Schuler
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2022
 citations: 36
 bibkey: oh2022why
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.12131'}]
-tags: [GPT, Transformer, Training Techniques, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, GPT, Transformer, Reinforcement Learning, Training Techniques]
 ---
 This work presents a detailed linguistic analysis into why larger
 Transformer-based pre-trained language models with more parameters and lower

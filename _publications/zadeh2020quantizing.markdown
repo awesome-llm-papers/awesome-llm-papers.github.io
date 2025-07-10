@@ -3,13 +3,14 @@ layout: publication
 title: 'GOBO: Quantizing Attention-based NLP Models For Low Latency And Energy Efficient
   Inference'
 authors: Ali Hadi Zadeh, Isak Edo, Omar Mohamed Awad, Andreas Moshovos
-conference: Arxiv
+conference: 2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture
+  (MICRO)
 year: 2020
-citations: 82
+citations: 92
 bibkey: zadeh2020quantizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.03842'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Attention Mechanism, BERT, Efficiency
-    and Optimization, Applications, Model Architecture, Quantization]
+tags: [Model Architecture, Attention Mechanism, Fine-Tuning, RAG, Applications, Quantization,
+  BERT, Efficiency and Optimization, Training Techniques]
 ---
 Attention-based models have demonstrated remarkable success in various
 natural language understanding tasks. However, efficient execution remains a

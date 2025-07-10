@@ -2,12 +2,13 @@
 layout: publication
 title: 'On Codex Prompt Engineering For OCL Generation: An Empirical Study'
 authors: Seif Abukhalaf, Mohammad Hamdaqa, Foutse Khomh
-conference: Arxiv
+conference: 2023 IEEE/ACM 20th International Conference on Mining Software Repositories
+  (MSR)
 year: 2023
-citations: 16
+citations: 17
 bibkey: abukhalaf2023codex
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.16244'}]
-tags: [Few-Shot, GPT, Model Architecture, Prompting]
+tags: [Model Architecture, Few-Shot, Prompting, GPT, Evaluation]
 ---
 The Object Constraint Language (OCL) is a declarative language that adds
 constraints and object query expressions to MOF models. Despite its potential

@@ -3,12 +3,12 @@ layout: publication
 title: 'Quality Of Answers Of Generative Large Language Models Vs Peer Patients For
   Interpreting Lab Test Results For Lay Patients: Evaluation Study'
 authors: Zhe He et al.
-conference: Arxiv
+conference: Journal of Medical Internet Research
 year: 2024
 citations: 20
 bibkey: he2024quality
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.01693'}]
-tags: [GPT, Responsible AI, Tools, BERT, Model Architecture]
+tags: [Responsible AI, Model Architecture, GPT, Tools, BERT, Evaluation]
 ---
 Lab results are often confusing and hard to understand. Large language models
 (LLMs) such as ChatGPT have opened a promising avenue for patients to get their

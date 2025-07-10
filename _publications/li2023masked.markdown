@@ -3,14 +3,14 @@ layout: publication
 title: Masked Vision And Language Pre-training With Unimodal And Multimodal Contrastive
   Losses For Medical Visual Question Answering
 authors: Pengfei Li, Gang Liu, Jinlong He, Zixu Zhao, Shenjun Zhong
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2023
-citations: 24
+citations: 26
 bibkey: li2023masked
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.05314'}, {name: Code,
     url: 'https://github.com/pengfeiliHEU/MUMC'}]
-tags: [Masked Language Model, Training Techniques, RAG, Fine-Tuning, Pre-Training,
-  BERT, Has Code, Multimodal Models, Language Modeling]
+tags: [Language Modeling, Has Code, Fine-Tuning, RAG, Masked Language Model, Multimodal
+    Models, Pre-Training, BERT, Training Techniques]
 ---
 Medical visual question answering (VQA) is a challenging task that requires
 answering clinical questions of a given medical image, by taking consider of

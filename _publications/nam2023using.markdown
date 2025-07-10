@@ -2,12 +2,12 @@
 layout: publication
 title: Using An LLM To Help With Code Understanding
 authors: Daye Nam, Andrew Macvean, Vincent Hellendoorn, Bogdan Vasilescu, Brad Myers
-conference: Arxiv
+conference: 'ICSE ''24: IEEE/ACM 46th International Conference on Software Engineering'
 year: 2023
-citations: 95
+citations: 125
 bibkey: nam2023using
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.08177'}]
-tags: [Tools, Model Architecture, GPT, Prompting]
+tags: [Tools, GPT, Prompting, Model Architecture]
 ---
 Understanding code is challenging, especially when working in new and complex
 development environments. Code comments and documentation can help, but are

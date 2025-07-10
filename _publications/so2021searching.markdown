@@ -7,8 +7,8 @@ year: 2021
 citations: 30
 bibkey: so2021searching
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.08668'}]
-tags: [GPT, Transformer, Training Techniques, Attention Mechanism, Tools, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, GPT, Transformer,
+  Tools, Training Techniques]
 ---
 Large Transformer models have been central to recent advances in natural
 language processing. The training and inference costs of these models, however,

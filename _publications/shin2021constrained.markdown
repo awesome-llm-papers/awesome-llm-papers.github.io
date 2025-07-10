@@ -2,12 +2,13 @@
 layout: publication
 title: Constrained Language Models Yield Few-shot Semantic Parsers
 authors: Richard Shin et al.
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 48
+citations: 51
 bibkey: shin2021constrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08768'}]
-tags: [Few-Shot, Tools]
+tags: [Tools, Few-Shot]
 ---
 We explore the use of large pretrained language models as few-shot semantic
 parsers. The goal in semantic parsing is to generate a structured meaning

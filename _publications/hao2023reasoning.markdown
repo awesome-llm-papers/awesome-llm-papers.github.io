@@ -2,13 +2,14 @@
 layout: publication
 title: Reasoning With Language Model Is Planning With World Model
 authors: Shibo Hao et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 35
+citations: 39
 bibkey: hao2023reasoning
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.14992v2'}]
-tags: [GPT, Fine-Tuning, Tools, Agentic, Reinforcement Learning, Prompting, Model
-    Architecture]
+tags: [Model Architecture, Fine-Tuning, Tools, Reinforcement Learning, Prompting,
+  Agentic, GPT]
 ---
 Large language models (LLMs) have shown remarkable reasoning capabilities,
 especially when prompted to generate intermediate reasoning steps (e.g.,

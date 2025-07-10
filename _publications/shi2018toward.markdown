@@ -2,13 +2,14 @@
 layout: publication
 title: Toward Diverse Text Generation With Inverse Reinforcement Learning
 authors: Zhan Shi, Xinchi Chen, Xipeng Qiu, Xuanjing Huang
-conference: Arxiv
+conference: Twenty-Seventh International Joint Conference on Artificial Intelligence
+  {IJCAI-18}
 year: 2018
 citations: 33
 bibkey: shi2018toward
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.11258'}]
-tags: [Ethics and Bias, Training Techniques, RAG, Tools, Reinforcement Learning, Agentic,
-  Security, Language Modeling]
+tags: [Language Modeling, Security, Ethics and Bias, RAG, Tools, Reinforcement Learning,
+  Agentic, Training Techniques]
 ---
 Text generation is a crucial task in NLP. Recently, several adversarial
 generative models have been proposed to improve the exposure bias problem in

@@ -3,14 +3,14 @@ layout: publication
 title: 'Biogpt: Generative Pre-trained Transformer For Biomedical Text Generation
   And Mining'
 authors: Renqian Luo et al.
-conference: Briefings in Bioinformatics 2022; bbac409
+conference: Briefings in Bioinformatics
 year: 2022
-citations: 506
+citations: 529
 bibkey: luo2022generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.10341'}, {name: Code,
     url: 'https://github.com/microsoft/BioGPT'}]
-tags: [GPT, Transformer, Attention Mechanism, BERT, Has Code, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Attention Mechanism, GPT,
+  Transformer, BERT]
 ---
 Pre-trained language models have attracted increasing attention in the
 biomedical domain, inspired by their great success in the general natural

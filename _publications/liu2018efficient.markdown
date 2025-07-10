@@ -3,13 +3,14 @@ layout: publication
 title: 'Efficient Contextualized Representation: Language Model Pruning For Sequence
   Labeling'
 authors: Liyuan Liu, Xiang Ren, Jingbo Shang, Jian Peng, Jiawei Han
-conference: Arxiv
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2018
 citations: 15
 bibkey: liu2018efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.07827'}]
-tags: [Training Techniques, RAG, Reinforcement Learning, Efficiency and Optimization,
-  Applications, Security, Pruning]
+tags: [Security, Pruning, RAG, Applications, Reinforcement Learning, Efficiency and
+    Optimization, Training Techniques, Evaluation]
 ---
 Many efforts have been made to facilitate natural language processing tasks
 with pre-trained language models (LMs), and brought significant improvements to

@@ -2,9 +2,9 @@
 layout: publication
 title: 'Verigen: A Large Language Model For Verilog Code Generation'
 authors: Shailja Thakur et al.
-conference: Arxiv
+conference: ACM Transactions on Design Automation of Electronic Systems
 year: 2023
-citations: 65
+citations: 71
 bibkey: thakur2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.00708'}]
 tags: [GPT, Model Architecture]

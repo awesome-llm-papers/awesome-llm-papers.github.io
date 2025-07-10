@@ -8,7 +8,8 @@ citations: 20
 bibkey: nayak2022learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.03574'}, {name: Code,
     url: 'https://github.com/BatsResearch/csp'}]
-tags: [Training Techniques, RAG, Prompting, Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, RAG, Multimodal Models, Prompting, Training Techniques,
+  Evaluation]
 ---
 We introduce compositional soft prompting (CSP), a parameter-efficient
 learning technique to improve the zero-shot compositionality of large-scale

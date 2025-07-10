@@ -5,11 +5,11 @@ title: 'Lasuie: Unifying Information Extraction With Latent Adaptive Structure-a
 authors: Hao Fei et al.
 conference: Arxiv
 year: 2023
-citations: 43
+citations: 44
 bibkey: fei2023unifying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.06248'}, {name: Code,
     url: 'https://github.com/ChocoWu/LasUIE'}]
-tags: [Ethics and Bias, Fine-Tuning, Training Techniques, Has Code]
+tags: [Has Code, Ethics and Bias, Fine-Tuning, Training Techniques, Evaluation]
 ---
 Universally modeling all typical information extraction tasks (UIE) with one
 generative language model (GLM) has revealed great potential by the latest

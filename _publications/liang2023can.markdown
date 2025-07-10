@@ -3,12 +3,12 @@ layout: publication
 title: Can Large Language Models Provide Useful Feedback On Research Papers? A Large-scale
   Empirical Analysis
 authors: Weixin Liang et al.
-conference: Arxiv
+conference: NEJM AI
 year: 2023
-citations: 58
+citations: 62
 bibkey: liang2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.01783'}]
-tags: [GPT, RAG, Tools, Reinforcement Learning, ICLR, Model Architecture]
+tags: [Model Architecture, ICLR, RAG, Tools, Reinforcement Learning, GPT]
 ---
 Expert feedback lays the foundation of rigorous research. However, the rapid
 growth of scholarly production and intricate knowledge specialization challenge

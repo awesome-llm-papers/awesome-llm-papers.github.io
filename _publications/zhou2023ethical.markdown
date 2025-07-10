@@ -2,12 +2,13 @@
 layout: publication
 title: 'Ethical Chatgpt: Concerns, Challenges, And Commandments'
 authors: "Jianlong Zhou, Heimo M\xFCller, Andreas Holzinger, Fang Chen"
-conference: Electronics 2024
+conference: Electronics
 year: 2023
-citations: 26
+citations: 30
 bibkey: zhou2023ethical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.10646'}]
-tags: [Ethics and Bias, GPT, Tools, Reinforcement Learning, Applications, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, Applications, Tools, Reinforcement Learning,
+  GPT]
 ---
 Large language models, e.g. ChatGPT are currently contributing enormously to
 make artificial intelligence even more popular, especially among the general

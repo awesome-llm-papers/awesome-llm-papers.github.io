@@ -8,7 +8,7 @@ year: 2020
 citations: 15
 bibkey: akakzia2020grounding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.07185'}]
-tags: [RAG, Tools, Agentic, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, RAG, Tools, Reinforcement Learning, Agentic]
 ---
 We are interested in the autonomous acquisition of repertoires of skills.
 Language-conditioned reinforcement learning (LC-RL) approaches are great tools

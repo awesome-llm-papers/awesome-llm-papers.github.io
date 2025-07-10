@@ -3,14 +3,14 @@ layout: publication
 title: 'Prompt, Generate, Then Cache: Cascade Of Foundation Models Makes Strong Few-shot
   Learners'
 authors: Renrui Zhang et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 87
+citations: 92
 bibkey: zhang2023then
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.02151v1'}, {name: Code,
     url: 'https://github.com/ZrrSkywalker/CaFo'}]
-tags: [Training Techniques, GPT, RAG, Pre-Training, Few-Shot, Has Code, Prompting,
-  Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Few-Shot, RAG, Prompting, Pre-Training,
+  Training Techniques]
 ---
 Visual recognition in low-data regimes requires deep neural networks to learn
 generalized representations from limited training samples. Recently, CLIP-based

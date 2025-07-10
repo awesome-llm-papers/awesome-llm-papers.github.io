@@ -2,13 +2,13 @@
 layout: publication
 title: 'Structured Like A Language Model: Analysing AI As An Automated Subject'
 authors: Liam Magee, Vanicka Arora, Luke Munn
-conference: Arxiv
+conference: Big Data &amp; Society
 year: 2022
-citations: 16
+citations: 17
 bibkey: magee2022structured
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.05058'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Fine-Tuning, Reinforcement Learning,
-  Prompting, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, Fine-Tuning, Reinforcement Learning,
+  Prompting, Training Techniques]
 ---
 Drawing from the resources of psychoanalysis and critical media studies, in
 this paper we develop an analysis of Large Language Models (LLMs) as automated

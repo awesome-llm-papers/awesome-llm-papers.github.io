@@ -3,12 +3,12 @@ layout: publication
 title: 'Co-writing Screenplays And Theatre Scripts With Language Models: An Evaluation
   By Industry Professionals'
 authors: Piotr Mirowski, Kory W. Mathewson, Jaylen Pittman, Richard Evans
-conference: Arxiv
+conference: 'CHI ''23: CHI Conference on Human Factors in Computing Systems'
 year: 2022
-citations: 126
+citations: 135
 bibkey: mirowski2022co
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.14958'}]
-tags: [Language Modeling, Ethics and Bias, Tools, Prompting]
+tags: [Language Modeling, Ethics and Bias, Tools, Prompting, Evaluation]
 ---
 Language models are increasingly attracting interest from writers. However,
 such models lack long-range semantic coherence, limiting their usefulness for

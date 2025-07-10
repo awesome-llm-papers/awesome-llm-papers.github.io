@@ -2,9 +2,9 @@
 layout: publication
 title: 'Response: Emergent Analogical Reasoning In Large Language Models'
 authors: Damian Hodel, Jevin West
-conference: Arxiv
+conference: Nature Human Behaviour
 year: 2023
-citations: 161
+citations: 175
 bibkey: hodel2023emergent
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.16118'}]
 tags: [GPT, Model Architecture]

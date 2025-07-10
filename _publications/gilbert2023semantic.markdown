@@ -3,12 +3,13 @@ layout: publication
 title: Semantic Compression With Large Language Models
 authors: Henry Gilbert, Michael Sandborn, Douglas C. Schmidt, Jesse Spencer-smith,
   Jules White
-conference: Arxiv
+conference: 2023 Tenth International Conference on Social Networks Analysis, Management
+  and Security (SNAMS)
 year: 2023
-citations: 17
+citations: 18
 bibkey: gilbert2023semantic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.12512'}]
-tags: [RAG, GPT, Model Architecture, Prompting]
+tags: [Model Architecture, RAG, Prompting, GPT, Evaluation]
 ---
 The rise of large language models (LLMs) is revolutionizing information
 retrieval, question answering, summarization, and code generation tasks.

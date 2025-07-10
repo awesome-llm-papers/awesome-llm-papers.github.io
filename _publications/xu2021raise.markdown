@@ -3,12 +3,13 @@ layout: publication
 title: 'Raise A Child In Large Language Model: Towards Effective And Generalizable
   Fine-tuning'
 authors: Runxin Xu et al.
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 45
+citations: 46
 bibkey: xu2021raise
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.05687'}]
-tags: [RAG, Fine-Tuning, Training Techniques]
+tags: [Training Techniques, Fine-Tuning, RAG, Evaluation]
 ---
 Recent pretrained language models extend from millions to billions of
 parameters. Thus the need to fine-tune an extremely large pretrained model with

@@ -2,13 +2,14 @@
 layout: publication
 title: 'Vision Language Models In Autonomous Driving: A Survey And Outlook'
 authors: Xingcheng Zhou et al.
-conference: Arxiv
+conference: IEEE Transactions on Intelligent Vehicles
 year: 2023
-citations: 20
+citations: 22
 bibkey: zhou2023vision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.14414'}]
-tags: [RAG, Reinforcement Learning, Responsible AI, Attention Mechanism, Efficiency
-    and Optimization, Applications, Survey Paper, Multimodal Models, Model Architecture]
+tags: [Responsible AI, Model Architecture, Attention Mechanism, RAG, Applications,
+  Survey Paper, Reinforcement Learning, Multimodal Models, Efficiency and Optimization,
+  Evaluation]
 ---
 The applications of Vision-Language Models (VLMs) in the field of Autonomous
 Driving (AD) have attracted widespread attention due to their outstanding

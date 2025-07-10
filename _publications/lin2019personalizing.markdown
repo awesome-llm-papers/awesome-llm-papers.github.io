@@ -2,12 +2,13 @@
 layout: publication
 title: Personalizing Dialogue Agents Via Meta-learning
 authors: Zhaojiang Lin, Andrea Madotto, Chien-sheng Wu, Pascale Fung
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 61
 bibkey: lin2019personalizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.10033'}]
-tags: [RAG, Agentic]
+tags: [Agentic, RAG, Evaluation]
 ---
 Existing personalized dialogue models use human designed persona descriptions
 to improve dialogue consistency. Collecting such descriptions from existing

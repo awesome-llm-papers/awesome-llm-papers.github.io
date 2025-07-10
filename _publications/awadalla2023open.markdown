@@ -5,11 +5,11 @@ title: 'Openflamingo: An Open-source Framework For Training Large Autoregressive
 authors: Anas Awadalla et al.
 conference: Arxiv
 year: 2023
-citations: 43
+citations: 44
 bibkey: awadalla2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.01390'}, {name: Code,
     url: 'https://github.com/mlfoundations/open_flamingo'}]
-tags: [GPT, Training Techniques, RAG, Tools, Has Code, Multimodal Models]
+tags: [Has Code, GPT, RAG, Tools, Multimodal Models, Training Techniques, Evaluation]
 ---
 We introduce OpenFlamingo, a family of autoregressive vision-language models
 ranging from 3B to 9B parameters. OpenFlamingo is an ongoing effort to produce

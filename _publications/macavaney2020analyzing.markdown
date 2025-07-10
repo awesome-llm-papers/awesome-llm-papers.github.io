@@ -2,13 +2,13 @@
 layout: publication
 title: 'ABNIRML: Analyzing The Behavior Of Neural IR Models'
 authors: Sean Macavaney, Sergey Feldman, Nazli Goharian, Doug Downey, Arman Cohan
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2020
 citations: 16
 bibkey: macavaney2020analyzing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.00696'}]
-tags: [Ethics and Bias, Training Techniques, RAG, Tools, Reinforcement Learning, BERT,
-  Model Architecture]
+tags: [Model Architecture, Ethics and Bias, RAG, Tools, Reinforcement Learning, BERT,
+  Training Techniques]
 ---
 Pretrained contextualized language models such as BERT and T5 have
 established a new state-of-the-art for ad-hoc search. However, it is not yet

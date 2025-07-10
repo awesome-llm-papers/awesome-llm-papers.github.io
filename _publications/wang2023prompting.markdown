@@ -2,12 +2,12 @@
 layout: publication
 title: Prompting Large Language Models For Topic Modeling
 authors: Han Wang et al.
-conference: Arxiv
+conference: 2023 IEEE International Conference on Big Data (BigData)
 year: 2023
 citations: 19
 bibkey: wang2023prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.09693'}]
-tags: [Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Prompting, Evaluation]
 ---
 Topic modeling is a widely used technique for revealing underlying thematic
 structures within textual data. However, existing models have certain

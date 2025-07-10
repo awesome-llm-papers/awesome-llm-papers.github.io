@@ -8,7 +8,7 @@ year: 2023
 citations: 32
 bibkey: chen2023how
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.00293v1'}]
-tags: [GPT, RAG, Reinforcement Learning, Security, Prompting, Model Architecture]
+tags: [Security, Model Architecture, RAG, Reinforcement Learning, Prompting, GPT]
 ---
 The GPT-3.5 models have demonstrated impressive performance in various
 Natural Language Processing (NLP) tasks, showcasing their strong understanding

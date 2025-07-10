@@ -2,12 +2,12 @@
 layout: publication
 title: Can A Student Large Language Model Perform As Well As It's Teacher?
 authors: Sia Gholami, Marwan Omar
-conference: Arxiv
+conference: Advances in Medical Technologies and Clinical Practice
 year: 2023
 citations: 48
 bibkey: gholami2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.02421'}]
-tags: [Efficiency and Optimization, Fine-Tuning, Distillation, Model Architecture]
+tags: [Efficiency and Optimization, Fine-Tuning, Model Architecture, Distillation]
 ---
 The burgeoning complexity of contemporary deep learning models, while
 achieving unparalleled accuracy, has inadvertently introduced deployment

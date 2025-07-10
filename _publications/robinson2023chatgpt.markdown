@@ -2,12 +2,12 @@
 layout: publication
 title: 'Chatgpt MT: Competitive For High- (but Not Low-) Resource Languages'
 authors: Nathaniel R. Robinson, Perez Ogayo, David R. Mortensen, Graham Neubig
-conference: Arxiv
+conference: Proceedings of the Eighth Conference on Machine Translation
 year: 2023
 citations: 15
 bibkey: robinson2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.07423'}]
-tags: [Reinforcement Learning, Model Architecture, GPT]
+tags: [Reinforcement Learning, GPT, Model Architecture, Evaluation]
 ---
 Large language models (LLMs) implicitly learn to perform a range of language
 tasks, including machine translation (MT). Previous studies explore aspects of

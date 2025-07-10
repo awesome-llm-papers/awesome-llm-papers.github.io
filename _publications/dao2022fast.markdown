@@ -4,11 +4,11 @@ title: 'Flashattention: Fast And Memory-efficient Exact Attention With Io-awaren
 authors: "Tri Dao, Daniel Y. Fu, Stefano Ermon, Atri Rudra, Christopher R\xE9"
 conference: Arxiv
 year: 2022
-citations: 280
+citations: 284
 bibkey: dao2022fast
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.14135'}]
-tags: [Training Techniques, Transformer, GPT, Attention Mechanism, Tools, BERT, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, GPT, Transformer, Tools, BERT, Training
+    Techniques]
 ---
 Transformers are slow and memory-hungry on long sequences, since the time and
 memory complexity of self-attention are quadratic in sequence length.

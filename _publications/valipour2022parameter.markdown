@@ -3,12 +3,13 @@ layout: publication
 title: 'Dylora: Parameter Efficient Tuning Of Pre-trained Models Using Dynamic Search-free
   Low-rank Adaptation'
 authors: Mojtaba Valipour, Mehdi Rezagholizadeh, Ivan Kobyzev, Ali Ghodsi
-conference: Arxiv
+conference: Proceedings of the 17th Conference of the European Chapter of the Association
+  for Computational Linguistics
 year: 2022
-citations: 30
+citations: 33
 bibkey: valipour2022parameter
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.07558'}]
-tags: [Training Techniques, GPT, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Training Techniques, BERT, Evaluation]
 ---
 With the ever-growing size of pretrained models (PMs), fine-tuning them has
 become more expensive and resource-hungry. As a remedy, low-rank adapters

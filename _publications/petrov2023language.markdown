@@ -7,7 +7,7 @@ year: 2023
 citations: 23
 bibkey: petrov2023language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.15425'}]
-tags: [Ethics and Bias, Reinforcement Learning, Fairness, Bias Mitigation, Tokenization]
+tags: [Tokenization, Ethics and Bias, Fairness, Reinforcement Learning, Bias Mitigation]
 ---
 Recent language models have shown impressive multilingual performance, even
 when not explicitly trained for it. Despite this, there are concerns about the

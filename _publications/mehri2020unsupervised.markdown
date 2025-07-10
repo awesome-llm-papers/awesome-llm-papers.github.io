@@ -2,12 +2,13 @@
 layout: publication
 title: Unsupervised Evaluation Of Interactive Dialog With Dialogpt
 authors: Shikib Mehri, Maxine Eskenazi
-conference: Arxiv
+conference: Proceedings of the 21th Annual Meeting of the Special Interest Group on
+  Discourse and Dialogue
 year: 2020
 citations: 18
 bibkey: mehri2020unsupervised
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.12719'}]
-tags: [Fine-Tuning, Training Techniques, Model Architecture, GPT]
+tags: [Model Architecture, GPT, Fine-Tuning, Training Techniques, Evaluation]
 ---
 It is important to define meaningful and interpretable automatic evaluation
 metrics for open-domain dialog research. Standard language generation metrics

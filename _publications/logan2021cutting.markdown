@@ -3,12 +3,12 @@ layout: publication
 title: 'Cutting Down On Prompts And Parameters: Simple Few-shot Learning With Language
   Models'
 authors: Robert L. Iv Logan et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2022'
 year: 2021
-citations: 36
+citations: 37
 bibkey: logan2021cutting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.13353'}]
-tags: [Ethics and Bias, Training Techniques, Few-Shot, Reinforcement Learning, Prompting]
+tags: [Ethics and Bias, Few-Shot, Reinforcement Learning, Prompting, Training Techniques]
 ---
 Prompting language models (LMs) with training examples and task descriptions
 has been seen as critical to recent successes in few-shot learning. In this

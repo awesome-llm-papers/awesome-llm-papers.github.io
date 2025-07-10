@@ -2,12 +2,12 @@
 layout: publication
 title: Detecting And Preventing Hallucinations In Large Vision Language Models
 authors: Anisha Gunjal, Jihan Yin, Erhan Bas
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 43
+citations: 44
 bibkey: gunjal2023detecting
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2308.06394v3'}]
-tags: [Efficiency and Optimization, Reinforcement Learning]
+tags: [Reinforcement Learning, Efficiency and Optimization, Evaluation]
 ---
 Instruction tuned Large Vision Language Models (LVLMs) have significantly
 advanced in generalizing across a diverse set of multi-modal tasks, especially

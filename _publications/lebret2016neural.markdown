@@ -3,7 +3,8 @@ layout: publication
 title: Neural Text Generation From Structured Data With Application To The Biography
   Domain
 authors: Remi Lebret, David Grangier, Michael Auli
-conference: Arxiv
+conference: Proceedings of the 2016 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2016
 citations: 140
 bibkey: lebret2016neural

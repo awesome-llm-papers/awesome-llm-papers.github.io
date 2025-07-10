@@ -3,12 +3,12 @@ layout: publication
 title: 'Artificial Muses: Generative Artificial Intelligence Chatbots Have Risen To
   Human-level Creativity'
 authors: Jennifer Haase, Paul H. P. Hanel
-conference: Arxiv
+conference: Journal of Creativity
 year: 2023
-citations: 84
+citations: 88
 bibkey: haase2023artificial
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.12003'}]
-tags: [Tools, Model Architecture, GPT]
+tags: [Tools, GPT, Model Architecture]
 ---
 A widespread view is that Artificial Intelligence cannot be creative. We
 tested this assumption by comparing human-generated ideas with those generated

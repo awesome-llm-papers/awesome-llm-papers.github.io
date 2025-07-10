@@ -2,13 +2,14 @@
 layout: publication
 title: 'BLIVA: A Simple Multimodal LLM For Better Handling Of Text-rich Visual Questions'
 authors: Wenbo Hu et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
 citations: 30
 bibkey: hu2023simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.09936'}, {name: Code,
     url: 'https://github.com/mlpc-ucsd/BLIVA'}]
-tags: [Reinforcement Learning, Has Code, Applications, Prompting, Multimodal Models]
+tags: [Has Code, Applications, Reinforcement Learning, Multimodal Models, Prompting,
+  Evaluation]
 ---
 Vision Language Models (VLMs), which extend Large Language Models (LLM) by
 incorporating visual understanding capability, have demonstrated significant

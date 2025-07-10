@@ -3,14 +3,14 @@ layout: publication
 title: 'Recommendation As Language Processing (RLP): A Unified Pretrain, Personalized
   Prompt & Predict Paradigm (P5)'
 authors: Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang
-conference: Arxiv
+conference: 'RecSys ''22: Sixteenth ACM Conference on Recommender Systems'
 year: 2022
-citations: 239
+citations: 249
 bibkey: geng2022recommendation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.13366'}, {name: Code,
     url: 'https://github.com/jeykigung/P5'}]
-tags: [Training Techniques, Fine-Tuning, Few-Shot, Tools, RecSys, Reinforcement Learning,
-  Has Code, Survey Paper, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Fine-Tuning, Few-Shot, RecSys, Tools, Reinforcement
+    Learning, Prompting, Survey Paper, Training Techniques, Evaluation]
 ---
 For a long time, different recommendation tasks typically require designing
 task-specific architectures and training objectives. As a result, it is hard to

@@ -8,7 +8,7 @@ citations: 17
 bibkey: zhao2023enabling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.08581'}, {name: Code,
     url: 'https://bubo-gpt.github.io'}]
-tags: [Training Techniques, GPT, Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Multimodal Models, Training Techniques]
 ---
 LLMs have demonstrated remarkable abilities at interacting with humans
 through language, especially with the usage of instruction-following data.

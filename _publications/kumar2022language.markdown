@@ -4,12 +4,13 @@ title: 'Language Generation Models Can Cause Harm: So What Can We Do About It? A
   Actionable Survey'
 authors: Sachin Kumar, Vidhisha Balachandran, Lucille Njoo, Antonios Anastasopoulos,
   Yulia Tsvetkov
-conference: Arxiv
+conference: Proceedings of the 17th Conference of the European Chapter of the Association
+  for Computational Linguistics
 year: 2022
 citations: 19
 bibkey: kumar2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.07700'}]
-tags: [Interpretability and Explainability, Survey Paper, Prompting]
+tags: [Interpretability and Explainability, Prompting, Survey Paper]
 ---
 Recent advances in the capacity of large language models to generate
 human-like text have resulted in their increased adoption in user-facing

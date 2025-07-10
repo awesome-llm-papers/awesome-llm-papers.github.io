@@ -7,8 +7,8 @@ year: 2024
 citations: 35
 bibkey: huang2024trustworthiness
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.05561'}]
-tags: [Ethics and Bias, GPT, Responsible AI, Attention Mechanism, Reinforcement Learning,
-  Security, Bias Mitigation, Fairness, Prompting, Model Architecture]
+tags: [Responsible AI, Security, Model Architecture, Attention Mechanism, Ethics and
+    Bias, Fairness, Reinforcement Learning, Bias Mitigation, Prompting, GPT, Evaluation]
 ---
 Large language models (LLMs), exemplified by ChatGPT, have gained
 considerable attention for their excellent natural language processing

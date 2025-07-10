@@ -2,9 +2,9 @@
 layout: publication
 title: Emergent Analogical Reasoning In Large Language Models
 authors: Taylor Webb, Keith J. Holyoak, Hongjing Lu
-conference: Arxiv
+conference: Nature Human Behaviour
 year: 2022
-citations: 161
+citations: 175
 bibkey: webb2022emergent
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09196'}]
 tags: [Training Techniques, Model Architecture, GPT]

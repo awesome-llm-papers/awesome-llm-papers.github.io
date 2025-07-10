@@ -2,12 +2,12 @@
 layout: publication
 title: 'A Confederacy Of Models: A Comprehensive Evaluation Of Llms On Creative Writing'
 authors: "Carlos G\xF3mez-rodr\xEDguez, Paul Williams"
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
-citations: 17
+citations: 19
 bibkey: "g\xF3mezrodr\xEDguez2023confederacy"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.08433'}]
-tags: [Training Techniques]
+tags: [Training Techniques, Evaluation]
 ---
 We evaluate a range of recent LLMs on English creative writing, a challenging
 and complex task that requires imagination, coherence, and style. We use a

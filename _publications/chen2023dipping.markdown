@@ -3,12 +3,12 @@ layout: publication
 title: 'Dipping Plms Sauce: Bridging Structure And Text For Effective Knowledge Graph
   Completion Via Conditional Soft Prompting'
 authors: Chen Chen, Yufei Wang, Aixin Sun, Bing Li, Kwok-yan Lam
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2023
-citations: 22
+citations: 23
 bibkey: chen2023dipping
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.01709'}]
-tags: [Efficiency and Optimization, Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Prompting, Efficiency and Optimization, Evaluation]
 ---
 Knowledge Graph Completion (KGC) often requires both KG structural and
 textual information to be effective. Pre-trained Language Models (PLMs) have

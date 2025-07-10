@@ -3,12 +3,13 @@ layout: publication
 title: Will I Sound Like Me? Improving Persona Consistency In Dialogues Through Pragmatic
   Self-consciousness
 authors: Hyunwoo Kim, Byeongchang Kim, Gunhee Kim
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 15
 bibkey: kim2020will
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.05816'}]
-tags: [RAG, Tools, Agentic, Training Techniques]
+tags: [Agentic, Tools, Training Techniques, RAG]
 ---
 We explore the task of improving persona consistency of dialogue agents.
 Recent models tackling consistency often train with additional Natural Language

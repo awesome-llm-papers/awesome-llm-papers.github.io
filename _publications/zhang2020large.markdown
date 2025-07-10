@@ -2,14 +2,14 @@
 layout: publication
 title: 'CPM: A Large-scale Generative Chinese Pre-trained Language Model'
 authors: Zhengyan Zhang et al.
-conference: Arxiv
+conference: AI Open
 year: 2020
-citations: 53
+citations: 54
 bibkey: zhang2020large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.00413'}, {name: Code,
     url: 'https://github.com/TsinghuaAI/CPM-Generate'}]
-tags: [Training Techniques, GPT, Pre-Training, Attention Mechanism, Few-Shot, Has
-    Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, GPT, Few-Shot, Pre-Training,
+  Training Techniques]
 ---
 Pre-trained Language Models (PLMs) have proven to be beneficial for various
 downstream NLP tasks. Recently, GPT-3, with 175 billion parameters and 570GB

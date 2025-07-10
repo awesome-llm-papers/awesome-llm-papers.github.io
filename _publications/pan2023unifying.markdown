@@ -2,13 +2,13 @@
 layout: publication
 title: 'Unifying Large Language Models And Knowledge Graphs: A Roadmap'
 authors: Shirui Pan et al.
-conference: IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024
+conference: IEEE Transactions on Knowledge and Data Engineering
 year: 2023
-citations: 354
+citations: 379
 bibkey: pan2023unifying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.08302'}]
-tags: [Training Techniques, GPT, RAG, Pre-Training, Tools, Interpretability and Explainability,
-  Survey Paper, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, RAG, Interpretability and Explainability,
+  Tools, Survey Paper, Pre-Training, Training Techniques]
 ---
 Large language models (LLMs), such as ChatGPT and GPT4, are making new waves
 in the field of natural language processing and artificial intelligence, due to

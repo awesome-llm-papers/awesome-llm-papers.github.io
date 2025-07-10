@@ -2,12 +2,12 @@
 layout: publication
 title: Generative Data Augmentation For Commonsense Reasoning
 authors: Yiben Yang et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
 citations: 34
 bibkey: yang2020generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.11546'}]
-tags: [RAG, Training Techniques, Security]
+tags: [Training Techniques, Security, RAG, Evaluation]
 ---
 Recent advances in commonsense reasoning depend on large-scale
 human-annotated training data to achieve peak performance. However, manual

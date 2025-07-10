@@ -2,12 +2,12 @@
 layout: publication
 title: 'MWP-BERT: Numeracy-augmented Pre-training For Math Word Problem Solving'
 authors: Zhenwen Liang et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: NAACL 2022'
 year: 2021
 citations: 41
 bibkey: liang2021mwp
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.13435'}]
-tags: [Pre-Training, Training Techniques, Model Architecture, BERT]
+tags: [Model Architecture, Pre-Training, Training Techniques, BERT, Evaluation]
 ---
 Math word problem (MWP) solving faces a dilemma in number representation
 learning. In order to avoid the number representation issue and reduce the

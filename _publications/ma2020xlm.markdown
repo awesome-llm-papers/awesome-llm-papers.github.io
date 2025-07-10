@@ -9,7 +9,7 @@ citations: 22
 bibkey: ma2020xlm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15547'}, {name: Code,
     url: 'https://aka.ms/xlm-t'}]
-tags: [Training Techniques, Transformer, Pre-Training, Has Code, WMT, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, WMT, Pre-Training, Training Techniques]
 ---
 Multilingual machine translation enables a single model to translate between
 different languages. Most existing multilingual machine translation systems

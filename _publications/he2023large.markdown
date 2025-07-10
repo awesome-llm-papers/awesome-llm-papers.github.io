@@ -2,12 +2,13 @@
 layout: publication
 title: Large Language Models As Zero-shot Conversational Recommenders
 authors: Zhankui He et al.
-conference: Arxiv
+conference: 'CIKM ''23: The 32nd ACM International Conference on Information and Knowledge
+  Management'
 year: 2023
-citations: 54
+citations: 57
 bibkey: he2023large
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2308.10053v1'}]
-tags: [Fine-Tuning, Training Techniques, Tools, Reinforcement Learning]
+tags: [Fine-Tuning, Tools, Reinforcement Learning, Training Techniques, Evaluation]
 ---
 In this paper, we present empirical studies on conversational recommendation
 tasks using representative large language models in a zero-shot setting with

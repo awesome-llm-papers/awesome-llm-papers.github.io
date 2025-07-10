@@ -3,13 +3,15 @@ layout: publication
 title: 'Redditbias: A Real-world Resource For Bias Evaluation And Debiasing Of Conversational
   Language Models'
 authors: "Soumya Barikeri, Anne Lauscher, Ivan Vuli\u0107, Goran Glava\u0161"
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
-citations: 24
+citations: 27
 bibkey: barikeri2021real
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.03521'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Reinforcement Learning, Tools, Model
-    Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, Tools, Reinforcement Learning, Training
+    Techniques, Evaluation]
 ---
 Text representation models are prone to exhibit a range of societal biases,
 reflecting the non-controlled and biased nature of the underlying pretraining

@@ -2,12 +2,12 @@
 layout: publication
 title: In-context Learning For Few-shot Dialogue State Tracking
 authors: Yushi Hu et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2022
-citations: 21
+citations: 23
 bibkey: hu2022learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.08568'}]
-tags: [RAG, Few-Shot, Tools, In-Context Learning, Prompting]
+tags: [Few-Shot, RAG, Tools, In-Context Learning, Prompting]
 ---
 Collecting and annotating task-oriented dialogues is time-consuming and
 costly; thus, zero and few shot learning could greatly benefit dialogue state

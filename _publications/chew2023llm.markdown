@@ -5,10 +5,11 @@ title: 'Llm-assisted Content Analysis: Using Large Language Models To Support De
 authors: Robert Chew, John Bollenbacher, Michael Wenger, Jessica Speer, Annice Kim
 conference: Arxiv
 year: 2023
-citations: 21
+citations: 22
 bibkey: chew2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.14924'}]
-tags: [GPT, Tools, Reinforcement Learning, Dataset, Prompting, Model Architecture]
+tags: [Model Architecture, Dataset, Tools, Reinforcement Learning, Prompting, GPT,
+  Evaluation]
 ---
 Deductive coding is a widely used qualitative research method for determining
 the prevalence of themes across documents. While useful, deductive coding is

@@ -5,10 +5,10 @@ title: 'Deepseek-r1: Incentivizing Reasoning Capability In Llms Via Reinforcemen
 authors: Deepseek-ai et al.
 conference: Arxiv
 year: 2025
-citations: 58
+citations: 60
 bibkey: deepseekai2025deepseek
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2501.12948'}]
-tags: [Fine-Tuning, Reinforcement Learning, Agentic, Training Techniques]
+tags: [Agentic, Reinforcement Learning, Training Techniques, Fine-Tuning]
 ---
 We introduce our first-generation reasoning models, DeepSeek-R1-Zero and
 DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement

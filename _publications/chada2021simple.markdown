@@ -3,13 +3,14 @@ layout: publication
 title: 'Fewshotqa: A Simple Framework For Few-shot Learning Of Question Answering
   Tasks Using Pre-trained Text-to-text Models'
 authors: Rakesh Chada, Pradeep Natarajan
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 22
 bibkey: chada2021simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.01951'}]
-tags: [Training Techniques, RAG, Pre-Training, Few-Shot, Tools, Reinforcement Learning,
-  Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, Few-Shot, Tools, Reinforcement Learning,
+  Pre-Training, BERT, Training Techniques, Evaluation]
 ---
 The task of learning from only a few examples (called a few-shot setting) is
 of key importance and relevance to a real-world setting. For question answering

@@ -3,13 +3,12 @@ layout: publication
 title: 'Chacha: Leveraging Large Language Models To Prompt Children To Share Their
   Emotions About Personal Events'
 authors: Woosuk Seo, Chanmo Yang, Young-ho Kim
-conference: In Proceedings of the CHI Conference on Human Factors in Computing Systems
-  (CHI 24) May 11-16 2024 Honolulu HI USA. ACM New York NY USA
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 21
+citations: 28
 bibkey: seo2023leveraging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.12244'}]
-tags: [RAG, Fine-Tuning, Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Prompting, Fine-Tuning, RAG]
 ---
 Children typically learn to identify and express emotions through sharing
 their stories and feelings with others, particularly their family. However, it

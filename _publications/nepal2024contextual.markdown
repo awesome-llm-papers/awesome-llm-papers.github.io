@@ -3,12 +3,12 @@ layout: publication
 title: 'Contextual AI Journaling: Integrating LLM And Time Series Behavioral Sensing
   Technology To Promote Self-reflection And Well-being Using The Mindscape App'
 authors: Subigya Nepal et al.
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2024
-citations: 20
+citations: 21
 bibkey: nepal2024contextual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.00487'}]
-tags: [RAG, Prompting]
+tags: [RAG, Time Series, Prompting]
 ---
 MindScape aims to study the benefits of integrating time series behavioral
 patterns (e.g., conversational engagement, sleep, location) with Large Language

@@ -7,8 +7,8 @@ year: 2023
 citations: 42
 bibkey: gu2023systematic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.12980'}]
-tags: [Merging, Reinforcement Learning, Prompting, Applications, Survey Paper, Multimodal
-    Models, Language Modeling]
+tags: [Language Modeling, Applications, Survey Paper, Reinforcement Learning, Multimodal
+    Models, Prompting, Merging]
 ---
 Prompt engineering is a technique that involves augmenting a large
 pre-trained model with task-specific hints, known as prompts, to adapt the

@@ -3,12 +3,13 @@ layout: publication
 title: Do Massively Pretrained Language Models Make Better Storytellers?
 authors: Abigail See, Aneesh Pappu, Rohun Saxena, Akhila Yerukola, Christopher D.
   Manning
-conference: Arxiv
+conference: Proceedings of the 23rd Conference on Computational Natural Language Learning
+  (CoNLL)
 year: 2019
-citations: 31
+citations: 33
 bibkey: see2019do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.10705'}]
-tags: [GPT, Model Architecture]
+tags: [GPT, Model Architecture, Evaluation]
 ---
 Large neural language models trained on massive amounts of text have emerged
 as a formidable strategy for Natural Language Understanding tasks. However, the

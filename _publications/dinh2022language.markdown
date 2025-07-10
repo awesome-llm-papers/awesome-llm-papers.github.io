@@ -8,8 +8,8 @@ citations: 17
 bibkey: dinh2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.06565'}, {name: Code,
     url: 'https://github.com/UW-Madison-Lee-Lab/LanguageInterfacedFineTuning'}]
-tags: [Ethics and Bias, Training Techniques, Fine-Tuning, Has Code, Security, Prompting,
-  Model Architecture]
+tags: [Security, Has Code, Model Architecture, Ethics and Bias, Fine-Tuning, Prompting,
+  Training Techniques]
 ---
 Fine-tuning pretrained language models (LMs) without making any architectural
 changes has become a norm for learning various language downstream tasks.

@@ -3,12 +3,12 @@ layout: publication
 title: 'Ontochatgpt Information System: Ontology-driven Structured Prompts For Chatgpt
   Meta-learning'
 authors: Oleksandr Palagin, Vladislav Kaverinskiy, Anna Litvin, Kyrylo Malakhov
-conference: International Journal of Computing (2023) 22(2) 170-183
+conference: International Journal of Computing
 year: 2023
 citations: 15
 bibkey: palagin2023ontochatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.05082'}]
-tags: [Reinforcement Learning, Model Architecture, GPT, Prompting]
+tags: [Reinforcement Learning, GPT, Prompting, Model Architecture]
 ---
 This research presents a comprehensive methodology for utilizing an
 ontology-driven structured prompts system in interplay with ChatGPT, a widely

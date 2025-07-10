@@ -2,12 +2,12 @@
 layout: publication
 title: 'Indicbart: A Pre-trained Model For Indic Natural Language Generation'
 authors: Raj Dabre et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2022'
 year: 2021
 citations: 19
 bibkey: dabre2021pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.02903'}]
-tags: [Pre-Training, Training Techniques, Fine-Tuning]
+tags: [Training Techniques, Fine-Tuning, Pre-Training]
 ---
 In this paper, we study pre-trained sequence-to-sequence models for a group
 of related languages, with a focus on Indic languages. We present IndicBART, a

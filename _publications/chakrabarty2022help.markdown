@@ -3,12 +3,13 @@ layout: publication
 title: 'Help Me Write A Poem: Instruction Tuning As A Vehicle For Collaborative Poetry
   Writing'
 authors: Tuhin Chakrabarty, Vishakh Padmakumar, He He
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 20
+citations: 21
 bibkey: chakrabarty2022help
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2210.13669v1'}]
-tags: [Model Architecture, Training Techniques, GPT, Reinforcement Learning]
+tags: [Reinforcement Learning, Training Techniques, Model Architecture, GPT]
 ---
 Recent work in training large language models (LLMs) to follow natural
 language instructions has opened up exciting opportunities for natural language

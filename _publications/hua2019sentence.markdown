@@ -2,12 +2,14 @@
 layout: publication
 title: Sentence-level Content Planning And Style Specification For Neural Text Generation
 authors: Xinyu Hua, Lu Wang
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
 citations: 15
 bibkey: hua2019sentence
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.00734'}]
-tags: [RAG, Language Modeling]
+tags: [Language Modeling, RAG, Evaluation]
 ---
 Building effective text generation systems requires three critical
 components: content selection, text planning, and surface realization, and

@@ -7,8 +7,8 @@ year: 2022
 citations: 87
 bibkey: dettmers2022matrix
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.07339'}]
-tags: [Transformer, Attention Mechanism, Efficiency and Optimization, Model Architecture,
-  Quantization]
+tags: [Model Architecture, Attention Mechanism, Transformer, Quantization, Efficiency
+    and Optimization]
 ---
 Large language models have been widely adopted but require significant GPU
 memory for inference. We develop a procedure for Int8 matrix multiplication for

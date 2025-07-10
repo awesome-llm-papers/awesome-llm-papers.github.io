@@ -3,12 +3,12 @@ layout: publication
 title: Exploring Versatile Generative Language Model Via Parameter-efficient Transfer
   Learning
 authors: Zhaojiang Lin, Andrea Madotto, Pascale Fung
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
-citations: 34
+citations: 35
 bibkey: lin2020exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.03829'}]
-tags: [Fine-Tuning, Training Techniques]
+tags: [Training Techniques, Fine-Tuning]
 ---
 Fine-tuning pre-trained generative language models to down-stream language
 generation tasks has shown promising results. However, this comes with the cost

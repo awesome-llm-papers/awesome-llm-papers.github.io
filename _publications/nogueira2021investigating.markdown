@@ -8,7 +8,7 @@ citations: 30
 bibkey: nogueira2021investigating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.13019'}, {name: Code,
     url: 'https://github.com/castorini/transformers-arithmetic'}]
-tags: [Has Code, Training Techniques, Transformer, Model Architecture]
+tags: [Transformer, Training Techniques, Has Code, Model Architecture]
 ---
 The ability to perform arithmetic tasks is a remarkable trait of human
 intelligence and might form a critical component of more complex reasoning

@@ -8,8 +8,8 @@ citations: 16
 bibkey: luo2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.09442'}, {name: Code,
     url: 'https://github.com/PharMolix/OpenBioMed'}]
-tags: [Training Techniques, Transformer, GPT, Fine-Tuning, Has Code, Multimodal Models,
-  Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Transformer, Fine-Tuning, Multimodal Models,
+  Training Techniques]
 ---
 Foundation models (FMs) have exhibited remarkable performance across a wide
 range of downstream tasks in many domains. Nevertheless, general-purpose FMs

@@ -4,9 +4,9 @@ title: Understanding And Detecting Hallucinations In Neural Machine Translation 
   Model Introspection
 authors: Weijia Xu, Sweta Agrawal, Eleftheria Briakou, Marianna J. Martindale, Marine
   Carpuat
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2023
-citations: 15
+citations: 16
 bibkey: xu2023understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.07779'}]
 tags: [Uncategorized]

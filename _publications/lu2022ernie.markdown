@@ -8,7 +8,7 @@ year: 2022
 citations: 19
 bibkey: lu2022ernie
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.09153'}]
-tags: [Efficiency and Optimization, Distillation, Model Architecture, BERT]
+tags: [Model Architecture, Distillation, Efficiency and Optimization, BERT, Evaluation]
 ---
 Neural retrievers based on pre-trained language models (PLMs), such as
 dual-encoders, have achieved promising performance on the task of open-domain

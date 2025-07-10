@@ -3,12 +3,13 @@ layout: publication
 title: 'Autoprompt: Eliciting Knowledge From Language Models With Automatically Generated
   Prompts'
 authors: Taylor Shin, Yasaman Razeghi, Robert L. Iv Logan, Eric Wallace, Sameer Singh
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 495
+citations: 508
 bibkey: shin2020eliciting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.15980'}]
-tags: [Masked Language Model, Training Techniques, Prompting]
+tags: [Training Techniques, Prompting, Evaluation, Masked Language Model]
 ---
 The remarkable success of pretrained language models has motivated the study
 of what kinds of knowledge these models learn during pretraining. Reformulating

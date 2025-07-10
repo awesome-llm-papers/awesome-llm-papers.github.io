@@ -8,7 +8,7 @@ year: 2023
 citations: 23
 bibkey: wen2023hard
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.03668'}]
-tags: [Merging, Tools, Efficiency and Optimization, Applications, Prompting]
+tags: [Applications, Tools, Prompting, Efficiency and Optimization, Merging]
 ---
 The strength of modern generative models lies in their ability to be
 controlled through text-based prompts. Typical "hard" prompts are made from

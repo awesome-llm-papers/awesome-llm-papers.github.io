@@ -2,9 +2,9 @@
 layout: publication
 title: Chain-of-verification Reduces Hallucination In Large Language Models
 authors: Shehzaad Dhuliawala et al.
-conference: Arxiv
+conference: Findings of the Association for Computational Linguistics ACL 2024
 year: 2023
-citations: 46
+citations: 51
 bibkey: dhuliawala2023chain
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.11495'}]
 tags: [Language Modeling, Ethics and Bias]

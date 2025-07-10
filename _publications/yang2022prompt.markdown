@@ -8,7 +8,7 @@ citations: 19
 bibkey: yang2022prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.02532'}, {name: Code,
     url: 'https://github.com/OFA-Sys/OFA'}]
-tags: [Training Techniques, Has Code, Security, Prompting, Multimodal Models]
+tags: [Has Code, Security, Multimodal Models, Prompting, Training Techniques]
 ---
 Prompt tuning has become a new paradigm for model tuning and it has
 demonstrated success in natural language pretraining and even vision

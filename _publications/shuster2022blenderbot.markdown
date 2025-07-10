@@ -8,7 +8,7 @@ year: 2022
 citations: 86
 bibkey: shuster2022blenderbot
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.03188'}]
-tags: [Training Techniques, Agentic, Model Architecture, Responsible AI]
+tags: [Responsible AI, Model Architecture, Agentic, Training Techniques, Evaluation]
 ---
 We present BlenderBot 3, a 175B parameter dialogue model capable of
 open-domain conversation with access to the internet and a long-term memory,

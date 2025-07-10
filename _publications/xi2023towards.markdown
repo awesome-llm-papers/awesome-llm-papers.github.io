@@ -3,12 +3,12 @@ layout: publication
 title: Towards Open-world Recommendation With Knowledge Augmentation From Large Language
   Models
 authors: Yunjia Xi et al.
-conference: Arxiv
+conference: 'RecSys ''24: 18th ACM Conference on Recommender Systems'
 year: 2023
-citations: 16
+citations: 19
 bibkey: xi2023towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.10933'}]
-tags: [Training Techniques, RecSys, Tools, Reinforcement Learning, Prompting]
+tags: [RecSys, Tools, Reinforcement Learning, Prompting, Training Techniques]
 ---
 Recommender systems play a vital role in various online services. However,
 the insulated nature of training and deploying separately within a specific

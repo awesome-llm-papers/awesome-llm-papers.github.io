@@ -2,13 +2,13 @@
 layout: publication
 title: 'Tinybert: Distilling BERT For Natural Language Understanding'
 authors: Xiaoqi Jiao et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2019
-citations: 519
+citations: 541
 bibkey: jiao2019distilling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.10351'}]
-tags: [Distillation, Transformer, Training Techniques, RAG, Pre-Training, Tools, BERT,
-  Efficiency and Optimization, Model Architecture]
+tags: [Model Architecture, Distillation, Transformer, RAG, Tools, Pre-Training, BERT,
+  Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 Language model pre-training, such as BERT, has significantly improved the
 performances of many natural language processing tasks. However, pre-trained

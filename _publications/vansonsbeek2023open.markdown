@@ -4,12 +4,12 @@ title: Open-ended Medical Visual Question Answering Through Prefix Tuning Of Lan
   Models
 authors: Tom Van Sonsbeek, Mohammad Mahdi Derakhshani, Ivona Najdenkoska, Cees G.
   M. Snoek, Marcel Worring
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2023
-citations: 24
+citations: 27
 bibkey: vansonsbeek2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.05977'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Reinforcement Learning, Prompting]
+tags: [Fine-Tuning, RAG, Reinforcement Learning, Prompting, Training Techniques, Evaluation]
 ---
 Medical Visual Question Answering (VQA) is an important challenge, as it
 would lead to faster and more accurate diagnoses and treatment decisions. Most

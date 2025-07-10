@@ -2,12 +2,13 @@
 layout: publication
 title: Commonsense For Generative Multi-hop Question Answering Tasks
 authors: Lisa Bauer, Yicheng Wang, Mohit Bansal
-conference: Arxiv
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2018
 citations: 48
 bibkey: bauer2018commonsense
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.06309'}]
-tags: [Attention Mechanism, Transformer, Model Architecture]
+tags: [Transformer, Model Architecture, Attention Mechanism, Evaluation]
 ---
 Reading comprehension QA tasks have seen a recent surge in popularity, yet
 most works have focused on fact-finding extractive QA. We instead focus on a

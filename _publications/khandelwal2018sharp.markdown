@@ -2,9 +2,10 @@
 layout: publication
 title: 'Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context'
 authors: Urvashi Khandelwal, He He, Peng Qi, Dan Jurafsky
-conference: Arxiv
+conference: 'Proceedings of the 56th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2018
-citations: 109
+citations: 111
 bibkey: khandelwal2018sharp
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1805.04623'}]
 tags: [RAG, Model Architecture]

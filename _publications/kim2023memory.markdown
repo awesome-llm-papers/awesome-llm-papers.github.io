@@ -8,8 +8,8 @@ year: 2023
 citations: 18
 bibkey: kim2023memory
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14152'}]
-tags: [Training Techniques, RAG, Few-Shot, Fine-Tuning, Efficiency and Optimization,
-  Language Modeling, Quantization]
+tags: [Language Modeling, Fine-Tuning, RAG, Few-Shot, Quantization, Efficiency and
+    Optimization, Training Techniques]
 ---
 Large language models (LLMs) face the challenges in fine-tuning and
 deployment due to their high memory demands and computational costs. While

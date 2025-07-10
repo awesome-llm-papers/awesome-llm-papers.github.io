@@ -8,8 +8,8 @@ year: 2023
 citations: 26
 bibkey: shayegani2023survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.10844'}]
-tags: [GPT, Merging, ACL, Responsible AI, Agentic, Reinforcement Learning, Security,
-  COLING, Survey Paper, Model Architecture]
+tags: [Responsible AI, Security, Model Architecture, COLING, ACL, Reinforcement Learning,
+  Survey Paper, Agentic, GPT, Merging]
 ---
 Large Language Models (LLMs) are swiftly advancing in architecture and
 capability, and as they integrate more deeply into complex systems, the urgency

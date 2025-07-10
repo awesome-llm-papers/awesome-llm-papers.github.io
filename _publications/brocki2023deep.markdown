@@ -2,10 +2,9 @@
 layout: publication
 title: Deep Learning Mental Health Dialogue System
 authors: "Lennart Brocki, George C. Dyer, Anna G\u0142adka, Neo Christopher Chung"
-conference: 6th International Workshop on Dialog Systems (IWDS); 10th IEEE International
-  Conference on Big Data and Smart Computing (2022 BigComp)
+conference: 2023 IEEE International Conference on Big Data and Smart Computing (BigComp)
 year: 2023
-citations: 16
+citations: 18
 bibkey: brocki2023deep
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.09412'}]
 tags: [Transformer, Model Architecture]

@@ -8,7 +8,7 @@ citations: 92
 bibkey: gao2022program
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2211.10435v2'}, {name: Code,
     url: 'http://reasonwithpal.com/'}]
-tags: [Has Code, Few-Shot, In-Context Learning, Prompting]
+tags: [Has Code, Few-Shot, In-Context Learning, Prompting, Evaluation]
 ---
 Large language models (LLMs) have recently demonstrated an impressive ability
 to perform arithmetic and symbolic reasoning tasks, when provided with a few

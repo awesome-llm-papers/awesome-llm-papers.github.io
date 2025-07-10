@@ -7,7 +7,7 @@ year: 2020
 citations: 45
 bibkey: rosset2020knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.00655'}]
-tags: [Training Techniques, Transformer, GPT, RAG, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Transformer, RAG, Training Techniques]
 ---
 How much knowledge do pretrained language models hold? Recent research
 observed that pretrained transformers are adept at modeling semantics but it is

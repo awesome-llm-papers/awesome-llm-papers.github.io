@@ -4,10 +4,10 @@ title: 'Flamingo: A Visual Language Model For Few-shot Learning'
 authors: Jean-baptiste Alayrac et al.
 conference: Arxiv
 year: 2022
-citations: 767
+citations: 769
 bibkey: alayrac2022visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.14198'}]
-tags: [Few-Shot, Tools, Reinforcement Learning, Prompting, Multimodal Models]
+tags: [Few-Shot, Tools, Reinforcement Learning, Prompting, Multimodal Models, Evaluation]
 ---
 Building models that can be rapidly adapted to novel tasks using only a
 handful of annotated examples is an open challenge for multimodal machine

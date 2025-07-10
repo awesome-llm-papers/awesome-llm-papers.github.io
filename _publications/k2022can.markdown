@@ -2,12 +2,12 @@
 layout: publication
 title: Can Language Models Learn From Explanations In Context?
 authors: Andrew K. Lampinen et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2022
-citations: 42
+citations: 45
 bibkey: k2022can
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2204.02329v4'}]
-tags: [Few-Shot, Reinforcement Learning, Interpretability and Explainability, In-Context
+tags: [Few-Shot, Interpretability and Explainability, Reinforcement Learning, In-Context
     Learning, Prompting]
 ---
 Language Models (LMs) can perform new tasks by adapting to a few in-context

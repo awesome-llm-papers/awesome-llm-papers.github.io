@@ -2,12 +2,13 @@
 layout: publication
 title: A Model-agnostic Data Manipulation Method For Persona-based Dialogue Generation
 authors: Yu Cao, Wei Bi, Meng Fang, Shuming Shi, Dacheng Tao
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
 citations: 16
 bibkey: cao2022model
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.09867'}]
-tags: [Training Techniques, Transformer, GPT, Agentic, Model Architecture]
+tags: [Model Architecture, GPT, Transformer, Agentic, Training Techniques]
 ---
 Towards building intelligent dialogue agents, there has been a growing
 interest in introducing explicit personas in generation models. However, with

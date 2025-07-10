@@ -5,11 +5,11 @@ title: 'Gemini 1.5: Unlocking Multimodal Understanding Across Millions Of Tokens
 authors: Gemini Team et al.
 conference: Arxiv
 year: 2024
-citations: 89
+citations: 99
 bibkey: geminiteam2024gemini
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.05530'}]
-tags: [GPT, Reinforcement Learning, Efficiency and Optimization, Applications, Multimodal
-    Models, Model Architecture]
+tags: [Model Architecture, Applications, Reinforcement Learning, Multimodal Models,
+  Efficiency and Optimization, GPT, Evaluation]
 ---
 In this report, we introduce the Gemini 1.5 family of models, representing
 the next generation of highly compute-efficient multimodal models capable of

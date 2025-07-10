@@ -2,13 +2,15 @@
 layout: publication
 title: 'E2E-VLP: End-to-end Vision-language Pre-training Enhanced By Visual Learning'
 authors: Haiyang Xu et al.
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
 citations: 44
 bibkey: xu2021end
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.01804'}]
-tags: [Training Techniques, Transformer, Pre-Training, Tools, Efficiency and Optimization,
-  Multimodal Models, Model Architecture]
+tags: [Model Architecture, Transformer, Tools, Multimodal Models, Pre-Training, Efficiency
+    and Optimization, Training Techniques]
 ---
 Vision-language pre-training (VLP) on large-scale image-text pairs has
 achieved huge success for the cross-modal downstream tasks. The most existing

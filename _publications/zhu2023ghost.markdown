@@ -5,12 +5,11 @@ title: 'Ghost In The Minecraft: Generally Capable Agents For Open-world Environm
 authors: Xizhou Zhu et al.
 conference: Arxiv
 year: 2023
-citations: 17
+citations: 18
 bibkey: zhu2023ghost
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.17144'}, {name: Code,
     url: 'https://github.com/OpenGVLab/GITM'}]
-tags: [Training Techniques, RAG, Tools, Agentic, Reinforcement Learning, Has Code,
-  Security]
+tags: [Security, Has Code, RAG, Tools, Reinforcement Learning, Agentic, Training Techniques]
 ---
 The captivating realm of Minecraft has attracted substantial research
 interest in recent years, serving as a rich platform for developing intelligent

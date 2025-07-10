@@ -2,12 +2,12 @@
 layout: publication
 title: 'Colake: Contextualized Language And Knowledge Embedding'
 authors: Tianxiang Sun et al.
-conference: Arxiv
+conference: Proceedings of the 28th International Conference on Computational Linguistics
 year: 2020
-citations: 78
+citations: 80
 bibkey: sun2020contextualized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.00309'}]
-tags: [Masked Language Model, Transformer, Merging, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, Masked Language Model, BERT, Merging]
 ---
 With the emerging branch of incorporating factual knowledge into pre-trained
 language models such as BERT, most existing models consider shallow, static,

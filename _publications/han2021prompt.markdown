@@ -2,9 +2,9 @@
 layout: publication
 title: 'PTR: Prompt Tuning With Rules For Text Classification'
 authors: Xu Han, Weilin Zhao, Ning Ding, Zhiyuan Liu, Maosong Sun
-conference: Arxiv
+conference: AI Open
 year: 2021
-citations: 233
+citations: 239
 bibkey: han2021prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.11259'}]
 tags: [Few-Shot, Prompting]

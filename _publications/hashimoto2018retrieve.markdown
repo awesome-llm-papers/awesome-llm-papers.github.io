@@ -7,7 +7,7 @@ year: 2018
 citations: 96
 bibkey: hashimoto2018retrieve
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1812.01194'}]
-tags: [Tools, Training Techniques]
+tags: [Tools, Training Techniques, Evaluation]
 ---
 For the task of generating complex outputs such as source code, editing
 existing outputs can be easier than generating complex outputs from scratch.

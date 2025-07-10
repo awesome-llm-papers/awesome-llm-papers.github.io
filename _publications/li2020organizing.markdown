@@ -2,13 +2,14 @@
 layout: publication
 title: 'Optimus: Organizing Sentences Via Pre-trained Modeling Of A Latent Space'
 authors: Chunyuan Li et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 35
 bibkey: li2020organizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.04092'}]
-tags: [Training Techniques, GPT, Pre-Training, Tools, BERT, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Tools, Pre-Training, Training Techniques,
+  BERT, Evaluation]
 ---
 When trained effectively, the Variational Autoencoder (VAE) can be both a
 powerful generative model and an effective representation learning framework

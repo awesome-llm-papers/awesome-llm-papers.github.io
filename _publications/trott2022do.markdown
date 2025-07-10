@@ -2,12 +2,12 @@
 layout: publication
 title: Do Large Language Models Know What Humans Know?
 authors: Sean Trott, Cameron Jones, Tyler Chang, James Michaelov, Benjamin Bergen
-conference: Arxiv
+conference: Cognitive Science
 year: 2022
-citations: 50
+citations: 54
 bibkey: trott2022do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.01515'}]
-tags: [Reinforcement Learning, Model Architecture, GPT]
+tags: [Reinforcement Learning, GPT, Model Architecture]
 ---
 Humans can attribute beliefs to others. However, it is unknown to what extent
 this ability results from an innate biological endowment or from experience

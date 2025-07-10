@@ -7,7 +7,7 @@ year: 2021
 citations: 24
 bibkey: zhang2021counterfactual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.12938'}]
-tags: [Applications, Training Techniques, Reinforcement Learning]
+tags: [Reinforcement Learning, Training Techniques, Applications]
 ---
 Modern neural language models that are widely used in various NLP tasks risk
 memorizing sensitive information from their training data. Understanding this

@@ -8,7 +8,7 @@ year: 2022
 citations: 23
 bibkey: bohnet2022attributed
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.08037'}]
-tags: [Tools, Model Architecture]
+tags: [Tools, Model Architecture, Evaluation]
 ---
 Large language models (LLMs) have shown impressive results while requiring
 little or no direct supervision. Further, there is mounting evidence that LLMs

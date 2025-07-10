@@ -3,12 +3,13 @@ layout: publication
 title: 'Data Manipulation: Towards Effective Instance Learning For Neural Dialogue
   Generation Via Learning To Augment And Reweight'
 authors: Hengyi Cai et al.
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
 citations: 21
 bibkey: cai2020data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.02594'}]
-tags: [Tools, Training Techniques]
+tags: [Tools, Training Techniques, Evaluation]
 ---
 Current state-of-the-art neural dialogue models learn from human
 conversations following the data-driven paradigm. As such, a reliable training

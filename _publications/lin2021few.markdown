@@ -7,7 +7,7 @@ year: 2021
 citations: 70
 bibkey: lin2021few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.10668'}]
-tags: [Training Techniques, GPT, Few-Shot, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Few-Shot, Prompting, Training Techniques, Evaluation]
 ---
 Large-scale generative language models such as GPT-3 are competitive few-shot
 learners. While these models are known to be able to jointly represent many

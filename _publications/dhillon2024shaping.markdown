@@ -3,12 +3,12 @@ layout: publication
 title: 'Shaping Human-ai Collaboration: Varied Scaffolding Levels In Co-writing With
   Language Models'
 authors: Paramveer S. Dhillon et al.
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2024
-citations: 25
+citations: 29
 bibkey: dhillon2024shaping
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.11723'}]
-tags: [RAG, Tools, Language Modeling, Prompting]
+tags: [Language Modeling, RAG, Tools, Prompting]
 ---
 Advances in language modeling have paved the way for novel human-AI
 co-writing experiences. This paper explores how varying levels of scaffolding

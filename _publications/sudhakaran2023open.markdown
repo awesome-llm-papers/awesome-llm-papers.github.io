@@ -8,7 +8,7 @@ citations: 15
 bibkey: sudhakaran2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.05981'}, {name: Code,
     url: 'https://github.com/shyamsn97/mario-gpt'}]
-tags: [Training Techniques, GPT, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Prompting, Training Techniques]
 ---
 Procedural Content Generation (PCG) is a technique to generate complex and
 diverse environments in an automated way. However, while generating content

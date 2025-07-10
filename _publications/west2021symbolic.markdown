@@ -3,13 +3,14 @@ layout: publication
 title: 'Symbolic Knowledge Distillation: From General Language Models To Commonsense
   Models'
 authors: Peter West et al.
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
 citations: 39
 bibkey: west2021symbolic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.07178'}]
-tags: [Distillation, GPT, Training Techniques, Tools, Efficiency and Optimization,
-  Prompting, Model Architecture]
+tags: [Model Architecture, Distillation, GPT, Tools, Prompting, Efficiency and Optimization,
+  Training Techniques]
 ---
 The common practice for training commonsense models has gone
 from-human-to-corpus-to-machine: humans author commonsense knowledge graphs in

@@ -2,12 +2,14 @@
 layout: publication
 title: 'Structurallm: Structural Pre-training For Form Understanding'
 authors: Chenliang Li et al.
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
 citations: 54
 bibkey: li2021structural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.11210'}]
-tags: [RAG, Pre-Training, Training Techniques]
+tags: [Training Techniques, RAG, Pre-Training]
 ---
 Large pre-trained language models achieve state-of-the-art results when
 fine-tuned on downstream NLP tasks. However, they almost exclusively focus on

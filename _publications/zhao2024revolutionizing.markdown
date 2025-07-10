@@ -4,11 +4,11 @@ title: 'Revolutionizing Finance With Llms: An Overview Of Applications And Insig
 authors: Huaqin Zhao et al.
 conference: Arxiv
 year: 2024
-citations: 17
+citations: 18
 bibkey: zhao2024revolutionizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.11641'}]
-tags: [GPT, Transformer, Merging, RAG, Efficiency and Optimization, Applications,
-  Survey Paper, Prompting, Model Architecture]
+tags: [Model Architecture, Transformer, RAG, Applications, Survey Paper, Prompting,
+  Efficiency and Optimization, GPT, Time Series, Evaluation, Merging]
 ---
 In recent years, Large Language Models (LLMs) like ChatGPT have seen
 considerable advancements and have been applied in diverse fields. Built on the

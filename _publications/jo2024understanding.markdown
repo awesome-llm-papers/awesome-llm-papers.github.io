@@ -3,10 +3,9 @@ layout: publication
 title: Understanding The Impact Of Long-term Memory On Self-disclosure With Large
   Language Model-driven Chatbots For Public Health Intervention
 authors: Eunkyung Jo, Yuin Jeong, Sohyun Park, Daniel A. Epstein, Young-ho Kim
-conference: In Proceedings of the CHI Conference on Human Factors in Computing Systems
-  (CHI 24) May 11-16 2024 Honolulu HI USA. ACM New York NY USA
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2024
-citations: 21
+citations: 27
 bibkey: jo2024understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.11353'}]
 tags: [Reinforcement Learning]

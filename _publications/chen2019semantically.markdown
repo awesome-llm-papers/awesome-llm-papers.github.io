@@ -3,12 +3,13 @@ layout: publication
 title: Semantically Conditioned Dialog Response Generation Via Hierarchical Disentangled
   Self-attention
 authors: Wenhu Chen, Jianshu Chen, Pengda Qin, Xifeng Yan, William Yang Wang
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 38
 bibkey: chen2019semantically
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.12866'}]
-tags: [Ethics and Bias, Attention Mechanism, Transformer, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, Transformer, Evaluation]
 ---
 Semantically controlled neural response generation on limited-domain has
 achieved great performance. However, moving towards multi-domain large-scale

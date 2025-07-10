@@ -3,13 +3,13 @@ layout: publication
 title: 'Vl-interpret: An Interactive Visualization Tool For Interpreting Vision-language
   Transformers'
 authors: Estelle Aflalo et al.
-conference: Arxiv
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
-citations: 21
+citations: 22
 bibkey: aflalo2022vl
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.17247'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, Interpretability and
-    Explainability, Tools, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Interpretability and
+    Explainability, Tools, Multimodal Models, Training Techniques, Evaluation]
 ---
 Breakthroughs in transformer-based models have revolutionized not only the
 NLP field, but also vision and multimodal systems. However, although

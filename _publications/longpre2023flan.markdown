@@ -9,7 +9,8 @@ citations: 74
 bibkey: longpre2023flan
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2301.13688v2'}, {name: Code,
     url: 'https://github.com/google-research/FLAN/tree/main/flan/v2'}]
-tags: [Training Techniques, Few-Shot, Reinforcement Learning, Has Code, Prompting]
+tags: [Has Code, Few-Shot, Reinforcement Learning, Prompting, Training Techniques,
+  Evaluation]
 ---
 We study the design decisions of publicly available instruction tuning
 methods, and break down the development of Flan 2022 (Chung et al., 2022).

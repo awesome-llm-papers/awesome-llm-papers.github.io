@@ -7,8 +7,8 @@ year: 2022
 citations: 29
 bibkey: wang2022rationale
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2207.00747v1'}]
-tags: [Merging, RAG, Few-Shot, Tools, Interpretability and Explainability, In-Context
-    Learning, Prompting]
+tags: [Few-Shot, RAG, Interpretability and Explainability, Tools, In-Context Learning,
+  Prompting, Merging]
 ---
 Recent research has shown that rationales, or step-by-step chains of thought,
 can be used to improve performance in multi-step reasoning tasks. We reconsider

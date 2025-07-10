@@ -2,7 +2,7 @@
 layout: publication
 title: 'QASC: A Dataset For Question Answering Via Sentence Composition'
 authors: Tushar Khot, Peter Clark, Michal Guerquin, Peter Jansen, Ashish Sabharwal
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
 citations: 39
 bibkey: khot2019dataset

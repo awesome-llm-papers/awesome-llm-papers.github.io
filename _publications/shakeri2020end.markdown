@@ -3,12 +3,13 @@ layout: publication
 title: End-to-end Synthetic Data Generation For Domain Adaptation Of Question Answering
   Systems
 authors: Siamak Shakeri et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 23
 bibkey: shakeri2020end
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.06028'}]
-tags: [Fine-Tuning, Training Techniques, Transformer, Model Architecture]
+tags: [Transformer, Training Techniques, Fine-Tuning, Model Architecture]
 ---
 We propose an end-to-end approach for synthetic QA data generation. Our model
 comprises a single transformer-based encoder-decoder network that is trained

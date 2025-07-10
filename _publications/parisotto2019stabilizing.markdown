@@ -4,11 +4,11 @@ title: Stabilizing Transformers For Reinforcement Learning
 authors: Emilio Parisotto et al.
 conference: Arxiv
 year: 2019
-citations: 89
+citations: 90
 bibkey: parisotto2019stabilizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.06764'}]
-tags: [Transformer, Attention Mechanism, Agentic, Reinforcement Learning, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Reinforcement
+    Learning, Agentic, Evaluation]
 ---
 Owing to their ability to both effectively integrate information over long
 time horizons and scale to massive amounts of data, self-attention

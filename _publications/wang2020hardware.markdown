@@ -2,13 +2,14 @@
 layout: publication
 title: 'HAT: Hardware-aware Transformers For Efficient Natural Language Processing'
 authors: Hanrui Wang et al.
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
-citations: 132
+citations: 134
 bibkey: wang2020hardware
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.14187'}, {name: Code,
     url: 'https://github.com/mit-han-lab/hardware-aware-transformers.git'}]
-tags: [Transformer, Attention Mechanism, Tools, Has Code, WMT, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, WMT, Tools]
 ---
 Transformers are ubiquitous in Natural Language Processing (NLP) tasks, but
 they are difficult to be deployed on hardware due to the intensive computation.

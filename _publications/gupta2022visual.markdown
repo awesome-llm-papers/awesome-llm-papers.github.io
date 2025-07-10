@@ -2,7 +2,7 @@
 layout: publication
 title: 'Visual Programming: Compositional Visual Reasoning Without Training'
 authors: Tanmay Gupta, Aniruddha Kembhavi
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
 citations: 93
 bibkey: gupta2022visual

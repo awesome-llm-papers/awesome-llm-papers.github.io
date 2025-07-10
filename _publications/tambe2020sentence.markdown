@@ -3,13 +3,13 @@ layout: publication
 title: 'Edgebert: Sentence-level Energy Optimizations For Latency-aware Multi-task
   NLP Inference'
 authors: Thierry Tambe et al.
-conference: Arxiv
+conference: 'MICRO ''21: 54th Annual IEEE/ACM International Symposium on Microarchitecture'
 year: 2020
-citations: 60
+citations: 62
 bibkey: tambe2020sentence
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.14203'}]
-tags: [Transformer, Attention Mechanism, Tools, Reinforcement Learning, BERT, Efficiency
-    and Optimization, Pruning, Model Architecture, Quantization]
+tags: [Model Architecture, Attention Mechanism, Transformer, Pruning, Quantization,
+  Tools, Reinforcement Learning, Efficiency and Optimization, BERT]
 ---
 Transformer-based language models such as BERT provide significant accuracy
 improvement for a multitude of natural language processing (NLP) tasks.

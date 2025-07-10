@@ -2,13 +2,13 @@
 layout: publication
 title: GPT Takes The Bar Exam
 authors: Michael Ii Bommarito, Daniel Martin Katz
-conference: Arxiv
+conference: SSRN Electronic Journal
 year: 2022
 citations: 89
 bibkey: bommarito2022gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.14402'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, Tools, Efficiency
-    and Optimization, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Tools, Reinforcement Learning, Prompting,
+  Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 Nearly all jurisdictions in the United States require a professional license
 exam, commonly referred to as "the Bar Exam," as a precondition for law

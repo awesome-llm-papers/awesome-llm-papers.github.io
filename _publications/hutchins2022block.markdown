@@ -7,7 +7,8 @@ year: 2022
 citations: 22
 bibkey: hutchins2022block
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.07852'}]
-tags: [Training Techniques, Transformer, RAG, Attention Mechanism, Arxiv, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, Arxiv, Training
+    Techniques]
 ---
 We introduce the Block-Recurrent Transformer, which applies a transformer
 layer in a recurrent fashion along a sequence, and has linear complexity with

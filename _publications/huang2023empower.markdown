@@ -2,12 +2,12 @@
 layout: publication
 title: 'Vtimellm: Empower LLM To Grasp Video Moments'
 authors: Bin Huang, Xin Wang, Hong Chen, Zihan Song, Wenwu Zhu
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 20
+citations: 22
 bibkey: huang2023empower
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.18445'}]
-tags: [Training Techniques, Multimodal Models]
+tags: [Training Techniques, Multimodal Models, Evaluation]
 ---
 Large language models (LLMs) have shown remarkable text understanding
 capabilities, which have been extended as Video LLMs to handle video data for

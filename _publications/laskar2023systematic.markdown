@@ -2,13 +2,13 @@
 layout: publication
 title: A Systematic Study And Comprehensive Evaluation Of Chatgpt On Benchmark Datasets
 authors: Md Tahmid Rahman Laskar et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2023
-citations: 33
+citations: 35
 bibkey: laskar2023systematic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.18486'}]
-tags: [Ethics and Bias, GPT, Attention Mechanism, Reinforcement Learning, Applications,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, Applications, Reinforcement
+    Learning, GPT, Evaluation]
 ---
 The development of large language models (LLMs) such as ChatGPT has brought a
 lot of attention recently. However, their evaluation in the benchmark academic

@@ -3,13 +3,14 @@ layout: publication
 title: 'LIDA: A Tool For Automatic Generation Of Grammar-agnostic Visualizations And
   Infographics Using Large Language Models'
 authors: Victor Dibia
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 3: System Demonstrations)'
 year: 2023
-citations: 41
+citations: 45
 bibkey: dibia2023tool
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.02927'}, {name: Code,
     url: 'https://microsoft.github.io/lida/'}]
-tags: [GPT, Tools, Reinforcement Learning, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Tools, Reinforcement Learning, GPT]
 ---
 Systems that support users in the automatic creation of visualizations must
 address several subtasks - understand the semantics of data, enumerate relevant

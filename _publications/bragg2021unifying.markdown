@@ -7,7 +7,7 @@ year: 2021
 citations: 52
 bibkey: bragg2021unifying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.07170'}]
-tags: [Few-Shot, Training Techniques, Prompting]
+tags: [Training Techniques, Few-Shot, Prompting, Evaluation]
 ---
 Few-shot NLP research is highly active, yet conducted in disjoint research
 threads with evaluation suites that lack challenging-yet-realistic testing

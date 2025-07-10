@@ -3,13 +3,14 @@ layout: publication
 title: 'Unifiedskg: Unifying And Multi-tasking Structured Knowledge Grounding With
   Text-to-text Language Models'
 authors: Tianbao Xie et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 57
+citations: 59
 bibkey: xie2022unifying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.05966'}, {name: Code,
     url: 'https://github.com/hkunlp/unifiedskg'}]
-tags: [GPT, RAG, Few-Shot, Tools, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Few-Shot, RAG, Tools, GPT, Evaluation]
 ---
 Structured knowledge grounding (SKG) leverages structured knowledge to
 complete user requests, such as semantic parsing over databases and question

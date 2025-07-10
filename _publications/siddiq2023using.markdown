@@ -2,14 +2,14 @@
 layout: publication
 title: 'Using Large Language Models To Generate Junit Tests: An Empirical Study'
 authors: Mohammed Latif Siddiq et al.
-conference: The 28th International Conference on Evaluation and Assessment in Software
-  Engineering (EASE) 2024 313-322
+conference: 'EASE 2024: 28th International Conference on Evaluation and Assessment
+  in Software Engineering'
 year: 2023
-citations: 30
+citations: 35
 bibkey: siddiq2023using
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.00418'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Prompting, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Fine-Tuning, RAG, Prompting, Training
+    Techniques, Evaluation]
 ---
 A code generation model generates code by taking a prompt from a code
 comment, existing code, or a combination of both. Although code generation

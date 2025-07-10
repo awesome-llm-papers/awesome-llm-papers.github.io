@@ -3,13 +3,13 @@ layout: publication
 title: 'Taking The Next Step With Generative Artificial Intelligence: The Transformative
   Role Of Multimodal Large Language Models In Science Education'
 authors: Arne Bewersdorff et al.
-conference: Arxiv
+conference: Learning and Individual Differences
 year: 2024
-citations: 18
+citations: 22
 bibkey: bewersdorff2024taking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.00832'}]
-tags: [GPT, Fine-Tuning, Tools, Reinforcement Learning, Applications, Multimodal Models,
-  Model Architecture]
+tags: [Model Architecture, Fine-Tuning, Applications, Tools, Reinforcement Learning,
+  Multimodal Models, GPT]
 ---
 The integration of Artificial Intelligence (AI), particularly Large Language
 Model (LLM)-based systems, in education has shown promise in enhancing teaching

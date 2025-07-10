@@ -3,12 +3,13 @@ layout: publication
 title: Towards Unified Conversational Recommender Systems Via Knowledge-enhanced Prompt
   Learning
 authors: Xiaolei Wang, Kun Zhou, Ji-rong Wen, Wayne Xin Zhao
-conference: Arxiv
+conference: 'KDD ''22: The 28th ACM SIGKDD Conference on Knowledge Discovery and Data
+  Mining'
 year: 2022
 citations: 80
 bibkey: wang2022towards
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2206.09363v1'}]
-tags: [RecSys, Model Architecture, Prompting]
+tags: [RecSys, Prompting, Model Architecture]
 ---
 Conversational recommender systems (CRS) aim to proactively elicit user
 preference and recommend high-quality items through natural language

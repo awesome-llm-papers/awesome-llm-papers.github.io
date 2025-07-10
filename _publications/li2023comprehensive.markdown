@@ -2,14 +2,14 @@
 layout: publication
 title: 'Mvbench: A Comprehensive Multi-modal Video Understanding Benchmark'
 authors: Kunchang Li et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 39
+citations: 40
 bibkey: li2023comprehensive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.17005'}, {name: Code,
     url: 'https://github.com/OpenGVLab/Ask-Anything'}]
-tags: [Ethics and Bias, Training Techniques, Fine-Tuning, Tools, Reinforcement Learning,
-  Has Code, Fairness, Bias Mitigation]
+tags: [Has Code, Ethics and Bias, Fine-Tuning, Fairness, Tools, Reinforcement Learning,
+  Bias Mitigation, Training Techniques, Evaluation]
 ---
 With the rapid development of Multi-modal Large Language Models (MLLMs), a
 number of diagnostic benchmarks have recently emerged to evaluate the

@@ -8,8 +8,8 @@ year: 2022
 citations: 15
 bibkey: wan2022what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.06840'}]
-tags: [Training Techniques, Transformer, RAG, Pre-Training, Attention Mechanism, Interpretability
-    and Explainability, BERT, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, Interpretability
+    and Explainability, Pre-Training, BERT, Training Techniques]
 ---
 Recently, many pre-trained language models for source code have been proposed
 to model the context of code and serve as a basis for downstream code

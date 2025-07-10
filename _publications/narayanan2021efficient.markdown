@@ -2,13 +2,14 @@
 layout: publication
 title: Efficient Large-scale Language Model Training On GPU Clusters Using Megatron-lm
 authors: Deepak Narayanan et al.
-conference: Arxiv
+conference: 'SC ''21: The International Conference for High Performance Computing,
+  Networking, Storage and Analysis'
 year: 2021
-citations: 238
+citations: 250
 bibkey: narayanan2021efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.04473'}, {name: Code,
     url: 'https://github.com/nvidia/megatron-lm'}]
-tags: [Has Code, Reinforcement Learning, Training Techniques, Survey Paper]
+tags: [Survey Paper, Reinforcement Learning, Training Techniques, Has Code]
 ---
 Large language models have led to state-of-the-art accuracies across a range
 of tasks. However, training these models efficiently is challenging for two

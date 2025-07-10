@@ -3,13 +3,13 @@ layout: publication
 title: 'Logic-lm: Empowering Large Language Models With Symbolic Solvers For Faithful
   Logical Reasoning'
 authors: Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
-citations: 26
+citations: 31
 bibkey: pan2023logic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.12295'}, {name: Code,
     url: 'https://github.com/teacherpeterpan/Logic-LLM'}]
-tags: [RAG, Has Code, Tools, Prompting]
+tags: [Tools, Has Code, RAG, Prompting]
 ---
 Large Language Models (LLMs) have shown human-like reasoning abilities but
 still struggle with complex logical problems. This paper introduces a novel

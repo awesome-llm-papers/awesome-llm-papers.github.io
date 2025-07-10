@@ -7,7 +7,7 @@ year: 2018
 citations: 38
 bibkey: coreyes2018guiding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1811.07882'}]
-tags: [Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning]
 ---
 Behavioral skills or policies for autonomous agents are conventionally
 learned from reward functions, via reinforcement learning, or from

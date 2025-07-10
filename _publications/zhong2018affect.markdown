@@ -3,12 +3,13 @@ layout: publication
 title: An Affect-rich Neural Conversational Model With Biased Attention And Weighted
   Cross-entropy Loss
 authors: Peixiang Zhong, Di Wang, Chunyan Miao
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2018
 citations: 32
 bibkey: zhong2018affect
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1811.07078'}]
-tags: [Ethics and Bias, Transformer, RAG, Attention Mechanism, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, Transformer, RAG,
+  Evaluation]
 ---
 Affect conveys important implicit information in human communication. Having
 the capability to correctly express affect during human-machine conversations

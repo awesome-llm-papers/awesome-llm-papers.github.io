@@ -2,13 +2,13 @@
 layout: publication
 title: 'Few-shot Fine-tuning Vs. In-context Learning: A Fair Comparison And Evaluation'
 authors: Marius Mosbach, Tiago Pimentel, Shauli Ravfogel, Dietrich Klakow, Yanai Elazar
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2023
-citations: 29
+citations: 30
 bibkey: mosbach2023few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.16938'}]
-tags: [Training Techniques, Fine-Tuning, Few-Shot, Reinforcement Learning, In-Context
-    Learning]
+tags: [Fine-Tuning, Few-Shot, Reinforcement Learning, In-Context Learning, Training
+    Techniques, Evaluation]
 ---
 Few-shot fine-tuning and in-context learning are two alternative strategies
 for task adaptation of pre-trained language models. Recently, in-context

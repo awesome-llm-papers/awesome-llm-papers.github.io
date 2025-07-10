@@ -3,13 +3,14 @@ layout: publication
 title: Training Large-scale News Recommenders With Pretrained Language Models In The
   Loop
 authors: Shitao Xiao, Zheng Liu, Yingxia Shao, Tao Di, Xing Xie
-conference: Arxiv
+conference: 'KDD ''22: The 28th ACM SIGKDD Conference on Knowledge Discovery and Data
+  Mining'
 year: 2021
-citations: 23
+citations: 25
 bibkey: xiao2021training
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.09268'}]
-tags: [Training Techniques, RAG, RecSys, Tools, Reinforcement Learning, BERT, Efficiency
-    and Optimization, Model Architecture]
+tags: [Model Architecture, RAG, RecSys, Tools, Reinforcement Learning, BERT, Efficiency
+    and Optimization, Training Techniques]
 ---
 News recommendation calls for deep insights of news articles' underlying
 semantics. Therefore, pretrained language models (PLMs), like BERT and RoBERTa,

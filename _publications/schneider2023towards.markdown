@@ -2,13 +2,12 @@
 layout: publication
 title: Towards Llm-based Autograding For Short Textual Answers
 authors: Johannes Schneider, Bernd Schenk, Christina Niklaus
-conference: Proceedings of the 16th International Conference on Computer Supported
-  Education (CSEDU 2024)
+conference: 16th International Conference on Computer Supported Education
 year: 2023
-citations: 15
+citations: 18
 bibkey: schneider2023towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.11508'}]
-tags: [Ethics and Bias, Reinforcement Learning, Model Architecture, GPT]
+tags: [Model Architecture, Ethics and Bias, Reinforcement Learning, GPT, Evaluation]
 ---
 Grading exams is an important, labor-intensive, subjective, repetitive, and
 frequently challenging task. The feasibility of autograding textual responses

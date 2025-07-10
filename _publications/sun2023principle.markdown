@@ -8,8 +8,8 @@ year: 2023
 citations: 46
 bibkey: sun2023principle
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.03047v2'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Fine-Tuning, Reinforcement Learning,
-  Agentic, In-Context Learning, Prompting, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, Fine-Tuning, Reinforcement Learning,
+  In-Context Learning, Prompting, Agentic, Training Techniques, Evaluation]
 ---
 Recent AI-assistant agents, such as ChatGPT, predominantly rely on supervised
 fine-tuning (SFT) with human annotations and reinforcement learning from human

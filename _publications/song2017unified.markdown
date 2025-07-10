@@ -8,8 +8,8 @@ year: 2017
 citations: 56
 bibkey: song2017unified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1709.01058'}]
-tags: [Ethics and Bias, Training Techniques, RAG, Attention Mechanism, Tools, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, RAG, Tools, Training
+    Techniques]
 ---
 We propose a query-based generative model for solving both tasks of question
 generation (QG) and question an- swering (QA). The model follows the classic

@@ -4,12 +4,13 @@ title: 'Detecting Llm-generated Text In Computing Education: A Comparative Study
   Chatgpt Cases'
 authors: Michael Sheinman Orenstrakh, Oscar Karnalim, Carlos Anibal Suarez, Michael
   Liut
-conference: Arxiv
+conference: 2024 IEEE 48th Annual Computers, Software, and Applications Conference
+  (COMPSAC)
 year: 2023
-citations: 22
+citations: 24
 bibkey: orenstrakh2023detecting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.07411'}]
-tags: [Model Architecture, GPT, Tools, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, Model Architecture, GPT]
 ---
 Due to the recent improvements and wide availability of Large Language Models
 (LLMs), they have posed a serious threat to academic integrity in education.

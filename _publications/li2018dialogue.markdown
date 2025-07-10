@@ -2,12 +2,12 @@
 layout: publication
 title: 'Dialogue Generation: From Imitation Learning To Inverse Reinforcement Learning'
 authors: Ziming Li, Julia Kiseleva, Maarten De Rijke
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2018
 citations: 15
 bibkey: li2018dialogue
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1812.03509'}]
-tags: [Training Techniques, Tools, Agentic, Reinforcement Learning, Security]
+tags: [Security, Tools, Reinforcement Learning, Agentic, Training Techniques, Evaluation]
 ---
 The performance of adversarial dialogue generation models relies on the
 quality of the reward signal produced by the discriminator. The reward signal

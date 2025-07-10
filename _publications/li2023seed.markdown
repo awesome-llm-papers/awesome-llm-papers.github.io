@@ -2,13 +2,14 @@
 layout: publication
 title: 'Seed-bench-2: Benchmarking Multimodal Large Language Models'
 authors: Bohao Li et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 35
+citations: 40
 bibkey: li2023seed
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.17092'}, {name: Code,
     url: 'https://github.com/AILab-CVC/SEED-Bench'}]
-tags: [GPT, Reinforcement Learning, Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Reinforcement Learning, Multimodal Models, GPT,
+  Evaluation]
 ---
 Multimodal large language models (MLLMs), building upon the foundation of
 powerful large language models (LLMs), have recently demonstrated exceptional

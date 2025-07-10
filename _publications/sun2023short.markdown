@@ -7,8 +7,8 @@ year: 2023
 citations: 27
 bibkey: sun2023short
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.09136'}]
-tags: [Ethics and Bias, Reinforcement Learning, Interpretability and Explainability,
-  Agentic, Applications, Survey Paper]
+tags: [Ethics and Bias, Applications, Interpretability and Explainability, Reinforcement
+    Learning, Survey Paper, Agentic]
 ---
 Large language models (LLMs) have transformed many fields, including natural
 language processing, computer vision, and reinforcement learning. These models

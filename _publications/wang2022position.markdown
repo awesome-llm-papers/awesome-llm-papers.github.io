@@ -2,14 +2,14 @@
 layout: publication
 title: Position-guided Text Prompt For Vision-language Pre-training
 authors: Alex Jinpeng Wang, Pan Zhou, Mike Zheng Shou, Shuicheng Yan
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
 citations: 18
 bibkey: wang2022position
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09737'}, {name: Code,
     url: 'https://github.com/sail-sg/ptp'}]
-tags: [Training Techniques, RAG, Pre-Training, Tools, Has Code, Prompting, Multimodal
-    Models, Model Architecture]
+tags: [Has Code, Model Architecture, RAG, Tools, Multimodal Models, Pre-Training,
+  Prompting, Training Techniques, Evaluation]
 ---
 Vision-Language Pre-Training (VLP) has shown promising capabilities to align
 image and text pairs, facilitating a broad variety of cross-modal learning

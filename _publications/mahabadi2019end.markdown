@@ -2,14 +2,15 @@
 layout: publication
 title: End-to-end Bias Mitigation By Modelling Biases In Corpora
 authors: Rabeeh Karimi Mahabadi, Yonatan Belinkov, James Henderson
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 34
 bibkey: mahabadi2019end
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.06321'}, {name: Code,
     url: 'https://github.com/rabeehk/robust-nli'}]
-tags: [Ethics and Bias, Training Techniques, RAG, Reinforcement Learning, Has Code,
-  Security, Bias Mitigation]
+tags: [Security, Has Code, Ethics and Bias, RAG, Reinforcement Learning, Bias Mitigation,
+  Training Techniques, Evaluation]
 ---
 Several recent studies have shown that strong natural language understanding
 (NLU) models are prone to relying on unwanted dataset biases without learning

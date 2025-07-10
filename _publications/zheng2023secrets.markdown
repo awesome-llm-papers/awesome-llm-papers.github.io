@@ -7,8 +7,8 @@ year: 2023
 citations: 16
 bibkey: zheng2023secrets
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.04964'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, Tools, Agentic,
-  Efficiency and Optimization, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Tools, Reinforcement Learning, Agentic,
+  Efficiency and Optimization, Training Techniques]
 ---
 Large language models (LLMs) have formulated a blueprint for the advancement
 of artificial general intelligence. Its primary objective is to function as a

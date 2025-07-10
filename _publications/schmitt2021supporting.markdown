@@ -3,12 +3,12 @@ layout: publication
 title: 'Characterchat: Supporting The Creation Of Fictional Characters Through Conversation
   And Progressive Manifestation With A Chatbot'
 authors: Oliver Schmitt, Daniel Buschek
-conference: Arxiv
+conference: 'C&C ''21: Creativity and Cognition'
 year: 2021
-citations: 23
+citations: 29
 bibkey: schmitt2021supporting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.12314'}]
-tags: [Reinforcement Learning, Survey Paper, Prompting]
+tags: [Survey Paper, Reinforcement Learning, Prompting]
 ---
 We present CharacterChat, a concept and chatbot to support writers in
 creating fictional characters. Concretely, writers progressively turn the bot

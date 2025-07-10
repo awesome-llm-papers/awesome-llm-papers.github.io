@@ -2,13 +2,13 @@
 layout: publication
 title: Eyes Wide Shut? Exploring The Visual Shortcomings Of Multimodal Llms
 authors: Shengbang Tong et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2024
-citations: 34
+citations: 36
 bibkey: tong2024eyes
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.06209'}]
-tags: [Training Techniques, GPT, Pre-Training, Interpretability and Explainability,
-  Multimodal Models, Model Architecture]
+tags: [Model Architecture, GPT, Interpretability and Explainability, Multimodal Models,
+  Pre-Training, Training Techniques, Evaluation]
 ---
 Is vision good enough for language? Recent advancements in multimodal models
 primarily stem from the powerful reasoning abilities of large language models

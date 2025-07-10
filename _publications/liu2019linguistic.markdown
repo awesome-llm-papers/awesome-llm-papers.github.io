@@ -3,12 +3,12 @@ layout: publication
 title: Linguistic Knowledge And Transferability Of Contextual Representations
 authors: Nelson F. Liu, Matt Gardner, Yonatan Belinkov, Matthew E. Peters, Noah A.
   Smith
-conference: Arxiv
+conference: Proceedings of the 2019 Conference of the North
 year: 2019
 citations: 112
 bibkey: liu2019linguistic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1903.08855'}]
-tags: [Training Techniques, Transformer, RAG, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, RAG, BERT, Training Techniques]
 ---
 Contextual word representations derived from large-scale neural language
 models are successful across a diverse set of NLP tasks, suggesting that they

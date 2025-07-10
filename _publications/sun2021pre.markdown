@@ -3,14 +3,15 @@ layout: publication
 title: 'Lightningdot: Pre-training Visual-semantic Embeddings For Real-time Image-text
   Retrieval'
 authors: Siqi Sun et al.
-conference: Arxiv
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
 citations: 59
 bibkey: sun2021pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.08784'}, {name: Code,
     url: 'https://github.com/intersun/LightningDOT'}]
-tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, Has Code,
-  Applications, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, Applications,
+  Multimodal Models, Pre-Training, Training Techniques, Evaluation]
 ---
 Multimodal pre-training has propelled great advancement in
 vision-and-language research. These large-scale pre-trained models, although

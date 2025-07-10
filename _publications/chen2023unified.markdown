@@ -3,12 +3,13 @@ layout: publication
 title: A Unified Generative Retriever For Knowledge-intensive Language Tasks Via Prompt
   Learning
 authors: Jiangui Chen et al.
-conference: Arxiv
+conference: 'SIGIR ''23: The 46th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2023
 citations: 18
 bibkey: chen2023unified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.14856'}]
-tags: [Prompting]
+tags: [Prompting, Evaluation]
 ---
 Knowledge-intensive language tasks (KILTs) benefit from retrieving
 high-quality relevant contexts from large external knowledge corpora. Learning

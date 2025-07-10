@@ -8,7 +8,8 @@ year: 2023
 citations: 16
 bibkey: wu2023comparative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.04709'}]
-tags: [GPT, Training Techniques, Reinforcement Learning, Applications, Model Architecture]
+tags: [Model Architecture, GPT, Applications, Reinforcement Learning, Training Techniques,
+  Evaluation]
 ---
 In recent years, there have been significant breakthroughs in the field of
 natural language processing, particularly with the development of large

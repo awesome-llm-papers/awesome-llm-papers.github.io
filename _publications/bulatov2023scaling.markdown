@@ -7,8 +7,8 @@ year: 2023
 citations: 17
 bibkey: bulatov2023scaling
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2304.11062v2'}]
-tags: [Transformer, Reinforcement Learning, Applications, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Applications, Reinforcement
+    Learning]
 ---
 A major limitation for the broader scope of problems solvable by transformers
 is the quadratic scaling of computational complexity with input size. In this

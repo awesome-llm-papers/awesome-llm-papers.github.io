@@ -3,12 +3,13 @@ layout: publication
 title: 'Llama-reviewer: Advancing Code Review Automation With Large Language Models
   Through Parameter-efficient Fine-tuning'
 authors: Junyi Lu, Lei Yu, Xiaojia Li, Li Yang, Chun Zuo
-conference: Arxiv
+conference: 2023 IEEE 34th International Symposium on Software Reliability Engineering
+  (ISSRE)
 year: 2023
-citations: 40
+citations: 50
 bibkey: lu2023llama
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.11148'}]
-tags: [Training Techniques, RAG, Pre-Training, Tools, Fine-Tuning, Survey Paper]
+tags: [Fine-Tuning, RAG, Survey Paper, Tools, Pre-Training, Training Techniques, Evaluation]
 ---
 The automation of code review activities, a long-standing pursuit in software
 engineering, has been primarily addressed by numerous domain-specific

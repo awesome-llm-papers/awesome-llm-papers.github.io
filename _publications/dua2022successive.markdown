@@ -2,12 +2,13 @@
 layout: publication
 title: Successive Prompting For Decomposing Complex Questions
 authors: Dheeru Dua, Shivanshu Gupta, Sameer Singh, Matt Gardner
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
 citations: 15
 bibkey: dua2022successive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.04092'}]
-tags: [RAG, Few-Shot, Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Few-Shot, Prompting, RAG]
 ---
 Answering complex questions that require making latent decisions is a
 challenging task, especially when limited supervision is available. Recent

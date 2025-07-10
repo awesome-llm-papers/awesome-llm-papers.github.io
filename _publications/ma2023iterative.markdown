@@ -2,14 +2,13 @@
 layout: publication
 title: An Iterative Optimizing Framework For Radiology Report Summarization With Chatgpt
 authors: Chong Ma et al.
-conference: IEEE Transactions on Artificial Intelligence (Early Access)(12 February
-  2024)
+conference: IEEE Transactions on Artificial Intelligence
 year: 2023
-citations: 27
+citations: 28
 bibkey: ma2023iterative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.08448'}]
-tags: [Training Techniques, GPT, RAG, Pre-Training, Tools, Fine-Tuning, In-Context
-    Learning, Efficiency and Optimization, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Tools, In-Context Learning, Prompting,
+  Pre-Training, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 The 'Impression' section of a radiology report is a critical basis for
 communication between radiologists and other physicians, and it is typically

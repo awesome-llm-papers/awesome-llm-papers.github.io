@@ -3,12 +3,12 @@ layout: publication
 title: 'Datatales: Investigating The Use Of Large Language Models For Authoring Data-driven
   Articles'
 authors: Nicole Sultanum, Arjun Srinivasan
-conference: Arxiv
+conference: 2023 IEEE Visualization and Visual Analytics (VIS)
 year: 2023
-citations: 23
+citations: 24
 bibkey: sultanum2023investigating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.04076'}]
-tags: [RAG, Reinforcement Learning, Language Modeling]
+tags: [Language Modeling, Reinforcement Learning, RAG]
 ---
 Authoring data-driven articles is a complex process requiring authors to not
 only analyze data for insights but also craft a cohesive narrative that

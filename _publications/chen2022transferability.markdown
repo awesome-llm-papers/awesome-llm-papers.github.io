@@ -3,12 +3,12 @@ layout: publication
 title: On The Transferability Of Pre-trained Language Models For Low-resource Programming
   Languages
 authors: Fuxiang Chen, Fatemeh Fard, David Lo, Timofey Bryksin
-conference: Arxiv
+conference: 'ICPC ''22: 30th International Conference on Program Comprehension'
 year: 2022
-citations: 26
+citations: 27
 bibkey: chen2022transferability
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.09653'}]
-tags: [Fine-Tuning, Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Fine-Tuning]
 ---
 A recent study by Ahmed and Devanbu reported that using a corpus of code
 written in multilingual datasets to fine-tune multilingual Pre-trained Language

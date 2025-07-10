@@ -7,7 +7,7 @@ year: 2022
 citations: 21
 bibkey: zhou2022teaching
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.09066'}]
-tags: [Tools, In-Context Learning, Prompting]
+tags: [Tools, Prompting, In-Context Learning]
 ---
 Large language models (LLMs) have shown increasing in-context learning
 capabilities through scaling up model and data size. Despite this progress,

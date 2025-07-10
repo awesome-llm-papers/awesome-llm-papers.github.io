@@ -2,12 +2,12 @@
 layout: publication
 title: Going Beyond Nouns With Vision & Language Models Using Synthetic Data
 authors: Paola Cascante-bonilla et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2023
-citations: 20
+citations: 21
 bibkey: cascantebonilla2023going
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.17590'}]
-tags: [RAG, Applications, Reinforcement Learning, Prompting]
+tags: [RAG, Applications, Reinforcement Learning, Prompting, Evaluation]
 ---
 Large-scale pre-trained Vision & Language (VL) models have shown remarkable
 performance in many applications, enabling replacing a fixed set of supported

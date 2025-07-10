@@ -8,7 +8,7 @@ year: 2023
 citations: 63
 bibkey: pardos2023learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.06871'}]
-tags: [GPT, Model Architecture]
+tags: [GPT, Model Architecture, Evaluation]
 ---
 Large Language Models (LLMs), such as ChatGPT, are quickly advancing AI to
 the frontiers of practical consumer use and leading industries to re-evaluate

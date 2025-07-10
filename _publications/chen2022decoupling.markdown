@@ -8,7 +8,7 @@ citations: 23
 bibkey: chen2022decoupling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.14704'}, {name: Code,
     url: 'https://github.com/zjunlp/PromptKG/tree/main/research/RetroPrompt'}]
-tags: [Training Techniques, RAG, Few-Shot, Has Code, Prompting]
+tags: [Has Code, Few-Shot, RAG, Prompting, Training Techniques]
 ---
 Prompt learning approaches have made waves in natural language processing by
 inducing better few-shot performance while they still follow a parametric-based

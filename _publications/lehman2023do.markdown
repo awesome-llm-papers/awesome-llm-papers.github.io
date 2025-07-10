@@ -7,7 +7,7 @@ year: 2023
 citations: 38
 bibkey: lehman2023do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.08091'}]
-tags: [Efficiency and Optimization, Training Techniques, Responsible AI, In-Context
+tags: [Responsible AI, Efficiency and Optimization, Training Techniques, In-Context
     Learning]
 ---
 Although recent advances in scaling large language models (LLMs) have

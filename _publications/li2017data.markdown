@@ -7,8 +7,8 @@ year: 2017
 citations: 19
 bibkey: li2017data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1702.06703'}]
-tags: [Distillation, Training Techniques, Reinforcement Learning, Agentic, Efficiency
-    and Optimization]
+tags: [Distillation, Reinforcement Learning, Agentic, Efficiency and Optimization,
+  Training Techniques]
 ---
 People speak at different levels of specificity in different situations.
 Depending on their knowledge, interlocutors, mood, etc.\} A conversational agent

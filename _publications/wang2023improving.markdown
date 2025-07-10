@@ -2,12 +2,13 @@
 layout: publication
 title: Improving Text Embeddings With Large Language Models
 authors: Liang Wang et al.
-conference: Arxiv
+conference: 'Proceedings of the 62nd Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
-citations: 17
+citations: 19
 bibkey: wang2023improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.00368'}]
-tags: [RAG, Pre-Training, Training Techniques, Fine-Tuning]
+tags: [Fine-Tuning, RAG, Pre-Training, Training Techniques, Evaluation]
 ---
 In this paper, we introduce a novel and simple method for obtaining
 high-quality text embeddings using only synthetic data and less than 1k

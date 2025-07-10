@@ -2,12 +2,12 @@
 layout: publication
 title: Challenging Big-bench Tasks And Whether Chain-of-thought Can Solve Them
 authors: Mirac Suzgun et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2022
-citations: 56
+citations: 63
 bibkey: suzgun2022challenging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.09261'}]
-tags: [RAG, Few-Shot, In-Context Learning, Prompting]
+tags: [Few-Shot, RAG, In-Context Learning, Prompting, Evaluation]
 ---
 BIG-Bench (Srivastava et al., 2022) is a diverse evaluation suite that
 focuses on tasks believed to be beyond the capabilities of current language

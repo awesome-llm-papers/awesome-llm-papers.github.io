@@ -2,12 +2,12 @@
 layout: publication
 title: Understanding Large-language Model (llm)-powered Human-robot Interaction
 authors: Callie Y. Kim, Christine P. Lee, Bilge Mutlu
-conference: Arxiv
+conference: 'HRI ''24: ACM/IEEE International Conference on Human-Robot Interaction'
 year: 2024
-citations: 54
+citations: 58
 bibkey: kim2024understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.03217'}]
-tags: [Fine-Tuning, Training Techniques, Agentic]
+tags: [Agentic, Training Techniques, Fine-Tuning]
 ---
 Large-language models (LLMs) hold significant promise in improving
 human-robot interaction, offering advanced conversational skills and

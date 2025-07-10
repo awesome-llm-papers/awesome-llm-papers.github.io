@@ -9,7 +9,7 @@ citations: 44
 bibkey: mehta2020deep
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.00623'}, {name: Code,
     url: 'https://github.com/sacmehta/delight'}]
-tags: [Transformer, RAG, Has Code, Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Transformer, RAG, Evaluation]
 ---
 We introduce a deep and light-weight transformer, DeLighT, that delivers
 similar or better performance than standard transformer-based models with

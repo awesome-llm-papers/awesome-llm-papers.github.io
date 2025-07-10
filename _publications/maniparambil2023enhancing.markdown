@@ -2,13 +2,14 @@
 layout: publication
 title: 'Enhancing CLIP With GPT-4: Harnessing Visual Descriptions As Prompts'
 authors: Mayug Maniparambil et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)
 year: 2023
-citations: 27
+citations: 29
 bibkey: maniparambil2023enhancing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.11661'}, {name: Code,
     url: 'https://github.com/mayug/VDT-Adapter'}]
-tags: [GPT, RAG, Few-Shot, Tools, Has Code, Prompting, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Few-Shot, RAG, Tools, Multimodal Models, Prompting,
+  GPT]
 ---
 Contrastive pretrained large Vision-Language Models (VLMs) like CLIP have
 revolutionized visual representation learning by providing good performance on

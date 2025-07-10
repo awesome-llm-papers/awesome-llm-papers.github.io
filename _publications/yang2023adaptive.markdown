@@ -2,14 +2,14 @@
 layout: publication
 title: 'ALIP: Adaptive Language-image Pre-training With Synthetic Caption'
 authors: Kaicheng Yang et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2023
-citations: 20
+citations: 21
 bibkey: yang2023adaptive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.08428'}, {name: Code,
     url: 'https://github.com/deepglint/ALIP'}]
-tags: [Training Techniques, Pre-Training, Efficiency and Optimization, Has Code, Multimodal
-    Models]
+tags: [Has Code, Multimodal Models, Pre-Training, Efficiency and Optimization, Training
+    Techniques]
 ---
 Contrastive Language-Image Pre-training (CLIP) has significantly boosted the
 performance of various vision-language tasks by scaling up the dataset with

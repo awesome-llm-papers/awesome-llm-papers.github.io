@@ -2,13 +2,14 @@
 layout: publication
 title: 'Large Language Models For Data Annotation And Synthesis: A Survey'
 authors: Zhen Tan et al.
-conference: Arxiv
+conference: Proceedings of the 2024 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2024
-citations: 29
+citations: 34
 bibkey: tan2024large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.13446'}]
-tags: [Training Techniques, GPT, Reinforcement Learning, Applications, Survey Paper,
-  Model Architecture]
+tags: [Model Architecture, GPT, Applications, Survey Paper, Reinforcement Learning,
+  Training Techniques]
 ---
 Data annotation and synthesis generally refers to the labeling or generating
 of raw data with relevant information, which could be used for improving the

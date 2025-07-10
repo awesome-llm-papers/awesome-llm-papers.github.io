@@ -7,7 +7,7 @@ year: 2022
 citations: 20
 bibkey: wang2022faithful
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.01562'}]
-tags: [Training Techniques, Prompting]
+tags: [Training Techniques, Prompting, Evaluation]
 ---
 Neural language models (LMs) have achieved impressive results on various
 language-based reasoning tasks by utilizing latent knowledge encoded in their

@@ -7,7 +7,8 @@ year: 2019
 citations: 25
 bibkey: zhu2019text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1901.00158'}]
-tags: [Transformer, Merging, RAG, Attention Mechanism, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, RAG,
+  Merging]
 ---
 Recent years have seen remarkable progress of text generation in different
 contexts, such as the most common setting of generating text from scratch, and

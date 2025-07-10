@@ -2,12 +2,13 @@
 layout: publication
 title: 'Speak, Memory: An Archaeology Of Books Known To Chatgpt/gpt-4'
 authors: Kent K. Chang, Mackenzie Cramer, Sandeep Soni, David Bamman
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 27
+citations: 28
 bibkey: chang2023archaeology
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.00118'}]
-tags: [Model Architecture, Training Techniques, GPT, Reinforcement Learning]
+tags: [Reinforcement Learning, Training Techniques, Model Architecture, GPT]
 ---
 In this work, we carry out a data archaeology to infer books that are known
 to ChatGPT and GPT-4 using a name cloze membership inference query. We find

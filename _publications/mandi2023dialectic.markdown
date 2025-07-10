@@ -2,14 +2,14 @@
 layout: publication
 title: 'Roco: Dialectic Multi-robot Collaboration With Large Language Models'
 authors: Zhao Mandi, Shreeya Jain, Shuran Song
-conference: Arxiv
+conference: 2024 IEEE International Conference on Robotics and Automation (ICRA)
 year: 2023
-citations: 30
+citations: 32
 bibkey: mandi2023dialectic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.04738'}, {name: Code,
     url: 'https://project-roco.github.io'}]
-tags: [Reinforcement Learning, Interpretability and Explainability, Agentic, Has Code,
-  Prompting]
+tags: [Has Code, Interpretability and Explainability, Reinforcement Learning, Prompting,
+  Agentic, Evaluation]
 ---
 We propose a novel approach to multi-robot collaboration that harnesses the
 power of pre-trained large language models (LLMs) for both high-level

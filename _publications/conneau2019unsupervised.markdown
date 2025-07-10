@@ -2,13 +2,14 @@
 layout: publication
 title: Unsupervised Cross-lingual Representation Learning At Scale
 authors: Alexis Conneau et al.
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
-citations: 1471
+citations: 1505
 bibkey: conneau2019unsupervised
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.02116'}]
-tags: [Masked Language Model, Training Techniques, Transformer, RAG, Reinforcement
-    Learning, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, RAG, Masked Language Model, Reinforcement
+    Learning, BERT, Training Techniques, Evaluation]
 ---
 This paper shows that pretraining multilingual language models at scale leads
 to significant performance gains for a wide range of cross-lingual transfer

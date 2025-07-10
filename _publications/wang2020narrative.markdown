@@ -7,7 +7,7 @@ year: 2020
 citations: 24
 bibkey: wang2020narrative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.07466'}]
-tags: [GPT, Model Architecture]
+tags: [GPT, Model Architecture, Evaluation]
 ---
 We propose a method for controlled narrative/story generation where we are
 able to guide the model to produce coherent narratives with user-specified

@@ -3,14 +3,14 @@ layout: publication
 title: 'Opening Up Chatgpt: Tracking Openness, Transparency, And Accountability In
   Instruction-tuned Text Generators'
 authors: Andreas Liesenfeld, Alianda Lopez, Mark Dingemanse
-conference: Arxiv
+conference: 'CUI ''23: ACM conference on Conversational User Interfaces'
 year: 2023
-citations: 53
+citations: 56
 bibkey: liesenfeld2023opening
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.05532'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Fine-Tuning, Reinforcement Learning,
-  Responsible AI, Agentic, Fairness, Bias Mitigation, Survey Paper, Language Modeling,
-  Model Architecture]
+tags: [Responsible AI, Language Modeling, Model Architecture, Ethics and Bias, Fine-Tuning,
+  Fairness, Survey Paper, Reinforcement Learning, Bias Mitigation, Training Techniques,
+  Agentic, GPT]
 ---
 Large language models that exhibit instruction-following behaviour represent
 one of the biggest recent upheavals in conversational interfaces, a trend in

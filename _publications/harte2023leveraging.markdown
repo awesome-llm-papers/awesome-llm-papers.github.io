@@ -2,12 +2,12 @@
 layout: publication
 title: Leveraging Large Language Models For Sequential Recommendation
 authors: Jesse Harte et al.
-conference: Arxiv
+conference: 'RecSys ''23: Seventeenth ACM Conference on Recommender Systems'
 year: 2023
-citations: 47
+citations: 50
 bibkey: harte2023leveraging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.09261'}]
-tags: [RAG, Attention Mechanism, BERT, Applications, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, RAG, Applications, BERT]
 ---
 Sequential recommendation problems have received increasing attention in
 research during the past few years, leading to the inception of a large variety

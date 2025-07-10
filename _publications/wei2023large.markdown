@@ -2,14 +2,15 @@
 layout: publication
 title: 'Llmrec: Large Language Models With Graph Augmentation For Recommendation'
 authors: Wei Wei et al.
-conference: Arxiv
+conference: 'WSDM ''24: The 17th ACM International Conference on Web Search and Data
+  Mining'
 year: 2023
-citations: 65
+citations: 66
 bibkey: wei2023large
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2311.00423v6'}, {name: Code,
     url: 'https://github.com/HKUDS/LLMRec.git'}]
-tags: [RAG, RecSys, Tools, Reinforcement Learning, Efficiency and Optimization, Has
-    Code, Pruning]
+tags: [Has Code, Pruning, RAG, RecSys, Reinforcement Learning, Tools, Efficiency and
+    Optimization, Evaluation]
 ---
 The problem of data sparsity has long been a challenge in recommendation
 systems, and previous studies have attempted to address this issue by

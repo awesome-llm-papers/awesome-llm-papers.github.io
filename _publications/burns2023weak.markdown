@@ -7,7 +7,7 @@ year: 2023
 citations: 15
 bibkey: burns2023weak
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.09390'}]
-tags: [Reinforcement Learning, Agentic, Model Architecture, GPT]
+tags: [Agentic, Reinforcement Learning, GPT, Model Architecture]
 ---
 Widely used alignment techniques, such as reinforcement learning from human
 feedback (RLHF), rely on the ability of humans to supervise model behavior -

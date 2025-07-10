@@ -2,9 +2,10 @@
 layout: publication
 title: Training Question Answering Models From Synthetic Data
 authors: Raul Puri, Ryan Spring, Mostofa Patwary, Mohammad Shoeybi, Bryan Catanzaro
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 43
+citations: 44
 bibkey: puri2020training
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.09599'}]
 tags: [Training Techniques, Model Architecture, GPT]

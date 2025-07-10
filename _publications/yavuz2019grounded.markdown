@@ -2,12 +2,12 @@
 layout: publication
 title: 'Deepcopy: Grounded Response Generation With Hierarchical Pointer Networks'
 authors: Semih Yavuz, Abhinav Rastogi, Guan-lin Chao, Dilek Hakkani-tur
-conference: Arxiv
+conference: Proceedings of the 20th Annual SIGdial Meeting on Discourse and Dialogue
 year: 2019
 citations: 30
 bibkey: yavuz2019grounded
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.10731'}]
-tags: [Uncategorized]
+tags: [Evaluation]
 ---
 Recent advances in neural sequence-to-sequence models have led to promising
 results for several language generation-based tasks, including dialogue

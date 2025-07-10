@@ -4,11 +4,11 @@ title: 'Chemllm: A Chemical Large Language Model'
 authors: Di Zhang et al.
 conference: Arxiv
 year: 2024
-citations: 24
+citations: 25
 bibkey: zhang2024chemical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.06852'}, {name: Code,
     url: 'https://hf.co/AI4Chem'}]
-tags: [GPT, Fine-Tuning, Tools, Has Code, Applications, Model Architecture]
+tags: [Has Code, Model Architecture, Fine-Tuning, Applications, Tools, GPT, Evaluation]
 ---
 Large language models (LLMs) have made impressive progress in chemistry
 applications. However, the community lacks an LLM specifically designed for

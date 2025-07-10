@@ -7,7 +7,7 @@ year: 2021
 citations: 16
 bibkey: khattab2021robust
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00436'}]
-tags: [RAG, Training Techniques]
+tags: [Training Techniques, RAG]
 ---
 Multi-hop reasoning (i.e., reasoning across two or more documents) is a key
 ingredient for NLP models that leverage large corpora to exhibit broad

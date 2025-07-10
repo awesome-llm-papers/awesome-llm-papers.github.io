@@ -2,12 +2,12 @@
 layout: publication
 title: 'The Revolution Of Multimodal Large Language Models: A Survey'
 authors: Davide Caffagni et al.
-conference: Arxiv
+conference: Findings of the Association for Computational Linguistics ACL 2024
 year: 2024
-citations: 15
+citations: 16
 bibkey: caffagni2024revolution
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.12451'}]
-tags: [Survey Paper, Applications, Training Techniques, Multimodal Models]
+tags: [Applications, Survey Paper, Multimodal Models, Training Techniques, Evaluation]
 ---
 Connecting text and visual modalities plays an essential role in generative
 intelligence. For this reason, inspired by the success of large language

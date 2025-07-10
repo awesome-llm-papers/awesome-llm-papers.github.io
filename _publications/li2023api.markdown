@@ -2,12 +2,13 @@
 layout: publication
 title: 'Api-bank: A Comprehensive Benchmark For Tool-augmented Llms'
 authors: Minghao Li et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 24
+citations: 27
 bibkey: li2023api
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.08244'}]
-tags: [Training Techniques, GPT, RAG, Tools, Model Architecture, TACL, ACL]
+tags: [Model Architecture, GPT, RAG, TACL, ACL, Tools, Training Techniques, Evaluation]
 ---
 Recent research has demonstrated that Large Language Models (LLMs) can
 enhance their capabilities by utilizing external tools. However, three pivotal

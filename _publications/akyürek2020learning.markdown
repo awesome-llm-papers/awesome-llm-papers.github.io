@@ -7,7 +7,7 @@ year: 2020
 citations: 40
 bibkey: "aky\xFCrek2020learning"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.03706'}]
-tags: [RAG, Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, RAG]
 ---
 Flexible neural sequence models outperform grammar- and automaton-based
 counterparts on a variety of tasks. However, neural models perform poorly in

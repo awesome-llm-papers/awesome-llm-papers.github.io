@@ -3,14 +3,13 @@ layout: publication
 title: Thrilled By Your Progress! Large Language Models (GPT-4) No Longer Struggle
   To Pass Assessments In Higher Education Programming Courses
 authors: Jaromir Savelka, Arav Agarwal, Marshall An, Chris Bogart, Majd Sakr
-conference: ICER 23 Proceedings of the 2023 ACM Conference on International Computing
-  Education Research - Volume 1. August 2023. Pages 78 - 92
+conference: 'ICER 2023: ACM Conference on International Computing Education Research'
 year: 2023
-citations: 78
+citations: 86
 bibkey: savelka2023thrilled
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.10073'}]
-tags: [GPT, RAG, Reinforcement Learning, Interpretability and Explainability, Model
-    Architecture]
+tags: [Model Architecture, RAG, Interpretability and Explainability, Reinforcement
+    Learning, GPT]
 ---
 This paper studies recent developments in large language models' (LLM)
 abilities to pass assessments in introductory and intermediate Python

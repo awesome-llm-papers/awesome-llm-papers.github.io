@@ -3,12 +3,12 @@ layout: publication
 title: 'Adaptmllm: Fine-tuning Multilingual Language Models On Low-resource Languages
   With Integrated LLM Playgrounds'
 authors: "S\xE9amus Lankford, Haithem Afli, Andy Way"
-conference: Information 2023 14(12) 638
+conference: Information
 year: 2024
-citations: 17
+citations: 19
 bibkey: lankford2024fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.02370'}]
-tags: [Fine-Tuning, Training Techniques]
+tags: [Training Techniques, Fine-Tuning, Evaluation]
 ---
 The advent of Multilingual Language Models (MLLMs) and Large Language Models
 has spawned innovation in many areas of natural language processing. Despite

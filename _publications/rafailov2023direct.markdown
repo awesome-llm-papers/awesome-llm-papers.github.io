@@ -7,8 +7,8 @@ year: 2023
 citations: 115
 bibkey: rafailov2023direct
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.18290v3'}]
-tags: [Training Techniques, Fine-Tuning, Reinforcement Learning, Agentic, Efficiency
-    and Optimization]
+tags: [Fine-Tuning, Reinforcement Learning, Agentic, Efficiency and Optimization,
+  Training Techniques]
 ---
 While large-scale unsupervised language models (LMs) learn broad world
 knowledge and some reasoning skills, achieving precise control of their

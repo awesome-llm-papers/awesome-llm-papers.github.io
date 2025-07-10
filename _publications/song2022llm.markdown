@@ -3,12 +3,12 @@ layout: publication
 title: 'Llm-planner: Few-shot Grounded Planning For Embodied Agents With Large Language
   Models'
 authors: Chan Hee Song et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2022
-citations: 144
+citations: 152
 bibkey: song2022llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.04088'}]
-tags: [Efficiency and Optimization, Few-Shot, Training Techniques, Agentic]
+tags: [Agentic, Efficiency and Optimization, Training Techniques, Few-Shot]
 ---
 This study focuses on using large language models (LLMs) as a planner for
 embodied agents that can follow natural language instructions to complete

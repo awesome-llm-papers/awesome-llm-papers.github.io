@@ -3,12 +3,13 @@ layout: publication
 title: 'Multiqa: An Empirical Investigation Of Generalization And Transfer In Reading
   Comprehension'
 authors: Alon Talmor, Jonathan Berant
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 30
 bibkey: talmor2019empirical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.13453'}]
-tags: [RAG, Training Techniques, Model Architecture, BERT]
+tags: [BERT, Training Techniques, RAG, Model Architecture]
 ---
 A large number of reading comprehension (RC) datasets has been created
 recently, but little analysis has been done on whether they generalize to one

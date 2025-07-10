@@ -2,12 +2,14 @@
 layout: publication
 title: Reducing Gender Bias In Neural Machine Translation As A Domain Adaptation Problem
 authors: Danielle Saunders, Bill Byrne
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
 citations: 30
 bibkey: saunders2020reducing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.04498'}]
-tags: [Ethics and Bias, Fine-Tuning, Reinforcement Learning, Training Techniques]
+tags: [Ethics and Bias, Fine-Tuning, Reinforcement Learning, Training Techniques,
+  Evaluation]
 ---
 Training data for NLP tasks often exhibits gender bias in that fewer
 sentences refer to women than to men. In Neural Machine Translation (NMT)

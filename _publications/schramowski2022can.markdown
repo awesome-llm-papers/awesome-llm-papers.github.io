@@ -3,13 +3,13 @@ layout: publication
 title: Can Machines Help Us Answering Question 16 In Datasheets, And In Turn Reflecting
   On Inappropriate Content?
 authors: Patrick Schramowski, Christopher Tauchmann, Kristian Kersting
-conference: Arxiv
+conference: 'FAccT ''22: 2022 ACM Conference on Fairness, Accountability, and Transparency'
 year: 2022
-citations: 23
+citations: 24
 bibkey: schramowski2022can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.06675'}]
-tags: [Transformer, RAG, Reinforcement Learning, Prompting, Multimodal Models, Model
-    Architecture]
+tags: [Model Architecture, Transformer, RAG, Reinforcement Learning, Multimodal Models,
+  Prompting]
 ---
 Large datasets underlying much of current machine learning raise serious
 issues concerning inappropriate content such as offensive, insulting,

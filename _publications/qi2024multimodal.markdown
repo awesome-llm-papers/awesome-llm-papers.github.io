@@ -3,13 +3,13 @@ layout: publication
 title: 'SNIFFER: Multimodal Large Language Model For Explainable Out-of-context Misinformation
   Detection'
 authors: Peng Qi, Zehong Yan, Wynne Hsu, Mong Li Lee
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2024
-citations: 19
+citations: 21
 bibkey: qi2024multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.03170'}]
-tags: [GPT, RAG, Tools, Interpretability and Explainability, Multimodal Models, Model
-    Architecture]
+tags: [Model Architecture, RAG, Interpretability and Explainability, Tools, Multimodal
+    Models, GPT, Evaluation]
 ---
 Misinformation is a prevalent societal issue due to its potential high risks.
 Out-of-context (OOC) misinformation, where authentic images are repurposed with

@@ -2,12 +2,13 @@
 layout: publication
 title: Attentive History Selection For Conversational Question Answering
 authors: Chen Qu et al.
-conference: Arxiv
+conference: 'CIKM ''19: The 28th ACM International Conference on Information and Knowledge
+  Management'
 year: 2019
 citations: 40
 bibkey: qu2019attentive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.09456'}]
-tags: [Transformer, RAG, Attention Mechanism, BERT, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, BERT, Evaluation]
 ---
 Conversational question answering (ConvQA) is a simplified but concrete
 setting of conversational search. One of its major challenges is to leverage

@@ -8,7 +8,8 @@ year: 2024
 citations: 15
 bibkey: singh2024rethinking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.01761'}]
-tags: [Applications, Interpretability and Explainability, Merging, Reinforcement Learning]
+tags: [Interpretability and Explainability, Reinforcement Learning, Applications,
+  Merging]
 ---
 Interpretable machine learning has exploded as an area of interest over the
 last decade, sparked by the rise of increasingly large datasets and deep neural

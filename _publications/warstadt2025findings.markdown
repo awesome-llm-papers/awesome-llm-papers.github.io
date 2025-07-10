@@ -3,14 +3,13 @@ layout: publication
 title: 'Findings Of The Babylm Challenge: Sample-efficient Pretraining On Developmentally
   Plausible Corpora'
 authors: Alex Warstadt et al.
-conference: 2023. In Proceedings of the BabyLM Challenge at the 27th Conference on
-  Computational Natural Language Learning pages 1-34 Singapore. Association for Computational
-  Linguistics
+conference: Proceedings of the BabyLM Challenge at the 27th Conference on Computational
+  Natural Language Learning
 year: 2025
-citations: 16
+citations: 18
 bibkey: warstadt2025findings
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2504.08165'}]
-tags: [Training Techniques, Model Architecture, BERT]
+tags: [BERT, Training Techniques, Model Architecture, Evaluation]
 ---
 Children can acquire language from less than 100 million words of input.
 Large language models are far less data-efficient: they typically require 3 or

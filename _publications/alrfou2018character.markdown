@@ -2,12 +2,12 @@
 layout: publication
 title: Character-level Language Modeling With Deeper Self-attention
 authors: Rami Al-rfou, Dokook Choe, Noah Constant, Mandy Guo, Llion Jones
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2018
-citations: 138
+citations: 140
 bibkey: alrfou2018character
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.04444'}]
-tags: [Language Modeling, Attention Mechanism, Transformer, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Evaluation]
 ---
 LSTMs and other RNN variants have shown strong performance on character-level
 language modeling. These models are typically trained using truncated

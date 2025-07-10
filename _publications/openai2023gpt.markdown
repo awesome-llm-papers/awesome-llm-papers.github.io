@@ -4,11 +4,11 @@ title: GPT-4 Technical Report
 authors: Openai et al.
 conference: Arxiv
 year: 2023
-citations: 1400
+citations: 1402
 bibkey: openai2023gpt
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.08774v6'}]
-tags: [Training Techniques, Transformer, GPT, Reinforcement Learning, Efficiency and
-    Optimization, Multimodal Models, Model Architecture]
+tags: [Model Architecture, GPT, Transformer, Reinforcement Learning, Multimodal Models,
+  Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 We report the development of GPT-4, a large-scale, multimodal model which can
 accept image and text inputs and produce text outputs. While less capable than

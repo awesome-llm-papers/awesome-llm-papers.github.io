@@ -8,8 +8,8 @@ year: 2020
 citations: 54
 bibkey: li2020train
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.11794'}]
-tags: [Training Techniques, Transformer, Reinforcement Learning, Efficiency and Optimization,
-  Pruning, Model Architecture, Quantization]
+tags: [Model Architecture, Transformer, Pruning, Quantization, Reinforcement Learning,
+  Efficiency and Optimization, Training Techniques]
 ---
 Since hardware resources are limited, the objective of training deep learning
 models is typically to maximize accuracy subject to the time and memory

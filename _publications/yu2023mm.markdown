@@ -7,7 +7,7 @@ year: 2023
 citations: 35
 bibkey: yu2023mm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.02490'}]
-tags: [Tools, Multimodal Models]
+tags: [Tools, Multimodal Models, Evaluation]
 ---
 We propose MM-Vet, an evaluation benchmark that examines large multimodal
 models (LMMs) on complicated multimodal tasks. Recent LMMs have shown various

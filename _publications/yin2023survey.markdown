@@ -4,12 +4,12 @@ title: A Survey On Multimodal Large Language Models
 authors: Shukang Yin et al.
 conference: Arxiv
 year: 2023
-citations: 102
+citations: 107
 bibkey: yin2023survey
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2306.13549v2'}, {name: Code,
     url: 'https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models'}]
-tags: [Training Techniques, GPT, Reinforcement Learning, Has Code, Survey Paper, Multimodal
-    Models, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Survey Paper, Reinforcement Learning, Multimodal
+    Models, Training Techniques, Evaluation]
 ---
 Recently, Multimodal Large Language Model (MLLM) represented by GPT-4V has
 been a new rising research hotspot, which uses powerful Large Language Models

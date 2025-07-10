@@ -2,12 +2,13 @@
 layout: publication
 title: 'Robust Encodings: A Framework For Combating Adversarial Typos'
 authors: Erik Jones, Robin Jia, Aditi Raghunathan, Percy Liang
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
 citations: 30
 bibkey: jones2020robust
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.01229'}]
-tags: [Training Techniques, RAG, Tools, BERT, Security, Model Architecture]
+tags: [Security, Model Architecture, RAG, Tools, BERT, Training Techniques]
 ---
 Despite excellent performance on many tasks, NLP systems are easily fooled by
 small adversarial perturbations of inputs. Existing procedures to defend

@@ -7,7 +7,7 @@ year: 2019
 citations: 69
 bibkey: chen2019multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.02610'}]
-tags: [Reinforcement Learning, Model Architecture, Training Techniques, BERT]
+tags: [Model Architecture, Reinforcement Learning, Training Techniques, BERT, Evaluation]
 ---
 Multi-hop question answering requires models to gather information from
 different parts of a text to answer a question. Most current approaches learn

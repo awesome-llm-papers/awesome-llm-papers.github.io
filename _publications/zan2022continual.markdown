@@ -2,13 +2,15 @@
 layout: publication
 title: 'CERT: Continual Pre-training On Sketches For Library-oriented Code Generation'
 authors: Daoguang Zan et al.
-conference: Arxiv
+conference: Thirty-First International Joint Conference on Artificial Intelligence
+  {IJCAI-22}
 year: 2022
-citations: 24
+citations: 31
 bibkey: zan2022continual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.06888'}, {name: Code,
     url: 'https://github.com/microsoft/PyCodeGPT'}]
-tags: [Training Techniques, GPT, RAG, Pre-Training, Tools, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, RAG, Tools, Pre-Training, Training Techniques,
+  Evaluation]
 ---
 Code generation is a longstanding challenge, aiming to generate a code
 snippet based on a natural language description. Usually, expensive text-code

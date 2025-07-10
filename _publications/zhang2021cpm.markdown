@@ -2,14 +2,14 @@
 layout: publication
 title: 'CPM-2: Large-scale Cost-effective Pre-trained Language Models'
 authors: Zhengyan Zhang et al.
-conference: Arxiv
+conference: AI Open
 year: 2021
-citations: 41
+citations: 43
 bibkey: zhang2021cpm
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2106.10715v3'}, {name: Code,
     url: 'https://github.com/TsinghuaAI/CPM'}]
-tags: [Training Techniques, Pre-Training, Fine-Tuning, Reinforcement Learning, Efficiency
-    and Optimization, Has Code, Prompting]
+tags: [Has Code, Fine-Tuning, Reinforcement Learning, Prompting, Pre-Training, Efficiency
+    and Optimization, Training Techniques]
 ---
 In recent years, the size of pre-trained language models (PLMs) has grown by
 leaps and bounds. However, efficiency issues of these large-scale PLMs limit

@@ -2,9 +2,11 @@
 layout: publication
 title: 'Language Model As An Annotator: Exploring Dialogpt For Dialogue Summarization'
 authors: Xiachong Feng, Xiaocheng Feng, Libo Qin, Bing Qin, Ting Liu
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
-citations: 24
+citations: 25
 bibkey: feng2021language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.12544'}]
 tags: [GPT, Model Architecture]

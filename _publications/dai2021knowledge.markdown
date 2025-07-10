@@ -2,13 +2,15 @@
 layout: publication
 title: Knowledge Neurons In Pretrained Transformers
 authors: Damai Dai et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
-citations: 47
+citations: 50
 bibkey: dai2021knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08696'}, {name: Code,
     url: 'https://github.com/Hunter-DDM/knowledge-neurons'}]
-tags: [Training Techniques, Transformer, RAG, Fine-Tuning, BERT, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Fine-Tuning, RAG, BERT, Training
+    Techniques]
 ---
 Large-scale pretrained language models are surprisingly good at recalling
 factual knowledge presented in the training corpus. In this paper, we present

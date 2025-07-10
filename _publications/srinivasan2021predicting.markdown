@@ -7,7 +7,7 @@ year: 2021
 citations: 16
 bibkey: srinivasan2021predicting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.08875'}]
-tags: [Reinforcement Learning, Model Architecture, BERT]
+tags: [Reinforcement Learning, BERT, Model Architecture, Evaluation]
 ---
 Recent advancements in NLP have given us models like mBERT and XLMR that can
 serve over 100 languages. The languages that these models are evaluated on,

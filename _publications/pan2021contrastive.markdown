@@ -2,13 +2,15 @@
 layout: publication
 title: Contrastive Learning For Many-to-many Multilingual Neural Machine Translation
 authors: Xiao Pan, Mingxuan Wang, Liwei Wu, Lei Li
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
 citations: 53
 bibkey: pan2021contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.09501'}, {name: Code,
     url: 'https://github.com/PANXiao1994/mRASP2'}]
-tags: [Training Techniques, Transformer, RAG, Has Code, WMT, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, WMT, RAG, Training Techniques]
 ---
 Existing multilingual machine translation approaches mainly focus on
 English-centric directions, while the non-English directions still lag behind.

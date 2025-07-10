@@ -3,12 +3,12 @@ layout: publication
 title: Exploring The Potential Of Large Language Models To Generate Formative Programming
   Feedback
 authors: Natalie Kiesler, Dominic Lohr, Hieke Keuning
-conference: Arxiv
+conference: 2023 IEEE Frontiers in Education Conference (FIE)
 year: 2023
-citations: 34
+citations: 37
 bibkey: kiesler2023exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.00029'}]
-tags: [Applications, Model Architecture, GPT]
+tags: [GPT, Model Architecture, Applications]
 ---
 Ever since the emergence of large language models (LLMs) and related
 applications, such as ChatGPT, its performance and error analysis for

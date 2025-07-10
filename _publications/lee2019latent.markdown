@@ -2,9 +2,10 @@
 layout: publication
 title: Latent Retrieval For Weakly Supervised Open Domain Question Answering
 authors: Kenton Lee, Ming-wei Chang, Kristina Toutanova
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
-citations: 206
+citations: 207
 bibkey: lee2019latent
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.00300'}]
 tags: [Reinforcement Learning]

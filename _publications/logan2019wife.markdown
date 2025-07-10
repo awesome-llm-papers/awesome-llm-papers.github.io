@@ -3,12 +3,13 @@ layout: publication
 title: 'Barack''s Wife Hillary: Using Knowledge-graphs For Fact-aware Language Modeling'
 authors: Robert L. Iv Logan, Nelson F. Liu, Matthew E. Peters, Matt Gardner, Sameer
   Singh
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 53
 bibkey: logan2019wife
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.07241'}]
-tags: [Language Modeling, Training Techniques]
+tags: [Language Modeling, Training Techniques, Evaluation]
 ---
 Modeling human language requires the ability to not only generate fluent text
 but also encode factual knowledge. However, traditional language models are

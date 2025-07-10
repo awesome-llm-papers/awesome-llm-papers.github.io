@@ -7,8 +7,8 @@ year: 2022
 citations: 18
 bibkey: hernandez2022scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.10487'}]
-tags: [Scaling Laws, Large-Scale Training, Training Techniques, RAG, Pre-Training,
-  Interpretability and Explainability, Efficiency and Optimization]
+tags: [Scaling Laws, RAG, Interpretability and Explainability, Pre-Training, Efficiency
+    and Optimization, Training Techniques, Large-Scale Training]
 ---
 Recent large language models have been trained on vast datasets, but also
 often on repeated data, either intentionally for the purpose of upweighting

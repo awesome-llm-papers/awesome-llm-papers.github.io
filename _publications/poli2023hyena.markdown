@@ -7,8 +7,8 @@ year: 2023
 citations: 30
 bibkey: poli2023hyena
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.10866'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, Reinforcement Learning,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Reinforcement Learning,
+  Training Techniques]
 ---
 Recent advances in deep learning have relied heavily on the use of large
 Transformers due to their ability to learn at scale. However, the core building

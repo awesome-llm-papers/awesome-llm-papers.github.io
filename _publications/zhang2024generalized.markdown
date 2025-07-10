@@ -3,12 +3,13 @@ layout: publication
 title: 'Mgte: Generalized Long-context Text Representation And Reranking Models For
   Multilingual Text Retrieval'
 authors: Xin Zhang et al.
-conference: Arxiv
+conference: 'Proceedings of the 2024 Conference on Empirical Methods in Natural Language
+  Processing: Industry Track'
 year: 2024
-citations: 15
+citations: 17
 bibkey: zhang2024generalized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2407.19669'}]
-tags: [Efficiency and Optimization, Applications, Training Techniques]
+tags: [Efficiency and Optimization, Training Techniques, Evaluation, Applications]
 ---
 We present systematic efforts in building long-context multilingual text
 representation model (TRM) and reranker from scratch for text retrieval. We

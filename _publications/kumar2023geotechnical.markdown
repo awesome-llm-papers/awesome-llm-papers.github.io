@@ -3,12 +3,12 @@ layout: publication
 title: 'Geotechnical Parrot Tales (GPT): Harnessing Large Language Models In Geotechnical
   Engineering'
 authors: Krishna Kumar
-conference: Arxiv
+conference: Journal of Geotechnical and Geoenvironmental Engineering
 year: 2023
-citations: 19
+citations: 20
 bibkey: kumar2023geotechnical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.02138'}]
-tags: [Applications, Model Architecture, GPT, Prompting]
+tags: [GPT, Prompting, Model Architecture, Applications]
 ---
 The widespread adoption of large language models (LLMs), such as OpenAI's
 ChatGPT, could revolutionize various industries, including geotechnical

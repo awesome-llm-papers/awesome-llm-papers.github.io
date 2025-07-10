@@ -2,12 +2,13 @@
 layout: publication
 title: The Power Of Scale For Parameter-efficient Prompt Tuning
 authors: Brian Lester, Rami Al-rfou, Noah Constant
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 1148
+citations: 1192
 bibkey: lester2021power
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2104.08691v2'}]
-tags: [GPT, Few-Shot, Security, Prompting, Model Architecture]
+tags: [Security, Model Architecture, Few-Shot, Prompting, GPT]
 ---
 In this work, we explore "prompt tuning", a simple yet effective mechanism
 for learning "soft prompts" to condition frozen language models to perform

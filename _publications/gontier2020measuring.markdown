@@ -7,7 +7,7 @@ year: 2020
 citations: 28
 bibkey: gontier2020measuring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.14786'}]
-tags: [RAG, Reinforcement Learning, Transformer, Model Architecture]
+tags: [Transformer, Reinforcement Learning, RAG, Model Architecture]
 ---
 We are interested in understanding how well Transformer language models
 (TLMs) can perform reasoning tasks when trained on knowledge encoded in the

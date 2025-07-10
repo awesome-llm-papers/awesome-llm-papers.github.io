@@ -3,12 +3,12 @@ layout: publication
 title: 'Taiyi: A Bilingual Fine-tuned Large Language Model For Diverse Biomedical
   Tasks'
 authors: Ling Luo et al.
-conference: Journal of the American Medical Informatics Association 2024 ocae037
+conference: Journal of the American Medical Informatics Association
 year: 2023
-citations: 27
+citations: 28
 bibkey: luo2023bilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.11608'}]
-tags: [RAG, Fine-Tuning, Training Techniques]
+tags: [Training Techniques, Fine-Tuning, RAG, Evaluation]
 ---
 Objective: Most existing fine-tuned biomedical large language models (LLMs)
 focus on enhancing performance in monolingual biomedical question answering and

@@ -2,13 +2,14 @@
 layout: publication
 title: Multilingual Constituency Parsing With Self-attention And Pre-training
 authors: Nikita Kitaev, Steven Cao, Dan Klein
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2018
-citations: 47
+citations: 48
 bibkey: kitaev2018multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1812.11760'}]
-tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, Fine-Tuning,
-  BERT, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Fine-Tuning, Pre-Training,
+  BERT, Training Techniques]
 ---
 We show that constituency parsing benefits from unsupervised pre-training
 across a variety of languages and a range of pre-training conditions. We first

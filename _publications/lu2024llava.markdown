@@ -2,12 +2,12 @@
 layout: publication
 title: 'Llava-mr: Large Language-and-vision Assistant For Video Moment Retrieval'
 authors: Weiheng Lu et al.
-conference: Arxiv
+conference: Qeios Ltd
 year: 2024
-citations: 36
+citations: 37
 bibkey: lu2024llava
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2411.14505'}]
-tags: [Multimodal Models]
+tags: [Multimodal Models, Evaluation]
 ---
 Multimodal Large Language Models (MLLMs) are widely used for visual
 perception, understanding, and reasoning. However, long video processing and

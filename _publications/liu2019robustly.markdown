@@ -4,10 +4,10 @@ title: 'Roberta: A Robustly Optimized BERT Pretraining Approach'
 authors: Yinhan Liu et al.
 conference: Arxiv
 year: 2019
-citations: 15780
+citations: 15803
 bibkey: liu2019robustly
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.11692'}]
-tags: [Reinforcement Learning, Model Architecture, Training Techniques, BERT]
+tags: [BERT, Reinforcement Learning, Training Techniques, Model Architecture]
 ---
 Language model pretraining has led to significant performance gains but
 careful comparison between different approaches is challenging. Training is

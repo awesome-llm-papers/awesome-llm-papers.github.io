@@ -8,8 +8,8 @@ year: 2021
 citations: 25
 bibkey: zhang2021ernie
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.15283'}]
-tags: [Training Techniques, Transformer, GPT, Pre-Training, Tools, Efficiency and
-    Optimization, Multimodal Models, Language Modeling, Model Architecture, Quantization]
+tags: [Language Modeling, Model Architecture, GPT, Transformer, Quantization, Tools,
+  Multimodal Models, Pre-Training, Efficiency and Optimization, Training Techniques]
 ---
 Conventional methods for the image-text generation tasks mainly tackle the
 naturally bidirectional generation tasks separately, focusing on designing

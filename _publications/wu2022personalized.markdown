@@ -2,12 +2,13 @@
 layout: publication
 title: Personalized Prompt For Sequential Recommendation
 authors: Yiqing Wu et al.
-conference: Arxiv
+conference: IEEE Transactions on Knowledge and Data Engineering
 year: 2022
-citations: 17
+citations: 18
 bibkey: wu2022personalized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.09666'}]
-tags: [Training Techniques, Pre-Training, Few-Shot, Tools, Fine-Tuning, Prompting]
+tags: [Fine-Tuning, Few-Shot, Tools, Prompting, Pre-Training, Training Techniques,
+  Time Series, Evaluation]
 ---
 Pre-training models have shown their power in sequential recommendation.
 Recently, prompt has been widely explored and verified for tuning in NLP

@@ -7,7 +7,7 @@ year: 2019
 citations: 175
 bibkey: yogatama2019learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1901.11373'}]
-tags: [RAG, Training Techniques, Agentic, Model Architecture]
+tags: [Model Architecture, RAG, Agentic, Training Techniques, Evaluation]
 ---
 We define general linguistic intelligence as the ability to reuse previously
 acquired knowledge about a language's lexicon, syntax, semantics, and pragmatic

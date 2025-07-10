@@ -2,12 +2,13 @@
 layout: publication
 title: 'GO FIGURE: A Meta Evaluation Of Factuality In Summarization'
 authors: Saadia Gabriel, Asli Celikyilmaz, Rahul Jha, Yejin Choi, Jianfeng Gao
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP
+  2021'
 year: 2020
-citations: 18
+citations: 17
 bibkey: gabriel2020go
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.12834'}]
-tags: [Tools]
+tags: [Tools, Evaluation]
 ---
 While neural language models can generate text with remarkable fluency and
 coherence, controlling for factual correctness in generation remains an open

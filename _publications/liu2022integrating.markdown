@@ -2,12 +2,12 @@
 layout: publication
 title: '3DALL-E: Integrating Text-to-image AI In 3D Design Workflows'
 authors: Vivian Liu, Jo Vermeulen, George Fitzmaurice, Justin Matejka
-conference: Arxiv
+conference: 'DIS ''23: Designing Interactive Systems Conference'
 year: 2022
-citations: 81
+citations: 89
 bibkey: liu2022integrating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.11603'}]
-tags: [GPT, Tools, Applications, Prompting, Model Architecture]
+tags: [Model Architecture, Applications, Tools, Prompting, GPT]
 ---
 Text-to-image AI are capable of generating novel images for inspiration, but
 their applications for 3D design workflows and how designers can build 3D

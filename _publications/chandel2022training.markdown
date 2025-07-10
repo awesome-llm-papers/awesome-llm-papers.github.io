@@ -7,7 +7,7 @@ year: 2022
 citations: 16
 bibkey: chandel2022training
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.12901'}]
-tags: [RAG, Training Techniques, Transformer, Model Architecture]
+tags: [Model Architecture, Transformer, RAG, Training Techniques, Evaluation]
 ---
 We study the feasibility of a Data Science assistant powered by a
 sequence-to-sequence transformer by training a new model JuPyT5 on all publicly

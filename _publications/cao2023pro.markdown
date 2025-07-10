@@ -2,12 +2,12 @@
 layout: publication
 title: 'Pro-cap: Leveraging A Frozen Vision-language Model For Hateful Meme Detection'
 authors: Rui Cao et al.
-conference: Arxiv
+conference: 'MM ''23: The 31st ACM International Conference on Multimedia'
 year: 2023
 citations: 21
 bibkey: cao2023pro
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.08088'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Prompting, Multimodal Models]
+tags: [Fine-Tuning, RAG, Multimodal Models, Prompting, Training Techniques, Evaluation]
 ---
 Hateful meme detection is a challenging multimodal task that requires
 comprehension of both vision and language, as well as cross-modal interactions.

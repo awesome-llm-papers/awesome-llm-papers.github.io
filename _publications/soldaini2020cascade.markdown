@@ -2,12 +2,13 @@
 layout: publication
 title: 'The Cascade Transformer: An Application For Efficient Answer Sentence Selection'
 authors: Luca Soldaini, Alessandro Moschitti
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
 citations: 19
 bibkey: soldaini2020cascade
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.02534'}]
-tags: [Model Architecture, Applications, Transformer, Attention Mechanism]
+tags: [Transformer, Model Architecture, Attention Mechanism, Applications]
 ---
 Large transformer-based language models have been shown to be very effective
 in many classification tasks. However, their computational complexity prevents

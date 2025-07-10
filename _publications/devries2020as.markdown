@@ -3,12 +3,13 @@ layout: publication
 title: As Good As New. How To Successfully Recycle English GPT-2 To Make Models For
   Other Languages
 authors: Wietse De Vries, Malvina Nissim
-conference: Findings of the Association for Computational Linguistics ACL-IJCNLP 2021
+conference: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP
+  2021'
 year: 2020
 citations: 23
 bibkey: devries2020as
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.05628'}]
-tags: [Training Techniques, Transformer, GPT, RAG, Model Architecture]
+tags: [Model Architecture, GPT, Transformer, RAG, Training Techniques]
 ---
 Large generative language models have been very successful for English, but
 other languages lag behind, in part due to data and computational limitations.

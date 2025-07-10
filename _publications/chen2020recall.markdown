@@ -2,12 +2,13 @@
 layout: publication
 title: 'Recall And Learn: Fine-tuning Deep Pretrained Language Models With Less Forgetting'
 authors: Sanyuan Chen et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 54
+citations: 57
 bibkey: chen2020recall
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.12651'}]
-tags: [Fine-Tuning, Training Techniques, Model Architecture, BERT]
+tags: [Model Architecture, Fine-Tuning, Training Techniques, BERT, Evaluation]
 ---
 Deep pretrained language models have achieved great success in the way of
 pretraining first and then fine-tuning. But such a sequential transfer learning

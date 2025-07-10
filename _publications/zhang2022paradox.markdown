@@ -2,12 +2,13 @@
 layout: publication
 title: On The Paradox Of Learning To Reason From Data
 authors: Honghua Zhang, Liunian Harold Li, Tao Meng, Kai-wei Chang, Guy Van Den Broeck
-conference: Arxiv
+conference: Thirty-Second International Joint Conference on Artificial Intelligence
+  {IJCAI-23}
 year: 2022
-citations: 17
+citations: 18
 bibkey: zhang2022paradox
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.11502'}]
-tags: [Interpretability and Explainability, Model Architecture, BERT]
+tags: [Interpretability and Explainability, BERT, Model Architecture, Evaluation]
 ---
 Logical reasoning is needed in a wide range of NLP tasks. Can a BERT model be
 trained end-to-end to solve logical reasoning problems presented in natural

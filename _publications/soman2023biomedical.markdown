@@ -2,13 +2,13 @@
 layout: publication
 title: Biomedical Knowledge Graph-optimized Prompt Generation For Large Language Models
 authors: Karthik Soman et al.
-conference: Arxiv
+conference: Bioinformatics
 year: 2023
 citations: 20
 bibkey: soman2023biomedical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.17330'}]
-tags: [Training Techniques, GPT, RAG, Pre-Training, Tools, Fine-Tuning, Efficiency
-    and Optimization, Prompting, Pruning, Model Architecture]
+tags: [Model Architecture, GPT, Pruning, RAG, Fine-Tuning, Tools, Prompting, Pre-Training,
+  Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 Large Language Models (LLMs) are being adopted at an unprecedented rate, yet
 still face challenges in knowledge-intensive domains like biomedicine.

@@ -3,12 +3,12 @@ layout: publication
 title: 'Choice Over Control: How Users Write With Large Language Models Using Diegetic
   And Non-diegetic Prompting'
 authors: Hai Dang, Sven Goller, Florian Lehmann, Daniel Buschek
-conference: Arxiv
+conference: 'CHI ''23: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 45
+citations: 48
 bibkey: dang2023choice
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.03199'}]
-tags: [GPT, Model Architecture, Prompting]
+tags: [GPT, Prompting, Model Architecture]
 ---
 We propose a conceptual perspective on prompts for Large Language Models
 (LLMs) that distinguishes between (1) diegetic prompts (part of the narrative,

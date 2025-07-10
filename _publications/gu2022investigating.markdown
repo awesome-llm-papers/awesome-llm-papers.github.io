@@ -3,12 +3,12 @@ layout: publication
 title: 'EVA2.0: Investigating Open-domain Chinese Dialogue Systems With Large-scale
   Pre-training'
 authors: Yuxian Gu et al.
-conference: Arxiv
+conference: Machine Intelligence Research
 year: 2022
 citations: 18
 bibkey: gu2022investigating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.09313'}]
-tags: [Pre-Training, Training Techniques, Model Architecture]
+tags: [Training Techniques, Pre-Training, Evaluation, Model Architecture]
 ---
 Large-scale pre-training has shown remarkable performance in building
 open-domain dialogue systems. However, previous works mainly focus on showing

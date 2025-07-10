@@ -3,13 +3,14 @@ layout: publication
 title: 'LASP: Text-to-text Optimization For Language-aware Soft Prompting Of Vision
   & Language Models'
 authors: Adrian Bulat, Georgios Tzimiropoulos
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
-citations: 22
+citations: 23
 bibkey: bulat2022text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.01115'}, {name: Code,
     url: 'https://www.adrianbulat.com/lasp'}]
-tags: [Training Techniques, Efficiency and Optimization, Has Code, Security, Prompting]
+tags: [Security, Has Code, Prompting, Efficiency and Optimization, Training Techniques,
+  Evaluation]
 ---
 Soft prompt learning has recently emerged as one of the methods of choice for
 adapting V&L models to a downstream task using a few training examples.

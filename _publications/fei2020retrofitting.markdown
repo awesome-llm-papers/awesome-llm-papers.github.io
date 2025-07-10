@@ -2,12 +2,13 @@
 layout: publication
 title: Retrofitting Structure-aware Transformer Language Model For End Tasks
 authors: Hao Fei, Yafeng Ren, Donghong Ji
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 15
 bibkey: fei2020retrofitting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.07408'}]
-tags: [Training Techniques, Transformer, RAG, Fine-Tuning, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, RAG, Training Techniques]
 ---
 We consider retrofitting structure-aware Transformer-based language model for
 facilitating end tasks by proposing to exploit syntactic distance to encode

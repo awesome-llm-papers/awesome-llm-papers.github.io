@@ -7,7 +7,7 @@ year: 2023
 citations: 15
 bibkey: small2023opportunities
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.11932'}]
-tags: [RAG, Tools, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, RAG]
 ---
 Polis is a platform that leverages machine intelligence to scale up
 deliberative processes. In this paper, we explore the opportunities and risks

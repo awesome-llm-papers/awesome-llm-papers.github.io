@@ -8,8 +8,8 @@ year: 2022
 citations: 37
 bibkey: rajbhandari2022deepspeed
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.05596'}]
-tags: [Training Techniques, Fine-Tuning, Tools, Efficiency and Optimization, Model
-    Architecture]
+tags: [Model Architecture, Fine-Tuning, Tools, Efficiency and Optimization, Training
+    Techniques]
 ---
 As the training of giant dense models hits the boundary on the availability
 and capability of the hardware resources today, Mixture-of-Experts (MoE) models

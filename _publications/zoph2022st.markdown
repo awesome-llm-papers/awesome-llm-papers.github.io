@@ -4,10 +4,10 @@ title: 'St-moe: Designing Stable And Transferable Sparse Expert Models'
 authors: Barret Zoph et al.
 conference: Arxiv
 year: 2022
-citations: 32
+citations: 33
 bibkey: zoph2022st
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.08906'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Security, Model Architecture]
+tags: [Security, Model Architecture, Transformer, Fine-Tuning, Training Techniques]
 ---
 Scale has opened new frontiers in natural language processing -- but at a
 high cost. In response, Mixture-of-Experts (MoE) and Switch Transformers have

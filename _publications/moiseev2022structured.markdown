@@ -2,12 +2,13 @@
 layout: publication
 title: 'SKILL: Structured Knowledge Infusion For Large Language Models'
 authors: Fedor Moiseev, Zhe Dong, Enrique Alfonseca, Martin Jaggi
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2022
-citations: 26
+citations: 27
 bibkey: moiseev2022structured
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.08184'}]
-tags: [Reinforcement Learning, Merging, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Merging]
 ---
 Large language models (LLMs) have demonstrated human-level performance on a
 vast spectrum of natural language tasks. However, it is largely unexplored

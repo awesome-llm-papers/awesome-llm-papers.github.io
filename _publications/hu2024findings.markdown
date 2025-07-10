@@ -3,13 +3,14 @@ layout: publication
 title: 'Findings Of The Second Babylm Challenge: Sample-efficient Pretraining On Developmentally
   Plausible Corpora'
 authors: Michael Y. Hu et al.
-conference: Arxiv
+conference: Proceedings of the BabyLM Challenge at the 27th Conference on Computational
+  Natural Language Learning
 year: 2024
-citations: 16
+citations: 18
 bibkey: hu2024findings
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2412.05149'}]
-tags: [Masked Language Model, Training Techniques, RAG, BERT, Efficiency and Optimization,
-  Multimodal Models, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, RAG, Masked Language Model, Multimodal
+    Models, BERT, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 The BabyLM Challenge is a community effort to close the data-efficiency gap
 between human and computational language learners. Participants compete to

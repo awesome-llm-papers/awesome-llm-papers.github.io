@@ -2,13 +2,13 @@
 layout: publication
 title: 'CLIPPO: Image-and-language Understanding From Pixels Only'
 authors: Michael Tschannen, Basil Mustafa, Neil Houlsby
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
-citations: 25
+citations: 27
 bibkey: tschannen2022image
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.08045'}]
-tags: [Masked Language Model, Training Techniques, Transformer, Reinforcement Learning,
-  BERT, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Transformer, Masked Language Model, Reinforcement Learning,
+  Multimodal Models, BERT, Training Techniques]
 ---
 Multimodal models are becoming increasingly effective, in part due to unified
 components, such as the Transformer architecture. However, multimodal models

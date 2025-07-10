@@ -3,12 +3,13 @@ layout: publication
 title: 'Synthetic Data Generation With Large Language Models For Text Classification:
   Potential And Limitations'
 authors: Zhuoyan Li, Hangxiao Zhu, Zhuoran Lu, Ming Yin
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 34
+citations: 40
 bibkey: li2023synthetic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.07849'}]
-tags: [RAG, Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, RAG]
 ---
 The collection and curation of high-quality training data is crucial for
 developing text classification models with superior performance, but it is

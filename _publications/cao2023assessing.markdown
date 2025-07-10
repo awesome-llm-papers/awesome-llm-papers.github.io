@@ -3,13 +3,14 @@ layout: publication
 title: 'Assessing Cross-cultural Alignment Between Chatgpt And Human Societies: An
   Empirical Study'
 authors: Yong Cao et al.
-conference: Arxiv
+conference: Proceedings of the First Workshop on Cross-Cultural Considerations in
+  NLP (C3NLP)
 year: 2023
-citations: 43
+citations: 49
 bibkey: cao2023assessing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.17466'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Reinforcement Learning, Prompting,
-  Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, Reinforcement Learning, Prompting,
+  Training Techniques]
 ---
 The recent release of ChatGPT has garnered widespread recognition for its
 exceptional ability to generate human-like responses in dialogue. Given its

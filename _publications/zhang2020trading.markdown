@@ -7,7 +7,7 @@ year: 2020
 citations: 29
 bibkey: zhang2020trading
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.10450'}]
-tags: [RAG, Efficiency and Optimization, Tools, Reinforcement Learning]
+tags: [RAG, Tools, Reinforcement Learning, Efficiency and Optimization, Evaluation]
 ---
 For open-ended language generation tasks such as storytelling and dialogue,
 choosing the right decoding algorithm is critical to controlling the tradeoff

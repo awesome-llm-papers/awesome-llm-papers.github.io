@@ -2,13 +2,13 @@
 layout: publication
 title: Controllable Neural Story Plot Generation Via Reward Shaping
 authors: Pradyumna Tambwekar et al.
-conference: In International Joint Conference on Artificial Intelligence (IJCAI) Macau
-  China Jul. 2019 pp. 5982-5988
+conference: Twenty-Eighth International Joint Conference on Artificial Intelligence
+  {IJCAI-19}
 year: 2018
 citations: 28
 bibkey: tambwekar2018controllable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.10736'}]
-tags: [Tools, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, Evaluation]
 ---
 Language-modeling--based approaches to story plot generation attempt to
 construct a plot by sampling from a language model (LM) to predict the next

@@ -3,13 +3,13 @@ layout: publication
 title: The Potential And Pitfalls Of Using A Large Language Model Such As Chatgpt
   Or GPT-4 As A Clinical Assistant
 authors: Jingqing Zhang et al.
-conference: Arxiv
+conference: Journal of the American Medical Informatics Association
 year: 2023
-citations: 28
+citations: 32
 bibkey: zhang2023potential
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.08152'}]
-tags: [GPT, Few-Shot, Reinforcement Learning, In-Context Learning, Applications, Prompting,
-  Model Architecture]
+tags: [Model Architecture, Few-Shot, Applications, Reinforcement Learning, In-Context
+    Learning, Prompting, GPT, Evaluation]
 ---
 Recent studies have demonstrated promising performance of ChatGPT and GPT-4
 on several medical domain tasks. However, none have assessed its performance

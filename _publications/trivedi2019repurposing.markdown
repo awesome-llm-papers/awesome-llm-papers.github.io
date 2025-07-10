@@ -2,13 +2,13 @@
 layout: publication
 title: Repurposing Entailment For Multi-hop Question Answering Tasks
 authors: Harsh Trivedi, Heeyoung Kwon, Tushar Khot, Ashish Sabharwal, Niranjan Balasubramanian
-conference: Arxiv
+conference: Proceedings of the 2019 Conference of the North
 year: 2019
 citations: 20
 bibkey: trivedi2019repurposing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.09380'}, {name: Code,
     url: 'https://github.com/StonyBrookNLP/multee'}]
-tags: [Has Code, Transformer, Model Architecture]
+tags: [Transformer, Has Code, Model Architecture]
 ---
 Question Answering (QA) naturally reduces to an entailment problem, namely,
 verifying whether some text entails the answer to a question. However, for

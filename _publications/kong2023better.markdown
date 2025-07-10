@@ -2,13 +2,15 @@
 layout: publication
 title: Better Zero-shot Reasoning With Role-play Prompting
 authors: Aobo Kong et al.
-conference: Arxiv
+conference: 'Proceedings of the 2024 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies (Volume 1:
+  Long Papers)'
 year: 2023
-citations: 30
+citations: 36
 bibkey: kong2023better
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.07702'}, {name: Code,
     url: 'https://github.com/NKU-HLT/Role-Play-Prompting'}]
-tags: [Has Code, GPT, Model Architecture, Prompting]
+tags: [Has Code, Model Architecture, Prompting, GPT, Evaluation]
 ---
 Modern large language models (LLMs) exhibit a remarkable capacity for
 role-playing, enabling them to embody not only human characters but also

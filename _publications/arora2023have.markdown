@@ -3,12 +3,13 @@ layout: publication
 title: Have Llms Advanced Enough? A Challenging Problem Solving Benchmark For Large
   Language Models
 authors: Daman Arora, Himanshu Gaurav Singh, Mausam
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
 citations: 16
 bibkey: arora2023have
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.15074'}]
-tags: [GPT, Model Architecture, Prompting]
+tags: [GPT, Prompting, Model Architecture, Evaluation]
 ---
 The performance of large language models (LLMs) on existing reasoning
 benchmarks has significantly improved over the past years. In response, we

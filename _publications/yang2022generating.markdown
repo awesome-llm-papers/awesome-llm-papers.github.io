@@ -2,7 +2,8 @@
 layout: publication
 title: 'Re3: Generating Longer Stories With Recursive Reprompting And Revision'
 authors: Kevin Yang, Yuandong Tian, Nanyun Peng, Dan Klein
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
 citations: 37
 bibkey: yang2022generating

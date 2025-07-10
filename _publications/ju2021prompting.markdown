@@ -2,13 +2,13 @@
 layout: publication
 title: Prompting Visual-language Models For Efficient Video Understanding
 authors: Chen Ju, Tengda Han, Kunhao Zheng, Ya Zhang, Weidi Xie
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2021
-citations: 183
+citations: 184
 bibkey: ju2021prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.04478'}]
-tags: [Training Techniques, Transformer, Pre-Training, Few-Shot, Prompting, Model
-    Architecture]
+tags: [Model Architecture, Transformer, Few-Shot, Prompting, Pre-Training, Training
+    Techniques, Evaluation]
 ---
 Image-based visual-language (I-VL) pre-training has shown great success for
 learning joint visual-textual representations from large-scale web data,

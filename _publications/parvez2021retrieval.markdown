@@ -3,12 +3,12 @@ layout: publication
 title: Retrieval Augmented Code Generation And Summarization
 authors: Md Rizwan Parvez, Wasi Uddin Ahmad, Saikat Chakraborty, Baishakhi Ray, Kai-wei
   Chang
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
 year: 2021
-citations: 43
+citations: 52
 bibkey: parvez2021retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.11601'}]
-tags: [Tools]
+tags: [Tools, Evaluation]
 ---
 Software developers write a lot of source code and documentation during
 software development. Intrinsically, developers often recall parts of source

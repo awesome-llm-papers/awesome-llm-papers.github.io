@@ -2,15 +2,15 @@
 layout: publication
 title: 'MMBERT: Multimodal BERT Pretraining For Improved Medical VQA'
 authors: Yash Khare et al.
-conference: Arxiv
+conference: 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)
 year: 2021
-citations: 87
+citations: 90
 bibkey: khare2021multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.01394'}, {name: Code,
     url: 'https://github.com/VirajBagal/MMBERT'}]
-tags: [Masked Language Model, Training Techniques, Transformer, Attention Mechanism,
-  Interpretability and Explainability, BERT, Has Code, Multimodal Models, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Attention Mechanism, Transformer,
+  Masked Language Model, Interpretability and Explainability, Multimodal Models, BERT,
+  Training Techniques]
 ---
 Images in the medical domain are fundamentally different from the general
 domain images. Consequently, it is infeasible to directly employ general domain

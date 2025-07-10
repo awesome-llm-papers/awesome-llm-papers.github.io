@@ -7,7 +7,8 @@ year: 2022
 citations: 35
 bibkey: schuster2022confident
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.07061'}]
-tags: [Transformer, Tools, Reinforcement Learning, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Reinforcement Learning,
+  Tools]
 ---
 Recent advances in Transformer-based large language models (LLMs) have led to
 significant performance improvements across many tasks. These gains come with a

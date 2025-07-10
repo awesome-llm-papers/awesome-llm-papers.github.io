@@ -8,7 +8,7 @@ year: 2022
 citations: 25
 bibkey: wang2022multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.03903'}]
-tags: [Training Techniques, Pre-Training, Few-Shot, Tools, Fine-Tuning, Prompting]
+tags: [Fine-Tuning, Few-Shot, Tools, Prompting, Pre-Training, Training Techniques]
 ---
 Recently, prompt-based methods have achieved significant performance in
 few-shot learning scenarios by bridging the gap between language model

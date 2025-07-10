@@ -8,7 +8,7 @@ citations: 19
 bibkey: chen2023democratizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.10453'}, {name: Code,
     url: 'https://github.com/FreedomIntelligence/LLMZoo'}]
-tags: [Has Code, GPT, Model Architecture]
+tags: [GPT, Has Code, Model Architecture]
 ---
 This paper presents our efforts to democratize ChatGPT across language. We
 release a large language model "Phoenix", achieving competitive performance

@@ -7,7 +7,7 @@ year: 2022
 citations: 22
 bibkey: bugliarello2022benchmark
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.11732'}]
-tags: [Training Techniques, RAG, Few-Shot, Fine-Tuning, Multimodal Models]
+tags: [Fine-Tuning, RAG, Few-Shot, Multimodal Models, Training Techniques, Evaluation]
 ---
 Reliable evaluation benchmarks designed for replicability and
 comprehensiveness have driven progress in machine learning. Due to the lack of

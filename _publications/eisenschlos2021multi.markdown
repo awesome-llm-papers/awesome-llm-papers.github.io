@@ -2,13 +2,14 @@
 layout: publication
 title: 'MATE: Multi-view Attention For Table Transformer Efficiency'
 authors: "Julian Martin Eisenschlos, Maharshi Gor, Thomas M\xFCller, William W. Cohen"
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 23
 bibkey: eisenschlos2021multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.04312'}]
-tags: [Ethics and Bias, Transformer, Reinforcement Learning, Attention Mechanism,
-  Efficiency and Optimization, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, Transformer, Reinforcement
+    Learning, Efficiency and Optimization]
 ---
 This work presents a sparse-attention Transformer architecture for modeling
 documents that contain large tables. Tables are ubiquitous on the web, and are

@@ -2,12 +2,12 @@
 layout: publication
 title: 'Reqa: An Evaluation For End-to-end Answer Retrieval Models'
 authors: Amin Ahmad, Noah Constant, Yinfei Yang, Daniel Cer
-conference: Arxiv
+conference: Proceedings of the 2nd Workshop on Machine Reading for Question Answering
 year: 2019
 citations: 17
 bibkey: ahmad2019evaluation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.04780'}]
-tags: [RAG, Model Architecture]
+tags: [RAG, Model Architecture, Evaluation]
 ---
 Popular QA benchmarks like SQuAD have driven progress on the task of
 identifying answer spans within a specific passage, with models now surpassing

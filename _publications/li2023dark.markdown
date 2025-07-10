@@ -8,7 +8,7 @@ year: 2023
 citations: 22
 bibkey: li2023dark
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.14347'}]
-tags: [Model Architecture, GPT, Merging, Tools]
+tags: [Tools, GPT, Model Architecture, Merging]
 ---
 With the launch of ChatGPT, Large Language Models (LLMs) are shaking up our
 whole society, rapidly altering the way we think, create and live. For

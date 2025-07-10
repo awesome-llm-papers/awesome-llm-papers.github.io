@@ -2,14 +2,14 @@
 layout: publication
 title: Large Language Models Are Built-in Autoregressive Search Engines
 authors: Noah Ziems, Wenhao Yu, Zhihan Zhang, Meng Jiang
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2023
 citations: 16
 bibkey: ziems2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.09612'}, {name: Code,
     url: 'https://github.com/Ziems/llm-url'}]
-tags: [GPT, Training Techniques, Few-Shot, Reinforcement Learning, Has Code, Model
-    Architecture]
+tags: [Has Code, Model Architecture, GPT, Few-Shot, Reinforcement Learning, Training
+    Techniques, Evaluation]
 ---
 Document retrieval is a key stage of standard Web search engines. Existing
 dual-encoder dense retrievers obtain representations for questions and

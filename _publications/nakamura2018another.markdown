@@ -7,7 +7,7 @@ year: 2018
 citations: 19
 bibkey: nakamura2018another
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1811.08100'}]
-tags: [RAG, Training Techniques]
+tags: [Training Techniques, RAG]
 ---
 Although generation-based dialogue systems have been widely researched, the
 response generations by most existing systems have very low diversities. The

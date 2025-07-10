@@ -2,13 +2,14 @@
 layout: publication
 title: Structured Pruning Learns Compact And Accurate Models
 authors: Mengzhou Xia, Zexuan Zhong, Danqi Chen
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 48
+citations: 52
 bibkey: xia2022structured
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.00408'}]
-tags: [Distillation, Attention Mechanism, Efficiency and Optimization, Pruning, Model
-    Architecture, Quantization]
+tags: [Model Architecture, Attention Mechanism, Distillation, Pruning, Quantization,
+  Efficiency and Optimization]
 ---
 The growing size of neural language models has led to increased attention in
 model compression. The two predominant approaches are pruning, which gradually

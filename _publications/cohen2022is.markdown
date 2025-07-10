@@ -2,12 +2,12 @@
 layout: publication
 title: '"this Is My Unicorn, Fluffy": Personalizing Frozen Vision-language Representations'
 authors: Niv Cohen, Rinon Gal, Eli A. Meirom, Gal Chechik, Yuval Atzmon
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2022
 citations: 31
 bibkey: cohen2022is
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.01694'}]
-tags: [Model Architecture, Multimodal Models]
+tags: [Multimodal Models, Model Architecture, Evaluation]
 ---
 Large Vision & Language models pretrained on web-scale data provide
 representations that are invaluable for numerous V&L problems. However, it is

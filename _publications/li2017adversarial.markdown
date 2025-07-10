@@ -2,12 +2,13 @@
 layout: publication
 title: Adversarial Learning For Neural Dialogue Generation
 authors: Jiwei Li et al.
-conference: Arxiv
+conference: Proceedings of the 2017 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2017
-citations: 355
+citations: 356
 bibkey: li2017adversarial
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1701.06547'}]
-tags: [Reinforcement Learning, Security, Agentic, Training Techniques]
+tags: [Security, Reinforcement Learning, Agentic, Training Techniques, Evaluation]
 ---
 In this paper, drawing intuition from the Turing test, we propose using
 adversarial training for open-domain dialogue generation: the system is trained

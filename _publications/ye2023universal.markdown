@@ -3,13 +3,13 @@ layout: publication
 title: 'Ureader: Universal Ocr-free Visually-situated Language Understanding With
   Multimodal Large Language Model'
 authors: Jiabo Ye et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
-citations: 18
+citations: 19
 bibkey: ye2023universal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.05126'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Reinforcement Learning, Multimodal Models,
-  Model Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, Reinforcement Learning, Multimodal Models,
+  Training Techniques]
 ---
 Text is ubiquitous in our visual world, conveying crucial information, such
 as in documents, websites, and everyday photographs. In this work, we propose

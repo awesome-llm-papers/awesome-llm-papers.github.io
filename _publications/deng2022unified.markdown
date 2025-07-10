@@ -3,12 +3,12 @@ layout: publication
 title: A Unified Multi-task Learning Framework For Multi-goal Conversational Recommender
   Systems
 authors: Yang Deng et al.
-conference: Arxiv
+conference: ACM Transactions on Information Systems
 year: 2022
-citations: 32
+citations: 33
 bibkey: deng2022unified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.06923'}]
-tags: [Tools, RecSys, Prompting]
+tags: [RecSys, Tools, Prompting, Evaluation]
 ---
 Recent years witnessed several advances in developing multi-goal
 conversational recommender systems (MG-CRS) that can proactively attract users'

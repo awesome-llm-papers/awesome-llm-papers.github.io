@@ -2,12 +2,14 @@
 layout: publication
 title: The Memad Submission To The WMT18 Multimodal Translation Task
 authors: "Stig-arne Gr\xF6nroos et al."
-conference: Arxiv
+conference: 'Proceedings of the Third Conference on Machine Translation: Shared Task
+  Papers'
 year: 2018
 citations: 24
 bibkey: "gr\xF6nroos2018memad"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.10802'}]
-tags: [Transformer, Reinforcement Learning, Multimodal Models, WMT, Model Architecture]
+tags: [Model Architecture, Transformer, WMT, Reinforcement Learning, Multimodal Models,
+  Evaluation]
 ---
 This paper describes the MeMAD project entry to the WMT Multimodal Machine
 Translation Shared Task.

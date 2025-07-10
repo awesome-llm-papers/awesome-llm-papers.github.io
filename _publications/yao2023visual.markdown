@@ -2,12 +2,12 @@
 layout: publication
 title: Visual-language Prompt Tuning With Knowledge-guided Context Optimization
 authors: Hantao Yao, Rui Zhang, Changsheng Xu
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 76
+citations: 81
 bibkey: yao2023visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.13283'}]
-tags: [Efficiency and Optimization, Training Techniques, Prompting]
+tags: [Efficiency and Optimization, Training Techniques, Prompting, Evaluation]
 ---
 Prompt tuning is an effective way to adapt the pre-trained visual-language
 model (VLM) to the downstream task using task-related textual tokens.

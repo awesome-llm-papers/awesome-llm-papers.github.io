@@ -7,7 +7,7 @@ year: 2022
 citations: 25
 bibkey: li2022vision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.01922'}]
-tags: [Pre-Training, Training Techniques, Survey Paper, Multimodal Models]
+tags: [Survey Paper, Training Techniques, Multimodal Models, Pre-Training]
 ---
 This paper presents a comprehensive survey of vision-language (VL)
 intelligence from the perspective of time. This survey is inspired by the

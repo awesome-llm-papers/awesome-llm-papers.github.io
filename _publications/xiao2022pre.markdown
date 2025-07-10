@@ -2,14 +2,15 @@
 layout: publication
 title: 'Retromae: Pre-training Retrieval-oriented Language Models Via Masked Auto-encoder'
 authors: Shitao Xiao, Zheng Liu, Yingxia Shao, Zhao Cao
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 29
+citations: 32
 bibkey: xiao2022pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.12035'}, {name: Code,
     url: 'https://github.com/staoxiao/RetroMAE'}]
-tags: [Masked Language Model, Training Techniques, Transformer, Pre-Training, Tools,
-  BERT, Has Code, Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Transformer, Masked Language
+    Model, Tools, Pre-Training, BERT, Training Techniques, Evaluation]
 ---
 Despite pre-training's progress in many important NLP tasks, it remains to
 explore effective pre-training strategies for dense retrieval. In this paper,

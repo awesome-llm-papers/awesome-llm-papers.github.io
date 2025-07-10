@@ -4,11 +4,11 @@ title: Training Language Models To Follow Instructions With Human Feedback
 authors: Long Ouyang et al.
 conference: Arxiv
 year: 2022
-citations: 2861
+citations: 2879
 bibkey: ouyang2022training
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2203.02155v1'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, Tools, Agentic,
-  Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Tools, Reinforcement Learning, Prompting,
+  Agentic, Training Techniques, Evaluation]
 ---
 Making language models bigger does not inherently make them better at
 following a user's intent. For example, large language models can generate

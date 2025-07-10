@@ -2,12 +2,12 @@
 layout: publication
 title: Open Sesame! Universal Black Box Jailbreaking Of Large Language Models
 authors: Raz Lapid, Ron Langberg, Moshe Sipper
-conference: ICLR 2024 Workshop on Secure and Trustworthy Large Language Models
+conference: Applied Sciences
 year: 2023
-citations: 17
+citations: 18
 bibkey: lapid2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.01446'}]
-tags: [Ethics and Bias, Responsible AI, Security, Prompting, Model Architecture]
+tags: [Responsible AI, Security, Model Architecture, Ethics and Bias, Prompting]
 ---
 Large language models (LLMs), designed to provide helpful and safe responses,
 often rely on alignment techniques to align with user intent and social

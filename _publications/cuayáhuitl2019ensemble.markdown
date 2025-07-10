@@ -2,12 +2,12 @@
 layout: publication
 title: Ensemble-based Deep Reinforcement Learning For Chatbots
 authors: "Heriberto Cuay\xE1huitl et al."
-conference: Arxiv
+conference: Neurocomputing
 year: 2019
 citations: 57
 bibkey: "cuay\xE1huitl2019ensemble"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.10422'}]
-tags: [Reinforcement Learning, Agentic, Training Techniques]
+tags: [Agentic, Reinforcement Learning, Training Techniques, Evaluation]
 ---
 Trainable chatbots that exhibit fluent and human-like conversations remain a
 big challenge in artificial intelligence. Deep Reinforcement Learning (DRL) is

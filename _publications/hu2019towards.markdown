@@ -2,12 +2,13 @@
 layout: publication
 title: 'Retrieve, Read, Rerank: Towards End-to-end Multi-document Reading Comprehension'
 authors: Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 25
 bibkey: hu2019towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.04618'}]
-tags: [RAG, Training Techniques]
+tags: [Training Techniques, RAG]
 ---
 This paper considers the reading comprehension task in which multiple
 documents are given as input. Prior work has shown that a pipeline of

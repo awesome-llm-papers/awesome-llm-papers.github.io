@@ -2,12 +2,13 @@
 layout: publication
 title: 'Transformer-xl: Attentive Language Models Beyond A Fixed-length Context'
 authors: Zihang Dai et al.
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
-citations: 1539
+citations: 1562
 bibkey: dai2019transformer
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1901.02860'}]
-tags: [RAG, Transformer, Model Architecture, Language Modeling]
+tags: [Language Modeling, Model Architecture, Transformer, RAG, Evaluation]
 ---
 Transformers have a potential of learning longer-term dependency, but are
 limited by a fixed-length context in the setting of language modeling. We

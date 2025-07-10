@@ -8,7 +8,7 @@ year: 2019
 citations: 84
 bibkey: li2019acute
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.03087'}]
-tags: [Attention Mechanism, Security, Model Architecture]
+tags: [Security, Model Architecture, Attention Mechanism, Evaluation]
 ---
 While dialogue remains an important end-goal of natural language research,
 the difficulty of evaluation is an oft-quoted reason why it remains troublesome

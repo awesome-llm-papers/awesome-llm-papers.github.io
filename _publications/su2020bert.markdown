@@ -2,12 +2,12 @@
 layout: publication
 title: 'Bert-hlstms: BERT And Hierarchical Lstms For Visual Storytelling'
 authors: Jing Su, Qingyun Dai, Frank Guerin, Mian Zhou
-conference: Arxiv
+conference: Computer Speech &amp; Language
 year: 2020
 citations: 24
 bibkey: su2020bert
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.02128'}]
-tags: [Tools, Transformer, Model Architecture, BERT]
+tags: [Model Architecture, Transformer, Tools, BERT, Evaluation]
 ---
 Visual storytelling is a creative and challenging task, aiming to
 automatically generate a story-like description for a sequence of images. The

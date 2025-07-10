@@ -8,8 +8,8 @@ citations: 129
 bibkey: ke2020rethinking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.15595'}, {name: Code,
     url: 'https://github.com/guolinke/TUPE'}]
-tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, BERT,
-  Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, Pre-Training,
+  BERT, Training Techniques, Evaluation]
 ---
 In this work, we investigate the positional encoding methods used in language
 pre-training (e.g., BERT) and identify several problems in the existing

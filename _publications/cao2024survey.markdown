@@ -3,13 +3,13 @@ layout: publication
 title: 'Survey On Large Language Model-enhanced Reinforcement Learning: Concept, Taxonomy,
   And Methods'
 authors: Yuji Cao et al.
-conference: Arxiv
+conference: IEEE Transactions on Neural Networks and Learning Systems
 year: 2024
-citations: 22
+citations: 23
 bibkey: cao2024survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.00282'}]
-tags: [RAG, Tools, Agentic, Reinforcement Learning, Efficiency and Optimization, Applications,
-  Survey Paper]
+tags: [RAG, Applications, Survey Paper, Tools, Reinforcement Learning, Agentic, Efficiency
+    and Optimization]
 ---
 With extensive pre-trained knowledge and high-level general capabilities,
 large language models (LLMs) emerge as a promising avenue to augment

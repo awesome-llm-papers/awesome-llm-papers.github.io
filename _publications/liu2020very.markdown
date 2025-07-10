@@ -8,7 +8,7 @@ citations: 72
 bibkey: liu2020very
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.07772'}, {name: Code,
     url: 'https://github.com/namisan/exdeep-nmt'}]
-tags: [Training Techniques, Transformer, Has Code, WMT, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, WMT, Training Techniques, Evaluation]
 ---
 We explore the application of very deep Transformer models for Neural Machine
 Translation (NMT). Using a simple yet effective initialization technique that

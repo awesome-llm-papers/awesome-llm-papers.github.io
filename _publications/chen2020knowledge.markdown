@@ -2,14 +2,15 @@
 layout: publication
 title: 'KGPT: Knowledge-grounded Pre-training For Data-to-text Generation'
 authors: Wenhu Chen, Yu Su, Xifeng Yan, William Yang Wang
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 41
 bibkey: chen2020knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.02307'}, {name: Code,
     url: 'https://github.com/wenhuchen/KGPT'}]
-tags: [Training Techniques, GPT, RAG, Pre-Training, Tools, Few-Shot, Fine-Tuning,
-  Has Code, Applications, Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, GPT, Few-Shot, Fine-Tuning,
+  RAG, Applications, Tools, Pre-Training, Training Techniques]
 ---
 Data-to-text generation has recently attracted substantial interests due to
 its wide applications. Existing methods have shown impressive performance on an

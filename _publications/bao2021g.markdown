@@ -2,13 +2,15 @@
 layout: publication
 title: G-transformer For Document-level Machine Translation
 authors: Guangsheng Bao, Yue Zhang, Zhiyang Teng, Boxing Chen, Weihua Luo
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
 citations: 19
 bibkey: bao2021g
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.14761'}]
-tags: [Ethics and Bias, Training Techniques, Transformer, Pre-Training, Attention
-    Mechanism, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, Transformer, Pre-Training,
+  Training Techniques, Evaluation]
 ---
 Document-level MT models are still far from satisfactory. Existing work
 extend translation unit from single sentence to multiple sentences. However,

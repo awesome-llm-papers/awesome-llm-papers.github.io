@@ -7,7 +7,7 @@ year: 2019
 citations: 63
 bibkey: ma2019tensorized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.09777'}]
-tags: [Transformer, Attention Mechanism, WMT, Model Architecture, Language Modeling]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, WMT]
 ---
 Latest development of neural models has connected the encoder and decoder
 through a self-attention mechanism. In particular, Transformer, which is solely

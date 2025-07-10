@@ -3,13 +3,12 @@ layout: publication
 title: 'Transformative Effects Of Chatgpt On Modern Education: Emerging Era Of AI
   Chatbots'
 authors: Sukhpal Singh Gill et al.
-conference: Internet of Things and Cyber-Physical Systems (Elsevier) Volume 4 2024
-  Pages 19-23
+conference: Internet of Things and Cyber-Physical Systems
 year: 2023
-citations: 260
+citations: 270
 bibkey: gill2023transformative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.03823'}]
-tags: [GPT, Model Architecture, Merging]
+tags: [GPT, Model Architecture, Evaluation, Merging]
 ---
 ChatGPT, an AI-based chatbot, was released to provide coherent and useful
 replies based on analysis of large volumes of data. In this article, leading

@@ -2,13 +2,13 @@
 layout: publication
 title: 'Adaprompt: Adaptive Model Training For Prompt-based NLP'
 authors: Yulong Chen et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2022
-citations: 17
+citations: 18
 bibkey: chen2022adaptive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.04824'}]
-tags: [Training Techniques, Few-Shot, Attention Mechanism, Prompting, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Few-Shot, Prompting,
+  Training Techniques, Evaluation]
 ---
 Prompt-based learning, with its capability to tackle zero-shot and few-shot
 NLP tasks, has gained much attention in community. The main idea is to bridge

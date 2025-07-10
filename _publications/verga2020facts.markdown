@@ -8,7 +8,7 @@ year: 2020
 citations: 29
 bibkey: verga2020facts
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.00849'}]
-tags: [Ethics and Bias, Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Ethics and Bias]
 ---
 Massive language models are the core of modern NLP modeling and have been
 shown to encode impressive amounts of commonsense and factual information.

@@ -7,8 +7,8 @@ year: 2018
 citations: 16
 bibkey: raghu2018disentangling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1805.01216'}]
-tags: [Applications, Interpretability and Explainability, Model Architecture, Reinforcement
-    Learning]
+tags: [Model Architecture, Applications, Interpretability and Explainability, Reinforcement
+    Learning, Evaluation]
 ---
 The Knowledge Base (KB) used for real-world applications, such as booking a
 movie or restaurant reservation, keeps changing over time. End-to-end neural

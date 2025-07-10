@@ -3,12 +3,12 @@ layout: publication
 title: 'Turngpt: A Transformer-based Language Model For Predicting Turn-taking In
   Spoken Dialog'
 authors: Erik Ekstedt, Gabriel Skantze
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
 citations: 21
 bibkey: ekstedt2020transformer
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.10874'}]
-tags: [GPT, Transformer, RAG, Attention Mechanism, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, GPT]
 ---
 Syntactic and pragmatic completeness is known to be important for turn-taking
 prediction, but so far machine learning models of turn-taking have used such

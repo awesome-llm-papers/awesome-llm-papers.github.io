@@ -2,13 +2,13 @@
 layout: publication
 title: Zero-shot Recommendation As Language Modeling
 authors: Damien Sileo, Wout Vossen, Robbe Raymaekers
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2021
 citations: 23
 bibkey: sileo2021zero
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2112.04184v1'}, {name: Code,
     url: 'https://colab.research.google.com/drive/1f1mlZ-FGaLGdo5rPzxf3vemKllbh2esT?usp=sharing)'}]
-tags: [Training Techniques, Tools, Has Code, Prompting, Language Modeling]
+tags: [Language Modeling, Has Code, Tools, Prompting, Training Techniques]
 ---
 Recommendation is the task of ranking items (e.g. movies or products)
 according to individual user needs. Current systems rely on collaborative

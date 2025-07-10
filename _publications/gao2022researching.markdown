@@ -2,12 +2,13 @@
 layout: publication
 title: 'RARR: Researching And Revising What Language Models Say, Using Language Models'
 authors: Luyu Gao et al.
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 32
+citations: 35
 bibkey: gao2022researching
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.08726'}]
-tags: [Language Modeling, Few-Shot, Reinforcement Learning, Training Techniques]
+tags: [Language Modeling, Training Techniques, Few-Shot, Reinforcement Learning]
 ---
 Language models (LMs) now excel at many tasks such as few-shot learning,
 question answering, reasoning, and dialog. However, they sometimes generate

@@ -4,12 +4,13 @@ title: Who Validates The Validators? Aligning Llm-assisted Evaluation Of LLM Out
   With Human Preferences
 authors: "Shreya Shankar, J. D. Zamfirescu-pereira, Bj\xF6rn Hartmann, Aditya G. Parameswaran,\
   \ Ian Arawjo"
-conference: Arxiv
+conference: 'UIST ''24: The 37th Annual ACM Symposium on User Interface Software and
+  Technology'
 year: 2024
-citations: 46
+citations: 55
 bibkey: shankar2024who
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.12272'}]
-tags: [Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Prompting, Evaluation]
 ---
 Due to the cumbersome nature of human evaluation and limitations of
 code-based evaluation, Large Language Models (LLMs) are increasingly being used

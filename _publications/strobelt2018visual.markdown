@@ -2,12 +2,12 @@
 layout: publication
 title: 'Seq2seq-vis: A Visual Debugging Tool For Sequence-to-sequence Models'
 authors: Hendrik Strobelt et al.
-conference: Arxiv
+conference: IEEE Transactions on Visualization and Computer Graphics
 year: 2018
-citations: 128
+citations: 130
 bibkey: strobelt2018visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.09299'}]
-tags: [Language Modeling, Applications, Reinforcement Learning]
+tags: [Language Modeling, Reinforcement Learning, Applications]
 ---
 Neural Sequence-to-Sequence models have proven to be accurate and robust for
 many sequence prediction tasks, and have become the standard approach for

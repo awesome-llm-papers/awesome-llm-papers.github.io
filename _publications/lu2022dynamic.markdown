@@ -8,8 +8,8 @@ year: 2022
 citations: 29
 bibkey: lu2022dynamic
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2209.14610v3'}]
-tags: [GPT, Training Techniques, Few-Shot, Reinforcement Learning, Prompting, Model
-    Architecture]
+tags: [Model Architecture, GPT, Few-Shot, Reinforcement Learning, Prompting, Training
+    Techniques]
 ---
 Mathematical reasoning, a core ability of human intelligence, presents unique
 challenges for machines in abstract thinking and logical reasoning. Recent

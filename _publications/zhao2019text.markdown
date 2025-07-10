@@ -3,12 +3,14 @@ layout: publication
 title: 'Moverscore: Text Generation Evaluating With Contextualized Embeddings And
   Earth Mover Distance'
 authors: Wei Zhao et al.
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 134
+citations: 136
 bibkey: zhao2019text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.02622'}]
-tags: [Language Modeling]
+tags: [Language Modeling, Evaluation]
 ---
 A robust evaluation metric has a profound impact on the development of text
 generation systems. A desirable metric compares system output against

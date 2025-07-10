@@ -3,13 +3,13 @@ layout: publication
 title: Using Prior Knowledge To Guide Bert's Attention In Semantic Textual Matching
   Tasks
 authors: Tingyu Xia, Yue Wang, Yuan Tian, Yi Chang
-conference: Arxiv
+conference: 'WWW ''21: The Web Conference 2021'
 year: 2021
-citations: 25
+citations: 26
 bibkey: xia2021using
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.10934'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Attention Mechanism, BERT, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Fine-Tuning, BERT, Training
+    Techniques]
 ---
 We study the problem of incorporating prior knowledge into a deep
 Transformer-based model,i.e.,Bidirectional Encoder Representations from

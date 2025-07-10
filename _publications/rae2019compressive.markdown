@@ -7,7 +7,7 @@ year: 2019
 citations: 143
 bibkey: rae2019compressive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.05507'}]
-tags: [Reinforcement Learning, Transformer, Model Architecture]
+tags: [Transformer, Reinforcement Learning, Model Architecture, Evaluation]
 ---
 We present the Compressive Transformer, an attentive sequence model which
 compresses past memories for long-range sequence learning. We find the

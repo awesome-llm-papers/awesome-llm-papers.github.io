@@ -2,12 +2,13 @@
 layout: publication
 title: Knowledge Distillation For Improved Accuracy In Spoken Question Answering
 authors: Chenyu You, Nuo Chen, Yuexian Zou
-conference: Arxiv
+conference: ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech
+  and Signal Processing (ICASSP)
 year: 2020
 citations: 19
 bibkey: you2020knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.11067'}]
-tags: [Efficiency and Optimization, Distillation, Tools, Training Techniques]
+tags: [Tools, Training Techniques, Efficiency and Optimization, Distillation]
 ---
 Spoken question answering (SQA) is a challenging task that requires the
 machine to fully understand the complex spoken documents. Automatic speech

@@ -4,10 +4,10 @@ title: 'MEDITRON-70B: Scaling Medical Pretraining For Large Language Models'
 authors: Zeming Chen et al.
 conference: Arxiv
 year: 2023
-citations: 54
+citations: 56
 bibkey: chen2023meditron
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.16079'}]
-tags: [Training Techniques, Model Architecture, GPT]
+tags: [Training Techniques, Model Architecture, Evaluation, GPT]
 ---
 Large language models (LLMs) can potentially democratize access to medical
 knowledge. While many efforts have been made to harness and improve LLMs'

@@ -7,8 +7,8 @@ year: 2023
 citations: 142
 bibkey: wu2023unveiling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.14192'}]
-tags: [Ethics and Bias, GPT, Responsible AI, Agentic, Reinforcement Learning, Applications,
-  Security, Model Architecture]
+tags: [Responsible AI, Security, Model Architecture, Ethics and Bias, Applications,
+  Reinforcement Learning, Agentic, GPT]
 ---
 This paper delves into the realm of ChatGPT, an AI-powered chatbot that
 utilizes topic modeling and reinforcement learning to generate natural

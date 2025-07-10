@@ -2,12 +2,14 @@
 layout: publication
 title: 'KM-BART: Knowledge Enhanced Multimodal BART For Visual Commonsense Generation'
 authors: Yiran Xing et al.
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
 citations: 18
 bibkey: xing2021km
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00419'}]
-tags: [Training Techniques, Transformer, RAG, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Transformer, RAG, Multimodal Models, Training Techniques]
 ---
 We present Knowledge Enhanced Multimodal BART (KM-BART), which is a
 Transformer-based sequence-to-sequence model capable of reasoning about

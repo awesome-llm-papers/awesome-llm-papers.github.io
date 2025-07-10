@@ -2,13 +2,15 @@
 layout: publication
 title: 'Deebert: Dynamic Early Exiting For Accelerating BERT Inference'
 authors: Ji Xin, Raphael Tang, Jaejun Lee, Yaoliang Yu, Jimmy Lin
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
-citations: 110
+citations: 117
 bibkey: xin2020dynamic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.12993'}, {name: Code,
     url: 'https://github.com/castorini/DeeBERT'}]
-tags: [Transformer, Reinforcement Learning, BERT, Has Code, Applications, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Applications, Reinforcement Learning,
+  BERT]
 ---
 Large-scale pre-trained language models such as BERT have brought significant
 improvements to NLP applications. However, they are also notorious for being

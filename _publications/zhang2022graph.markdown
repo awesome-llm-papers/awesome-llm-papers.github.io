@@ -7,7 +7,7 @@ year: 2022
 citations: 31
 bibkey: zhang2022graph
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.08860'}]
-tags: [Reinforcement Learning]
+tags: [Reinforcement Learning, Evaluation]
 ---
 Answering complex questions about textual narratives requires reasoning over
 both stated context and the world knowledge that underlies it. However,

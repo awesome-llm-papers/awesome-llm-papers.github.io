@@ -3,12 +3,12 @@ layout: publication
 title: 'Better To Ask In English: Cross-lingual Evaluation Of Large Language Models
   For Healthcare Queries'
 authors: Yiqiao Jin et al.
-conference: Arxiv
+conference: 'WWW ''24: The ACM Web Conference 2024'
 year: 2023
-citations: 21
+citations: 24
 bibkey: jin2023better
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.13132'}]
-tags: [Tools, Agentic, Responsible AI, Reinforcement Learning, Fairness]
+tags: [Responsible AI, Fairness, Tools, Reinforcement Learning, Agentic, Evaluation]
 ---
 Large language models (LLMs) are transforming the ways the general public
 accesses and consumes information. Their influence is particularly pronounced

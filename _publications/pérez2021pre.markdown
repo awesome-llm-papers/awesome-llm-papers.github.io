@@ -8,7 +8,8 @@ year: 2021
 citations: 29
 bibkey: "p\xE9rez2021pre"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.09453'}]
-tags: [Training Techniques, Transformer, Pre-Training, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, Pre-Training, BERT, Training
+    Techniques, Evaluation]
 ---
 Since BERT appeared, Transformer language models and transfer learning have
 become state-of-the-art for Natural Language Understanding tasks. Recently,

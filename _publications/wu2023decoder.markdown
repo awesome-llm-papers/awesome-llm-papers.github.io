@@ -2,12 +2,12 @@
 layout: publication
 title: On Decoder-only Architecture For Speech-to-text And Large Language Model Integration
 authors: Jian Wu et al.
-conference: Arxiv
+conference: 2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
 year: 2023
 citations: 27
 bibkey: wu2023decoder
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.03917'}]
-tags: [RAG, Training Techniques, Model Architecture]
+tags: [Training Techniques, RAG, Model Architecture]
 ---
 Large language models (LLMs) have achieved remarkable success in the field of
 natural language processing, enabling better human-computer interaction using

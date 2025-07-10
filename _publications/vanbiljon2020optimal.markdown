@@ -7,7 +7,7 @@ year: 2020
 citations: 21
 bibkey: vanbiljon2020optimal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.04418'}]
-tags: [Reinforcement Learning, Transformer, Model Architecture, Training Techniques]
+tags: [Transformer, Reinforcement Learning, Training Techniques, Model Architecture]
 ---
 Transformers have shown great promise as an approach to Neural Machine
 Translation (NMT) for low-resource languages. However, at the same time,

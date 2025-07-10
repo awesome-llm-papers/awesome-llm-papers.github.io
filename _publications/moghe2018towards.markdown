@@ -2,7 +2,8 @@
 layout: publication
 title: Towards Exploiting Background Knowledge For Building Conversation Systems
 authors: Nikita Moghe, Siddhartha Arora, Suman Banerjee, Mitesh M. Khapra
-conference: Arxiv
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2018
 citations: 44
 bibkey: moghe2018towards

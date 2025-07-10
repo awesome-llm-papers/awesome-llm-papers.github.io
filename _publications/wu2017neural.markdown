@@ -2,12 +2,12 @@
 layout: publication
 title: Neural Response Generation With Dynamic Vocabularies
 authors: Yu Wu et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2017
 citations: 22
 bibkey: wu2017neural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1711.11191'}]
-tags: [Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Evaluation]
 ---
 We study response generation for open domain conversation in chatbots.
 Existing methods assume that words in responses are generated from an identical

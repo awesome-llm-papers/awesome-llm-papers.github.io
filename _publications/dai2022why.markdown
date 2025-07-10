@@ -3,14 +3,14 @@ layout: publication
 title: Why Can GPT Learn In-context? Language Models Implicitly Perform Gradient Descent
   As Meta-optimizers
 authors: Damai Dai et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2022
-citations: 54
+citations: 56
 bibkey: dai2022why
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10559'}, {name: Code,
     url: 'https://aka.ms/icl'}]
-tags: [GPT, Transformer, Training Techniques, Attention Mechanism, Reinforcement Learning,
-  In-Context Learning, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, GPT, Transformer, Reinforcement
+    Learning, In-Context Learning, Training Techniques]
 ---
 Large pretrained language models have shown surprising in-context learning
 (ICL) ability. With a few demonstration input-label pairs, they can predict the

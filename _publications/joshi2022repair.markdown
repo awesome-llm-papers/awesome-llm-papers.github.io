@@ -2,9 +2,9 @@
 layout: publication
 title: 'Repair Is Nearly Generation: Multilingual Program Repair With Llms'
 authors: Harshit Joshi et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2022
-citations: 55
+citations: 59
 bibkey: joshi2022repair
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.11640'}]
 tags: [Reinforcement Learning, Training Techniques, Prompting]

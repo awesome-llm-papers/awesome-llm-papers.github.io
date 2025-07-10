@@ -3,12 +3,12 @@ layout: publication
 title: 'Flexkbqa: A Flexible Llm-powered Framework For Few-shot Knowledge Base Question
   Answering'
 authors: Zhenyu Li et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 25
+citations: 27
 bibkey: li2023flexible
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.12060'}]
-tags: [Training Techniques, RAG, Few-Shot, Tools, Reinforcement Learning]
+tags: [Few-Shot, RAG, Tools, Reinforcement Learning, Training Techniques]
 ---
 Knowledge base question answering (KBQA) is a critical yet challenging task
 due to the vast number of entities within knowledge bases and the diversity of

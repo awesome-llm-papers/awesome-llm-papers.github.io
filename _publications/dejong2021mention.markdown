@@ -9,7 +9,8 @@ year: 2021
 citations: 18
 bibkey: dejong2021mention
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.06176'}]
-tags: [Attention Mechanism, Transformer, Model Architecture, Training Techniques]
+tags: [Model Architecture, Attention Mechanism, Transformer, Training Techniques,
+  Evaluation]
 ---
 Natural language understanding tasks such as open-domain question answering
 often require retrieving and assimilating factual information from multiple

@@ -3,13 +3,14 @@ layout: publication
 title: 'PALM: Pre-training An Autoencoding&autoregressive Language Model For Context-conditioned
   Generation'
 authors: Bin Bi et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 22
 bibkey: bi2020pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.07159'}]
-tags: [Training Techniques, Transformer, GPT, Pre-Training, Fine-Tuning, BERT, Model
-    Architecture]
+tags: [Model Architecture, GPT, Transformer, Fine-Tuning, Pre-Training, BERT, Training
+    Techniques, Evaluation]
 ---
 Self-supervised pre-training, such as BERT, MASS and BART, has emerged as a
 powerful technique for natural language understanding and generation. Existing

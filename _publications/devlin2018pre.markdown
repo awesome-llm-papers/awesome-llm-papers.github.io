@@ -4,10 +4,10 @@ title: 'BERT: Pre-training Of Deep Bidirectional Transformers For Language Under
 authors: Jacob Devlin, Ming-wei Chang, Kenton Lee, Kristina Toutanova
 conference: Arxiv
 year: 2018
-citations: 37723
+citations: 37768
 bibkey: devlin2018pre
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/1810.04805v2'}]
-tags: [Training Techniques, Transformer, Pre-Training, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, Pre-Training, BERT, Training Techniques]
 ---
 We introduce a new language representation model called BERT, which stands
 for Bidirectional Encoder Representations from Transformers. Unlike recent

@@ -2,12 +2,13 @@
 layout: publication
 title: Query Resolution For Conversational Search With Limited Supervision
 authors: Nikos Voskarides, Dan Li, Pengjie Ren, Evangelos Kanoulas, Maarten De Rijke
-conference: Arxiv
+conference: 'SIGIR ''20: The 43rd International ACM SIGIR conference on research and
+  development in Information Retrieval'
 year: 2020
-citations: 65
+citations: 66
 bibkey: voskarides2020query
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.11723'}]
-tags: [Training Techniques, Transformer, Model Architecture]
+tags: [Transformer, Training Techniques, Model Architecture]
 ---
 In this work we focus on multi-turn passage retrieval as a crucial component
 of conversational search. One of the key challenges in multi-turn passage

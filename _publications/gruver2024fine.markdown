@@ -7,7 +7,7 @@ year: 2024
 citations: 15
 bibkey: gruver2024fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.04379'}]
-tags: [Ethics and Bias, Training Techniques, Merging, Fine-Tuning, Prompting]
+tags: [Ethics and Bias, Fine-Tuning, Prompting, Training Techniques, Merging]
 ---
 We propose fine-tuning large language models for generation of stable
 materials. While unorthodox, fine-tuning large language models on text-encoded

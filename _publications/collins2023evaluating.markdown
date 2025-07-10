@@ -2,12 +2,12 @@
 layout: publication
 title: Evaluating Language Models For Mathematics Through Interactions
 authors: Katherine M. Collins et al.
-conference: Arxiv
+conference: Proceedings of the National Academy of Sciences
 year: 2023
-citations: 19
+citations: 21
 bibkey: collins2023evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.01694'}]
-tags: [GPT, Model Architecture, Reinforcement Learning, Tools]
+tags: [Model Architecture, Tools, Reinforcement Learning, GPT, Evaluation]
 ---
 There is much excitement about the opportunity to harness the power of large
 language models (LLMs) when building problem-solving assistants. However, the

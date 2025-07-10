@@ -2,9 +2,9 @@
 layout: publication
 title: 'Skeleton-to-response: Dialogue Generation Guided By Retrieval Memory'
 authors: Deng Cai et al.
-conference: Arxiv
+conference: Proceedings of the 2019 Conference of the North
 year: 2018
-citations: 21
+citations: 22
 bibkey: cai2018skeleton
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.05296'}]
 tags: [Tools, Training Techniques]

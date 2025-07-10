@@ -2,13 +2,15 @@
 layout: publication
 title: 'Trusting Your Evidence: Hallucinate Less With Context-aware Decoding'
 authors: Weijia Shi et al.
-conference: Arxiv
+conference: 'Proceedings of the 2024 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies (Volume 2:
+  Short Papers)'
 year: 2023
-citations: 23
+citations: 25
 bibkey: shi2023trusting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14739'}]
-tags: [GPT, Training Techniques, Reinforcement Learning, Attention Mechanism, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, GPT, Reinforcement Learning, Training
+    Techniques, Evaluation]
 ---
 Language models (LMs) often struggle to pay enough attention to the input
 context, and generate texts that are unfaithful or contain hallucinations. To

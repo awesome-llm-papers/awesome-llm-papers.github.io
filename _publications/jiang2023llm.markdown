@@ -3,12 +3,14 @@ layout: publication
 title: 'Llm-blender: Ensembling Large Language Models With Pairwise Ranking And Generative
   Fusion'
 authors: Dongfu Jiang, Xiang Ren, Bill Yuchen Lin
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
-citations: 32
+citations: 36
 bibkey: jiang2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.02561'}]
-tags: [GPT, Merging, RAG, Attention Mechanism, Tools, Model Architecture, ACL]
+tags: [Model Architecture, Attention Mechanism, RAG, ACL, Tools, GPT, Evaluation,
+  Merging]
 ---
 We present LLM-Blender, an ensembling framework designed to attain
 consistently superior performance by leveraging the diverse strengths of

@@ -9,7 +9,7 @@ citations: 20
 bibkey: zhang2023speak
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.03926'}, {name: Code,
     url: 'https://aka.ms/vallex'}]
-tags: [Language Modeling, Has Code, In-Context Learning, Prompting]
+tags: [Language Modeling, Has Code, Prompting, In-Context Learning]
 ---
 We propose a cross-lingual neural codec language model, VALL-E X, for
 cross-lingual speech synthesis. Specifically, we extend VALL-E and train a

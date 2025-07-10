@@ -2,12 +2,12 @@
 layout: publication
 title: Delving Into Multimodal Prompting For Fine-grained Visual Classification
 authors: Xin Jiang et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
 citations: 15
 bibkey: jiang2023delving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.08912'}]
-tags: [Merging, RAG, Prompting, Efficiency and Optimization, Multimodal Models]
+tags: [RAG, Multimodal Models, Prompting, Efficiency and Optimization, Merging]
 ---
 Fine-grained visual classification (FGVC) involves categorizing fine
 subdivisions within a broader category, which poses challenges due to subtle

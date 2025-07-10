@@ -2,12 +2,13 @@
 layout: publication
 title: 'Observations On Llms For Telecom Domain: Capabilities And Limitations'
 authors: Sumit Soman, Ranjani H G
-conference: Arxiv
+conference: 'AIMLSystems 2023: The Third International Conference on Artificial Intelligence
+  and Machine Learning Systems'
 year: 2023
-citations: 17
+citations: 18
 bibkey: soman2023observations
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.13102'}]
-tags: [GPT, Security, Model Architecture, Dataset]
+tags: [Security, Model Architecture, Dataset, GPT, Evaluation]
 ---
 The landscape for building conversational interfaces (chatbots) has witnessed
 a paradigm shift with recent developments in generative Artificial Intelligence

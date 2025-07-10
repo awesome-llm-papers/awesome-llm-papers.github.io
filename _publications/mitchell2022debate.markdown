@@ -2,9 +2,9 @@
 layout: publication
 title: The Debate Over Understanding In Ai's Large Language Models
 authors: Melanie Mitchell, David C. Krakauer
-conference: Proceedings of the National Academy of Sciences 120 (13) 2023
+conference: Proceedings of the National Academy of Sciences
 year: 2022
-citations: 137
+citations: 140
 bibkey: mitchell2022debate
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.13966'}]
 tags: [Survey Paper]

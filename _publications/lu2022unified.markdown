@@ -9,8 +9,8 @@ citations: 99
 bibkey: lu2022unified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.08916'}, {name: Code,
     url: 'https://unified-io.allenai.org'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Reinforcement Learning, Has
-    Code, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Fine-Tuning, Reinforcement Learning,
+  Training Techniques, Evaluation]
 ---
 We propose Unified-IO, a model that performs a large variety of AI tasks
 spanning classical computer vision tasks, including pose estimation, object

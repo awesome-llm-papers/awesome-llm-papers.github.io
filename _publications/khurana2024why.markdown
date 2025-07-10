@@ -3,12 +3,12 @@ layout: publication
 title: 'Why And When Llm-based Assistants Can Go Wrong: Investigating The Effectiveness
   Of Prompt-based Interactions For Software Help-seeking'
 authors: Anjali Khurana, Hari Subramonyam, Parmit K Chilana
-conference: Arxiv
+conference: 'IUI ''24: 29th International Conference on Intelligent User Interfaces'
 year: 2024
-citations: 18
+citations: 22
 bibkey: khurana2024why
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.08030'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Prompting, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, Prompting, Training Techniques]
 ---
 Large Language Model (LLM) assistants, such as ChatGPT, have emerged as
 potential alternatives to search methods for helping users navigate complex,

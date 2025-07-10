@@ -7,8 +7,8 @@ year: 2022
 citations: 16
 bibkey: hsu2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.00112'}]
-tags: [Training Techniques, Transformer, Pre-Training, Efficiency and Optimization,
-  Model Architecture, Quantization]
+tags: [Model Architecture, Transformer, Quantization, Pre-Training, Efficiency and
+    Optimization, Training Techniques, Evaluation]
 ---
 Factorizing a large matrix into small matrices is a popular strategy for
 model compression. Singular value decomposition (SVD) plays a vital role in

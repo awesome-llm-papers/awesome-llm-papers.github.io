@@ -3,9 +3,11 @@ layout: publication
 title: 'SOLAR 10.7B: Scaling Large Language Models With Simple Yet Effective Depth
   Up-scaling'
 authors: Dahyun Kim et al.
-conference: Arxiv
+conference: 'Proceedings of the 2024 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies (Volume 6:
+  Industry Track)'
 year: 2023
-citations: 19
+citations: 22
 bibkey: kim2023solar
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.15166'}]
 tags: [Training Techniques]

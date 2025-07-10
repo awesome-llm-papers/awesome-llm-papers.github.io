@@ -2,12 +2,13 @@
 layout: publication
 title: 'Pretrained Language Models For Text Generation: A Survey'
 authors: Junyi Li, Tianyi Tang, Wayne Xin Zhao, Ji-rong Wen
-conference: Arxiv
+conference: Thirtieth International Joint Conference on Artificial Intelligence {IJCAI-21}
 year: 2021
-citations: 81
+citations: 83
 bibkey: li2021pretrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.10311'}]
-tags: [Training Techniques, Fine-Tuning, Survey Paper, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Fine-Tuning, Survey Paper, Training
+    Techniques]
 ---
 Text generation has become one of the most important yet challenging tasks in
 natural language processing (NLP). The resurgence of deep learning has greatly

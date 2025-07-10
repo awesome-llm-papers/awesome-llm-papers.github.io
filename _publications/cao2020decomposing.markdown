@@ -2,14 +2,15 @@
 layout: publication
 title: 'Deformer: Decomposing Pre-trained Transformers For Faster Question Answering'
 authors: Qingqing Cao, Harsh Trivedi, Aruna Balasubramanian, Niranjan Balasubramanian
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
-citations: 28
+citations: 29
 bibkey: cao2020decomposing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00697'}, {name: Code,
     url: 'https://github.com/StonyBrookNLP/deformer'}]
-tags: [Distillation, Transformer, Training Techniques, Pre-Training, Attention Mechanism,
-  BERT, Efficiency and Optimization, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Distillation, Transformer,
+  Pre-Training, BERT, Efficiency and Optimization, Training Techniques]
 ---
 Transformer-based QA models use input-wide self-attention -- i.e. across both
 the question and the input passage -- at all layers, causing them to be slow

@@ -2,14 +2,16 @@
 layout: publication
 title: 'Earlybert: Efficient BERT Training Via Early-bird Lottery Tickets'
 authors: Xiaohan Chen et al.
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2020
 citations: 18
 bibkey: chen2020efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00063'}, {name: Code,
     url: 'https://github.com/VITA-Group/EarlyBERT'}]
-tags: [Training Techniques, Transformer, Pre-Training, Fine-Tuning, Reinforcement
-    Learning, BERT, Attention Mechanism, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, Fine-Tuning,
+  Reinforcement Learning, Pre-Training, BERT, Training Techniques]
 ---
 Heavily overparameterized language models such as BERT, XLNet and T5 have
 achieved impressive success in many NLP tasks. However, their high model

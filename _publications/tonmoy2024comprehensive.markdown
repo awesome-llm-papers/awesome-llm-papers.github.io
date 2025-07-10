@@ -8,8 +8,8 @@ year: 2024
 citations: 48
 bibkey: tonmoy2024comprehensive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.01313'}]
-tags: [Ethics and Bias, Training Techniques, RAG, Reinforcement Learning, Applications,
-  Survey Paper, Prompting]
+tags: [Ethics and Bias, RAG, Applications, Survey Paper, Reinforcement Learning, Prompting,
+  Training Techniques]
 ---
 As Large Language Models (LLMs) continue to advance in their ability to write
 human-like text, a key challenge remains around their tendency to hallucinate

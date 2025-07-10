@@ -7,7 +7,7 @@ year: 2018
 citations: 26
 bibkey: tevet2018evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1810.12686'}]
-tags: [Language Modeling, Ethics and Bias, Security]
+tags: [Language Modeling, Security, Evaluation, Ethics and Bias]
 ---
 Generative Adversarial Networks (GANs) are a promising approach for text
 generation that, unlike traditional language models (LM), does not suffer from

@@ -3,12 +3,12 @@ layout: publication
 title: Sample-efficient Actor-critic Reinforcement Learning With Supervised Data For
   Dialogue Management
 authors: Pei-hao Su, Pawel Budzianowski, Stefan Ultes, Milica Gasic, Steve Young
-conference: Arxiv
+conference: Proceedings of the 18th Annual SIGdial Meeting on Discourse and Dialogue
 year: 2017
 citations: 34
 bibkey: su2017sample
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1707.00130'}]
-tags: [Efficiency and Optimization, Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning, Efficiency and Optimization]
 ---
 Deep reinforcement learning (RL) methods have significant potential for
 dialogue policy optimisation. However, they suffer from a poor performance in

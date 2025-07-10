@@ -2,13 +2,14 @@
 layout: publication
 title: Prototypical Verbalizer For Prompt-based Few-shot Tuning
 authors: Ganqu Cui, Shengding Hu, Ning Ding, Longtao Huang, Zhiyuan Liu
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
 citations: 33
 bibkey: cui2022prototypical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.09770'}, {name: Code,
     url: 'https://github.com/thunlp/OpenPrompt'}]
-tags: [Training Techniques, Few-Shot, Fine-Tuning, Has Code, Prompting]
+tags: [Has Code, Fine-Tuning, Few-Shot, Prompting, Training Techniques]
 ---
 Prompt-based tuning for pre-trained language models (PLMs) has shown its
 effectiveness in few-shot learning. Typically, prompt-based tuning wraps the

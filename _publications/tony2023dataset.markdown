@@ -2,12 +2,13 @@
 layout: publication
 title: 'Llmseceval: A Dataset Of Natural Language Prompts For Security Evaluations'
 authors: "Catherine Tony, Markus Mutas, Nicol\xE1s E. D\xEDaz Ferreyra, Riccardo Scandariato"
-conference: Arxiv
+conference: 2023 IEEE/ACM 20th International Conference on Mining Software Repositories
+  (MSR)
 year: 2023
-citations: 16
+citations: 17
 bibkey: tony2023dataset
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.09384'}]
-tags: [RAG, Tools, Applications, Security, Prompting]
+tags: [Security, RAG, Applications, Tools, Prompting, Evaluation]
 ---
 Large Language Models (LLMs) like Codex are powerful tools for performing
 code completion and code generation tasks as they are trained on billions of

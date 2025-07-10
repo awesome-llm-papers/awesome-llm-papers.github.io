@@ -2,12 +2,12 @@
 layout: publication
 title: In-context Examples Selection For Machine Translation
 authors: Sweta Agrawal, Chunting Zhou, Mike Lewis, Luke Zettlemoyer, Marjan Ghazvininejad
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2022
 citations: 24
 bibkey: agrawal2022examples
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.02437'}]
-tags: [Reinforcement Learning, In-Context Learning, Prompting]
+tags: [Reinforcement Learning, Prompting, In-Context Learning, Evaluation]
 ---
 Large-scale generative models show an impressive ability to perform a wide
 range of Natural Language Processing (NLP) tasks using in-context learning,

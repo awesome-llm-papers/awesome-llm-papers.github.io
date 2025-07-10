@@ -4,7 +4,7 @@ title: 'Toolformer: Language Models Can Teach Themselves To Use Tools'
 authors: Timo Schick et al.
 conference: Arxiv
 year: 2023
-citations: 227
+citations: 229
 bibkey: schick2023language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.04761'}]
 tags: [Language Modeling, Training Techniques, Tools, Reinforcement Learning]

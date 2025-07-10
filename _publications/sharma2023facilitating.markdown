@@ -3,12 +3,12 @@ layout: publication
 title: 'Facilitating Self-guided Mental Health Interventions Through Human-language
   Model Interaction: A Case Study Of Cognitive Restructuring'
 authors: Ashish Sharma, Kevin Rushton, Inna Wanyin Lin, Theresa Nguyen, Tim Althoff
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 25
+citations: 28
 bibkey: sharma2023facilitating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.15461'}]
-tags: [Tools, Fairness, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, Fairness]
 ---
 Self-guided mental health interventions, such as "do-it-yourself" tools to
 learn and practice coping strategies, show great promise to improve access to

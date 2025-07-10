@@ -2,14 +2,15 @@
 layout: publication
 title: 'TR-BERT: Dynamic Token Reduction For Accelerating BERT Inference'
 authors: Deming Ye, Yankai Lin, Yufei Huang, Maosong Sun
-conference: Arxiv
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
 citations: 17
 bibkey: ye2021tr
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.11618'}, {name: Code,
     url: 'https://github.com/thunlp/TR-BERT'}]
-tags: [Transformer, Attention Mechanism, Reinforcement Learning, Agentic, BERT, Has
-    Code, Applications, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, Applications,
+  Reinforcement Learning, Agentic, BERT]
 ---
 Existing pre-trained language models (PLMs) are often computationally
 expensive in inference, making them impractical in various resource-limited

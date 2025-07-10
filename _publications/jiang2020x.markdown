@@ -3,13 +3,14 @@ layout: publication
 title: 'X-FACTR: Multilingual Factual Knowledge Retrieval From Pretrained Language
   Models'
 authors: Zhengbao Jiang, Antonios Anastasopoulos, Jun Araki, Haibo Ding, Graham Neubig
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 23
 bibkey: jiang2020x
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.06189'}, {name: Code,
     url: 'https://x-factr.github.io'}]
-tags: [RAG, Has Code, Reinforcement Learning]
+tags: [Reinforcement Learning, Has Code, RAG, Evaluation]
 ---
 Language models (LMs) have proven surprisingly successful at capturing
 factual knowledge by completing cloze-style fill-in-the-blank questions such as

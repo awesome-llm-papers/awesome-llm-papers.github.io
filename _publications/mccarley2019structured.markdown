@@ -7,8 +7,9 @@ year: 2019
 citations: 77
 bibkey: mccarley2019structured
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.06360'}]
-tags: [Distillation, Transformer, Training Techniques, Attention Mechanism, Reinforcement
-    Learning, BERT, Efficiency and Optimization, Pruning, Model Architecture, Quantization]
+tags: [Model Architecture, Attention Mechanism, Distillation, Transformer, Pruning,
+  Quantization, Reinforcement Learning, BERT, Efficiency and Optimization, Training
+    Techniques]
 ---
 The recent trend in industry-setting Natural Language Processing (NLP)
 research has been to operate large %scale pretrained language models like BERT

@@ -8,7 +8,7 @@ citations: 40
 bibkey: wang2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.10747'}, {name: Code,
     url: 'https://github.com/MikeWangWZHL/VidIL'}]
-tags: [Training Techniques, INTERSPEECH, Few-Shot, Has Code, Prompting]
+tags: [Has Code, Few-Shot, Prompting, Training Techniques, INTERSPEECH]
 ---
 The goal of this work is to build flexible video-language models that can
 generalize to various video-to-text tasks from few examples, such as

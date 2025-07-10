@@ -2,12 +2,13 @@
 layout: publication
 title: 'Verify-and-edit: A Knowledge-enhanced Chain-of-thought Framework'
 authors: Ruochen Zhao, Xingxuan Li, Shafiq Joty, Chengwei Qin, Lidong Bing
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
 citations: 26
 bibkey: zhao2023verify
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.03268'}]
-tags: [GPT, Tools, Applications, Prompting, Model Architecture]
+tags: [Model Architecture, Applications, Tools, Prompting, GPT]
 ---
 As large language models (LLMs) have become the norm in NLP, demonstrating
 good performance in generation and reasoning tasks, one of its most fatal

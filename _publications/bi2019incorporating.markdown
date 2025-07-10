@@ -3,12 +3,14 @@ layout: publication
 title: Incorporating External Knowledge Into Machine Reading For Generative Question
   Answering
 authors: Bin Bi et al.
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
 citations: 22
 bibkey: bi2019incorporating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.02745'}]
-tags: [RAG]
+tags: [RAG, Evaluation]
 ---
 Commonsense and background knowledge is required for a QA model to answer
 many nontrivial questions. Different from existing work on knowledge-aware QA,

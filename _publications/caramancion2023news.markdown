@@ -3,12 +3,12 @@ layout: publication
 title: 'News Verifiers Showdown: A Comparative Performance Evaluation Of Chatgpt 3.5,
   Chatgpt 4.0, Bing AI, And Bard In News Fact-checking'
 authors: Kevin Matthe Caramancion
-conference: Arxiv
+conference: 2023 IEEE Future Networks World Forum (FNWF)
 year: 2023
 citations: 17
 bibkey: caramancion2023news
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.17176'}]
-tags: [RAG, GPT, Model Architecture]
+tags: [GPT, RAG, Model Architecture, Evaluation]
 ---
 This study aimed to evaluate the proficiency of prominent Large Language
 Models (LLMs), namely OpenAI's ChatGPT 3.5 and 4.0, Google's Bard(LaMDA), and

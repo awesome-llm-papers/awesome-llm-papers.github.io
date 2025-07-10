@@ -3,14 +3,14 @@ layout: publication
 title: 'Missrec: Pre-training And Transferring Multi-modal Interest-aware Sequence
   Representation For Recommendation'
 authors: Jinpeng Wang et al.
-conference: Arxiv
+conference: 'MM ''23: The 31st ACM International Conference on Multimedia'
 year: 2023
-citations: 27
+citations: 28
 bibkey: wang2023pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.11175'}, {name: Code,
     url: 'https://github.com/gimpong/MM23-MISSRec'}]
-tags: [Training Techniques, Transformer, Merging, Pre-Training, Fine-Tuning, Tools,
-  Reinforcement Learning, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Fine-Tuning, Tools, Reinforcement
+    Learning, Pre-Training, Training Techniques, Merging]
 ---
 The goal of sequential recommendation (SR) is to predict a user's potential
 interested items based on her/his historical interaction sequences. Most

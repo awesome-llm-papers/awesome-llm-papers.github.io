@@ -2,12 +2,12 @@
 layout: publication
 title: Visual Prompt Tuning
 authors: Menglin Jia et al.
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2022
-citations: 758
+citations: 784
 bibkey: jia2022visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.12119'}]
-tags: [Training Techniques, Transformer, RAG, Fine-Tuning, Prompting, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, RAG, Prompting, Training Techniques]
 ---
 The current modus operandi in adapting pre-trained models involves updating
 all the backbone parameters, ie, full fine-tuning. This paper introduces Visual

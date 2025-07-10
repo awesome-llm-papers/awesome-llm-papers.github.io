@@ -3,12 +3,12 @@ layout: publication
 title: Unsupervised Question Answering By Cloze Translation
 authors: Patrick Lewis, Ludovic Denoyer, Sebastian Riedel
 conference: Proceedings of the 57th Annual Meeting of the Association for Computational
-  Linguistics 2019
+  Linguistics
 year: 2019
 citations: 44
 bibkey: lewis2019unsupervised
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.04980'}]
-tags: [RAG, Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, RAG]
 ---
 Obtaining training data for Question Answering (QA) is time-consuming and
 resource-intensive, and existing QA datasets are only available for limited

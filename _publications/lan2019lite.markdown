@@ -4,11 +4,11 @@ title: 'ALBERT: A Lite BERT For Self-supervised Learning Of Language Representat
 authors: Zhenzhong Lan et al.
 conference: Arxiv
 year: 2019
-citations: 4189
+citations: 4190
 bibkey: lan2019lite
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.11942'}, {name: Code,
     url: 'https://github.com/google-research/ALBERT'}]
-tags: [Has Code, Training Techniques, Model Architecture, BERT]
+tags: [Has Code, Model Architecture, Training Techniques, BERT, Evaluation]
 ---
 Increasing model size when pretraining natural language representations often
 results in improved performance on downstream tasks. However, at some point

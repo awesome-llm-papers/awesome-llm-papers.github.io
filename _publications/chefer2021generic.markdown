@@ -3,13 +3,13 @@ layout: publication
 title: Generic Attention-model Explainability For Interpreting Bi-modal And Encoder-decoder
   Transformers
 authors: Hila Chefer, Shir Gur, Lior Wolf
-conference: Arxiv
+conference: 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2021
-citations: 160
+citations: 162
 bibkey: chefer2021generic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.15679'}]
-tags: [Transformer, Attention Mechanism, Interpretability and Explainability, Model
-    Architecture]
+tags: [Interpretability and Explainability, Model Architecture, Attention Mechanism,
+  Transformer]
 ---
 Transformers are increasingly dominating multi-modal reasoning tasks, such as
 visual question answering, achieving state-of-the-art results thanks to their

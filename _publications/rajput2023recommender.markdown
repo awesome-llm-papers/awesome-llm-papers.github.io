@@ -7,7 +7,7 @@ year: 2023
 citations: 16
 bibkey: rajput2023recommender
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.05065'}]
-tags: [RecSys, Transformer, Model Architecture, GPT]
+tags: [RecSys, GPT, Model Architecture, Transformer]
 ---
 Modern recommender systems perform large-scale retrieval by first embedding
 queries and item candidates in the same unified space, followed by approximate

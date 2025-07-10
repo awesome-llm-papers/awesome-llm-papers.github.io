@@ -2,12 +2,13 @@
 layout: publication
 title: Fine-tuning Llama For Multi-stage Text Retrieval
 authors: Xueguang Ma, Liang Wang, Nan Yang, Furu Wei, Jimmy Lin
-conference: Arxiv
+conference: 'SIGIR 2024: The 47th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2023
-citations: 26
+citations: 28
 bibkey: ma2023fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.08319'}]
-tags: [Fine-Tuning, Training Techniques, Survey Paper]
+tags: [Survey Paper, Training Techniques, Fine-Tuning, Evaluation]
 ---
 The effectiveness of multi-stage text retrieval has been solidly demonstrated
 since before the era of pre-trained language models. However, most existing

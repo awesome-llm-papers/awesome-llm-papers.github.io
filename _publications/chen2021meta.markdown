@@ -2,12 +2,14 @@
 layout: publication
 title: Meta-learning Via Language Model In-context Tuning
 authors: Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis, He He
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
 citations: 18
 bibkey: chen2021meta
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.07814'}]
-tags: [Ethics and Bias, Training Techniques, RAG, In-Context Learning, Prompting]
+tags: [Ethics and Bias, RAG, In-Context Learning, Prompting, Training Techniques,
+  Evaluation]
 ---
 The goal of meta-learning is to learn to adapt to a new task with only a few
 labeled examples. To tackle this problem in NLP, we propose \\(\textit\{in-context

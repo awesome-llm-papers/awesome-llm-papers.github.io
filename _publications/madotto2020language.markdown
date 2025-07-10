@@ -7,7 +7,7 @@ year: 2020
 citations: 41
 bibkey: madotto2020language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.06239'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Few-Shot, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Few-Shot, Training Techniques]
 ---
 Task-oriented dialogue systems use four connected modules, namely, Natural
 Language Understanding (NLU), a Dialogue State Tracking (DST), Dialogue Policy

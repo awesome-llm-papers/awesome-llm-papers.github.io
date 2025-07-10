@@ -8,7 +8,7 @@ year: 2019
 citations: 81
 bibkey: toneva2019interpreting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.11833'}]
-tags: [Attention Mechanism, Transformer, Model Architecture, BERT]
+tags: [Transformer, BERT, Model Architecture, Attention Mechanism]
 ---
 Neural networks models for NLP are typically implemented without the explicit
 encoding of language rules and yet they are able to break one performance

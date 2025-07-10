@@ -7,7 +7,7 @@ year: 2016
 citations: 239
 bibkey: li2016fast
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1611.08562'}]
-tags: [Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning]
 ---
 In this paper, we propose a simple, fast decoding algorithm that fosters
 diversity in neural generation. The algorithm modifies the standard beam search

@@ -2,13 +2,15 @@
 layout: publication
 title: 'Graphgpt: Graph Instruction Tuning For Large Language Models'
 authors: Jiabin Tang et al.
-conference: Arxiv
+conference: 'SIGIR 2024: The 47th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2023
-citations: 34
+citations: 39
 bibkey: tang2023graph
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.13023'}, {name: Code,
     url: 'https://github.com/HKUDS/GraphGPT'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Tools, Has Code, Security, Model Architecture]
+tags: [Security, Has Code, Model Architecture, GPT, Fine-Tuning, Tools, Training Techniques,
+  Evaluation]
 ---
 Graph Neural Networks (GNNs) have evolved to understand graph structures
 through recursive exchanges and aggregations among nodes. To enhance

@@ -4,11 +4,11 @@ title: 'Llama Guard: Llm-based Input-output Safeguard For Human-ai Conversations
 authors: Hakan Inan et al.
 conference: Arxiv
 year: 2023
-citations: 20
+citations: 21
 bibkey: inan2023llama
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.06674'}]
-tags: [Training Techniques, RAG, Few-Shot, Tools, Fine-Tuning, Responsible AI, In-Context
-    Learning, Applications, Prompting]
+tags: [Responsible AI, Fine-Tuning, RAG, Few-Shot, Applications, Tools, In-Context
+    Learning, Prompting, Training Techniques, Evaluation]
 ---
 We introduce Llama Guard, an LLM-based input-output safeguard model geared
 towards Human-AI conversation use cases. Our model incorporates a safety risk

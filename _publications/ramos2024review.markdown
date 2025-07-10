@@ -2,14 +2,14 @@
 layout: publication
 title: A Review Of Large Language Models And Autonomous Agents In Chemistry
 authors: Mayk Caldas Ramos, Christopher J. Collison, Andrew D. White
-conference: Arxiv
+conference: Chemical Science
 year: 2024
-citations: 24
+citations: 34
 bibkey: ramos2024review
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2407.01603'}, {name: Code,
     url: 'https://github.com/ur-whitelab/LLMs-in-science'}]
-tags: [Merging, Tools, Interpretability and Explainability, Agentic, Reinforcement
-    Learning, Efficiency and Optimization, Has Code, Survey Paper]
+tags: [Has Code, Interpretability and Explainability, Tools, Reinforcement Learning,
+  Survey Paper, Agentic, Efficiency and Optimization, Evaluation, Merging]
 ---
 Large language models (LLMs) have emerged as powerful tools in chemistry,
 significantly impacting molecule design, property prediction, and synthesis

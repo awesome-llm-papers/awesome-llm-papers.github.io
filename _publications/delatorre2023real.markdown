@@ -2,13 +2,13 @@
 layout: publication
 title: 'LLMR: Real-time Prompting Of Interactive Worlds Using Large Language Models'
 authors: Fernanda De La Torre et al.
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 30
+citations: 33
 bibkey: delatorre2023real
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.12276'}]
-tags: [Training Techniques, GPT, RAG, Reinforcement Learning, Tools, Prompting, Model
-    Architecture]
+tags: [Model Architecture, GPT, RAG, Tools, Reinforcement Learning, Prompting, Training
+    Techniques]
 ---
 We present Large Language Model for Mixed Reality (LLMR), a framework for the
 real-time creation and modification of interactive Mixed Reality experiences

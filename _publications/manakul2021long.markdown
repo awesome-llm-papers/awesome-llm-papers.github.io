@@ -2,13 +2,15 @@
 layout: publication
 title: Long-span Summarization Via Local Attention And Content Selection
 authors: Potsawee Manakul, Mark J. F. Gales
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
 citations: 17
 bibkey: manakul2021long
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.03801'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Attention Mechanism, Arxiv,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Fine-Tuning, Arxiv, Training
+    Techniques]
 ---
 Transformer-based models have achieved state-of-the-art results in a wide
 range of natural language processing (NLP) tasks including document

@@ -8,7 +8,7 @@ year: 2018
 citations: 35
 bibkey: xu2018towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1807.07255'}]
-tags: [Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning]
 ---
 We study open domain dialogue generation with dialogue acts designed to
 explain how people engage in social chat. To imitate human behavior, we propose

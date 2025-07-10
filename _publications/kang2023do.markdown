@@ -7,8 +7,8 @@ year: 2023
 citations: 18
 bibkey: kang2023do
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.06474v1'}]
-tags: [Training Techniques, Merging, Fine-Tuning, Few-Shot, Reinforcement Learning,
-  Efficiency and Optimization]
+tags: [Fine-Tuning, Few-Shot, Reinforcement Learning, Efficiency and Optimization,
+  Training Techniques, Merging]
 ---
 Large Language Models (LLMs) have demonstrated exceptional capabilities in
 generalizing to new tasks in a zero-shot or few-shot manner. However, the

@@ -2,12 +2,13 @@
 layout: publication
 title: Prompting Large Language Models With Speech Recognition Abilities
 authors: Yassir Fathullah et al.
-conference: Arxiv
+conference: ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech
+  and Signal Processing (ICASSP)
 year: 2023
-citations: 24
+citations: 26
 bibkey: fathullah2023prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.11795'}]
-tags: [Training Techniques, INTERSPEECH, Prompting]
+tags: [Training Techniques, Prompting, INTERSPEECH]
 ---
 Large language models have proven themselves highly flexible, able to solve a
 wide range of generative tasks, such as abstractive summarization and

@@ -8,7 +8,7 @@ year: 2020
 citations: 15
 bibkey: lan2020novel
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.02399'}]
-tags: [RAG, Reinforcement Learning, Attention Mechanism, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, RAG, Reinforcement Learning, Evaluation]
 ---
 Open-domain generative dialogue systems have attracted considerable attention
 over the past few years. Currently, how to automatically evaluate them, is

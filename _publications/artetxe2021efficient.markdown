@@ -2,12 +2,13 @@
 layout: publication
 title: Efficient Large Scale Language Modeling With Mixtures Of Experts
 authors: Mikel Artetxe et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 22
+citations: 23
 bibkey: artetxe2021efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.10684'}]
-tags: [Training Techniques, GPT, Few-Shot, Fine-Tuning, Language Modeling]
+tags: [Language Modeling, GPT, Fine-Tuning, Few-Shot, Training Techniques]
 ---
 Mixture of Experts layers (MoEs) enable efficient scaling of language models
 through conditional computation. This paper presents a detailed empirical study

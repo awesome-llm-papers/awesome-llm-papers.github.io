@@ -2,14 +2,14 @@
 layout: publication
 title: Graph Neural Prompting With Large Language Models
 authors: Yijun Tian et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 15
+citations: 16
 bibkey: tian2023graph
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.15427'}, {name: Code,
     url: 'https://github.com/meettyj/GNP'}]
-tags: [Training Techniques, RAG, Prompting, Has Code, Multimodal Models, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, RAG, Multimodal Models, Prompting,
+  Training Techniques]
 ---
 Large language models (LLMs) have shown remarkable generalization capability
 with exceptional performance in various language modeling tasks. However, they

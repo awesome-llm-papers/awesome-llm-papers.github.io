@@ -2,12 +2,12 @@
 layout: publication
 title: '12-in-1: Multi-task Vision And Language Representation Learning'
 authors: Jiasen Lu, Vedanuj Goswami, Marcus Rohrbach, Devi Parikh, Stefan Lee
-conference: Arxiv
+conference: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2019
-citations: 223
+citations: 226
 bibkey: lu2019multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.02315'}]
-tags: [RAG, Training Techniques, Tools, Reinforcement Learning]
+tags: [Tools, Training Techniques, RAG, Reinforcement Learning]
 ---
 Much of vision-and-language research focuses on a small but diverse set of
 independent tasks and supporting datasets often studied in isolation; however,

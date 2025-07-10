@@ -2,12 +2,12 @@
 layout: publication
 title: Fully Quantized Transformer For Machine Translation
 authors: Gabriele Prato, Ella Charlaix, Mehdi Rezagholizadeh
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2019
 citations: 25
 bibkey: prato2019fully
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.10485'}]
-tags: [Efficiency and Optimization, Transformer, Model Architecture, Quantization]
+tags: [Transformer, Efficiency and Optimization, Model Architecture, Quantization]
 ---
 State-of-the-art neural machine translation methods employ massive amounts of
 parameters. Drastically reducing computational costs of such methods without

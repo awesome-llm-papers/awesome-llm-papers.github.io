@@ -2,14 +2,15 @@
 layout: publication
 title: 'Openprompt: An Open-source Framework For Prompt-learning'
 authors: Ning Ding et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics: System Demonstrations'
 year: 2021
-citations: 96
+citations: 99
 bibkey: ding2021open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.01998'}, {name: Code,
     url: 'https://github.com/thunlp/OpenPrompt'}]
-tags: [GPT, Tools, Reinforcement Learning, Efficiency and Optimization, Has Code,
-  Applications, Prompting, Language Modeling]
+tags: [Language Modeling, Has Code, Applications, Reinforcement Learning, Tools, Prompting,
+  Efficiency and Optimization, GPT]
 ---
 Prompt-learning has become a new paradigm in modern natural language
 processing, which directly adapts pre-trained language models (PLMs) to

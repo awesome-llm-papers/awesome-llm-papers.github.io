@@ -5,10 +5,10 @@ title: 'Transformers Are Ssms: Generalized Models And Efficient Algorithms Throu
 authors: Tri Dao, Albert Gu
 conference: Arxiv
 year: 2024
-citations: 15
+citations: 16
 bibkey: dao2024transformers
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2405.21060v1'}]
-tags: [Transformer, Attention Mechanism, Tools, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Tools]
 ---
 While Transformers have been the main architecture behind deep learning's
 success in language modeling, state-space models (SSMs) such as Mamba have

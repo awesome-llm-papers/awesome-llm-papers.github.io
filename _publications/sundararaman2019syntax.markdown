@@ -8,8 +8,8 @@ year: 2019
 citations: 41
 bibkey: sundararaman2019syntax
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.06156'}]
-tags: [Training Techniques, Transformer, RAG, Fine-Tuning, Reinforcement Learning,
-  Attention Mechanism, BERT, WMT, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, WMT, RAG, Fine-Tuning,
+  Reinforcement Learning, BERT, Training Techniques, Evaluation]
 ---
 Attention-based models have shown significant improvement over traditional
 algorithms in several NLP tasks. The Transformer, for instance, is an

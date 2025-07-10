@@ -2,12 +2,12 @@
 layout: publication
 title: 'Deceptive AI Ecosystems: The Case Of Chatgpt'
 authors: Xiao Zhan, Yifan Xu, Stefan Sarkadi
-conference: Arxiv
+conference: 'CUI ''23: ACM conference on Conversational User Interfaces'
 year: 2023
-citations: 20
+citations: 22
 bibkey: zhan2023deceptive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.13671'}]
-tags: [Model Architecture, GPT, Tools, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, Model Architecture, GPT]
 ---
 ChatGPT, an AI chatbot, has gained popularity for its capability in
 generating human-like responses. However, this feature carries several risks,

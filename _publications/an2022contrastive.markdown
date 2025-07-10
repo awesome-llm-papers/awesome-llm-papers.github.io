@@ -7,8 +7,8 @@ year: 2022
 citations: 20
 bibkey: an2022contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.14690'}]
-tags: [Ethics and Bias, Training Techniques, Tools, Reinforcement Learning, Language
-    Modeling]
+tags: [Language Modeling, Ethics and Bias, Reinforcement Learning, Tools, Training
+    Techniques, Evaluation]
 ---
 Recently, contrastive learning attracts increasing interests in neural text
 generation as a new solution to alleviate the exposure bias problem. It

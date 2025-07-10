@@ -3,12 +3,12 @@ layout: publication
 title: Chatgpt Chemistry Assistant For Text Mining And Prediction Of MOF Synthesis
 authors: Zhiling Zheng, Oufan Zhang, Christian Borgs, Jennifer T. Chayes, Omar M.
   Yaghi
-conference: J. Am. Chem. Soc. 2023 145 32 18048-18062
+conference: Journal of the American Chemical Society
 year: 2023
-citations: 241
+citations: 255
 bibkey: zheng2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.11296'}]
-tags: [Tools, Model Architecture, GPT, Prompting]
+tags: [Tools, GPT, Prompting, Model Architecture]
 ---
 We use prompt engineering to guide ChatGPT in the automation of text mining
 of metal-organic frameworks (MOFs) synthesis conditions from diverse formats

@@ -8,7 +8,7 @@ year: 2022
 citations: 16
 bibkey: ruis2022goldilocks
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.14986'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Reinforcement Learning, Agentic]
+tags: [Fine-Tuning, RAG, Reinforcement Learning, Agentic, Training Techniques, Evaluation]
 ---
 Despite widespread use of LLMs as conversational agents, evaluations of
 performance fail to capture a crucial aspect of communication: interpreting

@@ -3,12 +3,13 @@ layout: publication
 title: Multimodal Transformer With Variable-length Memory For Vision-and-language
   Navigation
 authors: Chuang Lin et al.
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2021
-citations: 17
+citations: 18
 bibkey: lin2021multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.05759'}]
-tags: [Transformer, Attention Mechanism, Agentic, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Multimodal Models, Agentic,
+  Evaluation]
 ---
 Vision-and-Language Navigation (VLN) is a task that an agent is required to
 follow a language instruction to navigate to the goal position, which relies on

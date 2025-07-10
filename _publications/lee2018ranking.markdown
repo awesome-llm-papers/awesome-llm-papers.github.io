@@ -2,7 +2,8 @@
 layout: publication
 title: Ranking Paragraphs For Improving Answer Recall In Open-domain Question Answering
 authors: Jinhyuk Lee, Seongjun Yun, Hyunjae Kim, Miyoung Ko, Jaewoo Kang
-conference: Arxiv
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2018
 citations: 34
 bibkey: lee2018ranking

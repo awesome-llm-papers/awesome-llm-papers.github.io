@@ -2,13 +2,13 @@
 layout: publication
 title: Sustainable Modular Debiasing Of Language Models
 authors: "Anne Lauscher, Tobias L\xFCken, Goran Glava\u0161"
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
 year: 2021
-citations: 19
+citations: 22
 bibkey: lauscher2021sustainable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.03646'}]
-tags: [Ethics and Bias, Training Techniques, BERT, Fairness, Bias Mitigation, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Ethics and Bias, Fairness, Bias Mitigation,
+  Training Techniques, BERT, Evaluation]
 ---
 Unfair stereotypical biases (e.g., gender, racial, or religious biases)
 encoded in modern pretrained language models (PLMs) have negative ethical

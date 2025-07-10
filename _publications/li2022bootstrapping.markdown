@@ -5,11 +5,11 @@ title: 'BLIP: Bootstrapping Language-image Pre-training For Unified Vision-langu
 authors: Junnan Li, Dongxu Li, Caiming Xiong, Steven Hoi
 conference: Arxiv
 year: 2022
-citations: 540
+citations: 541
 bibkey: li2022bootstrapping
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.12086'}, {name: Code,
     url: 'https://github.com/salesforce/BLIP'}]
-tags: [Training Techniques, RAG, Pre-Training, Tools, Has Code, Multimodal Models]
+tags: [Has Code, RAG, Tools, Multimodal Models, Pre-Training, Training Techniques]
 ---
 Vision-Language Pre-training (VLP) has advanced the performance for many
 vision-language tasks. However, most existing pre-trained models only excel in

@@ -2,12 +2,13 @@
 layout: publication
 title: A Survey On Model Compression And Acceleration For Pretrained Language Models
 authors: Canwen Xu, Julian Mcauley
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2022
-citations: 21
+citations: 23
 bibkey: xu2022survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.07105'}]
-tags: [Training Techniques, Transformer, Survey Paper, Model Architecture, Quantization]
+tags: [Model Architecture, Transformer, Quantization, Survey Paper, Training Techniques,
+  Evaluation]
 ---
 Despite achieving state-of-the-art performance on many NLP tasks, the high
 energy cost and long inference delay prevent Transformer-based pretrained

@@ -7,7 +7,7 @@ year: 2022
 citations: 136
 bibkey: izacard2022few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.03299'}]
-tags: [Few-Shot, Training Techniques]
+tags: [Training Techniques, Few-Shot, Evaluation]
 ---
 Large language models have shown impressive few-shot results on a wide range
 of tasks. However, when knowledge is key for such results, as is the case for

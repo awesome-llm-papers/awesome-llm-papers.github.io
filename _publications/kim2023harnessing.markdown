@@ -3,13 +3,12 @@ layout: publication
 title: 'Mindfuldiary: Harnessing Large Language Model To Support Psychiatric Patients''
   Journaling'
 authors: Taewan Kim et al.
-conference: In Proceedings of the CHI Conference on Human Factors in Computing Systems
-  (CHI 24) May 11-16 2024 Honolulu HI USA. ACM New York NY USA
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 40
+citations: 48
 bibkey: kim2023harnessing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.05231'}]
-tags: [RAG, Reinforcement Learning]
+tags: [Reinforcement Learning, RAG]
 ---
 In the mental health domain, Large Language Models (LLMs) offer promising new
 opportunities, though their inherent complexity and low controllability have

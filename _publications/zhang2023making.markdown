@@ -2,14 +2,14 @@
 layout: publication
 title: Making Large Language Models Perform Better In Knowledge Graph Completion
 authors: Yichi Zhang et al.
-conference: Arxiv
+conference: 'MM ''24: The 32nd ACM International Conference on Multimedia'
 year: 2023
-citations: 20
+citations: 21
 bibkey: zhang2023making
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.06671'}, {name: Code,
     url: 'https://github.com/zjukg/KoPA'}]
-tags: [Training Techniques, Pre-Training, Reinforcement Learning, In-Context Learning,
-  Has Code, Prompting, Multimodal Models]
+tags: [Has Code, Reinforcement Learning, In-Context Learning, Multimodal Models, Prompting,
+  Pre-Training, Training Techniques]
 ---
 Large language model (LLM) based knowledge graph completion (KGC) aims to
 predict the missing triples in the KGs with LLMs. However, research about

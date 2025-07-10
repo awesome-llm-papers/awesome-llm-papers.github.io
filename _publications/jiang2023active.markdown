@@ -2,13 +2,14 @@
 layout: publication
 title: Active Retrieval Augmented Generation
 authors: Zhengbao Jiang et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 99
+citations: 106
 bibkey: jiang2023active
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.06983'}, {name: Code,
     url: 'https://github.com/jzbjyb/FLARE'}]
-tags: [Has Code, Uncategorized]
+tags: [Uncategorized, Has Code]
 ---
 Despite the remarkable ability of large language models (LMs) to comprehend
 and generate language, they have a tendency to hallucinate and create factually

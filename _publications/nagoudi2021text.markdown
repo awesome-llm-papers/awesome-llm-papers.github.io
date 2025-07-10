@@ -2,13 +2,15 @@
 layout: publication
 title: 'Arat5: Text-to-text Transformers For Arabic Language Generation'
 authors: El Moatez Billah Nagoudi, Abdelrahim Elmadany, Muhammad Abdul-mageed
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
 citations: 40
 bibkey: nagoudi2021text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.12068'}, {name: Code,
     url: 'https://github.com/UBC-NLP/araT5'}]
-tags: [Transformer, Fine-Tuning, Tools, Reinforcement Learning, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Fine-Tuning, Tools, Reinforcement
+    Learning, Evaluation]
 ---
 Transfer learning with a unified Transformer framework (T5) that converts all
 language problems into a text-to-text format was recently proposed as a simple

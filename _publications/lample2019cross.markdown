@@ -4,10 +4,10 @@ title: Cross-lingual Language Model Pretraining
 authors: Guillaume Lample, Alexis Conneau
 conference: Arxiv
 year: 2019
-citations: 1740
+citations: 1742
 bibkey: lample2019cross
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1901.07291'}]
-tags: [RAG, Efficiency and Optimization, Training Techniques, WMT]
+tags: [Training Techniques, Efficiency and Optimization, WMT, RAG]
 ---
 Recent studies have demonstrated the efficiency of generative pretraining for
 English natural language understanding. In this work, we extend this approach

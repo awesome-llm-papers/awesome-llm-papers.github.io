@@ -2,13 +2,13 @@
 layout: publication
 title: Large Language Model Augmented Narrative Driven Recommendations
 authors: Sheshera Mysore, Andrew Mccallum, Hamed Zamani
-conference: Arxiv
+conference: 'RecSys ''23: Seventeenth ACM Conference on Recommender Systems'
 year: 2023
-citations: 22
+citations: 23
 bibkey: mysore2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.02250'}]
-tags: [Training Techniques, Few-Shot, Tools, Reinforcement Learning, In-Context Learning,
-  Prompting]
+tags: [Few-Shot, Tools, Reinforcement Learning, Prompting, In-Context Learning, Training
+    Techniques]
 ---
 Narrative-driven recommendation (NDR) presents an information access problem
 where users solicit recommendations with verbose descriptions of their

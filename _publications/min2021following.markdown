@@ -8,7 +8,7 @@ year: 2021
 citations: 52
 bibkey: min2021following
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.07342'}]
-tags: [RAG, Fine-Tuning, Multimodal Models]
+tags: [Fine-Tuning, Multimodal Models, RAG]
 ---
 Recent methods for embodied instruction following are typically trained
 end-to-end using imitation learning. This often requires the use of expert

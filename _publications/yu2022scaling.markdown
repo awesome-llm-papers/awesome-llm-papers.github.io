@@ -8,8 +8,8 @@ citations: 275
 bibkey: yu2022scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.10789'}, {name: Code,
     url: 'https://parti.research.google/'}]
-tags: [GPT, Transformer, Reinforcement Learning, Has Code, Prompting, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Transformer, Reinforcement
+    Learning, Prompting, GPT, Time Series, Evaluation]
 ---
 We present the Pathways Autoregressive Text-to-Image (Parti) model, which
 generates high-fidelity photorealistic images and supports content-rich

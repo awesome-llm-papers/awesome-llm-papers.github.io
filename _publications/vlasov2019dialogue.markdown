@@ -7,7 +7,7 @@ year: 2019
 citations: 32
 bibkey: vlasov2019dialogue
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.00486'}]
-tags: [Attention Mechanism, Transformer, Model Architecture, Reinforcement Learning]
+tags: [Transformer, Reinforcement Learning, Model Architecture, Attention Mechanism]
 ---
 We introduce a dialogue policy based on a transformer architecture, where the
 self-attention mechanism operates over the sequence of dialogue turns. Recent

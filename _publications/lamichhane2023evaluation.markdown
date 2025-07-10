@@ -7,7 +7,7 @@ year: 2023
 citations: 33
 bibkey: lamichhane2023evaluation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.15727'}]
-tags: [GPT, Tools, Applications, Prompting, Model Architecture]
+tags: [Model Architecture, Applications, Tools, Prompting, GPT, Evaluation]
 ---
 Large language models (LLM) have been successful in several natural language
 understanding tasks and could be relevant for natural language processing

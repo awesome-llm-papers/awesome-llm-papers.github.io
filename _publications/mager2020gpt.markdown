@@ -2,12 +2,14 @@
 layout: publication
 title: 'Gpt-too: A Language-model-first Approach For Amr-to-text Generation'
 authors: Manuel Mager et al.
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
 citations: 18
 bibkey: mager2020gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.09123'}]
-tags: [Training Techniques, Transformer, GPT, RAG, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Transformer, RAG, Training Techniques,
+  Evaluation]
 ---
 Meaning Representations (AMRs) are broad-coverage sentence-level semantic
 graphs. Existing approaches to generating text from AMR have focused on

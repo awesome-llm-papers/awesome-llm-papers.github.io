@@ -2,13 +2,13 @@
 layout: publication
 title: Large Language Models Are Better Reasoners With Self-verification
 authors: Yixuan Weng et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2022
-citations: 29
+citations: 30
 bibkey: weng2022large
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2212.09561v5'}, {name: Code,
     url: 'https://github.com/WENGSYX/Self-Verification'}]
-tags: [Has Code, GPT, Model Architecture, Prompting]
+tags: [Has Code, GPT, Prompting, Model Architecture]
 ---
 Recently, with the chain of thought (CoT) prompting, large language models
 (LLMs), e.g., GPT-3, have shown strong reasoning ability in several natural

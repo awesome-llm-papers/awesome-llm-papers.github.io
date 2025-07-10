@@ -3,13 +3,13 @@ layout: publication
 title: 'Delta Tuning: A Comprehensive Study Of Parameter Efficient Methods For Pre-trained
   Language Models'
 authors: Ning Ding et al.
-conference: Arxiv
+conference: Springer Science and Business Media LLC
 year: 2022
-citations: 36
+citations: 38
 bibkey: ding2022delta
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.06904'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Tools, Reinforcement Learning, Efficiency
-    and Optimization, Survey Paper]
+tags: [Fine-Tuning, RAG, Survey Paper, Reinforcement Learning, Tools, Efficiency and
+    Optimization, Training Techniques]
 ---
 Despite the success, the process of fine-tuning large-scale PLMs brings
 prohibitive adaptation costs. In fact, fine-tuning all the parameters of a

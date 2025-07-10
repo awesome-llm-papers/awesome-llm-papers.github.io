@@ -3,13 +3,14 @@ layout: publication
 title: 'Pixart-\sigma: Weak-to-strong Training Of Diffusion Transformer For 4K Text-to-image
   Generation'
 authors: Junsong Chen et al.
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2024
-citations: 19
+citations: 21
 bibkey: chen2024pixart
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.04692'}]
-tags: [Training Techniques, Transformer, Merging, RAG, Pre-Training, Tools, Reinforcement
-    Learning, Attention Mechanism, Efficiency and Optimization, Prompting, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, Tools, Reinforcement
+    Learning, Prompting, Pre-Training, Efficiency and Optimization, Training Techniques,
+  Merging]
 ---
 In this paper, we introduce PixArt-\Sigma, a Diffusion Transformer
 model~(DiT) capable of directly generating images at 4K resolution.

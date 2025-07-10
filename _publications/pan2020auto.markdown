@@ -9,8 +9,8 @@ citations: 25
 bibkey: pan2020auto
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.02375'}, {name: Code,
     url: 'http://www.auto-video-captions.top/2020/dataset'}]
-tags: [Training Techniques, Transformer, Pre-Training, Has Code, Multimodal Models,
-  Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Multimodal Models, Pre-Training,
+  Training Techniques, Evaluation]
 ---
 In this work, we present Auto-captions on GIF, which is a new large-scale
 pre-training dataset for generic video understanding. All video-sentence pairs

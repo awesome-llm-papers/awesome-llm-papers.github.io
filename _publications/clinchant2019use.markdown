@@ -7,7 +7,7 @@ year: 2019
 citations: 100
 bibkey: clinchant2019use
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.12744'}]
-tags: [Training Techniques, BERT, SLT, Security, WMT, Model Architecture]
+tags: [Security, Model Architecture, WMT, SLT, BERT, Training Techniques, Evaluation]
 ---
 Exploiting large pretrained models for various NMT tasks have gained a lot of
 visibility recently. In this work we study how BERT pretrained models could be

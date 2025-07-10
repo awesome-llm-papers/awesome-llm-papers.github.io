@@ -8,7 +8,7 @@ year: 2021
 citations: 43
 bibkey: sachan2021end
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.05346'}]
-tags: [RAG, Training Techniques]
+tags: [Training Techniques, RAG, Evaluation]
 ---
 We present an end-to-end differentiable training method for
 retrieval-augmented open-domain question answering systems that combine

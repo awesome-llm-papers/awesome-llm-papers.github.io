@@ -7,8 +7,8 @@ year: 2020
 citations: 45
 bibkey: chan2020self
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.03535'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Training
+    Techniques]
 ---
 Pretrained Transformer-based language models (LMs) display remarkable natural
 language generation capabilities. With their immense potential, controlling

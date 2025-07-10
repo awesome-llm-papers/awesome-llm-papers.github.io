@@ -2,12 +2,13 @@
 layout: publication
 title: 'MEGA: Multilingual Evaluation Of Generative AI'
 authors: Kabir Ahuja et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 31
+citations: 37
 bibkey: ahuja2023multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.12528'}]
-tags: [Tools, Model Architecture, GPT]
+tags: [Tools, GPT, Model Architecture, Evaluation]
 ---
 Generative AI models have shown impressive performance on many Natural
 Language Processing tasks such as language understanding, reasoning, and

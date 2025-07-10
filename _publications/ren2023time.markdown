@@ -3,12 +3,12 @@ layout: publication
 title: 'Timechat: A Time-sensitive Multimodal Large Language Model For Long Video
   Understanding'
 authors: Shuhuai Ren, Linli Yao, Shicheng Li, Xu Sun, Lu Hou
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 19
+citations: 20
 bibkey: ren2023time
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.02051'}]
-tags: [Fine-Tuning, Multimodal Models]
+tags: [Multimodal Models, Fine-Tuning]
 ---
 This work proposes TimeChat, a time-sensitive multimodal large language model
 specifically designed for long video understanding. Our model incorporates two

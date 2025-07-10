@@ -3,12 +3,12 @@ layout: publication
 title: 'Learning To Reason Over Scene Graphs: A Case Study Of Finetuning GPT-2 Into
   A Robot Language Model For Grounded Task Planning'
 authors: Georgia Chalvatzaki et al.
-conference: Arxiv
+conference: Frontiers in Robotics and AI
 year: 2023
 citations: 15
 bibkey: chalvatzaki2023learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.07716'}]
-tags: [GPT, Model Architecture]
+tags: [GPT, Model Architecture, Evaluation]
 ---
 Long-horizon task planning is essential for the development of intelligent
 assistive and service robots. In this work, we investigate the applicability of

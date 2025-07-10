@@ -2,14 +2,15 @@
 layout: publication
 title: A Length-extrapolatable Transformer
 authors: Yutao Sun et al.
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
 citations: 19
 bibkey: sun2022length
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10554'}, {name: Code,
     url: 'https://aka.ms/LeX-Transformer'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, Has Code, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Attention Mechanism, Transformer,
+  Training Techniques]
 ---
 Position modeling plays a critical role in Transformers. In this paper, we
 focus on length extrapolation, i.e., training on short texts while evaluating

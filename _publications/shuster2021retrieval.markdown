@@ -2,12 +2,12 @@
 layout: publication
 title: Retrieval Augmentation Reduces Hallucination In Conversation
 authors: Kurt Shuster, Spencer Poff, Moya Chen, Douwe Kiela, Jason Weston
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
 year: 2021
-citations: 157
+citations: 165
 bibkey: shuster2021retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.07567'}]
-tags: [Training Techniques, Model Architecture]
+tags: [Training Techniques, Model Architecture, Evaluation]
 ---
 Despite showing increasingly human-like conversational abilities,
 state-of-the-art dialogue models often suffer from factual incorrectness and

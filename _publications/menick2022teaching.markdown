@@ -7,7 +7,7 @@ year: 2022
 citations: 40
 bibkey: menick2022teaching
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.11147'}]
-tags: [Reinforcement Learning, Security, Agentic, Responsible AI]
+tags: [Responsible AI, Security, Reinforcement Learning, Agentic, Evaluation]
 ---
 Recent large language models often answer factual questions correctly. But
 users can't trust any given claim a model makes without fact-checking, because

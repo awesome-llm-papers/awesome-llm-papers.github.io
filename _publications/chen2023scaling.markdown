@@ -3,13 +3,13 @@ layout: publication
 title: 'Internvl: Scaling Up Vision Foundation Models And Aligning For Generic Visual-linguistic
   Tasks'
 authors: Zhe Chen et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 61
+citations: 69
 bibkey: chen2023scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.14238'}, {name: Code,
     url: 'https://github.com/OpenGVLab/InternVL'}]
-tags: [Has Code, Multimodal Models]
+tags: [Has Code, Multimodal Models, Evaluation]
 ---
 The exponential growth of large language models (LLMs) has opened up numerous
 possibilities for multimodal AGI systems. However, the progress in vision and

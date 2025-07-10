@@ -9,8 +9,8 @@ citations: 20
 bibkey: lian2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.13655'}, {name: Code,
     url: 'https://llm-grounded-diffusion.github.io'}]
-tags: [Merging, RAG, Reinforcement Learning, Efficiency and Optimization, Has Code,
-  Prompting]
+tags: [Has Code, RAG, Reinforcement Learning, Prompting, Efficiency and Optimization,
+  Evaluation, Merging]
 ---
 Recent advancements in text-to-image diffusion models have yielded impressive
 results in generating realistic and diverse images. However, these models still

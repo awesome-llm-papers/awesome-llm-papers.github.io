@@ -3,13 +3,13 @@ layout: publication
 title: '"do Anything Now": Characterizing And Evaluating In-the-wild Jailbreak Prompts
   On Large Language Models'
 authors: Xinyue Shen, Zeyuan Chen, Michael Backes, Yun Shen, Yang Zhang
-conference: Arxiv
+conference: 'CCS ''24: ACM SIGSAC Conference on Computer and Communications Security'
 year: 2023
-citations: 37
+citations: 44
 bibkey: shen2023anything
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.03825'}]
-tags: [GPT, RAG, Attention Mechanism, Reinforcement Learning, Tools, Security, Prompting,
-  Model Architecture]
+tags: [Security, Model Architecture, Attention Mechanism, RAG, Tools, Reinforcement
+    Learning, Prompting, GPT]
 ---
 The misuse of large language models (LLMs) has drawn significant attention
 from the general public and LLM vendors. One particular type of adversarial

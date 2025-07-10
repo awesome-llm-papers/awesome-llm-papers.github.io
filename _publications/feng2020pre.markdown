@@ -2,13 +2,13 @@
 layout: publication
 title: 'Codebert: A Pre-trained Model For Programming And Natural Languages'
 authors: Zhangyin Feng et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
-citations: 1254
+citations: 1324
 bibkey: feng2020pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.08155'}]
-tags: [Training Techniques, Transformer, Pre-Training, Fine-Tuning, Reinforcement
-    Learning, BERT, Applications, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, Applications, Reinforcement Learning,
+  Pre-Training, BERT, Training Techniques]
 ---
 We present CodeBERT, a bimodal pre-trained model for programming language
 (PL) and nat-ural language (NL). CodeBERT learns general-purpose

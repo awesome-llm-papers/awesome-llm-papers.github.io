@@ -4,12 +4,12 @@ title: '"it''s Not Like Jarvis, But It''s Pretty Close!" -- Examining Chatgpt''s
   Among Undergraduate Students In Computer Science'
 authors: Ishika Joshi, Ritvik Budhiraja, Harshal D Akolekar, Jagat Sesh Challa, Dhruv
   Kumar
-conference: Arxiv
+conference: 'ACE 2024: Australian Computing Education Conference'
 year: 2023
-citations: 17
+citations: 19
 bibkey: joshi2023not
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.09651'}]
-tags: [GPT, Attention Mechanism, Applications, Survey Paper, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Applications, Survey Paper, GPT, Evaluation]
 ---
 Large language models (LLMs) such as ChatGPT and Google Bard have garnered
 significant attention in the academic community. Previous research has

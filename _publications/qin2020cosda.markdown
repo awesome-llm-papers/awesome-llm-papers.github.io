@@ -3,12 +3,14 @@ layout: publication
 title: 'Cosda-ml: Multi-lingual Code-switching Data Augmentation For Zero-shot Cross-lingual
   NLP'
 authors: Libo Qin, Minheng Ni, Yue Zhang, Wanxiang Che
-conference: Arxiv
+conference: Twenty-Ninth International Joint Conference on Artificial Intelligence
+  and Seventeenth Pacific Rim International Conference on Artificial Intelligence
+  {IJCAI-PRICAI-20}
 year: 2020
 citations: 44
 bibkey: qin2020cosda
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.06402'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Tools, BERT, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, Tools, BERT, Training Techniques]
 ---
 Multi-lingual contextualized embeddings, such as multilingual-BERT (mBERT),
 have shown success in a variety of zero-shot cross-lingual tasks. However,

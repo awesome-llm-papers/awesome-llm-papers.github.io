@@ -2,12 +2,12 @@
 layout: publication
 title: 'Recmind: Large Language Model Powered Agent For Recommendation'
 authors: Yancheng Wang et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: NAACL 2024'
 year: 2023
 citations: 24
 bibkey: wang2023large
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2308.14296v3'}]
-tags: [RAG, Few-Shot, Tools, Agentic]
+tags: [Agentic, Tools, Few-Shot, RAG]
 ---
 While the recommendation system (RS) has advanced significantly through deep
 learning, current RS approaches usually train and fine-tune models on

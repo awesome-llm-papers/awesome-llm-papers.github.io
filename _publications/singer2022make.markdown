@@ -7,8 +7,8 @@ year: 2022
 citations: 239
 bibkey: singer2022make
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.14792'}]
-tags: [Training Techniques, Attention Mechanism, Reinforcement Learning, Applications,
-  Multimodal Models, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Applications, Reinforcement Learning,
+  Multimodal Models, Training Techniques]
 ---
 We propose Make-A-Video -- an approach for directly translating the
 tremendous recent progress in Text-to-Image (T2I) generation to Text-to-Video

@@ -8,7 +8,8 @@ year: 2021
 citations: 73
 bibkey: solaiman2021process
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.10328'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Fine-Tuning, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, Fine-Tuning, Training Techniques,
+  Evaluation]
 ---
 Language models can generate harmful and biased outputs and exhibit
 undesirable behavior according to a given cultural context. We propose a

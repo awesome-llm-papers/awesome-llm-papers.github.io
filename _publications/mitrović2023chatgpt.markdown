@@ -8,8 +8,8 @@ year: 2023
 citations: 65
 bibkey: "mitrovi\u01072023chatgpt"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.13852'}]
-tags: [GPT, Transformer, Tools, Interpretability and Explainability, Applications,
-  Model Architecture]
+tags: [Model Architecture, Transformer, Applications, Interpretability and Explainability,
+  Tools, GPT]
 ---
 ChatGPT has the ability to generate grammatically flawless and
 seemingly-human replies to different types of questions from various domains.

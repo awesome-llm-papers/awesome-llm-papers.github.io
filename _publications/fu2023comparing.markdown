@@ -3,12 +3,12 @@ layout: publication
 title: Comparing Sentence-level Suggestions To Message-level Suggestions In Ai-mediated
   Communication
 authors: Liye Fu, Benjamin Newman, Maurice Jakesch, Sarah Kreps
-conference: Arxiv
+conference: 'CHI ''23: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 15
+citations: 16
 bibkey: fu2023comparing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.13382'}]
-tags: [Reinforcement Learning, Model Architecture, GPT]
+tags: [Reinforcement Learning, GPT, Model Architecture]
 ---
 Traditionally, writing assistance systems have focused on short or even
 single-word suggestions. Recently, large language models like GPT-3 have made

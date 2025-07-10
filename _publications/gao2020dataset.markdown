@@ -7,7 +7,8 @@ year: 2020
 citations: 454
 bibkey: gao2020dataset
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00027'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Fine-Tuning, Training Techniques,
+  Evaluation]
 ---
 Recent work has demonstrated that increased training dataset diversity
 improves general cross-domain knowledge and downstream generalization

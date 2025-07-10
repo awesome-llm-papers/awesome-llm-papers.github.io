@@ -9,8 +9,8 @@ citations: 19
 bibkey: lin2023joint
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.07575'}, {name: Code,
     url: 'https://github.com/Alpha-VLLM/LLaMA2-Accessory'}]
-tags: [Training Techniques, Pre-Training, Fine-Tuning, Reinforcement Learning, Has
-    Code, Applications, Security, Multimodal Models, Model Architecture]
+tags: [Security, Has Code, Model Architecture, Fine-Tuning, Applications, Reinforcement
+    Learning, Multimodal Models, Pre-Training, Training Techniques, Evaluation]
 ---
 We present SPHINX, a versatile multi-modal large language model (MLLM) with a
 joint mixing of model weights, tuning tasks, and visual embeddings. First, for

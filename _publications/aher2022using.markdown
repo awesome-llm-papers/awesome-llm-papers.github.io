@@ -5,10 +5,10 @@ title: Using Large Language Models To Simulate Multiple Humans And Replicate Hum
 authors: Gati Aher, Rosa I. Arriaga, Adam Tauman Kalai
 conference: Arxiv
 year: 2022
-citations: 69
+citations: 70
 bibkey: aher2022using
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.10264'}]
-tags: [Applications, Model Architecture, GPT]
+tags: [GPT, Model Architecture, Applications]
 ---
 We introduce a new type of test, called a Turing Experiment (TE), for
 evaluating to what extent a given language model, such as GPT models, can

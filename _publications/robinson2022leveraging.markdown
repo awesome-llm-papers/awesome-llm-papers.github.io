@@ -7,7 +7,7 @@ year: 2022
 citations: 34
 bibkey: robinson2022leveraging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.12353'}]
-tags: [GPT, RAG, Few-Shot, Prompting, Model Architecture, Tokenization]
+tags: [Tokenization, Model Architecture, Few-Shot, RAG, Prompting, GPT]
 ---
 While large language models (LLMs) like GPT-3 have achieved impressive
 results on multiple choice question answering (MCQA) tasks in the zero, one,

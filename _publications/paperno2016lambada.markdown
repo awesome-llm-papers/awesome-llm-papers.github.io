@@ -2,12 +2,13 @@
 layout: publication
 title: 'The LAMBADA Dataset: Word Prediction Requiring A Broad Discourse Context'
 authors: Denis Paperno et al.
-conference: Arxiv
+conference: 'Proceedings of the 54th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2016
-citations: 62
+citations: 68
 bibkey: paperno2016lambada
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.06031'}]
-tags: [RAG]
+tags: [RAG, Evaluation]
 ---
 We introduce LAMBADA, a dataset to evaluate the capabilities of computational
 models for text understanding by means of a word prediction task. LAMBADA is a

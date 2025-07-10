@@ -7,8 +7,7 @@ year: 2021
 citations: 77
 bibkey: huo2021bridging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.06561'}]
-tags: [Training Techniques, Pre-Training, Tools, Reinforcement Learning, Multimodal
-    Models]
+tags: [Tools, Reinforcement Learning, Multimodal Models, Pre-Training, Training Techniques]
 ---
 Multi-modal pre-training models have been intensively explored to bridge
 vision and language in recent years. However, most of them explicitly model the

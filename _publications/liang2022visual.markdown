@@ -2,13 +2,14 @@
 layout: publication
 title: Visual-language Navigation Pretraining Via Prompt-based Environmental Self-exploration
 authors: Xiwen Liang, Fengda Zhu, Lingling Li, Hang Xu, Xiaodan Liang
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
 citations: 15
 bibkey: liang2022visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.04006'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Efficiency and Optimization, Prompting,
-  Multimodal Models]
+tags: [Fine-Tuning, RAG, Multimodal Models, Prompting, Efficiency and Optimization,
+  Training Techniques]
 ---
 Vision-language navigation (VLN) is a challenging task due to its large
 searching space in the environment. To address this problem, previous works

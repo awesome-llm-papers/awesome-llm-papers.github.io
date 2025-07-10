@@ -3,12 +3,12 @@ layout: publication
 title: 'Camembert: A Tasty French Language Model'
 authors: Louis Martin et al.
 conference: Proceedings of the 58th Annual Meeting of the Association for Computational
-  Linguistics July 2020 Online
+  Linguistics
 year: 2019
-citations: 299
+citations: 302
 bibkey: martin2019tasty
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03894'}]
-tags: [Training Techniques, Transformer, Model Architecture, BERT]
+tags: [Transformer, Training Techniques, Model Architecture, BERT]
 ---
 Pretrained language models are now ubiquitous in Natural Language Processing.
 Despite their success, most available models have either been trained on

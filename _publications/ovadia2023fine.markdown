@@ -2,12 +2,13 @@
 layout: publication
 title: Fine-tuning Or Retrieval? Comparing Knowledge Injection In Llms
 authors: Oded Ovadia, Menachem Brief, Moshik Mishaeli, Oren Elisha
-conference: Arxiv
+conference: Proceedings of the 2024 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 24
+citations: 27
 bibkey: ovadia2023fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.05934'}]
-tags: [RAG, Fine-Tuning, Training Techniques]
+tags: [Training Techniques, Fine-Tuning, RAG]
 ---
 Large language models (LLMs) encapsulate a vast amount of factual information
 within their pre-trained weights, as evidenced by their ability to answer

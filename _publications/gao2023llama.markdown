@@ -4,12 +4,12 @@ title: 'Llama-adapter V2: Parameter-efficient Visual Instruction Model'
 authors: Peng Gao et al.
 conference: Arxiv
 year: 2023
-citations: 96
+citations: 98
 bibkey: gao2023llama
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.15010'}, {name: Code,
     url: 'https://github.com/ZrrSkywalker/LLaMA-Adapter'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Merging, Tools, Reinforcement Learning,
-  Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Ethics and Bias, GPT, Tools, Reinforcement Learning,
+  Training Techniques, Merging]
 ---
 How to efficiently transform large language models (LLMs) into instruction
 followers is recently a popular research direction, while training LLM for

@@ -3,15 +3,16 @@ layout: publication
 title: 'The Optimal BERT Surgeon: Scalable And Accurate Second-order Pruning For Large
   Language Models'
 authors: Eldar Kurtic et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 25
+citations: 28
 bibkey: kurtic2022optimal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.07259'}, {name: Code,
     url: 'https://github.com/neuralmagic/sparseml/tree/main/research/optimal_BERT_surgeon_oBERT'}]
-tags: [Distillation, Transformer, Training Techniques, Fine-Tuning, Pre-Training,
-  BERT, Efficiency and Optimization, Has Code, Applications, Pruning, Model Architecture,
-  Quantization]
+tags: [Has Code, Model Architecture, Distillation, Transformer, Pruning, Fine-Tuning,
+  Applications, Quantization, Pre-Training, BERT, Efficiency and Optimization, Training
+    Techniques, Evaluation]
 ---
 Transformer-based language models have become a key building block for
 natural language processing. While these models are extremely accurate, they

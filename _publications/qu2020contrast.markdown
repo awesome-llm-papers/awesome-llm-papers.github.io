@@ -8,8 +8,8 @@ year: 2020
 citations: 35
 bibkey: qu2020contrast
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.08670'}]
-tags: [Training Techniques, Transformer, RAG, Tools, BERT, Efficiency and Optimization,
-  Security, Model Architecture]
+tags: [Security, Model Architecture, Transformer, RAG, Tools, BERT, Efficiency and
+    Optimization, Training Techniques, Evaluation]
 ---
 Data augmentation has been demonstrated as an effective strategy for
 improving model generalization and data efficiency. However, due to the

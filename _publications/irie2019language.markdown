@@ -2,13 +2,13 @@
 layout: publication
 title: Language Modeling With Deep Transformers
 authors: "Kazuki Irie, Albert Zeyer, Ralf Schl\xFCter, Hermann Ney"
-conference: Arxiv
+conference: Interspeech 2019
 year: 2019
 citations: 82
 bibkey: irie2019language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.04226'}]
-tags: [GPT, Transformer, Merging, INTERSPEECH, Attention Mechanism, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, GPT,
+  INTERSPEECH, Merging]
 ---
 We explore deep autoregressive Transformer models in language modeling for
 speech recognition. We focus on two aspects. First, we revisit Transformer

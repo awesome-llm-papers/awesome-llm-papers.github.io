@@ -2,12 +2,13 @@
 layout: publication
 title: Making Large Language Models Better Reasoners With Step-aware Verifier
 authors: Yifei Li et al.
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 26
+citations: 27
 bibkey: li2022making
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2206.02336v3'}]
-tags: [Few-Shot, GPT, Model Architecture, Prompting]
+tags: [Model Architecture, Few-Shot, Prompting, GPT, Evaluation]
 ---
 Few-shot learning is a challenging task that requires language models to
 generalize from limited examples. Large language models like GPT-3 and PaLM

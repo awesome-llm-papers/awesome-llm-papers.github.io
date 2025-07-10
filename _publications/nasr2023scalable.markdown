@@ -4,10 +4,10 @@ title: Scalable Extraction Of Training Data From (production) Language Models
 authors: Milad Nasr et al.
 conference: Arxiv
 year: 2023
-citations: 46
+citations: 47
 bibkey: nasr2023scalable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.17035'}]
-tags: [GPT, Training Techniques, Reinforcement Learning, Security, Model Architecture]
+tags: [Security, Model Architecture, GPT, Reinforcement Learning, Training Techniques]
 ---
 This paper studies extractable memorization: training data that an adversary
 can efficiently extract by querying a machine learning model without prior

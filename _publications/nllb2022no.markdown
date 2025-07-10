@@ -8,8 +8,8 @@ citations: 291
 bibkey: nllb2022no
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2207.04672v3'}, {name: Code,
     url: 'https://github.com/facebookresearch/fairseq/tree/nllb'}]
-tags: [KDD, Training Techniques, Fine-Tuning, Responsible AI, Reinforcement Learning,
-  Has Code]
+tags: [Responsible AI, Has Code, Fine-Tuning, Reinforcement Learning, KDD, Training
+    Techniques, Evaluation]
 ---
 Driven by the goal of eradicating language barriers on a global scale,
 machine translation has solidified itself as a key focus of artificial

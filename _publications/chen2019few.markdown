@@ -2,14 +2,15 @@
 layout: publication
 title: Few-shot NLG With Pre-trained Language Model
 authors: Zhiyu Chen, Harini Eavani, Wenhu Chen, Yinyin Liu, William Yang Wang
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 28
 bibkey: chen2019few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.09521'}, {name: Code,
     url: 'https://github.com/czyssrs/Few-Shot-NLG'}]
-tags: [Training Techniques, RAG, Few-Shot, Reinforcement Learning, Has Code, Applications,
-  Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Few-Shot, RAG, Applications,
+  Reinforcement Learning, Training Techniques]
 ---
 Neural-based end-to-end approaches to natural language generation (NLG) from
 structured data or knowledge are data-hungry, making their adoption for

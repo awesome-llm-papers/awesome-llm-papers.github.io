@@ -2,13 +2,13 @@
 layout: publication
 title: A Plug-and-play Method For Controlled Text Generation
 authors: Damian Pascual, Beni Egressy, Clara Meister, Ryan Cotterell, Roger Wattenhofer
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
 year: 2021
-citations: 23
+citations: 24
 bibkey: pascual2021plug
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.09707'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Reinforcement Learning, Prompting, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Fine-Tuning, Reinforcement Learning,
+  Prompting, Training Techniques, Evaluation]
 ---
 Large pre-trained language models have repeatedly shown their ability to
 produce fluent text. Yet even when starting from a prompt, generation can

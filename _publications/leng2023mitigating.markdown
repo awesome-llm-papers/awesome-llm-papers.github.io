@@ -3,12 +3,12 @@ layout: publication
 title: Mitigating Object Hallucinations In Large Vision-language Models Through Visual
   Contrastive Decoding
 authors: Sicong Leng et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
 citations: 20
 bibkey: leng2023mitigating
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2311.16922v1'}]
-tags: [Ethics and Bias, Tools, Training Techniques, Multimodal Models]
+tags: [Ethics and Bias, Tools, Multimodal Models, Training Techniques, Evaluation]
 ---
 Large Vision-Language Models (LVLMs) have advanced considerably, intertwining
 visual recognition and language understanding to generate content that is not

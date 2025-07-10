@@ -2,9 +2,10 @@
 layout: publication
 title: 'Plotmachines: Outline-conditioned Generation With Dynamic Plot State Tracking'
 authors: Hannah Rashkin, Asli Celikyilmaz, Yejin Choi, Jianfeng Gao
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 28
+citations: 29
 bibkey: rashkin2020outline
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.14967'}]
 tags: [GPT, Model Architecture]

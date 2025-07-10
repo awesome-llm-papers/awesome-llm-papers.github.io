@@ -3,13 +3,14 @@ layout: publication
 title: 'Toxigen: A Large-scale Machine-generated Dataset For Adversarial And Implicit
   Hate Speech Detection'
 authors: Thomas Hartvigsen et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 79
+citations: 85
 bibkey: hartvigsen2022large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.09509'}, {name: Code,
     url: 'https://github.com/microsoft/ToxiGen'}]
-tags: [Has Code, Tools, Security, Prompting]
+tags: [Security, Has Code, Tools, Prompting, Evaluation]
 ---
 Toxic language detection systems often falsely flag text that contains
 minority group mentions as toxic, as those groups are often the targets of

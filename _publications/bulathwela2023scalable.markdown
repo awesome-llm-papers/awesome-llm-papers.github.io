@@ -2,12 +2,12 @@
 layout: publication
 title: Scalable Educational Question Generation With Pre-trained Language Models
 authors: Sahan Bulathwela, Hamze Muse, Emine Yilmaz
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2023
-citations: 21
+citations: 22
 bibkey: bulathwela2023scalable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.07871'}]
-tags: [Pre-Training, Training Techniques, Fine-Tuning]
+tags: [Training Techniques, Fine-Tuning, Pre-Training]
 ---
 The automatic generation of educational questions will play a key role in
 scaling online education, enabling self-assessment at scale when a global

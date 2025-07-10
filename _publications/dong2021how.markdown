@@ -7,7 +7,7 @@ year: 2021
 citations: 27
 bibkey: dong2021how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.11668'}]
-tags: [Training Techniques, RAG, Fine-Tuning, BERT, Security, Model Architecture]
+tags: [Security, Model Architecture, Fine-Tuning, RAG, BERT, Training Techniques]
 ---
 The fine-tuning of pre-trained language models has a great success in many
 NLP fields. Yet, it is strikingly vulnerable to adversarial examples, e.g.,

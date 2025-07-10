@@ -8,9 +8,9 @@ year: 2023
 citations: 33
 bibkey: liu2023trustworthy
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.05374'}]
-tags: [Ethics and Bias, GPT, Responsible AI, Interpretability and Explainability,
-  Reinforcement Learning, Model Architecture, Applications, Security, Bias Mitigation,
-  Fairness, TACL, Survey Paper, ACL]
+tags: [Responsible AI, Security, Model Architecture, Ethics and Bias, Fairness, TACL,
+  Applications, ACL, Reinforcement Learning, Interpretability and Explainability,
+  Bias Mitigation, Survey Paper, GPT]
 ---
 Ensuring alignment, which refers to making models behave in accordance with
 human intentions [1,2], has become a critical task before deploying large

@@ -3,12 +3,13 @@ layout: publication
 title: 'Chatgraph: Interpretable Text Classification By Converting Chatgpt Knowledge
   To Graphs'
 authors: Yucheng Shi et al.
-conference: Arxiv
+conference: 2023 IEEE International Conference on Data Mining Workshops (ICDMW)
 year: 2023
-citations: 17
+citations: 18
 bibkey: shi2023interpretable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.03513'}]
-tags: [GPT, RAG, Tools, Interpretability and Explainability, Applications, Model Architecture]
+tags: [Model Architecture, RAG, Applications, Interpretability and Explainability,
+  Tools, GPT]
 ---
 ChatGPT, as a recently launched large language model (LLM), has shown
 superior performance in various natural language processing (NLP) tasks.

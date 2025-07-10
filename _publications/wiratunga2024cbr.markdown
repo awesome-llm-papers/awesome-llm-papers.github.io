@@ -3,12 +3,12 @@ layout: publication
 title: 'CBR-RAG: Case-based Reasoning For Retrieval Augmented Generation In Llms For
   Legal Question Answering'
 authors: Nirmalie Wiratunga et al.
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2024
-citations: 20
+citations: 32
 bibkey: wiratunga2024cbr
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.04302'}]
-tags: [RAG, Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, RAG, Prompting, Evaluation]
 ---
 Retrieval-Augmented Generation (RAG) enhances Large Language Model (LLM)
 output by providing prior knowledge as context to input. This is beneficial for

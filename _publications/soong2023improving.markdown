@@ -3,12 +3,12 @@ layout: publication
 title: Improving Accuracy Of GPT-3/4 Results On Biomedical Data Using A Retrieval-augmented
   Language Model
 authors: David Soong et al.
-conference: PLOS Digit Health 3(8) 2024
+conference: PLOS Digital Health
 year: 2023
-citations: 16
+citations: 17
 bibkey: soong2023improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.17116'}]
-tags: [RAG, Training Techniques, Model Architecture, GPT]
+tags: [Model Architecture, GPT, RAG, Training Techniques, Evaluation]
 ---
 Large language models (LLMs) have made significant advancements in natural
 language processing (NLP). Broad corpora capture diverse patterns but can

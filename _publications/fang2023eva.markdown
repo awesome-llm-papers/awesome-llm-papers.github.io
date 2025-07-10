@@ -2,14 +2,14 @@
 layout: publication
 title: 'EVA-02: A Visual Representation For Neon Genesis'
 authors: Yuxin Fang et al.
-conference: Image and Vision Computing. Volume 149 September 2024 105171
+conference: Image and Vision Computing
 year: 2023
-citations: 37
+citations: 41
 bibkey: fang2023eva
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.11331'}, {name: Code,
     url: 'https://github.com/baaivision/EVA/tree/master/EVA-02'}]
-tags: [Training Techniques, Transformer, Pre-Training, Fine-Tuning, Has Code, Arxiv,
-  Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Fine-Tuning, Arxiv, Pre-Training,
+  Training Techniques]
 ---
 We launch EVA-02, a next-generation Transformer-based visual representation
 pre-trained to reconstruct strong and robust language-aligned vision features

@@ -7,7 +7,7 @@ year: 2019
 citations: 153
 bibkey: qiao2019understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.07531'}]
-tags: [Transformer, RAG, Attention Mechanism, BERT, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, BERT]
 ---
 This paper studies the performances and behaviors of BERT in ranking tasks.
 We explore several different ways to leverage the pre-trained BERT and

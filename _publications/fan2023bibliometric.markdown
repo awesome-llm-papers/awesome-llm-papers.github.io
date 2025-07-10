@@ -2,12 +2,12 @@
 layout: publication
 title: A Bibliometric Review Of Large Language Models Research From 2017 To 2023
 authors: Lizhou Fan et al.
-conference: Arxiv
+conference: ACM Transactions on Intelligent Systems and Technology
 year: 2023
-citations: 61
+citations: 66
 bibkey: fan2023bibliometric
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.02020'}]
-tags: [Applications, Reinforcement Learning, Survey Paper]
+tags: [Survey Paper, Reinforcement Learning, Applications]
 ---
 Large language models (LLMs) are a class of language models that have
 demonstrated outstanding performance across a range of natural language

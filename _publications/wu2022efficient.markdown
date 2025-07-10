@@ -2,14 +2,15 @@
 layout: publication
 title: An Efficient Memory-augmented Transformer For Knowledge-intensive NLP Tasks
 authors: Yuxiang Wu et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 15
+citations: 16
 bibkey: wu2022efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.16773'}, {name: Code,
     url: 'https://github'}]
-tags: [Training Techniques, Transformer, RAG, Pre-Training, Efficiency and Optimization,
-  Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, RAG, Pre-Training, Efficiency and
+    Optimization, Training Techniques]
 ---
 Access to external knowledge is essential for many natural language
 processing tasks, such as question answering and dialogue. Existing methods

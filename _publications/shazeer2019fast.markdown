@@ -7,7 +7,7 @@ year: 2019
 citations: 55
 bibkey: shazeer2019fast
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.02150'}]
-tags: [Attention Mechanism, Transformer, Model Architecture, Training Techniques]
+tags: [Transformer, Training Techniques, Model Architecture, Attention Mechanism]
 ---
 Multi-head attention layers, as used in the Transformer neural sequence
 model, are a powerful alternative to RNNs for moving information across and

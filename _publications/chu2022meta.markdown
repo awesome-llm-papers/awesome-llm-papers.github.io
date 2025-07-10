@@ -2,12 +2,14 @@
 layout: publication
 title: Meta Policy Learning For Cold-start Conversational Recommendation
 authors: Zhendong Chu, Hongning Wang, Yun Xiao, Bo Long, Lingfei Wu
-conference: Arxiv
+conference: 'WSDM ''23: The Sixteenth ACM International Conference on Web Search and
+  Data Mining'
 year: 2022
 citations: 22
 bibkey: chu2022meta
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.11788'}]
-tags: [Transformer, Fine-Tuning, Reinforcement Learning, Agentic, RecSys, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, RecSys, Reinforcement Learning,
+  Agentic]
 ---
 Conversational recommender systems (CRS) explicitly solicit users'
 preferences for improved recommendations on the fly. Most existing CRS

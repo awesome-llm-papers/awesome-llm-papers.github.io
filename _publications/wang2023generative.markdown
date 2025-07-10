@@ -7,7 +7,7 @@ year: 2023
 citations: 22
 bibkey: wang2023generative
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2304.03516v2'}]
-tags: [RAG, Applications, RecSys]
+tags: [RecSys, RAG, Applications]
 ---
 Recommender systems typically retrieve items from an item corpus for
 personalized recommendations. However, such a retrieval-based recommender

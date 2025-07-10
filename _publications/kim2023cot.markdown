@@ -3,13 +3,14 @@ layout: publication
 title: 'The Cot Collection: Improving Zero-shot And Few-shot Learning Of Language
   Models Via Chain-of-thought Fine-tuning'
 authors: Seungone Kim et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
 citations: 19
 bibkey: kim2023cot
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.14045v2'}]
-tags: [Training Techniques, GPT, RAG, Few-Shot, Reinforcement Learning, Fine-Tuning,
-  Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Few-Shot, Reinforcement Learning,
+  Training Techniques, Evaluation]
 ---
 Language models (LMs) with less than 100B parameters are known to perform
 poorly on chain-of-thought (CoT) reasoning in contrast to large LMs when

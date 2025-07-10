@@ -2,13 +2,13 @@
 layout: publication
 title: Cross-lingual Natural Language Generation Via Pre-training
 authors: Zewen Chi et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
-citations: 39
+citations: 40
 bibkey: chi2019cross
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.10481'}, {name: Code,
     url: 'https://github.com/CZWin32768/xnlg'}]
-tags: [RAG, Pre-Training, Training Techniques, Has Code]
+tags: [Has Code, Training Techniques, RAG, Pre-Training]
 ---
 In this work we focus on transferring supervision signals of natural language
 generation (NLG) tasks between multiple languages. We propose to pretrain the

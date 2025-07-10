@@ -3,12 +3,15 @@ layout: publication
 title: 'The Bottom-up Evolution Of Representations In The Transformer: A Study With
   Machine Translation And Language Modeling Objectives'
 authors: Elena Voita, Rico Sennrich, Ivan Titov
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 24
+citations: 27
 bibkey: voita2019bottom
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.01380'}]
-tags: [Masked Language Model, Transformer, BERT, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Masked Language Model,
+  BERT]
 ---
 We seek to understand how the representations of individual tokens and the
 structure of the learned feature space evolve between layers in deep neural

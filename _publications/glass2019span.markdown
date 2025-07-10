@@ -2,13 +2,14 @@
 layout: publication
 title: Span Selection Pre-training For Question Answering
 authors: Michael Glass et al.
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 19
 bibkey: glass2019span
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.04120'}]
-tags: [Masked Language Model, Training Techniques, Transformer, Pre-Training, Reinforcement
-    Learning, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, Masked Language Model, Reinforcement Learning,
+  Pre-Training, BERT, Training Techniques, Evaluation]
 ---
 BERT (Bidirectional Encoder Representations from Transformers) and related
 pre-trained Transformers have provided large gains across many language

@@ -3,12 +3,12 @@ layout: publication
 title: 'Evallm: Interactive Evaluation Of Large Language Model Prompts On User-defined
   Criteria'
 authors: Tae Soo Kim, Yoonjoo Lee, Jamin Shin, Young-ho Kim, Juho Kim
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 24
+citations: 30
 bibkey: kim2023interactive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.13633'}]
-tags: [Applications, Prompting]
+tags: [Evaluation, Prompting, Applications]
 ---
 By simply composing prompts, developers can prototype novel generative
 applications with Large Language Models (LLMs). To refine prototypes into

@@ -3,12 +3,13 @@ layout: publication
 title: 'ONCE: Boosting Content-based Recommendation With Both Open- And Closed-source
   Large Language Models'
 authors: Qijiong Liu, Nuo Chen, Tetsuya Sakai, Xiao-ming Wu
-conference: Arxiv
+conference: 'WSDM ''24: The 17th ACM International Conference on Web Search and Data
+  Mining'
 year: 2023
-citations: 31
+citations: 36
 bibkey: liu2023boosting
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.06566v4'}]
-tags: [Training Techniques, RAG, Tools, RecSys, Prompting]
+tags: [RAG, RecSys, Tools, Prompting, Training Techniques]
 ---
 Personalized content-based recommender systems have become indispensable
 tools for users to navigate through the vast amount of content available on

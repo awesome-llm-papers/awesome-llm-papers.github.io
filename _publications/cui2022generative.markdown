@@ -7,9 +7,9 @@ year: 2022
 citations: 21
 bibkey: cui2022generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.08084'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Reinforcement Learning, RecSys,
-  Interpretability and Explainability, Efficiency and Optimization, Prompting, Pruning,
-  Model Architecture]
+tags: [Model Architecture, GPT, Pruning, RAG, Fine-Tuning, RecSys, Reinforcement Learning,
+  Interpretability and Explainability, Prompting, Efficiency and Optimization, Training
+    Techniques]
 ---
 Industrial recommender systems have been growing increasingly complex, may
 involve *diverse domains* such as e-commerce products and user-generated

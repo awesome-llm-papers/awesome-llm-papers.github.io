@@ -2,12 +2,13 @@
 layout: publication
 title: 'Bertese: Learning To Speak To BERT'
 authors: Adi Haviv, Jonathan Berant, Amir Globerson
-conference: Arxiv
+conference: 'Proceedings of the 16th Conference of the European Chapter of the Association
+  for Computational Linguistics: Main Volume'
 year: 2021
 citations: 29
 bibkey: haviv2021learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.05327'}]
-tags: [RAG, Reinforcement Learning, BERT, Model Architecture]
+tags: [Reinforcement Learning, BERT, RAG, Model Architecture]
 ---
 Large pre-trained language models have been shown to encode large amounts of
 world and commonsense knowledge in their parameters, leading to substantial

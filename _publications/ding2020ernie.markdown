@@ -2,13 +2,15 @@
 layout: publication
 title: 'Ernie-doc: A Retrospective Long-document Modeling Transformer'
 authors: Siyu Ding et al.
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2020
 citations: 18
 bibkey: ding2020ernie
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15688'}]
-tags: [Training Techniques, Transformer, RAG, Attention Mechanism, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, RAG,
+  Training Techniques]
 ---
 Transformers are not suited for processing long documents, due to their
 quadratically increasing memory and time consumption. Simply truncating a long

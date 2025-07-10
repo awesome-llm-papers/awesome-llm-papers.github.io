@@ -3,12 +3,14 @@ layout: publication
 title: 'Juice: A Large Scale Distantly Supervised Dataset For Open Domain Context-based
   Code Generation'
 authors: Rajas Agashe, Srinivasan Iyer, Luke Zettlemoyer
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 16
+citations: 20
 bibkey: agashe2019large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.02216'}]
-tags: [Training Techniques, Tools, Reinforcement Learning]
+tags: [Tools, Training Techniques, Evaluation, Reinforcement Learning]
 ---
 Interactive programming with interleaved code snippet cells and natural
 language markdown is recently gaining popularity in the form of Jupyter

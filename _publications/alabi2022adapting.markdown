@@ -8,7 +8,8 @@ year: 2022
 citations: 47
 bibkey: alabi2022adapting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.06487'}]
-tags: [Training Techniques, RAG, Pre-Training, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, Pre-Training, BERT, Training Techniques,
+  Evaluation]
 ---
 Multilingual pre-trained language models (PLMs) have demonstrated impressive
 performance on several downstream tasks for both high-resourced and

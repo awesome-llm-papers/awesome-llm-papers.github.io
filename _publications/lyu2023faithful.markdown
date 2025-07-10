@@ -2,13 +2,15 @@
 layout: publication
 title: Faithful Chain-of-thought Reasoning
 authors: Qing Lyu et al.
-conference: Arxiv
+conference: 'Proceedings of the 13th International Joint Conference on Natural Language
+  Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association
+  for Computational Linguistics (Volume 1: Long Papers)'
 year: 2023
-citations: 41
+citations: 42
 bibkey: lyu2023faithful
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2301.13379v3'}]
-tags: [GPT, Few-Shot, Tools, Interpretability and Explainability, Prompting, Model
-    Architecture]
+tags: [Model Architecture, Few-Shot, Interpretability and Explainability, Tools, Prompting,
+  GPT, Evaluation]
 ---
 While Chain-of-Thought (CoT) prompting boosts Language Models' (LM)
 performance on a gamut of complex reasoning tasks, the generated reasoning

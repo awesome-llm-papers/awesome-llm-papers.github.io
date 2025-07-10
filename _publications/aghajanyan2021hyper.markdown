@@ -7,8 +7,8 @@ year: 2021
 citations: 28
 bibkey: aghajanyan2021hyper
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.06955'}]
-tags: [Training Techniques, Pre-Training, Fine-Tuning, Reinforcement Learning, Efficiency
-    and Optimization, Prompting]
+tags: [Fine-Tuning, Reinforcement Learning, Prompting, Pre-Training, Efficiency and
+    Optimization, Training Techniques, Evaluation]
 ---
 We introduce HTLM, a hyper-text language model trained on a large-scale web
 crawl. Modeling hyper-text has a number of advantages: (1) it is easily

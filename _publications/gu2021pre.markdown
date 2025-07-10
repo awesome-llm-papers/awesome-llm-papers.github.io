@@ -2,12 +2,13 @@
 layout: publication
 title: 'PPT: Pre-trained Prompt Tuning For Few-shot Learning'
 authors: Yuxian Gu, Xu Han, Zhiyuan Liu, Minlie Huang
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
-citations: 140
+citations: 143
 bibkey: gu2021pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.04332'}]
-tags: [Training Techniques, Pre-Training, Few-Shot, Tools, Fine-Tuning, Prompting]
+tags: [Fine-Tuning, Few-Shot, Tools, Prompting, Pre-Training, Training Techniques]
 ---
 Prompts for pre-trained language models (PLMs) have shown remarkable
 performance by bridging the gap between pre-training tasks and various

@@ -7,7 +7,7 @@ year: 2023
 citations: 19
 bibkey: chen2023pali
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2310.09199v2'}]
-tags: [Transformer, Model Architecture, Multimodal Models]
+tags: [Transformer, Multimodal Models, Model Architecture, Evaluation]
 ---
 This paper presents PaLI-3, a smaller, faster, and stronger vision language
 model (VLM) that compares favorably to similar models that are 10x larger. As

@@ -4,11 +4,11 @@ title: Grounding Language Models To Images For Multimodal Inputs And Outputs
 authors: Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried
 conference: Arxiv
 year: 2023
-citations: 21
+citations: 22
 bibkey: koh2023grounding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.13823'}]
-tags: [Training Techniques, RAG, Reinforcement Learning, In-Context Learning, Multimodal
-    Models]
+tags: [RAG, Reinforcement Learning, In-Context Learning, Multimodal Models, Training
+    Techniques]
 ---
 We propose an efficient method to ground pretrained text-only language models
 to the visual domain, enabling them to process arbitrarily interleaved

@@ -3,13 +3,13 @@ layout: publication
 title: 'KVL-BERT: Knowledge Enhanced Visual-and-linguistic BERT For Visual Commonsense
   Reasoning'
 authors: Dandan Song, Siyi Ma, Zhanchen Sun, Sicheng Yang, Lejian Liao
-conference: Arxiv
+conference: Knowledge-Based Systems
 year: 2020
-citations: 25
+citations: 26
 bibkey: song2020kvl
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.07000'}]
-tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, Reinforcement
-    Learning, BERT, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Reinforcement Learning,
+  Multimodal Models, Pre-Training, BERT, Training Techniques]
 ---
 Reasoning is a critical ability towards complete visual understanding. To
 develop machine with cognition-level visual understanding and reasoning

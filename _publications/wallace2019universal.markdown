@@ -2,12 +2,14 @@
 layout: publication
 title: Universal Adversarial Triggers For Attacking And Analyzing NLP
 authors: Eric Wallace, Shi Feng, Nikhil Kandpal, Matt Gardner, Sameer Singh
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 186
+citations: 192
 bibkey: wallace2019universal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.07125'}]
-tags: [Ethics and Bias, GPT, Security, Language Modeling, Model Architecture]
+tags: [Language Modeling, Security, Model Architecture, Ethics and Bias, GPT, Evaluation]
 ---
 Adversarial examples highlight model vulnerabilities and are useful for
 evaluation and interpretation. We define universal adversarial triggers:

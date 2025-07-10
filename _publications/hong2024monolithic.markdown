@@ -2,12 +2,13 @@
 layout: publication
 title: 'ORPO: Monolithic Preference Optimization Without Reference Model'
 authors: Jiwoo Hong, Noah Lee, James Thorne
-conference: Arxiv
+conference: Proceedings of the 2024 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2024
-citations: 19
+citations: 22
 bibkey: hong2024monolithic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.07691'}]
-tags: [Efficiency and Optimization, Fine-Tuning, Training Techniques]
+tags: [Efficiency and Optimization, Training Techniques, Fine-Tuning]
 ---
 While recent preference alignment algorithms for language models have
 demonstrated promising results, supervised fine-tuning (SFT) remains imperative

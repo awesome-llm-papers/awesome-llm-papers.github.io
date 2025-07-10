@@ -2,12 +2,13 @@
 layout: publication
 title: Fine-tuned Language Models Are Continual Learners
 authors: Thomas Scialom, Tuhin Chakrabarty, Smaranda Muresan
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 21
+citations: 22
 bibkey: scialom2022fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.12393'}]
-tags: [Pre-Training, Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Pre-Training, Evaluation]
 ---
 Recent work on large language models relies on the intuition that most
 natural language processing tasks can be described via natural language

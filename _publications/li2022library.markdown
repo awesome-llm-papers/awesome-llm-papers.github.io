@@ -2,14 +2,15 @@
 layout: publication
 title: 'LAVIS: A Library For Language-vision Intelligence'
 authors: Dongxu Li et al.
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 3: System Demonstrations)'
 year: 2022
 citations: 31
 bibkey: li2022library
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.09019'}, {name: Code,
     url: 'https://github.com/salesforce/LAVIS'}]
-tags: [Training Techniques, Pre-Training, Tools, Reinforcement Learning, Has Code,
-  Applications, Multimodal Models]
+tags: [Has Code, Applications, Tools, Reinforcement Learning, Multimodal Models, Pre-Training,
+  Training Techniques, Evaluation]
 ---
 We introduce LAVIS, an open-source deep learning library for LAnguage-VISion
 research and applications. LAVIS aims to serve as a one-stop comprehensive

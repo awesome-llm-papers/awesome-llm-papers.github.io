@@ -2,13 +2,14 @@
 layout: publication
 title: 'A Survey On RAG Meeting Llms: Towards Retrieval-augmented Large Language Models'
 authors: Wenqi Fan et al.
-conference: Arxiv
+conference: 'KDD ''24: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data
+  Mining'
 year: 2024
-citations: 99
+citations: 115
 bibkey: fan2024survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2405.06211'}]
-tags: [Training Techniques, RAG, Reinforcement Learning, Applications, Survey Paper,
-  Model Architecture]
+tags: [Model Architecture, RAG, Applications, Survey Paper, Reinforcement Learning,
+  Training Techniques]
 ---
 As one of the most advanced techniques in AI, Retrieval-Augmented Generation
 (RAG) can offer reliable and up-to-date external knowledge, providing huge

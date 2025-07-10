@@ -8,7 +8,7 @@ year: 2019
 citations: 256
 bibkey: sun2019sequential
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.06690'}]
-tags: [Training Techniques, Transformer, Model Architecture, BERT]
+tags: [Model Architecture, Transformer, BERT, Training Techniques, Evaluation]
 ---
 Modeling users' dynamic and evolving preferences from their historical
 behaviors is challenging and crucial for recommendation systems. Previous

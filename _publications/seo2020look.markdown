@@ -2,12 +2,13 @@
 layout: publication
 title: 'Look Before You Speak: Visually Contextualized Utterances'
 authors: Paul Hongsuck Seo, Arsha Nagrani, Cordelia Schmid
-conference: Arxiv
+conference: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2020
-citations: 26
+citations: 27
 bibkey: seo2020look
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.05710'}]
-tags: [Transformer, RAG, Attention Mechanism, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, Multimodal Models,
+  Evaluation]
 ---
 While most conversational AI systems focus on textual dialogue only,
 conditioning utterances on visual context (when it's available) can lead to

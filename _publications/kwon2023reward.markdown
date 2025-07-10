@@ -4,11 +4,11 @@ title: Reward Design With Language Models
 authors: Minae Kwon, Sang Michael Xie, Kalesha Bullard, Dorsa Sadigh
 conference: Arxiv
 year: 2023
-citations: 19
+citations: 20
 bibkey: kwon2023reward
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.00001'}]
-tags: [Training Techniques, GPT, RAG, Few-Shot, Tools, Reinforcement Learning, Agentic,
-  Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Few-Shot, RAG, Tools, Reinforcement Learning, Prompting,
+  Agentic, Training Techniques]
 ---
 Reward design in reinforcement learning (RL) is challenging since specifying
 human notions of desired behavior may be difficult via reward functions or

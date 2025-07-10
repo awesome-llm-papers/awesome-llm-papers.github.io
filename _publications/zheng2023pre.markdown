@@ -3,13 +3,14 @@ layout: publication
 title: 'Codegeex: A Pre-trained Model For Code Generation With Multilingual Benchmarking
   On Humaneval-x'
 authors: Qinkai Zheng et al.
-conference: Arxiv
+conference: 'KDD ''23: The 29th ACM SIGKDD Conference on Knowledge Discovery and Data
+  Mining'
 year: 2023
-citations: 99
+citations: 113
 bibkey: zheng2023pre
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.17568v2'}, {name: Code,
     url: 'https://github.com/THUDM/CodeGeeX'}]
-tags: [Efficiency and Optimization, Has Code, Tools]
+tags: [Tools, Has Code, Efficiency and Optimization, Evaluation]
 ---
 Large pre-trained code generation models, such as OpenAI Codex, can generate
 syntax- and function-correct code, making the coding of programmers more

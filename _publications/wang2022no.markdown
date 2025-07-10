@@ -2,13 +2,14 @@
 layout: publication
 title: No More Fine-tuning? An Experimental Evaluation Of Prompt Tuning In Code Intelligence
 authors: Chaozheng Wang et al.
-conference: Arxiv
+conference: 'ESEC/FSE ''22: 30th ACM Joint European Software Engineering Conference
+  and Symposium on the Foundations of Software Engineering'
 year: 2022
-citations: 87
+citations: 99
 bibkey: wang2022no
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.11680'}]
-tags: [Training Techniques, RAG, Pre-Training, Fine-Tuning, BERT, Prompting, Model
-    Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, Prompting, Pre-Training, BERT, Training
+    Techniques, Evaluation]
 ---
 Pre-trained models have been shown effective in many code intelligence tasks.
 These models are pre-trained on large-scale unlabeled corpus and then

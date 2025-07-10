@@ -7,7 +7,7 @@ year: 2017
 citations: 92
 bibkey: wang2017reinforced
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1709.00023'}]
-tags: [Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning]
 ---
 In recent years researchers have achieved considerable success applying
 neural network methods to question answering (QA). These approaches have

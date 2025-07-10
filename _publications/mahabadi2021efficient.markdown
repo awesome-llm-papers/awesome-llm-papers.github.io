@@ -4,11 +4,11 @@ title: 'Compacter: Efficient Low-rank Hypercomplex Adapter Layers'
 authors: Rabeeh Karimi Mahabadi, James Henderson, Sebastian Ruder
 conference: Arxiv
 year: 2021
-citations: 155
+citations: 156
 bibkey: mahabadi2021efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.04647'}, {name: Code,
     url: 'https://github.com/rabeehk/compacter'}]
-tags: [Efficiency and Optimization, Fine-Tuning, Training Techniques, Has Code]
+tags: [Has Code, Fine-Tuning, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 Adapting large-scale pretrained language models to downstream tasks via
 fine-tuning is the standard method for achieving state-of-the-art performance

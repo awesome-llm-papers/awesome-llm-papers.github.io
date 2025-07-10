@@ -3,14 +3,15 @@ layout: publication
 title: 'Understanding Biases In Chatgpt-based Recommender Systems: Provider Fairness,
   Temporal Stability, And Recency'
 authors: Yashar Deldjoo
-conference: Arxiv
+conference: ACM Transactions on Recommender Systems
 year: 2024
-citations: 18
+citations: 19
 bibkey: deldjoo2024understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.10545'}, {name: Code,
     url: 'https://github.com/yasdel/Benchmark_RecLLM_Fairness'}]
-tags: [Ethics and Bias, GPT, RAG, Few-Shot, RecSys, Tools, Reinforcement Learning,
-  In-Context Learning, Has Code, Fairness, Bias Mitigation, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Ethics and Bias, RAG, Fairness, Few-Shot, RecSys,
+  Tools, Reinforcement Learning, Bias Mitigation, Prompting, In-Context Learning,
+  GPT, Evaluation]
 ---
 This paper explores the biases in ChatGPT-based recommender systems, focusing
 on provider fairness (item-side fairness). Through extensive experiments and

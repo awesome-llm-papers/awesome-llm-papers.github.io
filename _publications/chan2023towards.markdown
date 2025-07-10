@@ -8,7 +8,7 @@ citations: 20
 bibkey: chan2023towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.07201'}, {name: Code,
     url: 'https://github.com/chanchimin/ChatEval'}]
-tags: [Tools, Agentic, Efficiency and Optimization, Has Code, Prompting]
+tags: [Has Code, Tools, Prompting, Agentic, Efficiency and Optimization, Evaluation]
 ---
 Text evaluation has historically posed significant challenges, often
 demanding substantial labor and time cost. With the emergence of large language

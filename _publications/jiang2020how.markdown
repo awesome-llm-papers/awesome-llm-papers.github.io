@@ -3,13 +3,13 @@ layout: publication
 title: How Can We Know When Language Models Know? On The Calibration Of Language Models
   For Question Answering
 authors: Zhengbao Jiang, Jun Araki, Haibo Ding, Graham Neubig
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2020
-citations: 73
+citations: 78
 bibkey: jiang2020how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.00955'}, {name: Code,
     url: 'https://github.com/jzbjyb/lm-calibration'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Fine-Tuning, Training Techniques]
 ---
 Recent works have shown that language models (LM) capture different types of
 knowledge regarding facts or common sense. However, because no model is

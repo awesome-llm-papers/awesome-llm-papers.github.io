@@ -7,8 +7,8 @@ year: 2020
 citations: 103
 bibkey: lewis2020pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.15020'}]
-tags: [Masked Language Model, Training Techniques, Pre-Training, Fine-Tuning, BERT,
-  Language Modeling]
+tags: [Language Modeling, Fine-Tuning, Masked Language Model, Pre-Training, Training
+    Techniques, BERT]
 ---
 We introduce MARGE, a pre-trained sequence-to-sequence model learned with an
 unsupervised multi-lingual multi-document paraphrasing objective. MARGE

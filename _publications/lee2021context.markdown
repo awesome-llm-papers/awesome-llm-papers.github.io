@@ -3,13 +3,14 @@ layout: publication
 title: 'Compm: Context Modeling With Speaker''s Pre-trained Memory Tracking For Emotion
   Recognition In Conversation'
 authors: Joosung Lee, Wooin Lee
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
 citations: 35
 bibkey: lee2021context
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.11626'}, {name: Code,
     url: 'https://github.com/rungjoo/CoMPM)'}]
-tags: [RAG, Has Code]
+tags: [Has Code, RAG]
 ---
 As the use of interactive machines grow, the task of Emotion Recognition in
 Conversation (ERC) became more important. If the machine-generated sentences

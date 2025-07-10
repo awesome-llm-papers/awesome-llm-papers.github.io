@@ -2,12 +2,13 @@
 layout: publication
 title: Medically Aware GPT-3 As A Data Generator For Medical Dialogue Summarization
 authors: Bharath Chintagunta, Namit Katariya, Xavier Amatriain, Anitha Kannan
-conference: Arxiv
+conference: Proceedings of the Second Workshop on Natural Language Processing for
+  Medical Conversations
 year: 2021
-citations: 56
+citations: 57
 bibkey: chintagunta2021medically
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.07356'}]
-tags: [RAG, Training Techniques, Model Architecture, GPT]
+tags: [Training Techniques, RAG, Model Architecture, GPT]
 ---
 In medical dialogue summarization, summaries must be coherent and must
 capture all the medically relevant information in the dialogue. However,

@@ -3,12 +3,13 @@ layout: publication
 title: The Impact Of Multiple Parallel Phrase Suggestions On Email Input And Composition
   Behaviour Of Native And Non-native English Writers
 authors: "Daniel Buschek, Martin Z\xFCrn, Malin Eiband"
-conference: Arxiv
+conference: 'CHI ''21: CHI Conference on Human Factors in Computing Systems'
 year: 2021
-citations: 69
+citations: 71
 bibkey: buschek2021impact
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.09157'}]
-tags: [GPT, Merging, Reinforcement Learning, Efficiency and Optimization, Model Architecture]
+tags: [Model Architecture, Reinforcement Learning, Efficiency and Optimization, GPT,
+  Merging]
 ---
 We present an in-depth analysis of the impact of multi-word suggestion
 choices from a neural language model on user behaviour regarding input and text

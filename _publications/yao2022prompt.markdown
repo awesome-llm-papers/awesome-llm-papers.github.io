@@ -2,14 +2,14 @@
 layout: publication
 title: Prompt Tuning For Discriminative Pre-trained Language Models
 authors: Yuan Yao et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2022'
 year: 2022
-citations: 26
+citations: 27
 bibkey: yao2022prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.11166'}, {name: Code,
     url: 'https://github.com/thunlp/DPT'}]
-tags: [Training Techniques, Fine-Tuning, Tools, BERT, Has Code, Prompting, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Fine-Tuning, Tools, Prompting,
+  Training Techniques, BERT]
 ---
 Recent works have shown promising results of prompt tuning in stimulating
 pre-trained language models (PLMs) for natural language processing (NLP) tasks.

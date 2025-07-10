@@ -3,12 +3,13 @@ layout: publication
 title: 'Assessing AI Detectors In Identifying Ai-generated Code: Implications For
   Education'
 authors: Wei Hung Pan et al.
-conference: Arxiv
+conference: 'ICSE-SEET ''24: 46th International Conference on Software Engineering:
+  Software Engineering Education and Training'
 year: 2024
-citations: 19
+citations: 22
 bibkey: pan2024assessing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.03676'}]
-tags: [Reinforcement Learning, Model Architecture, GPT, Prompting]
+tags: [Reinforcement Learning, GPT, Prompting, Model Architecture]
 ---
 Educators are increasingly concerned about the usage of Large Language Models
 (LLMs) such as ChatGPT in programming education, particularly regarding the

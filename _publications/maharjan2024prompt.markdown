@@ -3,13 +3,13 @@ layout: publication
 title: 'Openmedlm: Prompt Engineering Can Out-perform Fine-tuning In Medical Question-answering
   With Open-source Large Language Models'
 authors: Jenish Maharjan et al.
-conference: Arxiv
+conference: Scientific Reports
 year: 2024
-citations: 22
+citations: 26
 bibkey: maharjan2024prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.19371'}]
-tags: [Ethics and Bias, Training Techniques, RAG, Few-Shot, Tools, Fine-Tuning, Applications,
-  Prompting]
+tags: [Ethics and Bias, RAG, Fine-Tuning, Few-Shot, Applications, Tools, Prompting,
+  Training Techniques, Evaluation]
 ---
 LLMs have become increasingly capable at accomplishing a range of
 specialized-tasks and can be utilized to expand equitable access to medical

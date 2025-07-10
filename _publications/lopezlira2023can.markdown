@@ -3,13 +3,13 @@ layout: publication
 title: Can Chatgpt Forecast Stock Price Movements? Return Predictability And Large
   Language Models
 authors: Alejandro Lopez-lira, Yuehua Tang
-conference: Arxiv
+conference: SSRN Electronic Journal
 year: 2023
-citations: 108
+citations: 115
 bibkey: lopezlira2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.07619'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Merging, RAG, Tools, Interpretability
-    and Explainability, Efficiency and Optimization, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, RAG, Interpretability and Explainability,
+  Tools, Efficiency and Optimization, Training Techniques, Time Series, Merging]
 ---
 We document the capability of large language models (LLMs) like ChatGPT to
 predict stock price movements using news headlines, even without direct

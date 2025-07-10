@@ -2,12 +2,12 @@
 layout: publication
 title: GRUEN For Evaluating Linguistic Quality Of Generated Text
 authors: Wanzheng Zhu, Suma Bhat
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
 citations: 21
 bibkey: zhu2020gruen
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.02498'}]
-tags: [Model Architecture, BERT]
+tags: [BERT, Model Architecture, Evaluation]
 ---
 Automatic evaluation metrics are indispensable for evaluating generated text.
 To date, these metrics have focused almost exclusively on the content selection

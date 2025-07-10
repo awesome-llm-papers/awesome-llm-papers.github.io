@@ -8,7 +8,7 @@ year: 2023
 citations: 25
 bibkey: sun2023think
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.07697'}]
-tags: [GPT, Training Techniques, RAG, Tools, Agentic, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, RAG, Tools, Prompting, Agentic, Training Techniques]
 ---
 Although large language models (LLMs) have achieved significant success in
 various tasks, they often struggle with hallucination problems, especially in

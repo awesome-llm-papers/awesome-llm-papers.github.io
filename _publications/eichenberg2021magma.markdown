@@ -4,13 +4,13 @@ title: MAGMA -- Multimodal Augmentation Of Generative Models Through Adapter-bas
   Finetuning
 authors: Constantin Eichenberg, Sidney Black, Samuel Weinbach, Letitia Parcalabescu,
   Anette Frank
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2021
-citations: 19
+citations: 20
 bibkey: eichenberg2021magma
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.05253'}]
-tags: [Training Techniques, GPT, In-Context Learning, Efficiency and Optimization,
-  Multimodal Models, Language Modeling]
+tags: [Language Modeling, GPT, In-Context Learning, Multimodal Models, Efficiency
+    and Optimization, Training Techniques, Evaluation]
 ---
 Large-scale pretraining is fast becoming the norm in Vision-Language (VL)
 modeling. However, prevailing VL approaches are limited by the requirement for

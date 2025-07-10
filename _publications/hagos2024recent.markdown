@@ -3,9 +3,9 @@ layout: publication
 title: 'Recent Advances In Generative AI And Large Language Models: Current Status,
   Challenges, And Perspectives'
 authors: Desta Haileselassie Hagos, Rick Battle, Danda B. Rawat
-conference: Arxiv
+conference: IEEE Transactions on Artificial Intelligence
 year: 2024
-citations: 17
+citations: 21
 bibkey: hagos2024recent
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2407.14962'}]
 tags: [Applications, Merging]

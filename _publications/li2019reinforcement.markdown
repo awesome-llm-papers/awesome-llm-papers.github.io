@@ -7,7 +7,7 @@ year: 2019
 citations: 17
 bibkey: li2019reinforcement
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.08061'}]
-tags: [Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning]
 ---
 In recent years, the generation of conversation content based on deep neural
 networks has attracted many researchers. However, traditional neural language

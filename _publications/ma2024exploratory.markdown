@@ -2,12 +2,12 @@
 layout: publication
 title: 'Llmparser: An Exploratory Study On Using Large Language Models For Log Parsing'
 authors: Zeyang Ma, An Ran Chen, Dong Jae Kim, Tse-hsun Chen, Shaowei Wang
-conference: Arxiv
+conference: 'ICSE ''24: IEEE/ACM 46th International Conference on Software Engineering'
 year: 2024
-citations: 21
+citations: 30
 bibkey: ma2024exploratory
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.18001'}]
-tags: [Training Techniques, RAG, Pre-Training, Few-Shot, Fine-Tuning]
+tags: [Fine-Tuning, RAG, Few-Shot, Pre-Training, Training Techniques, Evaluation]
 ---
 Logs are important in modern software development with runtime information.
 Log parsing is the first step in many log-based analyses, that involve

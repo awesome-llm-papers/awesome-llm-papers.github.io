@@ -8,8 +8,8 @@ citations: 20
 bibkey: su2022contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.14140'}, {name: Code,
     url: 'https://github.com/yxuansu/Contrastive_Search_Is_What_You_Need'}]
-tags: [GPT, Training Techniques, Has Code, Applications, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, GPT, Applications, Training
+    Techniques, Evaluation]
 ---
 Generating text with autoregressive language models (LMs) is of great
 importance to many natural language processing (NLP) applications. Previous

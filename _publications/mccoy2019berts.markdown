@@ -3,12 +3,13 @@ layout: publication
 title: 'Berts Of A Feather Do Not Generalize Together: Large Variability In Generalization
   Across Models With Similar Test Set Performance'
 authors: R. Thomas Mccoy, Junghyun Min, Tal Linzen
-conference: Arxiv
+conference: Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting
+  Neural Networks for NLP
 year: 2019
 citations: 23
 bibkey: mccoy2019berts
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.02969'}]
-tags: [Ethics and Bias, Model Architecture, BERT]
+tags: [Evaluation, BERT, Model Architecture, Ethics and Bias]
 ---
 If the same neural network architecture is trained multiple times on the same
 dataset, will it make similar linguistic generalizations across runs? To study

@@ -2,13 +2,13 @@
 layout: publication
 title: A Systematic Review And Replicability Study Of Bert4rec For Sequential Recommendation
 authors: Aleksandr Petrov, Craig Macdonald
-conference: Arxiv
+conference: 'RecSys ''22: Sixteenth ACM Conference on Recommender Systems'
 year: 2022
 citations: 29
 bibkey: petrov2022systematic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.07483'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, Tools, BERT, Survey
-    Paper, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Survey Paper, Tools,
+  BERT, Training Techniques]
 ---
 BERT4Rec is an effective model for sequential recommendation based on the
 Transformer architecture. In the original publication, BERT4Rec claimed

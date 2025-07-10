@@ -2,13 +2,13 @@
 layout: publication
 title: End-to-end Optimization Of Goal-driven And Visually Grounded Dialogue Systems
 authors: Florian Strub et al.
-conference: Arxiv
+conference: Twenty-Sixth International Joint Conference on Artificial Intelligence
 year: 2017
 citations: 37
 bibkey: strub2017end
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1703.05423'}]
-tags: [RAG, Tools, Agentic, Reinforcement Learning, Efficiency and Optimization, Model
-    Architecture]
+tags: [Model Architecture, RAG, Tools, Reinforcement Learning, Agentic, Efficiency
+    and Optimization]
 ---
 End-to-end design of dialogue systems has recently become a popular research
 topic thanks to powerful tools such as encoder-decoder architectures for

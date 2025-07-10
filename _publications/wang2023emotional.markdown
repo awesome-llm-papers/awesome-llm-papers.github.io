@@ -2,13 +2,13 @@
 layout: publication
 title: Emotional Intelligence Of Large Language Models
 authors: Xuena Wang, Xueting Li, Zi Yin, Yue Wu, Liu Jia
-conference: Arxiv
+conference: Journal of Pacific Rim Psychology
 year: 2023
-citations: 39
+citations: 44
 bibkey: wang2023emotional
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.09042'}]
-tags: [Training Techniques, GPT, RAG, Reinforcement Learning, Applications, Model
-    Architecture]
+tags: [Model Architecture, GPT, RAG, Applications, Reinforcement Learning, Training
+    Techniques, Evaluation]
 ---
 Large Language Models (LLMs) have demonstrated remarkable abilities across
 numerous disciplines, primarily assessed through tasks in language generation,

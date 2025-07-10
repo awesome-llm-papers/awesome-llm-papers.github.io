@@ -2,13 +2,13 @@
 layout: publication
 title: 'Newsbert: Distilling Pre-trained Language Model For Intelligent News Application'
 authors: Chuhan Wu et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
 year: 2021
 citations: 16
 bibkey: wu2021distilling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.04887'}]
-tags: [Distillation, Tools, Reinforcement Learning, BERT, Efficiency and Optimization,
-  Applications, Model Architecture]
+tags: [Model Architecture, Distillation, Applications, Tools, Reinforcement Learning,
+  Efficiency and Optimization, BERT]
 ---
 Pre-trained language models (PLMs) like BERT have made great progress in NLP.
 News articles usually contain rich textual information, and PLMs have the

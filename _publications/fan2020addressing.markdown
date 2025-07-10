@@ -7,8 +7,8 @@ year: 2020
 citations: 30
 bibkey: fan2020addressing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.09402'}]
-tags: [Large-Scale Training, Transformer, Attention Mechanism, Agentic, Reinforcement
-    Learning, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Reinforcement
+    Learning, Evaluation, Agentic, Large-Scale Training]
 ---
 Transformers have been successfully applied to sequential, auto-regressive
 tasks despite being feedforward networks. Unlike recurrent neural networks,

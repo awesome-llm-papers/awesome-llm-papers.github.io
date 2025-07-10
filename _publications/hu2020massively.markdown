@@ -8,7 +8,7 @@ year: 2020
 citations: 324
 bibkey: hu2020massively
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.11080'}]
-tags: [RAG, Applications, Reinforcement Learning]
+tags: [Reinforcement Learning, Evaluation, RAG, Applications]
 ---
 Much recent progress in applications of machine learning models to NLP has
 been driven by benchmarks that evaluate models across a wide variety of tasks.

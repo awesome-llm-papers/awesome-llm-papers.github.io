@@ -3,9 +3,10 @@ layout: publication
 title: 'Large Language Models Are Versatile Decomposers: Decompose Evidence And Questions
   For Table-based Reasoning'
 authors: Yunhu Ye et al.
-conference: Arxiv
+conference: 'SIGIR ''23: The 46th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2023
-citations: 20
+citations: 21
 bibkey: ye2023large
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2301.13808v3'}]
 tags: [RAG]

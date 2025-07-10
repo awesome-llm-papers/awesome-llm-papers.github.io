@@ -7,7 +7,7 @@ year: 2019
 citations: 15
 bibkey: li2019pretrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03110'}]
-tags: [SLT, Model Architecture, Training Techniques, BERT]
+tags: [BERT, Training Techniques, Model Architecture, SLT]
 ---
 Previous work on document-level NMT usually focuses on limited contexts
 because of degraded performance on larger contexts. In this paper, we

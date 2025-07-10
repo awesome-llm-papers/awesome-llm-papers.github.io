@@ -7,7 +7,7 @@ year: 2020
 citations: 57
 bibkey: tang2020rapidly
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.11339'}]
-tags: [Tools, Transformer, Model Architecture]
+tags: [Transformer, Tools, Model Architecture, Evaluation]
 ---
 We present CovidQA, the beginnings of a question answering dataset
 specifically designed for COVID-19, built by hand from knowledge gathered from

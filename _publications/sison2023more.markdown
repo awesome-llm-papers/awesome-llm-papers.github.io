@@ -4,12 +4,12 @@ title: 'Chatgpt: More Than A Weapon Of Mass Deception, Ethical Challenges And Re
   From The Human-centered Artificial Intelligence (HCAI) Perspective'
 authors: "Alejo Jose G. Sison, Marco Tulio Daza, Roberto Gozalo-brizuela, Eduardo\
   \ C. Garrido-merch\xE1n"
-conference: Arxiv
+conference: "International Journal of Human\u2013Computer Interaction"
 year: 2023
-citations: 19
+citations: 39
 bibkey: sison2023more
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.11215'}]
-tags: [Ethics and Bias, GPT, Responsible AI, Tools, Survey Paper, Model Architecture]
+tags: [Responsible AI, Model Architecture, Ethics and Bias, Survey Paper, Tools, GPT]
 ---
 This article explores the ethical problems arising from the use of ChatGPT as
 a kind of generative AI and suggests responses based on the Human-Centered

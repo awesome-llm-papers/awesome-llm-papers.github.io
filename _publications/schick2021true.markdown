@@ -2,12 +2,12 @@
 layout: publication
 title: True Few-shot Learning With Prompts -- A Real-world Perspective
 authors: "Timo Schick, Hinrich Sch\xFCtze"
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2021
 citations: 20
 bibkey: schick2021true
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.13440'}]
-tags: [Few-Shot, Reinforcement Learning, Prompting, Applications]
+tags: [Few-Shot, Applications, Reinforcement Learning, Prompting, Evaluation]
 ---
 Prompt-based approaches are strong at few-shot learning. However, Perez et
 al. (2021) have recently cast doubt on their performance because they had

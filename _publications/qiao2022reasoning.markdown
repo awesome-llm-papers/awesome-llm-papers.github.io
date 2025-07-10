@@ -2,13 +2,14 @@
 layout: publication
 title: 'Reasoning With Language Model Prompting: A Survey'
 authors: Shuofei Qiao et al.
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 48
+citations: 51
 bibkey: qiao2022reasoning
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2212.09597v8'}, {name: Code,
     url: 'https://github.com/zjunlp/Prompt4ReasoningPapers'}]
-tags: [Merging, Reinforcement Learning, Has Code, Applications, Survey Paper, Prompting]
+tags: [Has Code, Applications, Survey Paper, Reinforcement Learning, Prompting, Merging]
 ---
 Reasoning, as an essential ability for complex problem-solving, can provide
 back-end support for various real-world applications, such as medical

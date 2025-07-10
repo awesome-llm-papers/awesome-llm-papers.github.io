@@ -3,14 +3,14 @@ layout: publication
 title: What Matters In Language Conditioned Robotic Imitation Learning Over Unstructured
   Data
 authors: Oier Mees, Lukas Hermann, Wolfram Burgard
-conference: Arxiv
+conference: IEEE Robotics and Automation Letters
 year: 2022
-citations: 31
+citations: 32
 bibkey: mees2022what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.06252'}, {name: Code,
     url: 'http://hulc.cs.uni-freiburg.de'}]
-tags: [Training Techniques, Transformer, RAG, Reinforcement Learning, Has Code, Multimodal
-    Models, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, RAG, Reinforcement Learning, Multimodal
+    Models, Training Techniques, Evaluation]
 ---
 A long-standing goal in robotics is to build robots that can perform a wide
 range of daily tasks from perceptions obtained with their onboard sensors and

@@ -2,13 +2,14 @@
 layout: publication
 title: 'KAT: A Knowledge Augmented Transformer For Vision-and-language'
 authors: Liangke Gui et al.
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
-citations: 45
+citations: 49
 bibkey: gui2021knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.08614'}]
-tags: [Transformer, RAG, Interpretability and Explainability, Multimodal Models, Model
-    Architecture]
+tags: [Model Architecture, Transformer, RAG, Interpretability and Explainability,
+  Multimodal Models]
 ---
 The primary focus of recent work with largescale transformers has been on
 optimizing the amount of information packed into the model's parameters. In

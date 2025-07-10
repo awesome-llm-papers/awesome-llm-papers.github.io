@@ -3,12 +3,13 @@ layout: publication
 title: 'RASAT: Integrating Relational Structures Into Pretrained Seq2seq Model For
   Text-to-sql'
 authors: Jiexing Qi et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 28
+citations: 31
 bibkey: qi2022integrating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.06983'}]
-tags: [RAG, Attention Mechanism, Transformer, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, Evaluation]
 ---
 Relational structures such as schema linking and schema encoding have been
 validated as a key component to qualitatively translating natural language into

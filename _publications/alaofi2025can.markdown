@@ -3,12 +3,13 @@ layout: publication
 title: Can Generative Llms Create Query Variants For Test Collections? An Exploratory
   Study
 authors: Marwah Alaofi, Luke Gallagher, Mark Sanderson, Falk Scholer, Paul Thomas
-conference: Arxiv
+conference: 'SIGIR ''23: The 46th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2025
 citations: 23
 bibkey: alaofi2025can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2501.17981'}]
-tags: [Fine-Tuning, Reinforcement Learning]
+tags: [Reinforcement Learning, Fine-Tuning, Evaluation]
 ---
 This paper explores the utility of a Large Language Model (LLM) to
 automatically generate queries and query variants from a description of an

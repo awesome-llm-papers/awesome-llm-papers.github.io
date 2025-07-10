@@ -7,8 +7,8 @@ year: 2022
 citations: 35
 bibkey: anil2022exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.04901'}]
-tags: [Transformer, Reinforcement Learning, In-Context Learning, Prompting, Model
-    Architecture]
+tags: [Model Architecture, Transformer, Reinforcement Learning, In-Context Learning,
+  Prompting]
 ---
 The ability to extrapolate from short problem instances to longer ones is an
 important form of out-of-distribution generalization in reasoning tasks, and is

@@ -2,12 +2,12 @@
 layout: publication
 title: Generalized Planning In PDDL Domains With Pretrained Large Language Models
 authors: Tom Silver et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 20
+citations: 22
 bibkey: silver2023generalized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.11014'}]
-tags: [Training Techniques, Model Architecture, GPT, Prompting]
+tags: [Training Techniques, Prompting, Model Architecture, GPT]
 ---
 Recent work has considered whether large language models (LLMs) can function
 as planners: given a task, generate a plan. We investigate whether LLMs can

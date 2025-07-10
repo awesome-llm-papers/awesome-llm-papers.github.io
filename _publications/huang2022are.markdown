@@ -2,7 +2,7 @@
 layout: publication
 title: Are Large Pre-trained Language Models Leaking Your Personal Information?
 authors: Jie Huang, Hanyin Shao, Kevin Chen-chuan Chang
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2022
 citations: 37
 bibkey: huang2022are

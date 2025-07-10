@@ -3,13 +3,14 @@ layout: publication
 title: 'FLAT: An Optimized Dataflow For Mitigating Attention Bottlenecks'
 authors: Sheng-chun Kao, Suvinay Subramanian, Gaurav Agrawal, Amir Yazdanbakhsh, Tushar
   Krishna
-conference: Arxiv
+conference: 'ASPLOS ''23: 28th ACM International Conference on Architectural Support
+  for Programming Languages and Operating Systems, Volume 2'
 year: 2021
-citations: 31
+citations: 35
 bibkey: kao2021optimized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.06419'}]
-tags: [Transformer, Merging, RAG, Attention Mechanism, Reinforcement Learning, Efficiency
-    and Optimization, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, Reinforcement Learning,
+  Efficiency and Optimization, Evaluation, Merging]
 ---
 Attention mechanisms, primarily designed to capture pairwise correlations
 between words, have become the backbone of machine learning, expanding beyond

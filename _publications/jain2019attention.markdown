@@ -2,14 +2,16 @@
 layout: publication
 title: Attention Is Not Explanation
 authors: Sarthak Jain, Byron C. Wallace
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 305
+citations: 309
 bibkey: jain2019attention
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.10186'}, {name: Code,
     url: 'https://github.com/successar/AttentionExplanation'}]
-tags: [Ethics and Bias, Transformer, Attention Mechanism, Interpretability and Explainability,
-  Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Ethics and Bias, Transformer,
+  Interpretability and Explainability]
 ---
 Attention mechanisms have seen wide adoption in neural NLP models. In
 addition to improving predictive performance, these are often touted as

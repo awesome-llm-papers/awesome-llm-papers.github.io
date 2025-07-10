@@ -3,13 +3,13 @@ layout: publication
 title: 'Natural Language Rationales With Full-stack Visual Reasoning: From Pixels
   To Semantic Frames To Commonsense Graphs'
 authors: "Ana Marasovi\u0107 et al."
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
 citations: 24
 bibkey: "marasovi\u01072020natural"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.07526'}]
-tags: [Transformer, RAG, Attention Mechanism, Interpretability and Explainability,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, Interpretability
+    and Explainability]
 ---
 Natural language rationales could provide intuitive, higher-level
 explanations that are easily understandable by humans, complementing the more

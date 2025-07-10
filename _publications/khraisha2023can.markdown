@@ -4,12 +4,12 @@ title: Can Large Language Models Replace Humans In The Systematic Review Process
   Evaluating Gpt-4's Efficacy In Screening And Extracting Data From Peer-reviewed
   And Grey Literature In Multiple Languages
 authors: Qusai Khraisha, Sophie Put, Johanna Kappenberg, Azza Warraitch, Kristin Hadfield
-conference: Arxiv
+conference: Research Synthesis Methods
 year: 2023
-citations: 73
+citations: 79
 bibkey: khraisha2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.17526'}]
-tags: [GPT, Model Architecture, Survey Paper, Prompting]
+tags: [Survey Paper, GPT, Prompting, Model Architecture]
 ---
 Systematic reviews are vital for guiding practice, research, and policy, yet
 they are often slow and labour-intensive. Large language models (LLMs) could

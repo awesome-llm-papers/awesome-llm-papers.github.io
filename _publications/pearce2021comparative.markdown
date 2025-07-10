@@ -8,7 +8,7 @@ year: 2021
 citations: 20
 bibkey: pearce2021comparative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.03142'}]
-tags: [Transformer, Model Architecture, BERT]
+tags: [Transformer, BERT, Model Architecture]
 ---
 Question Answering (QA) is a task in natural language processing that has
 seen considerable growth after the advent of transformers. There has been a

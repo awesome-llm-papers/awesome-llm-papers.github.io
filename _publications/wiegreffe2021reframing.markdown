@@ -2,13 +2,14 @@
 layout: publication
 title: Reframing Human-ai Collaboration For Generating Free-text Explanations
 authors: Sarah Wiegreffe, Jack Hessel, Swabha Swayamdipta, Mark Riedl, Yejin Choi
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
 citations: 20
 bibkey: wiegreffe2021reframing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.08674'}]
-tags: [GPT, Few-Shot, Reinforcement Learning, Interpretability and Explainability,
-  Prompting, Model Architecture]
+tags: [Model Architecture, Few-Shot, Interpretability and Explainability, Reinforcement
+    Learning, Prompting, GPT]
 ---
 Large language models are increasingly capable of generating fluent-appearing
 text with relatively little task-specific supervision. But can these models

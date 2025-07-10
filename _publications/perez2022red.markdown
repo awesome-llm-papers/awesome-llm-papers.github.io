@@ -2,12 +2,13 @@
 layout: publication
 title: Red Teaming Language Models With Language Models
 authors: Ethan Perez et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 91
+citations: 97
 bibkey: perez2022red
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.03286'}]
-tags: [Reinforcement Learning, Agentic, Training Techniques, Prompting]
+tags: [Agentic, Reinforcement Learning, Training Techniques, Prompting]
 ---
 Language Models (LMs) often cannot be deployed because of their potential to
 harm users in hard-to-predict ways. Prior work identifies harmful behaviors

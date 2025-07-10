@@ -2,12 +2,12 @@
 layout: publication
 title: Collaborative Storytelling With Large-scale Neural Language Models
 authors: Eric Nichols, Leo Gao, Randy Gomez
-conference: Arxiv
+conference: 'MIG ''20: Motion, Interaction and Games'
 year: 2020
-citations: 29
+citations: 30
 bibkey: nichols2020collaborative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.10208'}]
-tags: [Agentic, Prompting]
+tags: [Agentic, Prompting, Evaluation]
 ---
 Storytelling plays a central role in human socializing and entertainment.
 However, much of the research on automatic storytelling generation assumes that

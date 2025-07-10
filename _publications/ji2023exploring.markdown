@@ -8,8 +8,8 @@ year: 2023
 citations: 16
 bibkey: ji2023exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.14742'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, Applications,
-  Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Applications, Reinforcement Learning,
+  Training Techniques, Evaluation]
 ---
 The success of ChatGPT has recently attracted numerous efforts to replicate
 it, with instruction-tuning strategies being a key factor in achieving

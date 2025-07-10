@@ -7,8 +7,8 @@ year: 2019
 citations: 204
 bibkey: gu2019levenshtein
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.11006'}]
-tags: [Training Techniques, Transformer, GPT, Efficiency and Optimization, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Transformer, Efficiency and Optimization,
+  Training Techniques]
 ---
 Modern neural sequence generation models are built to either generate tokens
 step-by-step from scratch or (iteratively) modify a sequence of tokens bounded

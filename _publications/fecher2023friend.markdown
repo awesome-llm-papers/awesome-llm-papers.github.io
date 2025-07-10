@@ -3,13 +3,13 @@ layout: publication
 title: Friend Or Foe? Exploring The Implications Of Large Language Models On The Science
   System
 authors: "Benedikt Fecher, Marcel Hebing, Melissa Laufer, J\xF6rg Pohle, Fabian Sofsky"
-conference: Arxiv
+conference: AI &amp; SOCIETY
 year: 2023
-citations: 24
+citations: 27
 bibkey: fecher2023friend
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.09928'}]
-tags: [Ethics and Bias, GPT, Reinforcement Learning, Applications, Prompting, Model
-    Architecture]
+tags: [Model Architecture, Ethics and Bias, Applications, Reinforcement Learning,
+  Prompting, GPT]
 ---
 The advent of ChatGPT by OpenAI has prompted extensive discourse on its
 potential implications for science and higher education. While the impact on

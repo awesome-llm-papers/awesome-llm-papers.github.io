@@ -3,14 +3,15 @@ layout: publication
 title: 'POINTER: Constrained Progressive Text Generation Via Insertion-based Generative
   Pre-training'
 authors: Yizhe Zhang et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 32
 bibkey: zhang2020constrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00558'}, {name: Code,
     url: 'https://github.com/dreasysnail/POINTER)'}]
-tags: [Training Techniques, Transformer, GPT, Pre-Training, BERT, Has Code, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, GPT, Transformer, Pre-Training,
+  BERT, Training Techniques]
 ---
 Large-scale pre-trained language models, such as BERT and GPT-2, have
 achieved excellent performance in language representation learning and

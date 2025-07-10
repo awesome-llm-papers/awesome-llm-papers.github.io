@@ -2,13 +2,13 @@
 layout: publication
 title: 'Generate, Annotate, And Learn: NLP With Synthetic Text'
 authors: Xuanli He, Islam Nassar, Jamie Kiros, Gholamreza Haffari, Mohammad Norouzi
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2021
 citations: 17
 bibkey: he2021nlp
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.06168'}]
-tags: [Distillation, Transformer, Training Techniques, Few-Shot, Tools, Efficiency
-    and Optimization, Applications, Prompting, Model Architecture]
+tags: [Model Architecture, Distillation, Transformer, Few-Shot, Applications, Tools,
+  Prompting, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 This paper studies the use of language models as a source of synthetic
 unlabeled text for NLP. We formulate a general framework called ``generate,

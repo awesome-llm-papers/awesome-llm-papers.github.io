@@ -3,12 +3,13 @@ layout: publication
 title: 'Recommendation As Instruction Following: A Large Language Model Empowered
   Recommendation Approach'
 authors: Junjie Zhang et al.
-conference: Arxiv
+conference: ACM Transactions on Information Systems
 year: 2023
-citations: 35
+citations: 38
 bibkey: zhang2023recommendation
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.07001v1'}]
-tags: [GPT, RecSys, Attention Mechanism, Reinforcement Learning, Tools, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, RecSys, Tools, Reinforcement Learning,
+  GPT, Evaluation]
 ---
 In the past decades, recommender systems have attracted much attention in
 both research and industry communities, and a large number of studies have been

@@ -2,13 +2,13 @@
 layout: publication
 title: A Survey Of Knowledge-enhanced Text Generation
 authors: Wenhao Yu et al.
-conference: Arxiv
+conference: ACM Computing Surveys
 year: 2020
-citations: 127
+citations: 129
 bibkey: yu2020survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.04389'}]
-tags: [Reinforcement Learning, Applications, Survey Paper, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, Applications, Survey Paper, Reinforcement
+    Learning]
 ---
 The goal of text generation is to make machines express in human language. It
 is one of the most important yet challenging tasks in natural language

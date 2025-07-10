@@ -2,13 +2,12 @@
 layout: publication
 title: 'CTRAN: Cnn-transformer-based Network For Natural Language Understanding'
 authors: Mehrdad Rafiepour, Javad Salimi Sartakhti
-conference: Engineering Applications Of Artificial Intelligence Volume 126 Part C
-  2023
+conference: Engineering Applications of Artificial Intelligence
 year: 2023
-citations: 21
+citations: 23
 bibkey: rafiepour2023cnn
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.10606'}]
-tags: [Attention Mechanism, Transformer, Model Architecture, BERT]
+tags: [Transformer, BERT, Model Architecture, Attention Mechanism]
 ---
 Intent-detection and slot-filling are the two main tasks in natural language
 understanding. In this study, we propose CTRAN, a novel encoder-decoder

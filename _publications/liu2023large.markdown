@@ -4,10 +4,11 @@ title: 'Chatcounselor: A Large Language Models For Mental Health Support'
 authors: June M. Liu et al.
 conference: Arxiv
 year: 2023
-citations: 21
+citations: 22
 bibkey: liu2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.15461'}]
-tags: [GPT, Training Techniques, RAG, Reinforcement Learning, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, RAG, Reinforcement Learning, Prompting, Training Techniques,
+  Evaluation]
 ---
 This paper presents ChatCounselor, a large language model (LLM) solution
 designed to provide mental health support. Unlike generic chatbots,

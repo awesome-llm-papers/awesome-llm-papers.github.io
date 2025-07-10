@@ -4,10 +4,10 @@ title: 'Socratic Models: Composing Zero-shot Multimodal Reasoning With Language'
 authors: Andy Zeng et al.
 conference: Arxiv
 year: 2022
-citations: 140
+citations: 141
 bibkey: zeng2022socratic
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2204.00598v2'}]
-tags: [RAG, Tools, Reinforcement Learning, Applications, Prompting, Multimodal Models]
+tags: [RAG, Applications, Tools, Reinforcement Learning, Multimodal Models, Prompting]
 ---
 Large pretrained (e.g., "foundation") models exhibit distinct capabilities
 depending on the domain of data they are trained on. While these domains are

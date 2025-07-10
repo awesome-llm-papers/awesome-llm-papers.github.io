@@ -2,13 +2,14 @@
 layout: publication
 title: 'SPECTER: Document-level Representation Learning Using Citation-informed Transformers'
 authors: Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey, Daniel S. Weld
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
-citations: 175
+citations: 178
 bibkey: cohan2020document
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.07180'}]
-tags: [Training Techniques, Transformer, RAG, Fine-Tuning, BERT, Applications, Model
-    Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, RAG, Applications, BERT, Training
+    Techniques, Evaluation]
 ---
 Representation learning is a critical ingredient for natural language
 processing systems. Recent Transformer language models like BERT learn powerful

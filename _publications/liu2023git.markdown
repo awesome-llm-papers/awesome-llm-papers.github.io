@@ -3,12 +3,12 @@ layout: publication
 title: 'Git-mol: A Multi-modal Large Language Model For Molecular Science With Graph,
   Image, And Text'
 authors: Pengfei Liu, Yiming Ren, Jun Tao, Zhixiang Ren
-conference: Computers in Biology and Medicine 108073 2024 ISSN 0010-4825
+conference: Computers in Biology and Medicine
 year: 2023
 citations: 30
 bibkey: liu2023git
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.06911'}]
-tags: [Applications, Model Architecture]
+tags: [Model Architecture, Applications]
 ---
 Large language models have made significant strides in natural language
 processing, enabling innovative applications in molecular science by processing

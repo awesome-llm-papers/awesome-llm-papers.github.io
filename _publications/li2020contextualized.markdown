@@ -2,12 +2,13 @@
 layout: publication
 title: Contextualized Perturbation For Textual Adversarial Attack
 authors: Dianqi Li et al.
-conference: Arxiv
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2020
-citations: 63
+citations: 66
 bibkey: li2020contextualized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.07502'}]
-tags: [Masked Language Model, Security, BERT]
+tags: [BERT, Security, Evaluation, Masked Language Model]
 ---
 Adversarial examples expose the vulnerabilities of natural language
 processing (NLP) models, and can be used to evaluate and improve their

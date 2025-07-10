@@ -5,10 +5,10 @@ title: 'LAION-5B: An Open Large-scale Dataset For Training Next Generation Image
 authors: Christoph Schuhmann et al.
 conference: Arxiv
 year: 2022
-citations: 616
+citations: 622
 bibkey: schuhmann2022laion
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.08402'}]
-tags: [Training Techniques, Merging, Fine-Tuning, Security, Model Architecture]
+tags: [Security, Model Architecture, Fine-Tuning, Training Techniques, Merging]
 ---
 Groundbreaking language-vision architectures like CLIP and DALL-E proved the
 utility of training on large amounts of noisy image-text data, without relying

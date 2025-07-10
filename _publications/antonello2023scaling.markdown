@@ -7,9 +7,9 @@ year: 2023
 citations: 15
 bibkey: antonello2023scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.11863'}]
-tags: [Scaling Laws, Large-Scale Training, Training Techniques, Transformer, GPT,
-  Pre-Training, Reinforcement Learning, BERT, Efficiency and Optimization, Applications,
-  Model Architecture]
+tags: [Scaling Laws, Model Architecture, GPT, Transformer, Applications, Reinforcement
+    Learning, Pre-Training, Evaluation, BERT, Efficiency and Optimization, Training
+    Techniques, Large-Scale Training]
 ---
 Representations from transformer-based unidirectional language models are
 known to be effective at predicting brain responses to natural language.

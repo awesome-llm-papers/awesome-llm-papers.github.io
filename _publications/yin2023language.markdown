@@ -5,11 +5,11 @@ title: 'LAMM: Language-assisted Multi-modal Instruction-tuning Dataset, Framewor
 authors: Zhenfei Yin et al.
 conference: Arxiv
 year: 2023
-citations: 22
+citations: 23
 bibkey: yin2023language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.06687'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Fine-Tuning, Tools, Reinforcement
-    Learning, Agentic, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, Fine-Tuning, Tools, Reinforcement
+    Learning, Agentic, Training Techniques, Evaluation]
 ---
 Large language models have emerged as a promising approach towards achieving
 general-purpose AI agents. The thriving open-source LLM community has greatly

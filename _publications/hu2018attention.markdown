@@ -2,13 +2,14 @@
 layout: publication
 title: Attention-guided Answer Distillation For Machine Reading Comprehension
 authors: Minghao Hu et al.
-conference: Arxiv
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2018
 citations: 21
 bibkey: hu2018attention
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.07644'}]
-tags: [Distillation, Training Techniques, RAG, Attention Mechanism, Efficiency and
-    Optimization, Security, Model Architecture]
+tags: [Security, Model Architecture, Attention Mechanism, Distillation, RAG, Efficiency
+    and Optimization, Training Techniques, Evaluation]
 ---
 Despite that current reading comprehension systems have achieved significant
 advancements, their promising performances are often obtained at the cost of

@@ -3,14 +3,14 @@ layout: publication
 title: Multimodal Attention Networks For Low-level Vision-and-language Navigation
 authors: Federico Landi, Lorenzo Baraldi, Marcella Cornia, Massimiliano Corsini, Rita
   Cucchiara
-conference: Arxiv
+conference: Computer Vision and Image Understanding
 year: 2019
-citations: 22
+citations: 23
 bibkey: landi2019multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.12377'}, {name: Code,
     url: 'https://github.com/aimagelab/perceive-transform-and-act'}]
-tags: [Transformer, Merging, Attention Mechanism, Agentic, Reinforcement Learning,
-  Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, Reinforcement
+    Learning, Multimodal Models, Agentic, Evaluation, Merging]
 ---
 Vision-and-Language Navigation (VLN) is a challenging task in which an agent
 needs to follow a language-specified path to reach a target destination. The

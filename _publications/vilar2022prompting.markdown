@@ -2,12 +2,13 @@
 layout: publication
 title: 'Prompting Palm For Translation: Assessing Strategies And Performance'
 authors: David Vilar et al.
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 26
+citations: 27
 bibkey: vilar2022prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.09102'}]
-tags: [Few-Shot, Reinforcement Learning, In-Context Learning, Prompting]
+tags: [Few-Shot, Reinforcement Learning, In-Context Learning, Prompting, Evaluation]
 ---
 Large language models (LLMs) that have been trained on multilingual but not
 parallel text exhibit a remarkable ability to translate between languages. We

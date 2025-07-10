@@ -2,12 +2,12 @@
 layout: publication
 title: Learning Rich Representation Of Keyphrases From Text
 authors: Mayank Kulkarni, Debanjan Mahata, Ravneet Arora, Rajarshi Bhowmik
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: NAACL 2022'
 year: 2021
 citations: 26
 bibkey: kulkarni2021learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.08547'}]
-tags: [Pre-Training, Training Techniques, Transformer, Model Architecture]
+tags: [Transformer, Training Techniques, Pre-Training, Model Architecture]
 ---
 In this work, we explore how to train task-specific language models aimed
 towards learning rich representation of keyphrases from text documents. We

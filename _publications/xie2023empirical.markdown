@@ -2,12 +2,14 @@
 layout: publication
 title: Empirical Study Of Zero-shot NER With Chatgpt
 authors: Tingyu Xie et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 19
+citations: 24
 bibkey: xie2023empirical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.10035'}]
-tags: [GPT, RAG, Few-Shot, Efficiency and Optimization, Prompting, Model Architecture]
+tags: [Model Architecture, Few-Shot, RAG, Prompting, Efficiency and Optimization,
+  GPT, Evaluation]
 ---
 Large language models (LLMs) exhibited powerful capability in various natural
 language processing tasks. This work focuses on exploring LLM performance on

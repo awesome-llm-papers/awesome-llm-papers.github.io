@@ -7,7 +7,7 @@ year: 2021
 citations: 18
 bibkey: liu2021omni
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.00249'}]
-tags: [Pre-Training, Tools, Training Techniques, Multimodal Models]
+tags: [Tools, Training Techniques, Multimodal Models, Pre-Training]
 ---
 In this paper, we propose an Omni-perception Pre-Trainer (OPT) for
 cross-modal understanding and generation, by jointly modeling visual, text and

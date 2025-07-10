@@ -2,12 +2,13 @@
 layout: publication
 title: Generating Persona Consistent Dialogues By Exploiting Natural Language Inference
 authors: Haoyu Song, Wei-nan Zhang, Jingwen Hu, Ting Liu
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
 citations: 30
 bibkey: song2019generating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.05889'}]
-tags: [Attention Mechanism, Agentic, Reinforcement Learning, Security, Model Architecture]
+tags: [Security, Model Architecture, Attention Mechanism, Reinforcement Learning,
+  Agentic, Evaluation]
 ---
 Consistency is one of the major challenges faced by dialogue agents. A
 human-like dialogue agent should not only respond naturally, but also maintain

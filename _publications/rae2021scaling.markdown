@@ -7,8 +7,8 @@ year: 2021
 citations: 222
 bibkey: rae2021scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.11446'}]
-tags: [Ethics and Bias, Training Techniques, Transformer, Responsible AI, Reinforcement
-    Learning, Model Architecture]
+tags: [Responsible AI, Model Architecture, Ethics and Bias, Transformer, Reinforcement
+    Learning, Training Techniques]
 ---
 Language modelling provides a step towards intelligent communication systems
 by harnessing large repositories of written human knowledge to better predict

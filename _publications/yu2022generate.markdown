@@ -8,7 +8,7 @@ citations: 61
 bibkey: yu2022generate
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.10063'}, {name: Code,
     url: 'https://github.com/wyu97/GenRead'}]
-tags: [Has Code, Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Has Code, Prompting]
 ---
 Knowledge-intensive tasks, such as open-domain question answering (QA),
 require access to a large amount of world or domain knowledge. A common

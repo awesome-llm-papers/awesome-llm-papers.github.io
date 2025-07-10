@@ -8,7 +8,7 @@ year: 2021
 citations: 50
 bibkey: herzig2021unlocking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.07478'}]
-tags: [Pre-Training, Reinforcement Learning, Model Architecture, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Pre-Training, Model Architecture]
 ---
 Sequence-to-sequence (seq2seq) models are prevalent in semantic parsing, but
 have been found to struggle at out-of-distribution compositional

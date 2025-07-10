@@ -8,7 +8,8 @@ year: 2023
 citations: 85
 bibkey: nori2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.16452'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Prompting, Training Techniques,
+  Evaluation]
 ---
 Generalist foundation models such as GPT-4 have displayed surprising
 capabilities in a wide variety of domains and tasks. Yet, there is a prevalent

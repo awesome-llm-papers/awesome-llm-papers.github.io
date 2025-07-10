@@ -2,9 +2,10 @@
 layout: publication
 title: Content Planning For Neural Story Generation With Aristotelian Rescoring
 authors: Seraphina Goldfarb-tarrant, Tuhin Chakrabarty, Ralph Weischedel, Nanyun Peng
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 22
+citations: 23
 bibkey: goldfarbtarrant2020content
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.09870'}]
 tags: [Prompting]

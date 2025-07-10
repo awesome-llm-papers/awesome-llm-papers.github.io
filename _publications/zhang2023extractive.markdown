@@ -2,12 +2,12 @@
 layout: publication
 title: Extractive Summarization Via Chatgpt For Faithful Summary Generation
 authors: Haopeng Zhang, Xiao Liu, Jiawei Zhang
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
-citations: 31
+citations: 33
 bibkey: zhang2023extractive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.04193'}]
-tags: [Fine-Tuning, Training Techniques, Model Architecture, GPT]
+tags: [Model Architecture, GPT, Fine-Tuning, Training Techniques, Evaluation]
 ---
 Extractive summarization is a crucial task in natural language processing
 that aims to condense long documents into shorter versions by directly

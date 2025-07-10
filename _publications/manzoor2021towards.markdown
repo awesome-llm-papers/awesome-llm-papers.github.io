@@ -2,12 +2,12 @@
 layout: publication
 title: Towards Retrieval-based Conversational Recommendation
 authors: Ahtsham Manzoor, Dietmar Jannach
-conference: Information Systems Volume 109 2022 102083 ISSN 0306-4379
+conference: Information Systems
 year: 2021
 citations: 16
 bibkey: manzoor2021towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.02311'}]
-tags: [RAG, Reinforcement Learning, Attention Mechanism, RecSys, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, RAG, RecSys, Reinforcement Learning]
 ---
 Conversational recommender systems have attracted immense attention recently.
 The most recent approaches rely on neural models trained on recorded dialogs

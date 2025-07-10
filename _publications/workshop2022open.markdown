@@ -4,11 +4,11 @@ title: 'BLOOM: A 176b-parameter Open-access Multilingual Language Model'
 authors: Bigscience Workshop et al.
 conference: Arxiv
 year: 2022
-citations: 615
+citations: 616
 bibkey: workshop2022open
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2211.05100v4'}]
-tags: [Ethics and Bias, Transformer, Responsible AI, Applications, Prompting, Model
-    Architecture]
+tags: [Responsible AI, Model Architecture, Ethics and Bias, Transformer, Applications,
+  Prompting, Evaluation]
 ---
 Large language models (LLMs) have been shown to be able to perform new tasks
 based on a few demonstrations or natural language instructions. While these

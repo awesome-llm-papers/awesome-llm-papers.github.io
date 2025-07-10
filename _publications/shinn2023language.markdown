@@ -4,11 +4,11 @@ title: 'Reflexion: Language Agents With Verbal Reinforcement Learning'
 authors: Noah Shinn et al.
 conference: Arxiv
 year: 2023
-citations: 146
+citations: 150
 bibkey: shinn2023language
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.11366v4'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, Tools, Agentic,
-  Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Tools, Reinforcement Learning, Agentic,
+  Training Techniques, Evaluation]
 ---
 Large language models (LLMs) have been increasingly used to interact with
 external environments (e.g., games, compilers, APIs) as goal-driven agents.

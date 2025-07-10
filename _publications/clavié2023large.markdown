@@ -4,12 +4,12 @@ title: 'Large Language Models In The Workplace: A Case Study On Prompt Engineeri
   For Job Type Classification'
 authors: "Benjamin Clavi\xE9, Alexandru Ciceu, Frederick Naylor, Guillaume Souli\xE9\
   , Thomas Brightwell"
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2023
-citations: 26
+citations: 32
 bibkey: "clavi\xE92023large"
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.07142v3'}]
-tags: [GPT, Few-Shot, Reinforcement Learning, BERT, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Few-Shot, Reinforcement Learning, Prompting, BERT]
 ---
 This case study investigates the task of job classification in a real-world
 setting, where the goal is to determine whether an English-language job posting

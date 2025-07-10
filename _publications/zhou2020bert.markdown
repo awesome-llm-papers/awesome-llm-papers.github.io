@@ -7,8 +7,8 @@ year: 2020
 citations: 160
 bibkey: zhou2020bert
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.04152'}]
-tags: [Reinforcement Learning, BERT, Efficiency and Optimization, Security, Model
-    Architecture]
+tags: [Security, Model Architecture, Reinforcement Learning, Efficiency and Optimization,
+  BERT]
 ---
 In this paper, we propose Patience-based Early Exit, a straightforward yet
 effective inference method that can be used as a plug-and-play technique to

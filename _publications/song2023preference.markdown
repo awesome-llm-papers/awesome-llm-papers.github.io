@@ -2,13 +2,13 @@
 layout: publication
 title: Preference Ranking Optimization For Human Alignment
 authors: Feifan Song et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 17
+citations: 19
 bibkey: song2023preference
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.17492'}]
-tags: [GPT, Fine-Tuning, Reinforcement Learning, Agentic, Efficiency and Optimization,
-  Security, Model Architecture]
+tags: [Security, Model Architecture, Fine-Tuning, Reinforcement Learning, Agentic,
+  Efficiency and Optimization, GPT, Evaluation]
 ---
 Large language models (LLMs) often contain misleading content, emphasizing
 the need to align them with human values to ensure secure AI systems.

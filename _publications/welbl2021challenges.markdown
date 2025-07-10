@@ -2,12 +2,12 @@
 layout: publication
 title: Challenges In Detoxifying Language Models
 authors: Johannes Welbl et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
 year: 2021
-citations: 32
+citations: 33
 bibkey: welbl2021challenges
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.07445'}]
-tags: [Ethics and Bias, RAG, Reinforcement Learning, Responsible AI, Prompting]
+tags: [Responsible AI, Ethics and Bias, RAG, Reinforcement Learning, Prompting, Evaluation]
 ---
 Large language models (LM) generate remarkably fluent text and can be
 efficiently adapted across NLP tasks. Measuring and guaranteeing the quality of

@@ -2,13 +2,14 @@
 layout: publication
 title: Distilling Reasoning Capabilities Into Smaller Language Models
 authors: Kumar Shridhar, Alessandro Stolfo, Mrinmaya Sachan
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2022
-citations: 20
+citations: 22
 bibkey: shridhar2022distilling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.00193'}, {name: Code,
     url: 'https://github.com/kumar-shridhar/Distiiling-LM'}]
-tags: [Distillation, GPT, RAG, Efficiency and Optimization, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Distillation, RAG, Efficiency and Optimization,
+  GPT]
 ---
 Step-by-step reasoning approaches like chain of thought (CoT) have proved to
 be very effective in inducing reasoning capabilities in large language models.

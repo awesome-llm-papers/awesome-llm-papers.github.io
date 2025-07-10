@@ -7,7 +7,7 @@ year: 2018
 citations: 500
 bibkey: dinan2018wizard
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1811.01241'}]
-tags: [Agentic, Model Architecture]
+tags: [Agentic, Model Architecture, Evaluation]
 ---
 In open-domain dialogue intelligent agents should exhibit the use of
 knowledge, however there are few convincing demonstrations of this to date. The

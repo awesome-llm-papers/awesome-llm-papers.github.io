@@ -3,12 +3,13 @@ layout: publication
 title: 'Medalign: A Clinician-generated Dataset For Instruction Following With Electronic
   Medical Records'
 authors: Scott L. Fleming et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
 citations: 22
 bibkey: fleming2023clinician
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.14089'}]
-tags: [GPT, Reinforcement Learning, Survey Paper, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Survey Paper, Reinforcement Learning,
+  GPT, Evaluation]
 ---
 The ability of large language models (LLMs) to follow natural language
 instructions with human-level fluency suggests many opportunities in healthcare

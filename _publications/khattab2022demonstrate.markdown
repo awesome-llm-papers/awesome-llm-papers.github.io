@@ -9,8 +9,8 @@ citations: 41
 bibkey: khattab2022demonstrate
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.14024'}, {name: Code,
     url: 'https://github.com/stanfordnlp/dsp'}]
-tags: [GPT, RAG, Tools, Reinforcement Learning, In-Context Learning, Has Code, Prompting,
-  Model Architecture]
+tags: [Has Code, Model Architecture, RAG, Tools, Reinforcement Learning, Prompting,
+  In-Context Learning, GPT, Evaluation]
 ---
 Retrieval-augmented in-context learning has emerged as a powerful approach
 for addressing knowledge-intensive tasks using frozen language models (LM) and

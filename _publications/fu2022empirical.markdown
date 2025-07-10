@@ -3,12 +3,12 @@ layout: publication
 title: An Empirical Study Of End-to-end Video-language Transformers With Masked Visual
   Modeling
 authors: Tsu-jui Fu et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
-citations: 28
+citations: 29
 bibkey: fu2022empirical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.01540'}]
-tags: [Pre-Training, Training Techniques, Transformer, Model Architecture]
+tags: [Model Architecture, Transformer, Pre-Training, Training Techniques, Evaluation]
 ---
 Masked visual modeling (MVM) has been recently proven effective for visual
 pre-training. While similar reconstructive objectives on video inputs (e.g.,

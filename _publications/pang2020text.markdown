@@ -7,8 +7,8 @@ year: 2020
 citations: 28
 bibkey: pang2020text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.07839'}]
-tags: [Ethics and Bias, GPT, Training Techniques, Reinforcement Learning, Agentic,
-  Efficiency and Optimization, Language Modeling]
+tags: [Language Modeling, Ethics and Bias, GPT, Reinforcement Learning, Agentic, Efficiency
+    and Optimization, Training Techniques, Evaluation]
 ---
 Current approaches to text generation largely rely on autoregressive models
 and maximum likelihood estimation. This paradigm leads to (i) diverse but

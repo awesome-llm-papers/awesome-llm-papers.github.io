@@ -2,9 +2,9 @@
 layout: publication
 title: 'Lawformer: A Pre-trained Language Model For Chinese Legal Long Documents'
 authors: Chaojun Xiao, Xueyu Hu, Zhiyuan Liu, Cunchao Tu, Maosong Sun
-conference: Arxiv
+conference: AI Open
 year: 2021
-citations: 138
+citations: 142
 bibkey: xiao2021pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.03887'}]
 tags: [Uncategorized]

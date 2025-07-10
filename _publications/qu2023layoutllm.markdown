@@ -2,13 +2,13 @@
 layout: publication
 title: 'Layoutllm-t2i: Eliciting Layout Guidance From LLM For Text-to-image Generation'
 authors: Leigang Qu, Shengqiong Wu, Hao Fei, Liqiang Nie, Tat-seng Chua
-conference: Arxiv
+conference: 'MM ''23: The 31st ACM International Conference on Multimedia'
 year: 2023
-citations: 41
+citations: 42
 bibkey: qu2023layoutllm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.05095'}, {name: Code,
     url: 'https://layoutllm-t2i.github.io'}]
-tags: [Has Code, Merging, In-Context Learning, Prompting]
+tags: [In-Context Learning, Has Code, Prompting, Merging]
 ---
 In the text-to-image generation field, recent remarkable progress in Stable
 Diffusion makes it possible to generate rich kinds of novel photorealistic

@@ -2,12 +2,13 @@
 layout: publication
 title: 'Autocoderover: Autonomous Program Improvement'
 authors: Yuntong Zhang, Haifeng Ruan, Zhiyu Fan, Abhik Roychoudhury
-conference: Arxiv
+conference: 'ISSTA ''24: 33rd ACM SIGSOFT International Symposium on Software Testing
+  and Analysis'
 year: 2024
-citations: 22
+citations: 37
 bibkey: zhang2024autonomous
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.05427'}]
-tags: [RAG, Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning, RAG]
 ---
 Researchers have made significant progress in automating the software
 development process in the past decades. Recent progress in Large Language

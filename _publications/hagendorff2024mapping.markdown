@@ -2,13 +2,12 @@
 layout: publication
 title: 'Mapping The Ethics Of Generative AI: A Comprehensive Scoping Review'
 authors: Thilo Hagendorff
-conference: Arxiv
+conference: Minds and Machines
 year: 2024
-citations: 35
+citations: 39
 bibkey: hagendorff2024mapping
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.08323'}]
-tags: [Ethics and Bias, Responsible AI, Fairness, Security, Bias Mitigation, Survey
-    Paper]
+tags: [Responsible AI, Security, Ethics and Bias, Fairness, Survey Paper, Bias Mitigation]
 ---
 The advent of generative artificial intelligence and the widespread adoption
 of it in society engendered intensive debates about its ethical implications

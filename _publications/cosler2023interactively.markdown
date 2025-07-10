@@ -4,12 +4,12 @@ title: 'Nl2spec: Interactively Translating Unstructured Natural Language To Temp
   Logics With Large Language Models'
 authors: Matthias Cosler, Christopher Hahn, Daniel Mendoza, Frederik Schmitt, Caroline
   Trippel
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2023
-citations: 42
+citations: 44
 bibkey: cosler2023interactively
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.04864'}]
-tags: [RAG, Tools]
+tags: [Tools, RAG]
 ---
 A rigorous formalization of desired system requirements is indispensable when
 performing any verification task. This often limits the application of

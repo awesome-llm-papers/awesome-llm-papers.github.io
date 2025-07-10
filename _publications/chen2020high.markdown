@@ -2,13 +2,13 @@
 layout: publication
 title: 'Logic2text: High-fidelity Natural Language Generation From Logical Forms'
 authors: Zhiyu Chen et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
 citations: 18
 bibkey: chen2020high
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.14579'}, {name: Code,
     url: 'https://github.com/czyssrs/Logic2Text'}]
-tags: [Training Techniques, RAG, Few-Shot, Reinforcement Learning, Has Code]
+tags: [Has Code, Few-Shot, RAG, Reinforcement Learning, Training Techniques]
 ---
 Previous works on Natural Language Generation (NLG) from structured data have
 primarily focused on surface-level descriptions of record sequences. However,

@@ -2,12 +2,13 @@
 layout: publication
 title: 'Code4struct: Code Generation For Few-shot Event Structure Prediction'
 authors: Xingyao Wang, Sha Li, Heng Ji
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 20
+citations: 21
 bibkey: wang2022code
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.12810'}]
-tags: [RAG, Few-Shot, Training Techniques, Prompting]
+tags: [Training Techniques, Few-Shot, Prompting, RAG]
 ---
 Large Language Model (LLM) trained on a mixture of text and code has
 demonstrated impressive capability in translating natural language (NL) into

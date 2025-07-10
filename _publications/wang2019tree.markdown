@@ -2,13 +2,15 @@
 layout: publication
 title: 'Tree Transformer: Integrating Tree Structures Into Self-attention'
 authors: Yau-shian Wang, Hung-yi Lee, Yun-nung Chen
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
 citations: 45
 bibkey: wang2019tree
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.06639'}]
-tags: [Training Techniques, Transformer, RAG, Pre-Training, Fine-Tuning, Attention
-    Mechanism, BERT, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Fine-Tuning,
+  RAG, Pre-Training, BERT, Training Techniques]
 ---
 Pre-training Transformer from large-scale raw texts and fine-tuning on the
 desired task have achieved state-of-the-art results on diverse NLP tasks.

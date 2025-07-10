@@ -2,13 +2,13 @@
 layout: publication
 title: 'Fingpt: Open-source Financial Large Language Models'
 authors: Hongyang Yang, Xiao-yang Liu, Christina Dan Wang
-conference: Arxiv
+conference: SSRN Electronic Journal
 year: 2023
-citations: 89
+citations: 96
 bibkey: yang2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.06031'}, {name: Code,
     url: 'https://github.com/AI4Finance-Foundation/FinGPT'}, {name: Code, url: 'https://github.com/AI4Finance-Foundation/FinNLP'}]
-tags: [GPT, Reinforcement Learning, Has Code, Applications, Model Architecture]
+tags: [Has Code, Model Architecture, Applications, Reinforcement Learning, GPT]
 ---
 Large language models (LLMs) have shown the potential of revolutionizing
 natural language processing tasks in diverse domains, sparking great interest

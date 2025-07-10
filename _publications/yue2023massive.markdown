@@ -3,12 +3,12 @@ layout: publication
 title: 'MMMU: A Massive Multi-discipline Multimodal Understanding And Reasoning Benchmark
   For Expert AGI'
 authors: Xiang Yue et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 50
+citations: 57
 bibkey: yue2023massive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.16502'}]
-tags: [GPT, Model Architecture, Multimodal Models]
+tags: [GPT, Multimodal Models, Model Architecture, Evaluation]
 ---
 We introduce MMMU: a new benchmark designed to evaluate multimodal models on
 massive multi-discipline tasks demanding college-level subject knowledge and

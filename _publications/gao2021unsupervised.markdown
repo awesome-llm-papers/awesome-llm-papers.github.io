@@ -2,13 +2,14 @@
 layout: publication
 title: Unsupervised Corpus Aware Language Model Pre-training For Dense Passage Retrieval
 authors: Luyu Gao, Jamie Callan
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
-citations: 71
+citations: 72
 bibkey: gao2021unsupervised
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.05540'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Reinforcement Learning, Pre-Training,
-  Model Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, Reinforcement Learning, Pre-Training,
+  Training Techniques]
 ---
 Recent research demonstrates the effectiveness of using fine-tuned language
 models~(LM) for dense retrieval. However, dense retrievers are hard to train,

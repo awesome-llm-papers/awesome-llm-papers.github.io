@@ -8,8 +8,8 @@ year: 2019
 citations: 19
 bibkey: liu2019multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03588'}]
-tags: [Distillation, Transformer, Tools, Reinforcement Learning, BERT, Efficiency
-    and Optimization, Model Architecture]
+tags: [Model Architecture, Distillation, Transformer, Tools, Reinforcement Learning,
+  Efficiency and Optimization, BERT]
 ---
 Pretrained language models have led to significant performance gains in many
 NLP tasks. However, the intensive computing resources to train such models

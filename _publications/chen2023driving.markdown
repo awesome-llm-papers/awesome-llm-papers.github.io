@@ -3,13 +3,13 @@ layout: publication
 title: 'Driving With Llms: Fusing Object-level Vector Modality For Explainable Autonomous
   Driving'
 authors: Long Chen et al.
-conference: Arxiv
+conference: 2024 IEEE International Conference on Robotics and Automation (ICRA)
 year: 2023
-citations: 39
+citations: 46
 bibkey: chen2023driving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.01957'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, Interpretability
-    and Explainability, Agentic, Multimodal Models, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Interpretability and Explainability,
+  Reinforcement Learning, Multimodal Models, Agentic, Training Techniques, Evaluation]
 ---
 Large Language Models (LLMs) have shown promise in the autonomous driving
 sector, particularly in generalization and interpretability. We introduce a

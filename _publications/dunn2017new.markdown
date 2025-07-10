@@ -7,7 +7,7 @@ year: 2017
 citations: 422
 bibkey: dunn2017new
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1704.05179'}]
-tags: [RAG, Reinforcement Learning]
+tags: [Reinforcement Learning, RAG, Evaluation]
 ---
 We publicly release a new large-scale dataset, called SearchQA, for machine
 comprehension, or question-answering. Unlike recently released datasets, such

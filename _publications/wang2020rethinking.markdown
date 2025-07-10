@@ -2,12 +2,12 @@
 layout: publication
 title: Rethinking The Value Of Transformer Components
 authors: Wenxuan Wang, Zhaopeng Tu
-conference: Arxiv
+conference: Proceedings of the 28th International Conference on Computational Linguistics
 year: 2020
 citations: 16
 bibkey: wang2020rethinking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.03803'}]
-tags: [Training Techniques, Transformer, Model Architecture]
+tags: [Transformer, Training Techniques, Model Architecture]
 ---
 Transformer becomes the state-of-the-art translation model, while it is not
 well studied how each intermediate component contributes to the model

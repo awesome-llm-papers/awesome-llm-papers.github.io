@@ -2,12 +2,12 @@
 layout: publication
 title: Hidden Flaws Behind Expert-level Accuracy Of Multimodal GPT-4 Vision In Medicine
 authors: Qiao Jin et al.
-conference: npj Digital Medicine 2024
+conference: npj Digital Medicine
 year: 2024
-citations: 42
+citations: 43
 bibkey: jin2024hidden
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.08396'}]
-tags: [GPT, Transformer, Model Architecture, Multimodal Models]
+tags: [Model Architecture, Transformer, Multimodal Models, GPT, Evaluation]
 ---
 Recent studies indicate that Generative Pre-trained Transformer 4 with Vision
 (GPT-4V) outperforms human physicians in medical challenge tasks. However,

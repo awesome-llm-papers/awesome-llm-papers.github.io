@@ -3,13 +3,14 @@ layout: publication
 title: 'When Attention Meets Fast Recurrence: Training Language Models With Reduced
   Compute'
 authors: Tao Lei
-conference: EMNLP 2021
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 16
 bibkey: lei2021when
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.12459'}]
-tags: [Training Techniques, Transformer, RAG, Attention Mechanism, Efficiency and
-    Optimization, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, RAG,
+  Efficiency and Optimization, Training Techniques, Time Series]
 ---
 Large language models have become increasingly difficult to train because of
 the growing computation time and cost. In this work, we present SRU++, a

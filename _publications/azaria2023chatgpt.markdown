@@ -2,12 +2,12 @@
 layout: publication
 title: Chatgpt Is A Remarkable Tool -- For Experts
 authors: Amos Azaria, Rina Azoulay, Shulamit Reches
-conference: Arxiv
+conference: Data Intelligence
 year: 2023
-citations: 41
+citations: 45
 bibkey: azaria2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.03102'}]
-tags: [Applications, Model Architecture, GPT]
+tags: [GPT, Model Architecture, Applications]
 ---
 This paper investigates the capabilities of ChatGPT as an automated assistant
 in diverse domains, including scientific writing, mathematics, education,

@@ -7,8 +7,8 @@ year: 2022
 citations: 33
 bibkey: soltan2022alexatm
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2208.01448v2'}]
-tags: [GPT, Training Techniques, Few-Shot, Reinforcement Learning, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Few-Shot, Reinforcement Learning,
+  Training Techniques]
 ---
 In this work, we demonstrate that multilingual large-scale
 sequence-to-sequence (seq2seq) models, pre-trained on a mixture of denoising

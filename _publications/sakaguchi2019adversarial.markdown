@@ -2,12 +2,12 @@
 layout: publication
 title: 'Winogrande: An Adversarial Winograd Schema Challenge At Scale'
 authors: Keisuke Sakaguchi, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
-citations: 63
+citations: 64
 bibkey: sakaguchi2019adversarial
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.10641'}]
-tags: [Ethics and Bias, Fine-Tuning, Training Techniques, Security]
+tags: [Security, Ethics and Bias, Fine-Tuning, Training Techniques, Evaluation]
 ---
 The Winograd Schema Challenge (WSC) (Levesque, Davis, and Morgenstern 2011),
 a benchmark for commonsense reasoning, is a set of 273 expert-crafted pronoun

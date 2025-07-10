@@ -2,12 +2,13 @@
 layout: publication
 title: Fast Abstractive Summarization With Reinforce-selected Sentence Rewriting
 authors: Yen-chun Chen, Mohit Bansal
-conference: Arxiv
+conference: 'Proceedings of the 56th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2018
-citations: 195
+citations: 196
 bibkey: chen2018fast
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1805.11080'}]
-tags: [RAG, Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, RAG, Evaluation]
 ---
 Inspired by how humans summarize long documents, we propose an accurate and
 fast summarization model that first selects salient sentences and then rewrites

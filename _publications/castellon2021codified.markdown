@@ -8,7 +8,7 @@ year: 2021
 citations: 17
 bibkey: castellon2021codified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.05677'}]
-tags: [RAG, Pre-Training, Training Techniques, Language Modeling]
+tags: [Language Modeling, Training Techniques, RAG, Pre-Training]
 ---
 We demonstrate that language models pre-trained on codified
 (discretely-encoded) music audio learn representations that are useful for

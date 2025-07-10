@@ -3,12 +3,12 @@ layout: publication
 title: 'Commongen: A Constrained Text Generation Challenge For Generative Commonsense
   Reasoning'
 authors: Bill Yuchen Lin et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2019
 citations: 36
 bibkey: lin2019constrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03705'}]
-tags: [Language Modeling]
+tags: [Language Modeling, Evaluation]
 ---
 Recently, large-scale pre-trained language models have demonstrated
 impressive performance on several commonsense-reasoning benchmark datasets.

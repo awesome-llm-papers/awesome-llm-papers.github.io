@@ -7,7 +7,7 @@ year: 2020
 citations: 50
 bibkey: li2020zero
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.12918'}]
-tags: [Training Techniques]
+tags: [Training Techniques, Evaluation]
 ---
 While neural conversation models have shown great potentials towards
 generating informative and engaging responses via introducing external

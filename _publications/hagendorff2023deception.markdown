@@ -2,12 +2,12 @@
 layout: publication
 title: Deception Abilities Emerged In Large Language Models
 authors: Thilo Hagendorff
-conference: Arxiv
+conference: Proceedings of the National Academy of Sciences
 year: 2023
-citations: 28
+citations: 30
 bibkey: hagendorff2023deception
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.16513'}]
-tags: [Reinforcement Learning, Agentic, Model Architecture, GPT]
+tags: [Agentic, Reinforcement Learning, GPT, Model Architecture]
 ---
 Large language models (LLMs) are currently at the forefront of intertwining
 artificial intelligence (AI) systems with human communication and everyday

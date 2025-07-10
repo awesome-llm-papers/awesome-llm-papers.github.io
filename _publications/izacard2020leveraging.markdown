@@ -3,12 +3,13 @@ layout: publication
 title: Leveraging Passage Retrieval With Generative Models For Open Domain Question
   Answering
 authors: Gautier Izacard, Edouard Grave
-conference: Arxiv
+conference: 'Proceedings of the 16th Conference of the European Chapter of the Association
+  for Computational Linguistics: Main Volume'
 year: 2020
-citations: 215
+citations: 228
 bibkey: izacard2020leveraging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.01282'}]
-tags: [RAG]
+tags: [RAG, Evaluation]
 ---
 Generative models for open domain question answering have proven to be
 competitive, without resorting to external knowledge. While promising, this

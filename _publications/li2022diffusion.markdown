@@ -5,10 +5,10 @@ authors: Xiang Lisa Li, John Thickstun, Ishaan Gulrajani, Percy Liang, Tatsunori
   Hashimoto
 conference: Arxiv
 year: 2022
-citations: 199
+citations: 200
 bibkey: li2022diffusion
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.14217'}]
-tags: [Language Modeling, Training Techniques, GPT, Merging]
+tags: [Language Modeling, Training Techniques, Merging, GPT]
 ---
 Controlling the behavior of language models (LMs) without re-training is a
 major open problem in natural language generation. While recent works have

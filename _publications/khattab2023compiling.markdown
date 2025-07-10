@@ -4,11 +4,11 @@ title: 'Dspy: Compiling Declarative Language Model Calls Into Self-improving Pip
 authors: Omar Khattab et al.
 conference: Arxiv
 year: 2023
-citations: 17
+citations: 18
 bibkey: khattab2023compiling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.03714'}, {name: Code,
     url: 'https://github.com/stanfordnlp/dspy'}]
-tags: [GPT, Few-Shot, Tools, Agentic, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Few-Shot, Tools, Prompting, Agentic, GPT]
 ---
 The ML community is rapidly exploring techniques for prompting language
 models (LMs) and for stacking them into pipelines that solve complex tasks.

@@ -2,12 +2,13 @@
 layout: publication
 title: Using Natural Language For Reward Shaping In Reinforcement Learning
 authors: Prasoon Goyal, Scott Niekum, Raymond J. Mooney
-conference: Arxiv
+conference: Twenty-Eighth International Joint Conference on Artificial Intelligence
+  {IJCAI-19}
 year: 2019
 citations: 31
 bibkey: goyal2019using
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1903.02020'}]
-tags: [RAG, Tools, Agentic, Reinforcement Learning]
+tags: [RAG, Tools, Reinforcement Learning, Agentic, Evaluation]
 ---
 Recent reinforcement learning (RL) approaches have shown strong performance
 in complex domains such as Atari games, but are often highly sample

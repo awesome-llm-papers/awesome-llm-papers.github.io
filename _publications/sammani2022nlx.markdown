@@ -3,14 +3,15 @@ layout: publication
 title: 'NLX-GPT: A Model For Natural Language Explanations In Vision And Vision-language
   Tasks'
 authors: Fawaz Sammani, Tanmoy Mukherjee, Nikos Deligiannis
-conference: Arxiv
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
 citations: 34
 bibkey: sammani2022nlx
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.05081'}, {name: Code,
     url: 'https://github.com/fawazsammani/nlxgpt'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Pre-Training, Tools, Interpretability
-    and Explainability, Has Code, Security, Multimodal Models, Model Architecture]
+tags: [Security, Has Code, Model Architecture, Ethics and Bias, GPT, Interpretability
+    and Explainability, Tools, Multimodal Models, Pre-Training, Training Techniques,
+  Evaluation]
 ---
 Natural language explanation (NLE) models aim at explaining the
 decision-making process of a black box system via generating natural language

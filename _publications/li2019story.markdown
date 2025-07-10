@@ -2,13 +2,14 @@
 layout: publication
 title: Story Ending Prediction By Transferable BERT
 authors: Zhongyang Li, Xiao Ding, Ting Liu
-conference: Arxiv
+conference: Twenty-Eighth International Joint Conference on Artificial Intelligence
+  {IJCAI-19}
 year: 2019
 citations: 16
 bibkey: li2019story
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.07504'}]
-tags: [Training Techniques, Transformer, GPT, Fine-Tuning, Tools, Reinforcement Learning,
-  BERT, Model Architecture]
+tags: [Model Architecture, GPT, Transformer, Fine-Tuning, Tools, Reinforcement Learning,
+  BERT, Training Techniques]
 ---
 Recent advances, such as GPT and BERT, have shown success in incorporating a
 pre-trained transformer language model and fine-tuning operation to improve

@@ -3,12 +3,12 @@ layout: publication
 title: 'Human-ai Collaboration In Thematic Analysis Using Chatgpt: A User Study And
   Design Recommendations'
 authors: Lixiang Yan et al.
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 19
+citations: 25
 bibkey: yan2023human
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.03999'}]
-tags: [Efficiency and Optimization, Fine-Tuning, GPT, Model Architecture]
+tags: [Efficiency and Optimization, GPT, Fine-Tuning, Model Architecture]
 ---
 Generative artificial intelligence (GenAI) offers promising potential for
 advancing human-AI collaboration in qualitative research. However, existing

@@ -7,8 +7,8 @@ year: 2022
 citations: 16
 bibkey: christopoulou2022pangu
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.11280'}]
-tags: [Masked Language Model, Training Techniques, Pre-Training, Reinforcement Learning,
-  Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Masked Language Model, Reinforcement
+    Learning, Pre-Training, Training Techniques]
 ---
 We present PanGu-Coder, a pretrained decoder-only language model adopting the
 PanGu-Alpha architecture for text-to-code generation, i.e. the synthesis of

@@ -2,12 +2,13 @@
 layout: publication
 title: Enabling Large Language Models To Generate Text With Citations
 authors: Tianyu Gao, Howard Yen, Jiatong Yu, Danqi Chen
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 36
+citations: 40
 bibkey: gao2023enabling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14627'}]
-tags: [Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Prompting, Evaluation]
 ---
 Large language models (LLMs) have emerged as a widely-used tool for
 information seeking, but their generated outputs are prone to hallucination. In

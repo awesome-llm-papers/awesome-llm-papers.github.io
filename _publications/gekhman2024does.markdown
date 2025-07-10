@@ -2,12 +2,13 @@
 layout: publication
 title: Does Fine-tuning Llms On New Knowledge Encourage Hallucinations?
 authors: Zorik Gekhman et al.
-conference: Arxiv
+conference: Proceedings of the 2024 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2024
-citations: 16
+citations: 20
 bibkey: gekhman2024does
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2405.05904'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Reinforcement Learning, Pre-Training]
+tags: [Fine-Tuning, RAG, Reinforcement Learning, Pre-Training, Training Techniques]
 ---
 When large language models are aligned via supervised fine-tuning, they may
 encounter new factual information that was not acquired through pre-training.

@@ -3,12 +3,12 @@ layout: publication
 title: 'The Impact Of Chatgpt And Llms On Medical Imaging Stakeholders: Perspectives
   And Use Cases'
 authors: Jiancheng Yang, Hongwei Bran Li, Donglai Wei
-conference: Arxiv
+conference: Meta-Radiology
 year: 2023
 citations: 28
 bibkey: yang2023impact
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.06767'}]
-tags: [Applications, Model Architecture, GPT, Tools]
+tags: [Tools, GPT, Model Architecture, Applications]
 ---
 This study investigates the transformative potential of Large Language Models
 (LLMs), such as OpenAI ChatGPT, in medical imaging. With the aid of public

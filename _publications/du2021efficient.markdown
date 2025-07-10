@@ -7,7 +7,7 @@ year: 2021
 citations: 96
 bibkey: du2021efficient
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2112.06905v2'}]
-tags: [In-Context Learning, GPT, Model Architecture, Training Techniques]
+tags: [In-Context Learning, Training Techniques, Model Architecture, GPT]
 ---
 Scaling language models with more data, compute and parameters has driven
 significant progress in natural language processing. For example, thanks to

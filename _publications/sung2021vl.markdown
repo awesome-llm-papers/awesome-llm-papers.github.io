@@ -3,14 +3,14 @@ layout: publication
 title: 'Vl-adapter: Parameter-efficient Transfer Learning For Vision-and-language
   Tasks'
 authors: Yi-lin Sung, Jaemin Cho, Mohit Bansal
-conference: Arxiv
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2021
-citations: 160
+citations: 164
 bibkey: sung2021vl
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.06825'}, {name: Code,
     url: 'https://github.com/ylsung/VL_adapter'}]
-tags: [Training Techniques, Pre-Training, Tools, Fine-Tuning, Efficiency and Optimization,
-  Has Code, Prompting]
+tags: [Has Code, Fine-Tuning, Tools, Prompting, Pre-Training, Efficiency and Optimization,
+  Training Techniques, Evaluation]
 ---
 Recently, fine-tuning language models pre-trained on large text corpora have
 provided huge improvements on vision-and-language (V&L) tasks as well as on

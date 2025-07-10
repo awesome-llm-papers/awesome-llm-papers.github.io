@@ -7,8 +7,8 @@ year: 2022
 citations: 453
 bibkey: yu2022contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.01917'}]
-tags: [Training Techniques, Transformer, GPT, Attention Mechanism, Multimodal Models,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, GPT, Transformer, Multimodal Models,
+  Training Techniques]
 ---
 Exploring large-scale pretrained foundation models is of significant interest
 in computer vision because these models can be quickly transferred to many

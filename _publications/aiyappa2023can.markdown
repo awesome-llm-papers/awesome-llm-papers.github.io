@@ -3,12 +3,12 @@ layout: publication
 title: Can We Trust The Evaluation On Chatgpt?
 authors: Rachith Aiyappa, Jisun An, Haewoon Kwak, Yong-yeol Ahn
 conference: Proceedings of the 3rd Workshop on Trustworthy Natural Language Processing
-  (TrustNLP 2023) (July 2023) 47-54
+  (TrustNLP 2023)
 year: 2023
 citations: 24
 bibkey: aiyappa2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.12767'}]
-tags: [Reinforcement Learning, Agentic, Model Architecture, GPT]
+tags: [Model Architecture, Reinforcement Learning, Agentic, GPT, Evaluation]
 ---
 ChatGPT, the first large language model (LLM) with mass adoption, has
 demonstrated remarkable performance in numerous natural language tasks. Despite

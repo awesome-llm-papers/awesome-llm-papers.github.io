@@ -3,13 +3,15 @@ layout: publication
 title: 'One Chatbot Per Person: Creating Personalized Chatbots Based On Implicit User
   Profiles'
 authors: Zhengyi Ma, Zhicheng Dou, Yutao Zhu, Hanxun Zhong, Ji-rong Wen
-conference: Arxiv
+conference: 'SIGIR ''21: The 44th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2021
 citations: 32
 bibkey: ma2021one
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.09355'}, {name: Code,
     url: 'https://github.com/zhengyima/DHAP'}]
-tags: [Transformer, RAG, Reinforcement Learning, Has Code, Applications, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, RAG, Applications, Reinforcement
+    Learning]
 ---
 Personalized chatbots focus on endowing chatbots with a consistent
 personality to behave like real users, give more informative responses, and

@@ -3,13 +3,14 @@ layout: publication
 title: 'Factpegasus: Factuality-aware Pre-training And Fine-tuning For Abstractive
   Summarization'
 authors: David Wan, Mohit Bansal
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2022
 citations: 16
 bibkey: wan2022factuality
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.07830'}, {name: Code,
     url: 'https://github.com/meetdavidwan/factpegasus'}]
-tags: [Training Techniques, Pre-Training, Few-Shot, Fine-Tuning, Has Code]
+tags: [Has Code, Fine-Tuning, Few-Shot, Pre-Training, Training Techniques, Evaluation]
 ---
 We present FactPEGASUS, an abstractive summarization model that addresses the
 problem of factuality during pre-training and fine-tuning: (1) We augment the

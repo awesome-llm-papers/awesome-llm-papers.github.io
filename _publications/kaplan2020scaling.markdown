@@ -4,11 +4,11 @@ title: Scaling Laws For Neural Language Models
 authors: Jared Kaplan et al.
 conference: Arxiv
 year: 2020
-citations: 1207
+citations: 1211
 bibkey: kaplan2020scaling
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2001.08361v1'}]
-tags: [Scaling Laws, Large-Scale Training, Training Techniques, Pre-Training, Efficiency
-    and Optimization]
+tags: [Scaling Laws, Pre-Training, Efficiency and Optimization, Training Techniques,
+  Large-Scale Training]
 ---
 We study empirical scaling laws for language model performance on the
 cross-entropy loss. The loss scales as a power-law with model size, dataset

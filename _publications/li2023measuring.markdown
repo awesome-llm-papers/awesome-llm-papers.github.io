@@ -2,12 +2,12 @@
 layout: publication
 title: 'CMMLU: Measuring Massive Multitask Language Understanding In Chinese'
 authors: Haonan Li et al.
-conference: Arxiv
+conference: Findings of the Association for Computational Linguistics ACL 2024
 year: 2023
-citations: 22
+citations: 25
 bibkey: li2023measuring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.09212'}]
-tags: [RAG, Prompting]
+tags: [RAG, Prompting, Evaluation]
 ---
 As the capabilities of large language models (LLMs) continue to advance,
 evaluating their performance becomes increasingly crucial and challenging. This

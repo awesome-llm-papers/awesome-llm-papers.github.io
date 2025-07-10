@@ -2,12 +2,13 @@
 layout: publication
 title: Episodic Transformer For Vision-and-language Navigation
 authors: Alexander Pashevich, Cordelia Schmid, Chen Sun
-conference: Arxiv
+conference: 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2021
-citations: 69
+citations: 71
 bibkey: pashevich2021episodic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.06453'}]
-tags: [Training Techniques, Transformer, RAG, Agentic, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Transformer, RAG, Multimodal Models, Agentic, Training
+    Techniques, Evaluation]
 ---
 Interaction and navigation defined by natural language instructions in
 dynamic environments pose significant challenges for neural agents. This paper

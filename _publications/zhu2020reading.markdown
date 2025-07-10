@@ -2,13 +2,12 @@
 layout: publication
 title: 'DUMA: Reading Comprehension With Transposition Thinking'
 authors: Pengfei Zhu, Hai Zhao, Xiaoguang Li
-conference: IEEE/ACM.Transactions.on.Audio.Speech.and.Language.Processing 30 (2022)
-  269-279
+conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing
 year: 2020
 citations: 30
 bibkey: zhu2020reading
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2001.09415'}]
-tags: [Reinforcement Learning, Attention Mechanism, Model Architecture]
+tags: [Reinforcement Learning, Model Architecture, Attention Mechanism, Evaluation]
 ---
 Multi-choice Machine Reading Comprehension (MRC) requires model to decide the
 correct answer from a set of answer options when given a passage and a

@@ -2,12 +2,12 @@
 layout: publication
 title: 'Alpha-clip: A CLIP Model Focusing On Wherever You Want'
 authors: Zeyi Sun et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 21
+citations: 22
 bibkey: sun2023alpha
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.03818'}]
-tags: [Pre-Training, Reinforcement Learning, Training Techniques, Multimodal Models]
+tags: [Reinforcement Learning, Training Techniques, Multimodal Models, Pre-Training]
 ---
 Contrastive Language-Image Pre-training (CLIP) plays an essential role in
 extracting valuable content information from images across diverse tasks. It

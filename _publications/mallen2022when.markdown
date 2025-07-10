@@ -3,12 +3,13 @@ layout: publication
 title: 'When Not To Trust Language Models: Investigating Effectiveness Of Parametric
   And Non-parametric Memories'
 authors: Alex Mallen et al.
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 81
+citations: 88
 bibkey: mallen2022when
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10511'}]
-tags: [RAG, Reinforcement Learning]
+tags: [Reinforcement Learning, RAG]
 ---
 Despite their impressive performance on diverse tasks, large language models
 (LMs) still struggle with tasks requiring rich world knowledge, implying the

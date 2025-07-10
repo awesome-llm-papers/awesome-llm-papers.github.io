@@ -2,12 +2,12 @@
 layout: publication
 title: Benchmarking Retrieval-augmented Generation For Medicine
 authors: Guangzhi Xiong, Qiao Jin, Zhiyong Lu, Aidong Zhang
-conference: Arxiv
+conference: Findings of the Association for Computational Linguistics ACL 2024
 year: 2024
-citations: 39
+citations: 46
 bibkey: xiong2024benchmarking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.13178'}]
-tags: [RAG, GPT, Model Architecture, Prompting]
+tags: [Model Architecture, RAG, Prompting, GPT, Evaluation]
 ---
 While large language models (LLMs) have achieved state-of-the-art performance
 on a wide range of medical question answering (QA) tasks, they still face

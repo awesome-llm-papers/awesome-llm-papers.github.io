@@ -7,8 +7,8 @@ year: 2023
 citations: 29
 bibkey: moghaddam2023boosting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.11490'}]
-tags: [GPT, Reinforcement Learning, Agentic, In-Context Learning, Prompting, Model
-    Architecture]
+tags: [Model Architecture, Reinforcement Learning, In-Context Learning, Prompting,
+  Agentic, GPT, Evaluation]
 ---
 Large language models (LLMs) excel in many tasks in 2023, but they still face
 challenges in complex reasoning. Theory-of-mind (ToM) tasks, which require

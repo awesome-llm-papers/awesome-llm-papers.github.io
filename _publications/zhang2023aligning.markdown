@@ -3,12 +3,12 @@ layout: publication
 title: Aligning Instruction Tasks Unlocks Large Language Models As Zero-shot Relation
   Extractors
 authors: "Kai Zhang, Bernal Jim\xE9nez Guti\xE9rrez, Yu Su"
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2023
 citations: 23
 bibkey: zhang2023aligning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.11159'}]
-tags: [Training Techniques, Few-Shot, Tools, Fine-Tuning, Security]
+tags: [Security, Fine-Tuning, Few-Shot, Tools, Training Techniques]
 ---
 Recent work has shown that fine-tuning large language models (LLMs) on
 large-scale instruction-following datasets substantially improves their

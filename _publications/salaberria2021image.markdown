@@ -4,7 +4,7 @@ title: Image Captioning For Effective Use Of Language Models In Knowledge-based 
   Question Answering
 authors: Ander Salaberria, Gorka Azkune, Oier Lopez De Lacalle, Aitor Soroa, Eneko
   Agirre
-conference: Expert Systems with Applications Volume 212 2023 118669
+conference: Expert Systems with Applications
 year: 2021
 citations: 41
 bibkey: salaberria2021image

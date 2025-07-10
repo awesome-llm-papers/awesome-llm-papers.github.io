@@ -8,7 +8,7 @@ year: 2018
 citations: 105
 bibkey: caccia2018language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1811.02549'}]
-tags: [Ethics and Bias, Training Techniques, RAG, Tools, Security]
+tags: [Security, Ethics and Bias, RAG, Tools, Training Techniques, Evaluation]
 ---
 Generating high-quality text with sufficient diversity is essential for a
 wide range of Natural Language Generation (NLG) tasks. Maximum-Likelihood (MLE)

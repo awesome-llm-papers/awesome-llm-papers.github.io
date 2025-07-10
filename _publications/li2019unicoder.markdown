@@ -2,13 +2,13 @@
 layout: publication
 title: 'Unicoder-vl: A Universal Encoder For Vision And Language By Cross-modal Pre-training'
 authors: Gen Li et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
 citations: 447
 bibkey: li2019unicoder
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.06066'}]
-tags: [Masked Language Model, Training Techniques, Transformer, Pre-Training, BERT,
-  Multimodal Models, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Masked Language Model,
+  Multimodal Models, Pre-Training, BERT, Training Techniques]
 ---
 We propose Unicoder-VL, a universal encoder that aims to learn joint
 representations of vision and language in a pre-training manner. Borrow ideas

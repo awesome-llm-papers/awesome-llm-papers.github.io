@@ -7,7 +7,7 @@ year: 2019
 citations: 57
 bibkey: tian2019sticking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.08684'}]
-tags: [Language Modeling, Training Techniques, Tools, Reinforcement Learning]
+tags: [Language Modeling, Reinforcement Learning, Tools, Training Techniques, Evaluation]
 ---
 We address the issue of hallucination in data-to-text generation, i.e.,
 reducing the generation of text that is unsupported by the source. We

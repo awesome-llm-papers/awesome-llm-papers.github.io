@@ -2,12 +2,13 @@
 layout: publication
 title: 'Learning From Dialogue After Deployment: Feed Yourself, Chatbot!'
 authors: "Braden Hancock, Antoine Bordes, Pierre-emmanuel Mazar\xE9, Jason Weston"
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
-citations: 62
+citations: 63
 bibkey: hancock2019learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1901.05415'}]
-tags: [Training Techniques, Agentic]
+tags: [Agentic, Training Techniques]
 ---
 The majority of conversations a dialogue agent sees over its lifetime occur
 after it has already been trained and deployed, leaving a vast store of

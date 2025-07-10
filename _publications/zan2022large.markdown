@@ -2,14 +2,15 @@
 layout: publication
 title: 'Large Language Models Meet Nl2code: A Survey'
 authors: Daoguang Zan et al.
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 54
+citations: 60
 bibkey: zan2022large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09420'}, {name: Code,
     url: 'https://nl2code.github.io'}]
-tags: [Training Techniques, Pre-Training, Tools, Reinforcement Learning, Has Code,
-  Applications, Survey Paper]
+tags: [Has Code, Applications, Survey Paper, Tools, Reinforcement Learning, Pre-Training,
+  Training Techniques, Evaluation]
 ---
 The task of generating code from a natural language description, or NL2Code,
 is considered a pressing and significant challenge in code intelligence. Thanks

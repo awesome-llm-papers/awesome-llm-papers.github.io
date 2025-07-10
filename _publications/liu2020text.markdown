@@ -2,13 +2,13 @@
 layout: publication
 title: 'TIME: Text And Image Mutual-translation Adversarial Networks'
 authors: Bingchen Liu, Kunpeng Song, Yizhe Zhu, Gerard De Melo, Ahmed Elgammal
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2020
-citations: 26
+citations: 27
 bibkey: liu2020text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.13192'}]
-tags: [Training Techniques, Transformer, Pre-Training, Tools, Security, Multimodal
-    Models, Model Architecture]
+tags: [Security, Model Architecture, Transformer, Tools, Multimodal Models, Pre-Training,
+  Training Techniques]
 ---
 Focusing on text-to-image (T2I) generation, we propose Text and Image
 Mutual-Translation Adversarial Networks (TIME), a lightweight but effective

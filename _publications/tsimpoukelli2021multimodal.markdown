@@ -7,7 +7,7 @@ year: 2021
 citations: 245
 bibkey: tsimpoukelli2021multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.13884'}]
-tags: [Few-Shot, Tools, Reinforcement Learning, Prompting, Multimodal Models]
+tags: [Few-Shot, Tools, Reinforcement Learning, Prompting, Multimodal Models, Evaluation]
 ---
 When trained at sufficient scale, auto-regressive language models exhibit the
 notable ability to learn a new language task after being prompted with just a

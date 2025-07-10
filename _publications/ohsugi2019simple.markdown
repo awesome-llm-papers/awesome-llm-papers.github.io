@@ -3,12 +3,12 @@ layout: publication
 title: A Simple But Effective Method To Incorporate Multi-turn Context With BERT For
   Conversational Machine Comprehension
 authors: Yasuhito Ohsugi, Itsumi Saito, Kyosuke Nishida, Hisako Asano, Junji Tomita
-conference: Arxiv
+conference: Proceedings of the First Workshop on NLP for Conversational AI
 year: 2019
 citations: 18
 bibkey: ohsugi2019simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.12848'}]
-tags: [Training Techniques, RAG, Pre-Training, BERT, Model Architecture]
+tags: [Model Architecture, RAG, Pre-Training, Training Techniques, BERT]
 ---
 Conversational machine comprehension (CMC) requires understanding the context
 of multi-turn dialogue. Using BERT, a pre-training language model, has been

@@ -3,14 +3,15 @@ layout: publication
 title: 'Prompt For Extraction? PAIE: Prompting Argument Interaction For Event Argument
   Extraction'
 authors: Yubo Ma et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 46
+citations: 47
 bibkey: ma2022prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.12109'}, {name: Code,
     url: 'https://github.com/mayubo2333/PAIE'}]
-tags: [Training Techniques, RAG, Few-Shot, Efficiency and Optimization, Has Code,
-  Prompting]
+tags: [Has Code, Few-Shot, RAG, Prompting, Efficiency and Optimization, Training Techniques,
+  Evaluation]
 ---
 In this paper, we propose an effective yet efficient model PAIE for both
 sentence-level and document-level Event Argument Extraction (EAE), which also

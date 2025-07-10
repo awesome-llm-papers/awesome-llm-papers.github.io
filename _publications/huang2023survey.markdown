@@ -3,12 +3,12 @@ layout: publication
 title: 'A Survey On Hallucination In Large Language Models: Principles, Taxonomy,
   Challenges, And Open Questions'
 authors: Lei Huang et al.
-conference: Arxiv
+conference: ACM Transactions on Information Systems
 year: 2023
-citations: 225
+citations: 263
 bibkey: huang2023survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.05232'}]
-tags: [RAG, Reinforcement Learning, Survey Paper, Multimodal Models]
+tags: [RAG, Survey Paper, Reinforcement Learning, Multimodal Models, Evaluation]
 ---
 The emergence of large language models (LLMs) has marked a significant
 breakthrough in natural language processing (NLP), fueling a paradigm shift in

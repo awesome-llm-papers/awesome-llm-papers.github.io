@@ -2,12 +2,13 @@
 layout: publication
 title: Empowering News Recommendation With Pre-trained Language Models
 authors: Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang
-conference: Arxiv
+conference: 'SIGIR ''21: The 44th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2021
-citations: 94
+citations: 98
 bibkey: wu2021empowering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.07413'}]
-tags: [RAG, Tools]
+tags: [Tools, RAG]
 ---
 Personalized news recommendation is an essential technique for online news
 services. News articles usually contain rich textual content, and accurate news

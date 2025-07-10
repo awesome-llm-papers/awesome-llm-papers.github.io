@@ -3,13 +3,13 @@ layout: publication
 title: Hello, It's GPT-2 -- How Can I Help You? Towards The Use Of Pretrained Language
   Models For Task-oriented Dialogue Systems
 authors: "Pawe\u0142 Budzianowski, Ivan Vuli\u0107"
-conference: Arxiv
+conference: Proceedings of the 3rd Workshop on Neural Generation and Translation
 year: 2019
-citations: 117
+citations: 121
 bibkey: budzianowski2019gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.05774'}]
-tags: [Training Techniques, GPT, Pre-Training, Fine-Tuning, Tools, Reinforcement Learning,
-  Agentic, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Fine-Tuning, Reinforcement Learning,
+  Tools, Pre-Training, Agentic, Training Techniques, Evaluation]
 ---
 Data scarcity is a long-standing and crucial challenge that hinders quick
 development of task-oriented dialogue systems across multiple domains:

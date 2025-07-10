@@ -7,7 +7,7 @@ year: 2023
 citations: 30
 bibkey: dao2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.09170'}]
-tags: [GPT, RAG, Tools, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, RAG, Tools, Reinforcement Learning, GPT]
 ---
 This research article highlights the potential of AI-powered chatbots in
 education and presents the results of using ChatGPT, a large language model, to

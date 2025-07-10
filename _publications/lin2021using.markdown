@@ -3,13 +3,15 @@ layout: publication
 title: Using Adversarial Attacks To Reveal The Statistical Bias In Machine Reading
   Comprehension Models
 authors: Jieyu Lin, Jiajie Zou, Nai Ding
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 2: Short Papers)'
 year: 2021
 citations: 15
 bibkey: lin2021using
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.11136'}]
-tags: [Ethics and Bias, Training Techniques, Reinforcement Learning, BERT, Security,
-  Model Architecture]
+tags: [Security, Model Architecture, Ethics and Bias, Reinforcement Learning, BERT,
+  Training Techniques]
 ---
 Pre-trained language models have achieved human-level performance on many
 Machine Reading Comprehension (MRC) tasks, but it remains unclear whether these

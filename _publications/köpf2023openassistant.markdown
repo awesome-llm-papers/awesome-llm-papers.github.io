@@ -4,11 +4,11 @@ title: Openassistant Conversations -- Democratizing Large Language Model Alignme
 authors: "Andreas K\xF6pf et al."
 conference: Arxiv
 year: 2023
-citations: 80
+citations: 81
 bibkey: "k\xF6pf2023openassistant"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.07327'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, Tools, Agentic,
-  Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Tools, Reinforcement Learning, Agentic,
+  Training Techniques, Evaluation]
 ---
 Aligning large language models (LLMs) with human preferences has proven to
 drastically improve usability and has driven rapid adoption as demonstrated by

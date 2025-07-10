@@ -2,12 +2,13 @@
 layout: publication
 title: 'Climatebert: A Pretrained Language Model For Climate-related Text'
 authors: Nicolas Webersinke, Mathias Kraus, Julia Anna Bingler, Markus Leippold
-conference: Arxiv
+conference: SSRN Electronic Journal
 year: 2021
-citations: 45
+citations: 46
 bibkey: webersinke2021pretrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.12010'}]
-tags: [Masked Language Model, Training Techniques, Transformer, RAG, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, RAG, Masked Language Model, BERT, Training
+    Techniques]
 ---
 Over the recent years, large pretrained language models (LM) have
 revolutionized the field of natural language processing (NLP). However, while

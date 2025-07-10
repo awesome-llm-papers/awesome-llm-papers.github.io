@@ -3,14 +3,14 @@ layout: publication
 title: 'Zhongjing: Enhancing The Chinese Medical Capabilities Of Large Language Model
   Through Expert Feedback And Real-world Multi-turn Dialogue'
 authors: Songhua Yang et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 39
+citations: 45
 bibkey: yang2023enhancing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.03549'}, {name: Code,
     url: 'https://github.com/SupritYoung/Zhongjing'}]
-tags: [Training Techniques, GPT, Pre-Training, Fine-Tuning, Reinforcement Learning,
-  Responsible AI, Agentic, Has Code, Applications, Model Architecture]
+tags: [Responsible AI, Has Code, Model Architecture, GPT, Fine-Tuning, Applications,
+  Reinforcement Learning, Pre-Training, Agentic, Training Techniques, Evaluation]
 ---
 Recent advances in Large Language Models (LLMs) have achieved remarkable
 breakthroughs in understanding and responding to user intents. However, their

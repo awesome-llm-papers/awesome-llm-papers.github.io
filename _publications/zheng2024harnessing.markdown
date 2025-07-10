@@ -2,12 +2,12 @@
 layout: publication
 title: Harnessing Large Language Models For Text-rich Sequential Recommendation
 authors: Zhi Zheng, Wenshuo Chao, Zhaopeng Qiu, Hengshu Zhu, Hui Xiong
-conference: Arxiv
+conference: 'WWW ''24: The ACM Web Conference 2024'
 year: 2024
-citations: 20
+citations: 21
 bibkey: zheng2024harnessing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.13325'}]
-tags: [Training Techniques, Fine-Tuning, RecSys, Tools, Reinforcement Learning, Prompting]
+tags: [Fine-Tuning, RecSys, Tools, Reinforcement Learning, Prompting, Training Techniques]
 ---
 Recent advances in Large Language Models (LLMs) have been changing the
 paradigm of Recommender Systems (RS). However, when items in the recommendation

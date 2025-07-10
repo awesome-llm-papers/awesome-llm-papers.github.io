@@ -7,7 +7,7 @@ year: 2023
 citations: 17
 bibkey: zhang2023building
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.02485'}]
-tags: [GPT, Tools, Agentic, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, Tools, Reinforcement Learning, Agentic, GPT]
 ---
 In this work, we address challenging multi-agent cooperation problems with
 decentralized control, raw sensory observations, costly communication, and

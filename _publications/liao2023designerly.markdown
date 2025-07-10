@@ -3,12 +3,12 @@ layout: publication
 title: 'Designerly Understanding: Information Needs For Model Transparency To Support
   Design Ideation For Ai-powered User Experience'
 authors: Q. Vera Liao, Hariharan Subramonyam, Jennifer Wang, Jennifer Wortman Vaughan
-conference: Arxiv
+conference: 'CHI ''23: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 42
+citations: 44
 bibkey: liao2023designerly
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.10395'}]
-tags: [Ethics and Bias, Tools, Interpretability and Explainability, Responsible AI,
+tags: [Responsible AI, Ethics and Bias, Interpretability and Explainability, Tools,
   Reinforcement Learning]
 ---
 Despite the widespread use of artificial intelligence (AI), designing user

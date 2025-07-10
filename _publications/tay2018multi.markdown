@@ -8,8 +8,8 @@ year: 2018
 citations: 26
 bibkey: tay2018multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1806.00778'}]
-tags: [Transformer, Attention Mechanism, Interpretability and Explainability, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Interpretability and
+    Explainability, Evaluation]
 ---
 Attention is typically used to select informative sub-phrases that are used
 for prediction. This paper investigates the novel use of attention as a form of

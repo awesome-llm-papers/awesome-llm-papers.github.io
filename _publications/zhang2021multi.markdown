@@ -9,7 +9,7 @@ citations: 15
 bibkey: zhang2021multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.10150'}, {name: Code,
     url: 'https://github.com/psunlpgroup/Summ-N'}]
-tags: [Has Code, Tools]
+tags: [Tools, Has Code]
 ---
 Text summarization helps readers capture salient information from documents,
 news, interviews, and meetings. However, most state-of-the-art pretrained

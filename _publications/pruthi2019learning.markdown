@@ -2,13 +2,14 @@
 layout: publication
 title: Learning To Deceive With Attention-based Explanations
 authors: Danish Pruthi, Mansi Gupta, Bhuwan Dhingra, Graham Neubig, Zachary C. Lipton
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
-citations: 46
+citations: 47
 bibkey: pruthi2019learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.07913'}]
-tags: [Ethics and Bias, Training Techniques, Transformer, Attention Mechanism, Interpretability
-    and Explainability, Responsible AI, Fairness, Bias Mitigation, Model Architecture]
+tags: [Responsible AI, Model Architecture, Attention Mechanism, Ethics and Bias, Transformer,
+  Fairness, Interpretability and Explainability, Bias Mitigation, Training Techniques]
 ---
 Attention mechanisms are ubiquitous components in neural architectures
 applied to natural language processing. In addition to yielding gains in

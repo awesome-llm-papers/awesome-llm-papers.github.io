@@ -2,12 +2,13 @@
 layout: publication
 title: Question And Answer Test-train Overlap In Open-domain Question Answering Datasets
 authors: Patrick Lewis, Pontus Stenetorp, Sebastian Riedel
-conference: Arxiv
+conference: 'Proceedings of the 16th Conference of the European Chapter of the Association
+  for Computational Linguistics: Main Volume'
 year: 2020
 citations: 21
 bibkey: lewis2020question
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.02637'}]
-tags: [Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Evaluation]
 ---
 Ideally Open-Domain Question Answering models should exhibit a number of
 competencies, ranging from simply memorizing questions seen at training time,

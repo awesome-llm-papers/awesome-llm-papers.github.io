@@ -2,12 +2,13 @@
 layout: publication
 title: The (ab)use Of Open Source Code To Train Large Language Models
 authors: Ali Al-kaswan, Maliheh Izadi
-conference: Arxiv
+conference: 2023 IEEE/ACM 2nd International Workshop on Natural Language-Based Software
+  Engineering (NLBSE)
 year: 2023
-citations: 15
+citations: 16
 bibkey: alkaswan2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.13681'}]
-tags: [Applications, Security]
+tags: [Security, Applications]
 ---
 In recent years, Large Language Models (LLMs) have gained significant
 popularity due to their ability to generate human-like text and their potential

@@ -2,12 +2,13 @@
 layout: publication
 title: Empowering Language Models With Knowledge Graph Reasoning For Question Answering
 authors: Ziniu Hu et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
 citations: 18
 bibkey: hu2022empowering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.08380'}]
-tags: [Reinforcement Learning, Transformer, Model Architecture, BERT]
+tags: [Transformer, Reinforcement Learning, BERT, Model Architecture]
 ---
 Answering open-domain questions requires world knowledge about in-context
 entities. As pre-trained Language Models (LMs) lack the power to store all

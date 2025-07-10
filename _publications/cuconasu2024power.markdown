@@ -2,12 +2,13 @@
 layout: publication
 title: 'The Power Of Noise: Redefining Retrieval For RAG Systems'
 authors: Florin Cuconasu et al.
-conference: Arxiv
+conference: 'SIGIR 2024: The 47th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2024
-citations: 48
+citations: 57
 bibkey: cuconasu2024power
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.14887'}]
-tags: [RAG, Attention Mechanism, Model Architecture, Prompting]
+tags: [Prompting, Model Architecture, Attention Mechanism, RAG]
 ---
 Retrieval-Augmented Generation (RAG) has recently emerged as a method to
 extend beyond the pre-trained knowledge of Large Language Models by augmenting

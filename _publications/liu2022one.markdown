@@ -2,12 +2,12 @@
 layout: publication
 title: 'Deplot: One-shot Visual Language Reasoning By Plot-to-table Translation'
 authors: Fangyu Liu et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2022
-citations: 16
+citations: 18
 bibkey: liu2022one
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10505'}]
-tags: [Few-Shot, Reinforcement Learning, Training Techniques, Prompting]
+tags: [Few-Shot, Reinforcement Learning, Prompting, Training Techniques, Evaluation]
 ---
 Visual language such as charts and plots is ubiquitous in the human world.
 Comprehending plots and charts requires strong reasoning skills. Prior

@@ -3,13 +3,14 @@ layout: publication
 title: 'What Changes Can Large-scale Language Models Bring? Intensive Study On Hyperclova:
   Billions-scale Korean Generative Pretrained Transformers'
 authors: Boseop Kim et al.
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 36
 bibkey: kim2021what
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2109.04650v2'}]
-tags: [Training Techniques, Transformer, GPT, Few-Shot, In-Context Learning, Efficiency
-    and Optimization, Applications, Prompting, Model Architecture, Tokenization]
+tags: [Tokenization, Model Architecture, GPT, Transformer, Few-Shot, Applications,
+  In-Context Learning, Prompting, Efficiency and Optimization, Training Techniques]
 ---
 GPT-3 shows remarkable in-context learning ability of large-scale language
 models (LMs) trained on hundreds of billion scale data. Here we address some

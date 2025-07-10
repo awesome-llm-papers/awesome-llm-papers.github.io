@@ -2,14 +2,14 @@
 layout: publication
 title: 'Visconde: Multi-document QA With GPT-3 And Neural Reranking'
 authors: Jayr Pereira, Robson Fidalgo, Roberto Lotufo, Rodrigo Nogueira
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2022
-citations: 15
+citations: 17
 bibkey: pereira2022multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09656'}, {name: Code,
     url: 'https://github.com/neuralmind-ai/visconde'}]
-tags: [GPT, Few-Shot, Reinforcement Learning, Interpretability and Explainability,
-  Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Few-Shot, Interpretability and Explainability,
+  Reinforcement Learning, GPT]
 ---
 This paper proposes a question-answering system that can answer questions
 whose supporting evidence is spread over multiple (potentially long) documents.

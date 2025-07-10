@@ -9,8 +9,8 @@ citations: 21
 bibkey: si2020better
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15699'}, {name: Code,
     url: 'https://github.com/thunlp/MixADA'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Reinforcement Learning, BERT, Has Code,
-  Security, Model Architecture]
+tags: [Security, Has Code, Model Architecture, Fine-Tuning, RAG, Reinforcement Learning,
+  BERT, Training Techniques, Evaluation]
 ---
 Pretrained language models (PLMs) perform poorly under adversarial attacks.
 To improve the adversarial robustness, adversarial data augmentation (ADA) has

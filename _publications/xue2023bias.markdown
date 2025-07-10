@@ -2,14 +2,14 @@
 layout: publication
 title: 'Bias And Fairness In Chatbots: An Overview'
 authors: Jintang Xue et al.
-conference: Arxiv
+conference: APSIPA Transactions on Signal and Information Processing
 year: 2023
-citations: 16
+citations: 19
 bibkey: xue2023bias
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.08836'}]
-tags: [Ethics and Bias, Training Techniques, Tools, Interpretability and Explainability,
-  Reinforcement Learning, Attention Mechanism, Applications, Fairness, Bias Mitigation,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, Fairness, Applications,
+  Interpretability and Explainability, Tools, Reinforcement Learning, Bias Mitigation,
+  Training Techniques]
 ---
 Chatbots have been studied for more than half a century. With the rapid
 development of natural language processing (NLP) technologies in recent years,

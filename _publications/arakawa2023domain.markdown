@@ -3,9 +3,9 @@ layout: publication
 title: 'Catalyst: Domain-extensible Intervention For Preventing Task Procrastination
   Using Large Generative Models'
 authors: Riku Arakawa, Hiromu Yakura, Masataka Goto
-conference: Arxiv
+conference: 'CHI ''23: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 17
+citations: 19
 bibkey: arakawa2023domain
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.05678'}]
 tags: [Prompting]

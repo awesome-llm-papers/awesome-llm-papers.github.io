@@ -2,9 +2,9 @@
 layout: publication
 title: Prompt Engineering A Prompt Engineer
 authors: Qinyuan Ye, Maxamed Axmed, Reid Pryzant, Fereshte Khani
-conference: Arxiv
+conference: Findings of the Association for Computational Linguistics ACL 2024
 year: 2023
-citations: 17
+citations: 21
 bibkey: ye2023prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.05661'}]
 tags: [Prompting]

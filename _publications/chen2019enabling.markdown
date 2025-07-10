@@ -3,12 +3,12 @@ layout: publication
 title: Enabling Robots To Understand Incomplete Natural Language Instructions Using
   Commonsense Reasoning
 authors: Haonan Chen, Hao Tan, Alan Kuntz, Mohit Bansal, Ron Alterovitz
-conference: Arxiv
+conference: 2020 IEEE International Conference on Robotics and Automation (ICRA)
 year: 2019
 citations: 26
 bibkey: chen2019enabling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.12907'}]
-tags: [RAG, Training Techniques]
+tags: [Training Techniques, RAG]
 ---
 Enabling robots to understand instructions provided via spoken natural
 language would facilitate interaction between robots and people in a variety of

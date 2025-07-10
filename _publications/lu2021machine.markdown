@@ -8,7 +8,7 @@ year: 2021
 citations: 365
 bibkey: lu2021machine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.04664'}]
-tags: [Tools, Model Architecture, GPT, BERT]
+tags: [Model Architecture, GPT, Tools, BERT, Evaluation]
 ---
 Benchmark datasets have a significant impact on accelerating research in
 programming language tasks. In this paper, we introduce CodeXGLUE, a benchmark

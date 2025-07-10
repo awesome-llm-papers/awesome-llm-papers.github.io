@@ -3,12 +3,12 @@ layout: publication
 title: Interpretable Long-form Legal Question Answering With Retrieval-augmented Large
   Language Models
 authors: Antoine Louis, Gijs Van Dijck, Gerasimos Spanakis
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 30
+citations: 32
 bibkey: louis2023interpretable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.17050'}]
-tags: [RAG, Reinforcement Learning]
+tags: [Reinforcement Learning, RAG, Evaluation]
 ---
 Many individuals are likely to face a legal dispute at some point in their
 lives, but their lack of understanding of how to navigate these complex issues

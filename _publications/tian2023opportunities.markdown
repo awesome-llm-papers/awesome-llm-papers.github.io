@@ -3,13 +3,13 @@ layout: publication
 title: Opportunities And Challenges For Chatgpt And Large Language Models In Biomedicine
   And Health
 authors: Shubo Tian et al.
-conference: Arxiv
+conference: Briefings in Bioinformatics
 year: 2023
-citations: 168
+citations: 175
 bibkey: tian2023opportunities
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.10070'}]
-tags: [GPT, Attention Mechanism, Reinforcement Learning, Tools, Applications, Survey
-    Paper, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Applications, Survey
+    Paper, Tools, Reinforcement Learning, GPT]
 ---
 ChatGPT has drawn considerable attention from both the general public and
 domain experts with its remarkable text generation capabilities. This has

@@ -2,12 +2,12 @@
 layout: publication
 title: Enabling Conversational Interaction With Mobile UI Using Large Language Models
 authors: Bryan Wang, Gang Li, Yang Li
-conference: Arxiv
+conference: 'CHI ''23: CHI Conference on Human Factors in Computing Systems'
 year: 2022
-citations: 88
+citations: 93
 bibkey: wang2022enabling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.08655'}]
-tags: [Training Techniques, Agentic, Prompting]
+tags: [Agentic, Training Techniques, Prompting]
 ---
 Conversational agents show the promise to allow users to interact with mobile
 devices using language. However, to perform diverse UI tasks with natural

@@ -2,12 +2,12 @@
 layout: publication
 title: Improved Baselines With Visual Instruction Tuning
 authors: Haotian Liu, Chunyuan Li, Yuheng Li, Yong Jae Lee
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 310
+citations: 332
 bibkey: liu2023improved
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.03744'}]
-tags: [Training Techniques, RAG, Dataset, Prompting, Multimodal Models]
+tags: [Dataset, RAG, Multimodal Models, Prompting, Training Techniques, Evaluation]
 ---
 Large multimodal models (LMM) have recently shown encouraging progress with
 visual instruction tuning. In this note, we show that the fully-connected

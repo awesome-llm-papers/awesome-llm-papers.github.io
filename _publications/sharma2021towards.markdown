@@ -3,13 +3,13 @@ layout: publication
 title: 'Towards Facilitating Empathic Conversations In Online Mental Health Support:
   A Reinforcement Learning Approach'
 authors: Ashish Sharma, Inna W. Lin, Adam S. Miner, David C. Atkins, Tim Althoff
-conference: Arxiv
+conference: 'WWW ''21: The Web Conference 2021'
 year: 2021
-citations: 71
+citations: 74
 bibkey: sharma2021towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.07714'}]
-tags: [Training Techniques, Transformer, GPT, RAG, Tools, Reinforcement Learning,
-  Agentic, Model Architecture]
+tags: [Model Architecture, GPT, Transformer, RAG, Tools, Reinforcement Learning, Agentic,
+  Training Techniques, Evaluation]
 ---
 Online peer-to-peer support platforms enable conversations between millions
 of people who seek and provide mental health support. If successful, web-based

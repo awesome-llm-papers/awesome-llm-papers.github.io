@@ -3,9 +3,9 @@ layout: publication
 title: '"it Felt Like Having A Second Mind": Investigating Human-ai Co-creativity
   In Prewriting With Large Language Models'
 authors: Qian Wan et al.
-conference: Proc. ACM Hum.-Comput. Interact. 8 CSCW1 Article 84 (2024)
+conference: Proceedings of the ACM on Human-Computer Interaction
 year: 2023
-citations: 22
+citations: 29
 bibkey: wan2023felt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.10811'}]
 tags: [Reinforcement Learning]

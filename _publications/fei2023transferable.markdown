@@ -2,14 +2,14 @@
 layout: publication
 title: Transferable Decoding With Visual Entities For Zero-shot Image Captioning
 authors: Junjie Fei et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2023
-citations: 26
+citations: 28
 bibkey: fei2023transferable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.16525'}, {name: Code,
     url: 'https://github.com/FeiElysia/ViECap'}]
-tags: [Ethics and Bias, Training Techniques, RAG, Attention Mechanism, Has Code, Prompting,
-  Multimodal Models, Model Architecture, Language Modeling]
+tags: [Language Modeling, Has Code, Model Architecture, Attention Mechanism, Ethics
+    and Bias, RAG, Multimodal Models, Prompting, Training Techniques]
 ---
 Image-to-text generation aims to describe images using natural language.
 Recently, zero-shot image captioning based on pre-trained vision-language

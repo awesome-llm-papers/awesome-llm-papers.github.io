@@ -7,9 +7,9 @@ year: 2021
 citations: 27
 bibkey: wang2021unified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.10023'}]
-tags: [Masked Language Model, Training Techniques, Transformer, Merging, Pre-Training,
-  Attention Mechanism, BERT, Efficiency and Optimization, Multimodal Models, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Masked
+    Language Model, Multimodal Models, Pre-Training, BERT, Efficiency and Optimization,
+  Training Techniques, Merging]
 ---
 In this paper, we propose a single UniFied transfOrmer (UFO), which is
 capable of processing either unimodal inputs (e.g., image or language) or

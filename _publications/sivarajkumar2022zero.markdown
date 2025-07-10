@@ -8,7 +8,7 @@ year: 2022
 citations: 24
 bibkey: sivarajkumar2022zero
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.05061'}]
-tags: [Training Techniques, Merging, Fine-Tuning, Tools, Prompting]
+tags: [Fine-Tuning, Tools, Prompting, Training Techniques, Merging]
 ---
 Deep learning algorithms are dependent on the availability of large-scale
 annotated clinical text datasets. The lack of such publicly available datasets

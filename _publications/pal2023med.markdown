@@ -2,12 +2,14 @@
 layout: publication
 title: 'Med-halt: Medical Domain Hallucination Test For Large Language Models'
 authors: Ankit Pal, Logesh Kumar Umapathi, Malaikannan Sankarasubbu
-conference: Arxiv
+conference: Proceedings of the 27th Conference on Computational Natural Language Learning
+  (CoNLL)
 year: 2023
-citations: 29
+citations: 32
 bibkey: pal2023med
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.15343'}]
-tags: [Ethics and Bias, GPT, Reinforcement Learning, Applications, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, Applications, Reinforcement Learning,
+  GPT, Evaluation]
 ---
 This research paper focuses on the challenges posed by hallucinations in
 large language models (LLMs), particularly in the context of the medical

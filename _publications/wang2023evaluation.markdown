@@ -7,7 +7,8 @@ year: 2023
 citations: 16
 bibkey: wang2023evaluation
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2308.15126v3'}]
-tags: [Training Techniques, GPT, RAG, Tools, Multimodal Models, Model Architecture]
+tags: [Model Architecture, GPT, RAG, Tools, Multimodal Models, Training Techniques,
+  Evaluation]
 ---
 Large Vision-Language Models (LVLMs) have recently achieved remarkable
 success. However, LVLMs are still plagued by the hallucination problem, which

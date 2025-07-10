@@ -7,7 +7,7 @@ year: 2023
 citations: 39
 bibkey: dziri2023faith
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.18654'}]
-tags: [Tools, Transformer, Model Architecture, GPT]
+tags: [Transformer, Tools, GPT, Model Architecture]
 ---
 Transformer large language models (LLMs) have sparked admiration for their
 exceptional performance on tasks that demand intricate multi-step reasoning.

@@ -2,12 +2,12 @@
 layout: publication
 title: Large Language Models Predict Human Sensory Judgments Across Six Modalities
 authors: Raja Marjieh, Ilia Sucholutsky, Pol Van Rijn, Nori Jacoby, Thomas L. Griffiths
-conference: Arxiv
+conference: Scientific Reports
 year: 2023
-citations: 20
+citations: 24
 bibkey: marjieh2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.01308'}]
-tags: [Reinforcement Learning, Model Architecture, GPT]
+tags: [Reinforcement Learning, GPT, Model Architecture]
 ---
 Determining the extent to which the perceptual world can be recovered from
 language is a longstanding problem in philosophy and cognitive science. We show

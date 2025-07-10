@@ -2,12 +2,13 @@
 layout: publication
 title: Parallel Refinements For Lexically Constrained Text Generation With BART
 authors: Xingwei He
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 19
 bibkey: he2021parallel
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.12487'}]
-tags: [RAG, Language Modeling]
+tags: [Language Modeling, RAG]
 ---
 Lexically constrained text generation aims to control the generated text by
 incorporating some pre-specified keywords into the output. Previous work

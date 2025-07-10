@@ -3,12 +3,14 @@ layout: publication
 title: 'Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional
   Generation'
 authors: Ruibo Liu et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 38
+citations: 40
 bibkey: liu2020data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.02952'}]
-tags: [Training Techniques, RAG, Tools, Agentic, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, RAG, Tools, Reinforcement Learning, Agentic, Training Techniques,
+  Evaluation]
 ---
 Data augmentation is proven to be effective in many NLU tasks, especially for
 those suffering from data scarcity. In this paper, we present a powerful and

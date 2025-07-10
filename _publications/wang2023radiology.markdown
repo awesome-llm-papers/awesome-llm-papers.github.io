@@ -2,14 +2,14 @@
 layout: publication
 title: 'R2gengpt: Radiology Report Generation With Frozen Llms'
 authors: Zhanyu Wang, Lingqiao Liu, Lei Wang, Luping Zhou
-conference: Arxiv
+conference: Meta-Radiology
 year: 2023
-citations: 41
+citations: 46
 bibkey: wang2023radiology
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.09812'}, {name: Code,
     url: 'https://github.com/wang-zhanyu/R2GenGPT'}]
-tags: [Training Techniques, GPT, Tools, Efficiency and Optimization, Has Code, Model
-    Architecture]
+tags: [Has Code, Model Architecture, GPT, Tools, Efficiency and Optimization, Training
+    Techniques]
 ---
 Large Language Models (LLMs) have consistently showcased remarkable
 generalization capabilities when applied to various language tasks.

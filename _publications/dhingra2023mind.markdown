@@ -3,12 +3,13 @@ layout: publication
 title: 'Mind Meets Machine: Unravelling Gpt-4''s Cognitive Psychology'
 authors: Sifatkaur Dhingra, Manmeet Singh, Vaisakh Sb, Neetiraj Malviya, Sukhpal Singh
   Gill
-conference: Arxiv
+conference: BenchCouncil Transactions on Benchmarks, Standards and Evaluations
 year: 2023
-citations: 15
+citations: 17
 bibkey: dhingra2023mind
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.11436v2'}]
-tags: [GPT, Merging, Attention Mechanism, Reinforcement Learning, Tools, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Tools, Reinforcement Learning, GPT,
+  Evaluation, Merging]
 ---
 Cognitive psychology delves on understanding perception, attention, memory,
 language, problem-solving, decision-making, and reasoning. Large language

@@ -3,14 +3,15 @@ layout: publication
 title: 'PEVL: Position-enhanced Pre-training And Prompt Tuning For Vision-language
   Models'
 authors: Yuan Yao et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
 citations: 21
 bibkey: yao2022position
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.11169'}, {name: Code,
     url: 'https://github.com/thunlp/PEVL'}]
-tags: [Training Techniques, Pre-Training, Tools, Efficiency and Optimization, Has
-    Code, Prompting, Multimodal Models, Language Modeling]
+tags: [Language Modeling, Has Code, Tools, Multimodal Models, Prompting, Pre-Training,
+  Efficiency and Optimization, Training Techniques]
 ---
 Vision-language pre-training (VLP) has shown impressive performance on a wide
 range of cross-modal tasks, where VLP models without reliance on object

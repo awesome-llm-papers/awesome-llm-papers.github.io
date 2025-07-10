@@ -2,13 +2,15 @@
 layout: publication
 title: 'Societal Biases In Language Generation: Progress And Challenges'
 authors: Emily Sheng, Kai-wei Chang, Premkumar Natarajan, Nanyun Peng
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
-citations: 31
+citations: 36
 bibkey: sheng2021societal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.04054'}]
-tags: [Ethics and Bias, Training Techniques, Pre-Training, Attention Mechanism, Tools,
-  Agentic, Applications, Fairness, Bias Mitigation, Survey Paper, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, Fairness, Applications,
+  Survey Paper, Tools, Bias Mitigation, Pre-Training, Agentic, Training Techniques]
 ---
 Technology for language generation has advanced rapidly, spurred by
 advancements in pre-training large models on massive amounts of data and the

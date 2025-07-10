@@ -3,12 +3,12 @@ layout: publication
 title: 'Q-instruct: Improving Low-level Visual Abilities For Multi-modality Foundation
   Models'
 authors: Haoning Wu et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 16
+citations: 17
 bibkey: wu2023q
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.06783'}]
-tags: [RAG, GPT, Model Architecture]
+tags: [GPT, RAG, Model Architecture]
 ---
 Multi-modality foundation models, as represented by GPT-4V, have brought a
 new paradigm for low-level visual perception and understanding tasks, that can

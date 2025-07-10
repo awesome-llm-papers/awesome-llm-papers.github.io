@@ -3,12 +3,13 @@ layout: publication
 title: 'Gpt4aigchip: Towards Next-generation AI Accelerator Design Automation Via
   Large Language Models'
 authors: Yonggan Fu et al.
-conference: Arxiv
+conference: 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)
 year: 2023
-citations: 42
+citations: 47
 bibkey: fu2023towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.10730'}]
-tags: [GPT, RAG, Fine-Tuning, Tools, In-Context Learning, Prompting, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, In-Context Learning, Tools, Prompting,
+  GPT]
 ---
 The remarkable capabilities and intricate nature of Artificial Intelligence
 (AI) have dramatically escalated the imperative for specialized AI

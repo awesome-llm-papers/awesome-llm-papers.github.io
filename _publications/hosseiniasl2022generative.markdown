@@ -2,13 +2,13 @@
 layout: publication
 title: A Generative Language Model For Few-shot Aspect-based Sentiment Analysis
 authors: Ehsan Hosseini-asl, Wenhao Liu, Caiming Xiong
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: NAACL 2022'
 year: 2022
 citations: 15
 bibkey: hosseiniasl2022generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.05356'}]
-tags: [Training Techniques, GPT, RAG, Few-Shot, Attention Mechanism, BERT, Security,
-  Model Architecture]
+tags: [Security, Model Architecture, Attention Mechanism, GPT, Few-Shot, RAG, BERT,
+  Training Techniques, Evaluation]
 ---
 Sentiment analysis is an important task in natural language processing. In
 recent works, pre-trained language models are often used to achieve

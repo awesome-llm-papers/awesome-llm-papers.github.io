@@ -7,8 +7,8 @@ year: 2019
 citations: 289
 bibkey: fan2019reducing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.11556'}]
-tags: [Distillation, Transformer, Training Techniques, BERT, Efficiency and Optimization,
-  Language Modeling, Pruning, Model Architecture]
+tags: [Language Modeling, Model Architecture, Distillation, Transformer, Pruning,
+  BERT, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 Overparameterized transformer networks have obtained state of the art results
 in various natural language processing tasks, such as machine translation,

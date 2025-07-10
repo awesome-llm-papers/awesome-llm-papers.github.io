@@ -2,13 +2,14 @@
 layout: publication
 title: AI And Memory Wall
 authors: Amir Gholami et al.
-conference: Arxiv
+conference: IEEE Micro
 year: 2024
-citations: 69
+citations: 82
 bibkey: gholami2024ai
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.14123'}]
-tags: [Scaling Laws, Large-Scale Training, Training Techniques, Transformer, Pre-Training,
-  Reinforcement Learning, Efficiency and Optimization, Applications, Model Architecture]
+tags: [Scaling Laws, Model Architecture, Transformer, Applications, Reinforcement
+    Learning, Pre-Training, Efficiency and Optimization, Training Techniques, Large-Scale
+    Training]
 ---
 The availability of unprecedented unsupervised training data, along with
 neural scaling laws, has resulted in an unprecedented surge in model size and

@@ -8,8 +8,8 @@ citations: 57
 bibkey: shleifer2020pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.13002'}, {name: Code,
     url: 'http://tiny.cc/4iy0tz'}]
-tags: [Distillation, Transformer, Training Techniques, Fine-Tuning, BERT, Efficiency
-    and Optimization, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Distillation, Transformer, Fine-Tuning, BERT,
+  Efficiency and Optimization, Training Techniques]
 ---
 Recent state-of-the-art approaches to summarization utilize large pre-trained
 Transformer models. Distilling these models to smaller student models has

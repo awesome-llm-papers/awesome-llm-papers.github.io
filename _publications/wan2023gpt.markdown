@@ -2,12 +2,13 @@
 layout: publication
 title: 'GPT-RE: In-context Learning For Relation Extraction Using Large Language Models'
 authors: Zhen Wan et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 60
+citations: 61
 bibkey: wan2023gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.02105'}]
-tags: [GPT, Model Architecture, In-Context Learning, BERT]
+tags: [In-Context Learning, BERT, Model Architecture, GPT]
 ---
 In spite of the potential for ground-breaking achievements offered by large
 language models (LLMs) (e.g., GPT-3), they still lag significantly behind

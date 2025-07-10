@@ -2,12 +2,12 @@
 layout: publication
 title: 'Unifiedqa: Crossing Format Boundaries With A Single QA System'
 authors: Daniel Khashabi et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
-citations: 136
+citations: 139
 bibkey: khashabi2020crossing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00700'}]
-tags: [Language Modeling, Fine-Tuning, Training Techniques]
+tags: [Language Modeling, Training Techniques, Fine-Tuning]
 ---
 Question answering (QA) tasks have been posed using a variety of formats,
 such as extractive span selection, multiple choice, etc. This has led to

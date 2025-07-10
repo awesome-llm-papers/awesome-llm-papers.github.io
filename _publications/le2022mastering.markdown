@@ -9,8 +9,8 @@ year: 2022
 citations: 71
 bibkey: le2022mastering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.01780'}]
-tags: [Training Techniques, Fine-Tuning, Tools, Agentic, Reinforcement Learning, Model
-    Architecture]
+tags: [Model Architecture, Fine-Tuning, Tools, Reinforcement Learning, Agentic, Training
+    Techniques, Evaluation]
 ---
 Program synthesis or code generation aims to generate a program that
 satisfies a problem specification. Recent approaches using large-scale

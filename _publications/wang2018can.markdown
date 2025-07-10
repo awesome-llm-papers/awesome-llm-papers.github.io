@@ -3,13 +3,14 @@ layout: publication
 title: Can You Tell Me How To Get Past Sesame Street? Sentence-level Pretraining Beyond
   Language Modeling
 authors: Alex Wang et al.
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2018
 citations: 16
 bibkey: wang2018can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1812.10860'}]
-tags: [Training Techniques, Fine-Tuning, Reinforcement Learning, BERT, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, Fine-Tuning, Reinforcement Learning,
+  Training Techniques, BERT]
 ---
 Natural language understanding has recently seen a surge of progress with the
 use of sentence encoders like ELMo (Peters et al., 2018a) and BERT (Devlin et

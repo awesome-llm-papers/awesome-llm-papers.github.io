@@ -2,12 +2,13 @@
 layout: publication
 title: 'Olmo: Accelerating The Science Of Language Models'
 authors: Dirk Groeneveld et al.
-conference: Arxiv
+conference: 'Proceedings of the 62nd Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2024
 citations: 23
 bibkey: groeneveld2024accelerating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.00838'}]
-tags: [Ethics and Bias, Training Techniques, Model Architecture]
+tags: [Evaluation, Training Techniques, Model Architecture, Ethics and Bias]
 ---
 Language models (LMs) have become ubiquitous in both NLP research and in
 commercial product offerings. As their commercial importance has surged, the

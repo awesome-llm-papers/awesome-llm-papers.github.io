@@ -2,11 +2,10 @@
 layout: publication
 title: Retrieving Supporting Evidence For Generative Question Answering
 authors: Siqing Huo, Negar Arabzadeh, Charles L. A. Clarke
-conference: Annual International ACM SIGIR Conference on Research and Development
-  in Information Retrieval in the Asia Pacific Region (SIGIR-AP 23) November 26--28
-  2023 Beijing China
+conference: 'SIGIR-AP ''23: Annual International ACM SIGIR Conference on Research
+  and Development in Information Retrieval in the Asia Pacific Region'
 year: 2023
-citations: 18
+citations: 19
 bibkey: huo2023retrieving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.11392'}]
 tags: [Reinforcement Learning, Prompting]

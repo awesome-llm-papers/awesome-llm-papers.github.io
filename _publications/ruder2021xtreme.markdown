@@ -2,13 +2,14 @@
 layout: publication
 title: 'XTREME-R: Towards More Challenging And Nuanced Multilingual Evaluation'
 authors: Sebastian Ruder et al.
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 18
 bibkey: ruder2021xtreme
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.07412'}, {name: Code,
     url: 'https://sites.research.google/xtreme'}, {name: Code, url: 'https://github.com/google-research/xtreme'}]
-tags: [Fine-Tuning, Has Code]
+tags: [Has Code, Fine-Tuning, Evaluation]
 ---
 Machine learning has brought striking advances in multilingual natural
 language processing capabilities over the past year. For example, the latest

@@ -7,7 +7,7 @@ year: 2023
 citations: 29
 bibkey: gurnee2023language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.02207'}]
-tags: [Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Prompting, Time Series]
 ---
 The capabilities of large language models (LLMs) have sparked debate over
 whether such systems just learn an enormous collection of superficial

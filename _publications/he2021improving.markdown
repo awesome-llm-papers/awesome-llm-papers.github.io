@@ -9,8 +9,8 @@ citations: 339
 bibkey: he2021improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.09543'}, {name: Code,
     url: 'https://github.com/microsoft/DeBERTa'}]
-tags: [Masked Language Model, Training Techniques, RAG, Pre-Training, BERT, Efficiency
-    and Optimization, Has Code, Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, RAG, Masked Language Model,
+  Pre-Training, BERT, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 This paper presents a new pre-trained language model, DeBERTaV3, which
 improves the original DeBERTa model by replacing mask language modeling (MLM)

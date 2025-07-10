@@ -2,13 +2,13 @@
 layout: publication
 title: 'Geochat: Grounded Large Vision-language Model For Remote Sensing'
 authors: Kartik Kuckreja et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 37
+citations: 41
 bibkey: kuckreja2023grounded
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.15826'}, {name: Code,
     url: 'https://github.com/mbzuai-oryx/geochat'}]
-tags: [Has Code, Reinforcement Learning, Multimodal Models]
+tags: [Reinforcement Learning, Has Code, Multimodal Models, Evaluation]
 ---
 Recent advancements in Large Vision-Language Models (VLMs) have shown great
 promise in natural image domains, allowing users to hold a dialogue about given

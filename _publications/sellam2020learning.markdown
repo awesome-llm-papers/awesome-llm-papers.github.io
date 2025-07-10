@@ -2,13 +2,14 @@
 layout: publication
 title: 'BLEURT: Learning Robust Metrics For Text Generation'
 authors: Thibault Sellam, Dipanjan Das, Ankur P. Parikh
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
-citations: 229
+citations: 241
 bibkey: sellam2020learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.04696'}]
-tags: [Ethics and Bias, Training Techniques, Pre-Training, Reinforcement Learning,
-  BERT, WMT, Model Architecture, Language Modeling]
+tags: [Language Modeling, Model Architecture, Ethics and Bias, WMT, Reinforcement
+    Learning, Pre-Training, BERT, Training Techniques, Evaluation]
 ---
 Text generation has made significant advances in the last few years. Yet,
 evaluation metrics have lagged behind, as the most popular choices (e.g., BLEU

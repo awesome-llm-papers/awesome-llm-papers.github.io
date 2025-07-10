@@ -4,11 +4,11 @@ title: Capabilities Of Gemini Models In Medicine
 authors: Khaled Saab et al.
 conference: Arxiv
 year: 2024
-citations: 46
+citations: 48
 bibkey: saab2024capabilities
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.18416'}]
-tags: [GPT, RAG, Responsible AI, Reinforcement Learning, In-Context Learning, Applications,
-  Multimodal Models, Model Architecture]
+tags: [Responsible AI, Model Architecture, RAG, Applications, Reinforcement Learning,
+  In-Context Learning, Multimodal Models, GPT, Evaluation]
 ---
 Excellence in a wide variety of medical applications poses considerable
 challenges for AI, requiring advanced reasoning, access to up-to-date medical

@@ -3,13 +3,14 @@ layout: publication
 title: 'Recosa: Detecting The Relevant Contexts With Self-attention For Multi-turn
   Dialogue Generation'
 authors: Hainan Zhang, Yanyan Lan, Liang Pang, Jiafeng Guo, Xueqi Cheng
-conference: ACL2019
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
-citations: 57
+citations: 59
 bibkey: zhang2019detecting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.05339'}]
-tags: [Ethics and Bias, Transformer, Attention Mechanism, Interpretability and Explainability,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, Transformer, Interpretability
+    and Explainability, Evaluation]
 ---
 In multi-turn dialogue generation, response is usually related with only a
 few contexts. Therefore, an ideal model should be able to detect these relevant

@@ -3,9 +3,10 @@ layout: publication
 title: 'Negated And Misprimed Probes For Pretrained Language Models: Birds Can Talk,
   But Cannot Fly'
 authors: "Nora Kassner, Hinrich Sch\xFCtze"
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
-citations: 60
+citations: 62
 bibkey: kassner2019negated
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03343'}]
 tags: [Uncategorized]

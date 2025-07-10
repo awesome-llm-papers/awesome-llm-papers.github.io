@@ -2,12 +2,12 @@
 layout: publication
 title: 'Glamm: Pixel Grounding Large Multimodal Model'
 authors: Hanoona Rasheed et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 34
+citations: 37
 bibkey: rasheed2023pixel
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.03356'}]
-tags: [Prompting, Multimodal Models]
+tags: [Multimodal Models, Prompting, Evaluation]
 ---
 Large Multimodal Models (LMMs) extend Large Language Models to the vision
 domain. Initial LMMs used holistic images and text prompts to generate

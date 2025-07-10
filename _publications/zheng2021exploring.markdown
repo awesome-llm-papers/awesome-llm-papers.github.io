@@ -7,7 +7,7 @@ year: 2021
 citations: 28
 bibkey: zheng2021exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.06513'}]
-tags: [Few-Shot, Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Few-Shot, Prompting]
 ---
 Dialog models can be greatly strengthened through grounding on various
 external information, but grounded dialog corpora are usually not naturally

@@ -8,7 +8,7 @@ year: 2017
 citations: 96
 bibkey: buck2017ask
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1705.07830'}]
-tags: [Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning, Evaluation]
 ---
 We frame Question Answering (QA) as a Reinforcement Learning task, an
 approach that we call Active Question Answering. We propose an agent that sits

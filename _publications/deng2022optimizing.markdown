@@ -2,14 +2,15 @@
 layout: publication
 title: 'Rlprompt: Optimizing Discrete Text Prompts With Reinforcement Learning'
 authors: Mingkai Deng et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 43
+citations: 47
 bibkey: deng2022optimizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.12548'}]
-tags: [Training Techniques, GPT, Few-Shot, Reinforcement Learning, Interpretability
-    and Explainability, BERT, Agentic, Efficiency and Optimization, Prompting, Model
-    Architecture]
+tags: [Model Architecture, Agentic, GPT, Few-Shot, Interpretability and Explainability,
+  Reinforcement Learning, Prompting, Training Techniques, Efficiency and Optimization,
+  BERT]
 ---
 Prompting has shown impressive success in enabling large pretrained language
 models (LMs) to perform diverse NLP tasks, especially when only few downstream

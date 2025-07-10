@@ -3,13 +3,15 @@ layout: publication
 title: A Multitask, Multilingual, Multimodal Evaluation Of Chatgpt On Reasoning, Hallucination,
   And Interactivity
 authors: Yejin Bang et al.
-conference: Arxiv
+conference: 'Proceedings of the 13th International Joint Conference on Natural Language
+  Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association
+  for Computational Linguistics (Volume 1: Long Papers)'
 year: 2023
-citations: 356
+citations: 375
 bibkey: bang2023multimodal
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2302.04023v4'}]
-tags: [GPT, RAG, Tools, Reinforcement Learning, Dataset, Prompting, Multimodal Models,
-  Model Architecture]
+tags: [Model Architecture, Dataset, RAG, Tools, Reinforcement Learning, Multimodal
+    Models, Prompting, GPT, Evaluation]
 ---
 This paper proposes a framework for quantitatively evaluating interactive
 LLMs such as ChatGPT using publicly available data sets. We carry out an

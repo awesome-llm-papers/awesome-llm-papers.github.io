@@ -2,9 +2,9 @@
 layout: publication
 title: 'Empdg: Multiresolution Interactive Empathetic Dialogue Generation'
 authors: Qintong Li et al.
-conference: Arxiv
+conference: Proceedings of the 28th International Conference on Computational Linguistics
 year: 2019
-citations: 60
+citations: 61
 bibkey: li2019multiresolution
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.08698'}]
 tags: [Tools, Security, Reinforcement Learning]

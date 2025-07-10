@@ -7,7 +7,8 @@ year: 2023
 citations: 95
 bibkey: chang2023text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.00704'}]
-tags: [GPT, Transformer, Merging, Applications, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Applications, GPT, Evaluation,
+  Merging]
 ---
 We present Muse, a text-to-image Transformer model that achieves
 state-of-the-art image generation performance while being significantly more

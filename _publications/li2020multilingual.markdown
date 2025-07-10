@@ -2,13 +2,15 @@
 layout: publication
 title: Multilingual Speech Translation With Efficient Finetuning Of Pretrained Models
 authors: Xian Li et al.
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2020
 citations: 26
 bibkey: li2020multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.12829'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Attention Mechanism, Efficiency and
-    Optimization, Multimodal Models, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Fine-Tuning, RAG,
+  Multimodal Models, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 We present a simple yet effective approach to build multilingual
 speech-to-text (ST) translation by efficient transfer learning from pretrained

@@ -2,14 +2,14 @@
 layout: publication
 title: Scalable Attentive Sentence-pair Modeling Via Distilled Sentence Embedding
 authors: Oren Barkan et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
 citations: 21
 bibkey: barkan2019scalable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.05161'}, {name: Code,
     url: 'https://github.com/microsoft/Distilled-Sentence-Embedding'}]
-tags: [Distillation, RAG, Attention Mechanism, BERT, Efficiency and Optimization,
-  Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Distillation, RAG, Efficiency
+    and Optimization, BERT, Evaluation]
 ---
 Recent state-of-the-art natural language understanding models, such as BERT
 and XLNet, score a pair of sentences (A and B) using multiple cross-attention

@@ -2,12 +2,12 @@
 layout: publication
 title: 'Powerinfer: Fast Large Language Model Serving With A Consumer-grade GPU'
 authors: Yixin Song, Zeyu Mi, Haotong Xie, Haibo Chen
-conference: Arxiv
+conference: 'SOSP ''24: ACM SIGOPS 30th Symposium on Operating Systems Principles'
 year: 2023
-citations: 15
+citations: 18
 bibkey: song2023fast
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.12456'}]
-tags: [Efficiency and Optimization, Reinforcement Learning]
+tags: [Reinforcement Learning, Efficiency and Optimization, Evaluation]
 ---
 This paper introduces PowerInfer, a high-speed Large Language Model (LLM)
 inference engine on a personal computer (PC) equipped with a single

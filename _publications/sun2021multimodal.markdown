@@ -2,12 +2,13 @@
 layout: publication
 title: Multimodal Dialogue Response Generation
 authors: Qingfeng Sun et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
 citations: 20
 bibkey: sun2021multimodal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.08515'}]
-tags: [Training Techniques, Agentic, Multimodal Models]
+tags: [Agentic, Training Techniques, Multimodal Models, Evaluation]
 ---
 Responsing with image has been recognized as an important capability for an
 intelligent conversational agent. Yet existing works only focus on exploring

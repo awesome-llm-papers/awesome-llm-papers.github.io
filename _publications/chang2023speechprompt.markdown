@@ -7,7 +7,7 @@ year: 2023
 citations: 16
 bibkey: chang2023speechprompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.00733'}]
-tags: [RAG, Efficiency and Optimization, Tools, Prompting]
+tags: [Tools, Prompting, Efficiency and Optimization, RAG]
 ---
 Prompt tuning is a technology that tunes a small set of parameters to steer a
 pre-trained language model (LM) to directly generate the output for downstream

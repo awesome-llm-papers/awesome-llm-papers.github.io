@@ -7,8 +7,8 @@ year: 2022
 citations: 17
 bibkey: levine2022standing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.10019'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Reinforcement Learning, Applications,
-  Prompting]
+tags: [Fine-Tuning, RAG, Applications, Reinforcement Learning, Prompting, Training
+    Techniques]
 ---
 Huge pretrained language models (LMs) have demonstrated surprisingly good
 zero-shot capabilities on a wide variety of tasks. This gives rise to the

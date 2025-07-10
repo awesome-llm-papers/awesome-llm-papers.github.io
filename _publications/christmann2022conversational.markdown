@@ -2,12 +2,13 @@
 layout: publication
 title: Conversational Question Answering On Heterogeneous Sources
 authors: Philipp Christmann, Rishiraj Saha Roy, Gerhard Weikum
-conference: Arxiv
+conference: 'SIGIR ''22: The 45th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2022
 citations: 18
 bibkey: christmann2022conversational
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.11677'}]
-tags: [RAG, Merging]
+tags: [RAG, Evaluation, Merging]
 ---
 Conversational question answering (ConvQA) tackles sequential information
 needs where contexts in follow-up questions are left implicit. Current ConvQA

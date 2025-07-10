@@ -2,14 +2,15 @@
 layout: publication
 title: Parallel Context Windows For Large Language Models
 authors: Nir Ratner et al.
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
 citations: 15
 bibkey: ratner2022parallel
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.10947'}, {name: Code,
     url: 'https://github.com/ai21labs/parallel-context-windows'}]
-tags: [Training Techniques, Transformer, RAG, Attention Mechanism, In-Context Learning,
-  Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, RAG, In-Context
+    Learning, Training Techniques]
 ---
 When applied to processing long text, Large Language Models (LLMs) are
 limited by their context window. Existing efforts to address this limitation

@@ -8,7 +8,8 @@ year: 2019
 citations: 55
 bibkey: ghandeharioun2019approximating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.09308'}]
-tags: [Distillation, Tools, Agentic, Efficiency and Optimization, Model Architecture]
+tags: [Model Architecture, Distillation, Tools, Agentic, Efficiency and Optimization,
+  Evaluation]
 ---
 Building an open-domain conversational agent is a challenging problem.
 Current evaluation methods, mostly post-hoc judgments of static conversation,

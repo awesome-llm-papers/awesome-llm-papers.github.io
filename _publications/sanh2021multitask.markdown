@@ -8,7 +8,7 @@ citations: 466
 bibkey: sanh2021multitask
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2110.08207v3'}, {name: Code,
     url: 'https://github.com/bigscience-workshop/t-zero'}, {name: Code, url: 'https://github.com/bigscience-workshop/promptsource'}]
-tags: [Has Code, Training Techniques, Prompting]
+tags: [Has Code, Training Techniques, Prompting, Evaluation]
 ---
 Large language models have recently been shown to attain reasonable zero-shot
 generalization on a diverse set of tasks (Brown et al., 2020). It has been

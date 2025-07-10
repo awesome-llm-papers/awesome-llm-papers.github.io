@@ -2,12 +2,14 @@
 layout: publication
 title: 'UER: An Open-source Toolkit For Pre-training Models'
 authors: Zhe Zhao et al.
-conference: Arxiv
+conference: 'Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP): System Demonstrations'
 year: 2019
-citations: 48
+citations: 50
 bibkey: zhao2019open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.05658'}]
-tags: [Training Techniques, Pre-Training, Tools, BERT, Model Architecture]
+tags: [Model Architecture, Tools, Pre-Training, Training Techniques, BERT]
 ---
 Existing works, including ELMO and BERT, have revealed the importance of
 pre-training for NLP tasks. While there does not exist a single pre-training

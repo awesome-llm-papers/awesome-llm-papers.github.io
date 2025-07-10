@@ -2,13 +2,13 @@
 layout: publication
 title: Personality Traits In Large Language Models
 authors: "Greg Serapio-garc\xEDa et al."
-conference: Arxiv
+conference: Springer Science and Business Media LLC
 year: 2023
-citations: 41
+citations: 45
 bibkey: "serapiogarc\xEDa2023personality"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.00184'}]
-tags: [Ethics and Bias, Training Techniques, Responsible AI, Tools, Reinforcement
-    Learning, Agentic, Prompting]
+tags: [Responsible AI, Ethics and Bias, Tools, Reinforcement Learning, Prompting,
+  Agentic, Training Techniques]
 ---
 The advent of large language models (LLMs) has revolutionized natural
 language processing, enabling the generation of coherent and contextually

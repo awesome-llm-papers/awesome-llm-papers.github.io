@@ -3,12 +3,13 @@ layout: publication
 title: Advancing High-resolution Video-language Representation With Large-scale Video
   Transcriptions
 authors: Hongwei Xue et al.
-conference: published in CVPR 2022
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2021
 citations: 67
 bibkey: xue2021advancing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.10337'}]
-tags: [Training Techniques, Transformer, Pre-Training, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Transformer, Multimodal Models, Pre-Training, Training
+    Techniques]
 ---
 We study joint video and language (VL) pre-training to enable cross-modality
 learning and benefit plentiful downstream VL tasks. Existing works either

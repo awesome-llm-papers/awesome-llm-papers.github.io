@@ -7,7 +7,7 @@ year: 2023
 citations: 94
 bibkey: shumailov2023curse
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.17493'}]
-tags: [Training Techniques, Model Architecture, GPT, Merging]
+tags: [Training Techniques, Model Architecture, Merging, GPT]
 ---
 Stable Diffusion revolutionised image creation from descriptive text. GPT-2,
 GPT-3(.5) and GPT-4 demonstrated astonishing performance across a variety of

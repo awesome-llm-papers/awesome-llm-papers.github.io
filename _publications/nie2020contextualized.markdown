@@ -2,12 +2,13 @@
 layout: publication
 title: 'Coregen: Contextualized Code Representation Learning For Commit Message Generation'
 authors: Lun Yiu Nie et al.
-conference: Arxiv
+conference: Neurocomputing
 year: 2020
-citations: 35
+citations: 38
 bibkey: nie2020contextualized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.06934'}]
-tags: [Training Techniques, Transformer, Tools, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, Transformer, Tools, Reinforcement Learning, Training Techniques,
+  Evaluation]
 ---
 Automatic generation of high-quality commit messages for code commits can
 substantially facilitate software developers' works and coordination. However,

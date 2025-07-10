@@ -7,7 +7,7 @@ year: 2021
 citations: 63
 bibkey: wu2021recursively
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.10862'}]
-tags: [Model Architecture, Training Techniques, GPT, Reinforcement Learning]
+tags: [Model Architecture, GPT, Reinforcement Learning, Training Techniques, Evaluation]
 ---
 A major challenge for scaling machine learning is training models to perform
 tasks that are very difficult or time-consuming for humans to evaluate. We

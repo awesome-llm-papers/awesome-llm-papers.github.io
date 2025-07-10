@@ -2,12 +2,12 @@
 layout: publication
 title: Controllable Natural Language Generation With Contrastive Prefixes
 authors: Jing Qian, Li Dong, Yelong Shen, Furu Wei, Weizhu Chen
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2022'
 year: 2022
-citations: 19
+citations: 21
 bibkey: qian2022controllable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.13257'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Tools, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Tools, Training Techniques]
 ---
 To guide the generation of large pretrained language models (LM), previous
 work has focused on directly fine-tuning the language model or utilizing an

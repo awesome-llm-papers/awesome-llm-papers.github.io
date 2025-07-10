@@ -7,7 +7,7 @@ year: 2020
 citations: 48
 bibkey: antoun2020pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15520'}]
-tags: [GPT, Transformer, RAG, Applications, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, RAG, Applications, GPT]
 ---
 Recently, pre-trained transformer-based architectures have proven to be very
 efficient at language modeling and understanding, given that they are trained

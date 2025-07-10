@@ -8,8 +8,8 @@ year: 2023
 citations: 21
 bibkey: hasan2023zero
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.10783'}]
-tags: [GPT, Transformer, Fine-Tuning, Tools, Few-Shot, Reinforcement Learning, In-Context
-    Learning, Applications, Prompting, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, Few-Shot, Applications, Tools,
+  Reinforcement Learning, Prompting, In-Context Learning, GPT]
 ---
 The rapid expansion of the digital world has propelled sentiment analysis
 into a critical tool across diverse sectors such as marketing, politics,

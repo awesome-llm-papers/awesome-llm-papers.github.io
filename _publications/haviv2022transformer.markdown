@@ -3,12 +3,12 @@ layout: publication
 title: Transformer Language Models Without Positional Encodings Still Learn Positional
   Information
 authors: Adi Haviv, Ori Ram, Ofir Press, Peter Izsak, Omer Levy
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2022
-citations: 23
+citations: 26
 bibkey: haviv2022transformer
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.16634'}]
-tags: [Attention Mechanism, Transformer, Model Architecture, GPT]
+tags: [Transformer, GPT, Model Architecture, Attention Mechanism]
 ---
 Causal transformer language models (LMs), such as GPT-3, typically require
 some form of positional encoding, such as positional embeddings. However, we

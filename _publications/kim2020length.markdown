@@ -3,14 +3,16 @@ layout: publication
 title: 'Length-adaptive Transformer: Train Once With Length Drop, Use Anytime With
   Search'
 authors: Gyuwan Kim, Kyunghyun Cho
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2020
 citations: 22
 bibkey: kim2020length
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.07003'}, {name: Code,
     url: 'https://github.com/clovaai/length-adaptive-transformer'}]
-tags: [Training Techniques, Transformer, BERT, Efficiency and Optimization, Has Code,
-  Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, BERT, Efficiency and Optimization,
+  Training Techniques]
 ---
 Despite transformers' impressive accuracy, their computational cost is often
 prohibitive to use with limited computational resources. Most previous

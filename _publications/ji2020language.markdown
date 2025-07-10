@@ -2,12 +2,13 @@
 layout: publication
 title: Language Generation With Multi-hop Reasoning On Commonsense Knowledge Graph
 authors: Haozhe Ji et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 42
+citations: 43
 bibkey: ji2020language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.11692'}]
-tags: [Language Modeling, Reinforcement Learning, Training Techniques]
+tags: [Language Modeling, Training Techniques, Reinforcement Learning]
 ---
 Despite the success of generative pre-trained language models on a series of
 text generation tasks, they still suffer in cases where reasoning over

@@ -2,14 +2,15 @@
 layout: publication
 title: Hybrid Transformer With Multi-level Fusion For Multimodal Knowledge Graph Completion
 authors: Xiang Chen et al.
-conference: Arxiv
+conference: 'SIGIR ''22: The 45th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2022
-citations: 99
+citations: 105
 bibkey: chen2022hybrid
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.02357'}, {name: Code,
     url: 'https://github.com/zjunlp/MKGformer'}]
-tags: [Transformer, Merging, RAG, Reinforcement Learning, Has Code, Multimodal Models,
-  Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, RAG, Reinforcement Learning, Multimodal
+    Models, Merging]
 ---
 Multimodal Knowledge Graphs (MKGs), which organize visual-text factual
 knowledge, have recently been successfully applied to tasks such as information

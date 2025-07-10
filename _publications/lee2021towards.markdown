@@ -2,12 +2,13 @@
 layout: publication
 title: Towards Few-shot Fact-checking Via Perplexity
 authors: Nayeon Lee, Yejin Bang, Andrea Madotto, Madian Khabsa, Pascale Fung
-conference: Arxiv
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
 citations: 28
 bibkey: lee2021towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.09535'}]
-tags: [Training Techniques, Few-Shot, Attention Mechanism, Fine-Tuning, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Fine-Tuning, Few-Shot, Training Techniques]
 ---
 Few-shot learning has drawn researchers' attention to overcome the problem of
 data scarcity. Recently, large pre-trained language models have shown great

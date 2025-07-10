@@ -2,12 +2,13 @@
 layout: publication
 title: 'Spot: Better Frozen Model Adaptation Through Soft Prompt Transfer'
 authors: Tu Vu, Brian Lester, Noah Constant, Rami Al-rfou, Daniel Cer
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
-citations: 40
+citations: 42
 bibkey: vu2021better
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.07904'}]
-tags: [Fine-Tuning, Prompting]
+tags: [Fine-Tuning, Prompting, Evaluation]
 ---
 There has been growing interest in parameter-efficient methods to apply
 pre-trained language models to downstream tasks. Building on the Prompt Tuning

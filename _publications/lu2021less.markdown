@@ -3,13 +3,15 @@ layout: publication
 title: 'Less Is More: Pre-train A Strong Text Encoder For Dense Retrieval Using A
   Weak Decoder'
 authors: Shuqi Lu et al.
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 22
 bibkey: lu2021less
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.09206'}, {name: Code,
     url: 'https://github.com/microsoft/SEED-Encoder/'}]
-tags: [Few-Shot, Reinforcement Learning, Attention Mechanism, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Few-Shot, Reinforcement
+    Learning]
 ---
 Dense retrieval requires high-quality text sequence embeddings to support
 effective search in the representation space. Autoencoder-based language models

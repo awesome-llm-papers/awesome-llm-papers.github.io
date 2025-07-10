@@ -2,13 +2,15 @@
 layout: publication
 title: Data-efficient Fine-tuning For Llm-based Recommendation
 authors: Xinyu Lin et al.
-conference: Arxiv
+conference: 'SIGIR 2024: The 47th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2024
-citations: 40
+citations: 43
 bibkey: lin2024data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.17197'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Few-Shot, Tools, Reinforcement Learning,
-  Attention Mechanism, Efficiency and Optimization, Pruning, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Pruning, Few-Shot, Fine-Tuning, RAG,
+  Tools, Reinforcement Learning, Efficiency and Optimization, Training Techniques,
+  Evaluation]
 ---
 Leveraging Large Language Models (LLMs) for recommendation has recently
 garnered considerable attention, where fine-tuning plays a key role in LLMs'

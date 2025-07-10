@@ -2,12 +2,13 @@
 layout: publication
 title: On Hallucination And Predictive Uncertainty In Conditional Language Generation
 authors: Yijun Xiao, William Yang Wang
-conference: Arxiv
+conference: 'Proceedings of the 16th Conference of the European Chapter of the Association
+  for Computational Linguistics: Main Volume'
 year: 2021
-citations: 36
+citations: 37
 bibkey: xiao2021hallucination
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.15025'}]
-tags: [Language Modeling, Interpretability and Explainability]
+tags: [Interpretability and Explainability, Language Modeling]
 ---
 Despite improvements in performances on different natural language generation
 tasks, deep neural models are prone to hallucinating facts that are incorrect

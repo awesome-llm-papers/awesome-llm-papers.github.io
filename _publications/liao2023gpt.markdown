@@ -3,14 +3,14 @@ layout: publication
 title: 'GPT-4 Enhanced Multimodal Grounding For Autonomous Driving: Leveraging Cross-modal
   Attention With Large Language Models'
 authors: Haicheng Liao et al.
-conference: Arxiv
+conference: Communications in Transportation Research
 year: 2023
-citations: 33
+citations: 35
 bibkey: liao2023gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.03543'}]
-tags: [Training Techniques, Transformer, GPT, RAG, Tools, Reinforcement Learning,
-  Attention Mechanism, Efficiency and Optimization, Applications, Security, Multimodal
-    Models, Model Architecture]
+tags: [Security, Model Architecture, Attention Mechanism, GPT, Transformer, RAG, Applications,
+  Tools, Reinforcement Learning, Multimodal Models, Efficiency and Optimization, Training
+    Techniques, Evaluation]
 ---
 In the field of autonomous vehicles (AVs), accurately discerning commander
 intent and executing linguistic commands within a visual context presents a

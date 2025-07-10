@@ -8,8 +8,8 @@ year: 2021
 citations: 32
 bibkey: coenen2021human
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.07430'}]
-tags: [Training Techniques, Transformer, Few-Shot, Reinforcement Learning, Applications,
-  Model Architecture]
+tags: [Model Architecture, Transformer, Few-Shot, Applications, Reinforcement Learning,
+  Training Techniques, Evaluation]
 ---
 As neural language models grow in effectiveness, they are increasingly being
 applied in real-world settings. However these applications tend to be limited

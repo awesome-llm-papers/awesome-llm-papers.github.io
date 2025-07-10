@@ -2,12 +2,13 @@
 layout: publication
 title: 'Beyond Goldfish Memory: Long-term Open-domain Conversation'
 authors: Jing Xu, Arthur Szlam, Jason Weston
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
-citations: 44
+citations: 46
 bibkey: xu2021beyond
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.07567'}]
-tags: [RAG, Reinforcement Learning, Model Architecture]
+tags: [Reinforcement Learning, RAG, Model Architecture, Evaluation]
 ---
 Despite recent improvements in open-domain dialogue models, state of the art
 models are trained and evaluated on short conversations with little context. In

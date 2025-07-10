@@ -3,12 +3,12 @@ layout: publication
 title: A Comparative Study Of Ai-generated (GPT-4) And Human-crafted Mcqs In Programming
   Education
 authors: Jacob Doughty et al.
-conference: Arxiv
+conference: 'ACE 2024: Australian Computing Education Conference'
 year: 2023
-citations: 40
+citations: 44
 bibkey: doughty2023comparative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.03173'}]
-tags: [RAG, GPT, Model Architecture, Reinforcement Learning]
+tags: [Reinforcement Learning, GPT, RAG, Model Architecture]
 ---
 There is a constant need for educators to develop and maintain effective
 up-to-date assessments. While there is a growing body of research in computing

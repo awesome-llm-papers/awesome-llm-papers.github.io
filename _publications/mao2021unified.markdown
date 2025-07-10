@@ -2,12 +2,13 @@
 layout: publication
 title: 'Unipelt: A Unified Framework For Parameter-efficient Language Model Tuning'
 authors: Yuning Mao et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
-citations: 39
+citations: 42
 bibkey: mao2021unified
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.07577'}]
-tags: [Fine-Tuning, Tools, Training Techniques]
+tags: [Tools, Training Techniques, Fine-Tuning, Evaluation]
 ---
 Recent parameter-efficient language model tuning (PELT) methods manage to
 match the performance of fine-tuning with much fewer trainable parameters and

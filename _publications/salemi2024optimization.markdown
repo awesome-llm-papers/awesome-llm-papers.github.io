@@ -3,12 +3,14 @@ layout: publication
 title: Optimization Methods For Personalizing Large Language Models Through Retrieval
   Augmentation
 authors: Alireza Salemi, Surya Kallumadi, Hamed Zamani
-conference: Arxiv
+conference: 'SIGIR 2024: The 47th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2024
-citations: 17
+citations: 18
 bibkey: salemi2024optimization
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.05970'}]
-tags: [Distillation, RAG, Reinforcement Learning, Efficiency and Optimization, Applications]
+tags: [Distillation, RAG, Applications, Reinforcement Learning, Efficiency and Optimization,
+  Evaluation]
 ---
 This paper studies retrieval-augmented approaches for personalizing large
 language models (LLMs), which potentially have a substantial impact on various

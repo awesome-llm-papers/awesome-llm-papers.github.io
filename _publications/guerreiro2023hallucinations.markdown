@@ -2,13 +2,13 @@
 layout: publication
 title: Hallucinations In Large Multilingual Translation Models
 authors: Nuno M. Guerreiro et al.
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2023
-citations: 32
+citations: 34
 bibkey: guerreiro2023hallucinations
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.16104'}]
-tags: [GPT, Responsible AI, Reinforcement Learning, Applications, Prompting, Model
-    Architecture]
+tags: [Responsible AI, Model Architecture, Applications, Reinforcement Learning, Prompting,
+  GPT]
 ---
 Large-scale multilingual machine translation systems have demonstrated
 remarkable ability to translate directly between numerous languages, making

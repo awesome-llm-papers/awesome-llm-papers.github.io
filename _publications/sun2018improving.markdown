@@ -2,13 +2,13 @@
 layout: publication
 title: Improving Machine Reading Comprehension With General Reading Strategies
 authors: Kai Sun, Dian Yu, Dong Yu, Claire Cardie
-conference: Arxiv
+conference: Proceedings of the 2019 Conference of the North
 year: 2018
 citations: 33
 bibkey: sun2018improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1810.13441'}, {name: Code,
     url: 'https://github.com/nlpdata/strategy/'}]
-tags: [Training Techniques, RAG, Pre-Training, Fine-Tuning, Has Code]
+tags: [Has Code, Fine-Tuning, RAG, Pre-Training, Training Techniques]
 ---
 Reading strategies have been shown to improve comprehension levels,
 especially for readers lacking adequate prior knowledge. Just as the process of

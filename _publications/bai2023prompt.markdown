@@ -2,13 +2,13 @@
 layout: publication
 title: Prompt-based Distribution Alignment For Unsupervised Domain Adaptation
 authors: Shuanghao Bai et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 21
+citations: 22
 bibkey: bai2023prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.09553'}, {name: Code,
     url: 'https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment'}]
-tags: [Has Code, Fine-Tuning, Reinforcement Learning, Prompting]
+tags: [Has Code, Fine-Tuning, Reinforcement Learning, Prompting, Evaluation]
 ---
 Recently, despite the unprecedented success of large pre-trained
 visual-language models (VLMs) on a wide range of downstream tasks, the

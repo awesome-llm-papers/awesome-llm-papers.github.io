@@ -2,12 +2,13 @@
 layout: publication
 title: 'IDPG: An Instance-dependent Prompt Generation Method'
 authors: Zhuofeng Wu et al.
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2022
-citations: 16
+citations: 17
 bibkey: wu2022instance
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.04497'}]
-tags: [Fine-Tuning, Training Techniques, Prompting]
+tags: [Training Techniques, Fine-Tuning, Prompting]
 ---
 Prompt tuning is a new, efficient NLP transfer learning paradigm that adds a
 task-specific prompt in each input instance during the model training stage. It

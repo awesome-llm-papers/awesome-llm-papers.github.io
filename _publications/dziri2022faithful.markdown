@@ -2,12 +2,12 @@
 layout: publication
 title: 'Faithdial: A Faithful Benchmark For Information-seeking Dialogue'
 authors: Nouha Dziri et al.
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2022
-citations: 15
+citations: 16
 bibkey: dziri2022faithful
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.10757'}]
-tags: [Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Evaluation]
 ---
 The goal of information-seeking dialogue is to respond to seeker queries with
 natural language utterances that are grounded on knowledge sources. However,

@@ -3,12 +3,13 @@ layout: publication
 title: 'Chat With The Environment: Interactive Multimodal Perception Using Large Language
   Models'
 authors: Xufeng Zhao, Mengdi Li, Cornelius Weber, Muhammad Burhan Hafez, Stefan Wermter
-conference: Arxiv
+conference: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)
 year: 2023
 citations: 26
 bibkey: zhao2023chat
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.08268'}]
-tags: [Few-Shot, Tools, Agentic, Reinforcement Learning, Multimodal Models]
+tags: [Few-Shot, Tools, Reinforcement Learning, Multimodal Models, Agentic]
 ---
 Programming robot behavior in a complex world faces challenges on multiple
 levels, from dextrous low-level skills to high-level planning and reasoning.

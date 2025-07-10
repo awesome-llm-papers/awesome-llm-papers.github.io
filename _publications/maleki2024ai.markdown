@@ -2,12 +2,12 @@
 layout: publication
 title: 'AI Hallucinations: A Misnomer Worth Clarifying'
 authors: Negar Maleki, Balaji Padmanabhan, Kaushik Dutta
-conference: Arxiv
+conference: 2024 IEEE Conference on Artificial Intelligence (CAI)
 year: 2024
-citations: 41
+citations: 46
 bibkey: maleki2024ai
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.06796'}]
-tags: [Language Modeling, Applications, Survey Paper]
+tags: [Survey Paper, Language Modeling, Applications]
 ---
 As large language models continue to advance in Artificial Intelligence (AI),
 text generation systems have been shown to suffer from a problematic phenomenon

@@ -4,12 +4,12 @@ title: 'GIT: A Generative Image-to-text Transformer For Vision And Language'
 authors: Jianfeng Wang et al.
 conference: Arxiv
 year: 2022
-citations: 165
+citations: 166
 bibkey: wang2022generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.14100'}, {name: Code,
     url: 'https://github.com/microsoft/GenerativeImage2Text'}]
-tags: [Training Techniques, Transformer, Pre-Training, Fine-Tuning, Has Code, Multimodal
-    Models, Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Transformer, Fine-Tuning,
+  Multimodal Models, Pre-Training, Training Techniques, Evaluation]
 ---
 In this paper, we design and train a Generative Image-to-text Transformer,
 GIT, to unify vision-language tasks such as image/video captioning and question

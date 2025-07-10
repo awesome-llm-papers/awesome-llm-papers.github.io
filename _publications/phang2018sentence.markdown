@@ -8,8 +8,8 @@ year: 2018
 citations: 291
 bibkey: phang2018sentence
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1811.01088'}]
-tags: [Training Techniques, Reinforcement Learning, BERT, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, Reinforcement Learning, Training Techniques,
+  BERT, Evaluation]
 ---
 Pretraining sentence encoders with language modeling and related unsupervised
 tasks has recently been shown to be very effective for language understanding

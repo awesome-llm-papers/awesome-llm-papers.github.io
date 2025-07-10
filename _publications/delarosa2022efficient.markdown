@@ -8,8 +8,8 @@ year: 2022
 citations: 31
 bibkey: delarosa2022efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.06814'}]
-tags: [Training Techniques, Transformer, Pre-Training, Reinforcement Learning, BERT,
-  Model Architecture]
+tags: [Model Architecture, Transformer, Reinforcement Learning, Pre-Training, BERT,
+  Training Techniques]
 ---
 The pre-training of large language models usually requires massive amounts of
 resources, both in terms of computation and data. Frequently used web sources

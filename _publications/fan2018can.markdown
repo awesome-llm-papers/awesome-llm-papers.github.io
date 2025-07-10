@@ -2,12 +2,12 @@
 layout: publication
 title: '"bilingual Expert" Can Find Translation Errors'
 authors: Kai Fan et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2018
 citations: 20
 bibkey: fan2018can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1807.09433'}]
-tags: [Transformer, Tools, BERT, WMT, Model Architecture]
+tags: [Model Architecture, Transformer, WMT, Tools, BERT, Evaluation]
 ---
 Recent advances in statistical machine translation via the adoption of neural
 sequence-to-sequence models empower the end-to-end system to achieve

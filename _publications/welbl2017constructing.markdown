@@ -2,10 +2,9 @@
 layout: publication
 title: Constructing Datasets For Multi-hop Reading Comprehension Across Documents
 authors: Johannes Welbl, Pontus Stenetorp, Sebastian Riedel
-conference: Transactions of the Association for Computational Linguistics (TACL) Vol
-  6 (2018) pages 287-302
+conference: Transactions of the Association for Computational Linguistics
 year: 2017
-citations: 114
+citations: 115
 bibkey: welbl2017constructing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1710.06481'}]
 tags: [RAG]

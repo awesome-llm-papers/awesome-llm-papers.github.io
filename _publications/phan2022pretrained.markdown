@@ -2,12 +2,14 @@
 layout: publication
 title: 'Vit5: Pretrained Text-to-text Transformer For Vietnamese Language Generation'
 authors: Long Phan, Hieu Tran, Hieu Nguyen, Trieu H. Trinh
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies: Student
+  Research Workshop'
 year: 2022
 citations: 39
 bibkey: phan2022pretrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.06457'}]
-tags: [Language Modeling, Training Techniques, Transformer, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Training Techniques, Evaluation]
 ---
 We present ViT5, a pretrained Transformer-based encoder-decoder model for the
 Vietnamese language. With T5-style self-supervised pretraining, ViT5 is trained

@@ -2,15 +2,17 @@
 layout: publication
 title: 'LXMERT: Learning Cross-modality Encoder Representations From Transformers'
 authors: Hao Tan, Mohit Bansal
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 1132
+citations: 1143
 bibkey: tan2019learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.07490'}, {name: Code,
     url: 'https://github.com/airsplay/lxmert'}]
-tags: [Masked Language Model, Training Techniques, Transformer, Pre-Training, Tools,
-  Fine-Tuning, BERT, Attention Mechanism, Has Code, Multimodal Models, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Attention Mechanism, Transformer,
+  Fine-Tuning, Masked Language Model, Tools, Multimodal Models, Pre-Training, BERT,
+  Training Techniques]
 ---
 Vision-and-language reasoning requires an understanding of visual concepts,
 language semantics, and, most importantly, the alignment and relationships

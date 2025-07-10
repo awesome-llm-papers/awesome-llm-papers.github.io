@@ -7,8 +7,8 @@ year: 2023
 citations: 42
 bibkey: jiang2023human
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.14795'}]
-tags: [Training Techniques, GPT, Pre-Training, Fine-Tuning, Efficiency and Optimization,
-  Prompting, Language Modeling, Model Architecture, Quantization]
+tags: [Language Modeling, Model Architecture, GPT, Fine-Tuning, Quantization, Prompting,
+  Pre-Training, Efficiency and Optimization, Training Techniques]
 ---
 Though the advancement of pre-trained large language models unfolds, the
 exploration of building a unified model for language and other multi-modal

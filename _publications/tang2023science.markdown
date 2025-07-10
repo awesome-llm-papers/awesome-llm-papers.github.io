@@ -2,12 +2,12 @@
 layout: publication
 title: The Science Of Detecting Llm-generated Texts
 authors: Ruixiang Tang, Yu-neng Chuang, Xia Hu
-conference: Arxiv
+conference: Communications of the ACM
 year: 2023
-citations: 50
+citations: 53
 bibkey: tang2023science
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.07205v3'}]
-tags: [Survey Paper]
+tags: [Survey Paper, Evaluation]
 ---
 The emergence of large language models (LLMs) has resulted in the production
 of LLM-generated texts that is highly sophisticated and almost

@@ -2,12 +2,12 @@
 layout: publication
 title: Pretrained Transformers For Simple Question Answering Over Knowledge Graphs
 authors: D. Lukovnikov, A. Fischer, J. Lehmann
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2020
 citations: 39
 bibkey: lukovnikov2020pretrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2001.11985'}]
-tags: [Transformer, Model Architecture, BERT]
+tags: [Transformer, BERT, Model Architecture, Evaluation]
 ---
 Answering simple questions over knowledge graphs is a well-studied problem in
 question answering. Previous approaches for this task built on recurrent and

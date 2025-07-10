@@ -7,7 +7,7 @@ year: 2019
 citations: 240
 bibkey: bhagavatula2019abductive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.05739'}]
-tags: [Reinforcement Learning, Interpretability and Explainability]
+tags: [Interpretability and Explainability, Reinforcement Learning]
 ---
 Abductive reasoning is inference to the most plausible explanation. For
 example, if Jenny finds her house in a mess when she returns from work, and

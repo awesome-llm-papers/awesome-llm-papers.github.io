@@ -7,8 +7,8 @@ year: 2021
 citations: 180
 bibkey: borgeaud2021improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.04426'}]
-tags: [Training Techniques, Transformer, GPT, Fine-Tuning, Tools, Attention Mechanism,
-  BERT, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, GPT, Transformer, Fine-Tuning, Tools,
+  BERT, Training Techniques]
 ---
 We enhance auto-regressive language models by conditioning on document chunks
 retrieved from a large corpus, based on local similarity with preceding tokens.

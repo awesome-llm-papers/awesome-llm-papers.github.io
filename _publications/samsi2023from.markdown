@@ -3,12 +3,12 @@ layout: publication
 title: 'From Words To Watts: Benchmarking The Energy Costs Of Large Language Model
   Inference'
 authors: Siddharth Samsi et al.
-conference: Arxiv
+conference: 2023 IEEE High Performance Extreme Computing Conference (HPEC)
 year: 2023
-citations: 68
+citations: 72
 bibkey: samsi2023from
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.03003'}]
-tags: [Training Techniques, GPT, RAG, Attention Mechanism, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, GPT, RAG, Training Techniques, Evaluation]
 ---
 Large language models (LLMs) have exploded in popularity due to their new
 generative capabilities that go far beyond prior state-of-the-art. These

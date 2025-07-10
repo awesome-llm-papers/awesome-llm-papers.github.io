@@ -2,12 +2,14 @@
 layout: publication
 title: Thank You BART! Rewarding Pre-trained Models Improves Formality Style Transfer
 authors: Huiyuan Lai, Antonio Toral, Malvina Nissim
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 2: Short Papers)'
 year: 2021
 citations: 15
 bibkey: lai2021thank
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.06947'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Reinforcement Learning, Training Techniques]
 ---
 Scarcity of parallel data causes formality style transfer models to have
 scarce success in preserving content. We show that fine-tuning pre-trained

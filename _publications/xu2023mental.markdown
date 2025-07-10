@@ -8,8 +8,8 @@ year: 2023
 citations: 33
 bibkey: xu2023mental
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.14385'}]
-tags: [Ethics and Bias, Training Techniques, GPT, RAG, Few-Shot, Reinforcement Learning,
-  Fine-Tuning, In-Context Learning, Applications, Prompting, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, RAG, Fine-Tuning, Few-Shot, Applications,
+  Reinforcement Learning, In-Context Learning, Prompting, Training Techniques, Evaluation]
 ---
 Advances in large language models (LLMs) have empowered a variety of
 applications. However, there is still a significant gap in research when it

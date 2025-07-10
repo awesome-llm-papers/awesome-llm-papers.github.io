@@ -2,13 +2,13 @@
 layout: publication
 title: 'Urltran: Improving Phishing URL Detection Using Transformers'
 authors: Pranav Maneriker et al.
-conference: Arxiv
+conference: MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM)
 year: 2021
-citations: 45
+citations: 46
 bibkey: maneriker2021improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.05256'}]
-tags: [Masked Language Model, Training Techniques, Transformer, Pre-Training, Tools,
-  Reinforcement Learning, BERT, Security, Model Architecture]
+tags: [Security, Model Architecture, Transformer, Masked Language Model, Tools, Reinforcement
+    Learning, Pre-Training, BERT, Training Techniques]
 ---
 Browsers often include security features to detect phishing web pages. In the
 past, some browsers evaluated an unknown URL for inclusion in a list of known

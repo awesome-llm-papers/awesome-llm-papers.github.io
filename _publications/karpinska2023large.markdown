@@ -3,12 +3,12 @@ layout: publication
 title: Large Language Models Effectively Leverage Document-level Context For Literary
   Translation, But Critical Errors Persist
 authors: Marzena Karpinska, Mohit Iyyer
-conference: Arxiv
+conference: Proceedings of the Eighth Conference on Machine Translation
 year: 2023
-citations: 16
+citations: 17
 bibkey: karpinska2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.03245'}]
-tags: [RAG, GPT, Model Architecture]
+tags: [GPT, RAG, Model Architecture, Evaluation]
 ---
 Large language models (LLMs) are competitive with the state of the art on a
 wide range of sentence-level translation datasets. However, their ability to

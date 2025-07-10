@@ -8,8 +8,8 @@ year: 2023
 citations: 20
 bibkey: chuang2023debiasing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.00070'}]
-tags: [Ethics and Bias, Training Techniques, Reinforcement Learning, Applications,
-  Prompting, Multimodal Models]
+tags: [Ethics and Bias, Applications, Reinforcement Learning, Multimodal Models, Prompting,
+  Training Techniques]
 ---
 Machine learning models have been shown to inherit biases from their training
 datasets. This can be particularly problematic for vision-language foundation

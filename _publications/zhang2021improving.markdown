@@ -3,12 +3,12 @@ layout: publication
 title: Improving Stack Overflow Question Title Generation With Copying Enhanced Codebert
   Model And Bi-modal Information
 authors: Fengji Zhang et al.
-conference: Arxiv
+conference: Information and Software Technology
 year: 2021
 citations: 23
 bibkey: zhang2021improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.13073'}]
-tags: [Attention Mechanism, Transformer, Model Architecture, BERT]
+tags: [Model Architecture, Attention Mechanism, Transformer, BERT, Evaluation]
 ---
 Context: Stack Overflow is very helpful for software developers who are
 seeking answers to programming problems. Previous studies have shown that a

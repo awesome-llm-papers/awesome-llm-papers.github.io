@@ -7,8 +7,9 @@ year: 2020
 citations: 514
 bibkey: guu2020retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.08909'}]
-tags: [Masked Language Model, Training Techniques, RAG, Pre-Training, Reinforcement
-    Learning, Fine-Tuning, Interpretability and Explainability, BERT, Language Modeling]
+tags: [Language Modeling, RAG, Fine-Tuning, Masked Language Model, Interpretability
+    and Explainability, Reinforcement Learning, Pre-Training, BERT, Training Techniques,
+  Evaluation]
 ---
 Language model pre-training has been shown to capture a surprising amount of
 world knowledge, crucial for NLP tasks such as question answering. However,

@@ -2,13 +2,14 @@
 layout: publication
 title: Structured Pruning Of Large Language Models
 authors: Ziheng Wang, Jeremy Wohlwend, Tao Lei
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2019
-citations: 53
+citations: 57
 bibkey: wang2019structured
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1910.04732'}]
-tags: [Training Techniques, Fine-Tuning, BERT, Efficiency and Optimization, Language
-    Modeling, Pruning, Model Architecture, Quantization]
+tags: [Language Modeling, Model Architecture, Pruning, Fine-Tuning, Quantization,
+  Training Techniques, Efficiency and Optimization, BERT, Evaluation]
 ---
 Large language models have recently achieved state of the art performance
 across a wide variety of natural language tasks. Meanwhile, the size of these

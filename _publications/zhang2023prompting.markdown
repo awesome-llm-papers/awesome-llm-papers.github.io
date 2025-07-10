@@ -7,7 +7,7 @@ year: 2023
 citations: 42
 bibkey: zhang2023prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.07069'}]
-tags: [Fine-Tuning, Training Techniques, Prompting]
+tags: [Training Techniques, Fine-Tuning, Prompting]
 ---
 Research on prompting has shown excellent performance with little or even no
 supervised training across many tasks. However, prompting for machine

@@ -2,14 +2,14 @@
 layout: publication
 title: 'Align And Prompt: Video-and-language Pre-training With Entity Prompts'
 authors: Dongxu Li, Junnan Li, Hongdong Li, Juan Carlos Niebles, Steven C. H. Hoi
-conference: Arxiv
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2021
-citations: 106
+citations: 108
 bibkey: li2021align
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.09583'}, {name: Code,
     url: 'https://github.com/salesforce/ALPRO'}]
-tags: [Training Techniques, Transformer, Pre-Training, Tools, Has Code, Prompting,
-  Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Tools, Multimodal Models, Pre-Training,
+  Prompting, Training Techniques]
 ---
 Video-and-language pre-training has shown promising improvements on various
 downstream tasks. Most previous methods capture cross-modal interactions with a

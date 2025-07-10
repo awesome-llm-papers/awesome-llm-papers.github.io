@@ -2,12 +2,13 @@
 layout: publication
 title: 'Iris: An Ai-driven Virtual Tutor For Computer Science Education'
 authors: Patrick Bassner, Eduard Frankford, Stephan Krusche
-conference: Arxiv
+conference: 'ITiCSE 2024: Innovation and Technology in Computer Science Education'
 year: 2024
-citations: 18
+citations: 21
 bibkey: bassner2024ai
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2405.08008'}]
-tags: [GPT, Merging, Few-Shot, Reinforcement Learning, Tools, Prompting, Model Architecture]
+tags: [Model Architecture, Few-Shot, Tools, Reinforcement Learning, Prompting, GPT,
+  Evaluation, Merging]
 ---
 Integrating AI-driven tools in higher education is an emerging area with
 transformative potential. This paper introduces Iris, a chat-based virtual

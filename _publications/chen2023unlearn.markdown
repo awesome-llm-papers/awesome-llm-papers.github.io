@@ -2,12 +2,14 @@
 layout: publication
 title: 'Unlearn What You Want To Forget: Efficient Unlearning For Llms'
 authors: Jiaao Chen, Diyi Yang
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 15
+citations: 18
 bibkey: chen2023unlearn
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.20150'}]
-tags: [Training Techniques, Transformer, Merging, Pre-Training, Tools, Model Architecture]
+tags: [Model Architecture, Transformer, Tools, Pre-Training, Training Techniques,
+  Merging]
 ---
 Large language models (LLMs) have achieved significant progress from
 pre-training on and memorizing a wide range of textual data, however, this

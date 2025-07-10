@@ -2,12 +2,13 @@
 layout: publication
 title: A Review Of Modern Recommender Systems Using Generative Models (gen-recsys)
 authors: Yashar Deldjoo et al.
-conference: Arxiv
+conference: 'KDD ''24: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data
+  Mining'
 year: 2024
-citations: 34
+citations: 38
 bibkey: deldjoo2024review
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.00579'}]
-tags: [KDD, Reinforcement Learning, RecSys, Survey Paper, Multimodal Models]
+tags: [RecSys, Reinforcement Learning, KDD, Multimodal Models, Survey Paper]
 ---
 Traditional recommender systems (RS) typically use user-item rating histories
 as their main data source. However, deep generative models now have the

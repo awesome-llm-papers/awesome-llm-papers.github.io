@@ -2,13 +2,13 @@
 layout: publication
 title: Learning To Few-shot Learn Across Diverse Natural Language Classification Tasks
 authors: Trapit Bansal, Rishikesh Jha, Andrew Mccallum
-conference: Arxiv
+conference: Proceedings of the 28th International Conference on Computational Linguistics
 year: 2019
 citations: 21
 bibkey: bansal2019learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03863'}]
-tags: [Training Techniques, Transformer, RAG, Pre-Training, Few-Shot, Fine-Tuning,
-  Efficiency and Optimization, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, RAG, Few-Shot, Pre-Training,
+  Efficiency and Optimization, Training Techniques]
 ---
 Self-supervised pre-training of transformer models has shown enormous success
 in improving performance on a number of downstream tasks. However, fine-tuning

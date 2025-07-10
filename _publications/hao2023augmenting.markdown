@@ -8,7 +8,8 @@ year: 2023
 citations: 15
 bibkey: hao2023augmenting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.11554'}]
-tags: [GPT, Tools, Reinforcement Learning, In-Context Learning, Prompting, Model Architecture]
+tags: [Model Architecture, Tools, Reinforcement Learning, Prompting, In-Context Learning,
+  GPT]
 ---
 Augmenting large language models (LLMs) with external tools has emerged as a
 promising approach to solving complex problems. However, traditional methods,

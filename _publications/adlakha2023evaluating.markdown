@@ -4,13 +4,13 @@ title: Evaluating Correctness And Faithfulness Of Instruction-following Models F
   Question Answering
 authors: Vaibhav Adlakha, Parishad Behnamghader, Xing Han Lu, Nicholas Meade, Siva
   Reddy
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2023
-citations: 22
+citations: 23
 bibkey: adlakha2023evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.16877'}, {name: Code,
     url: 'https://github.com/McGill-NLP/instruct-qa'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Reinforcement Learning, Has Code]
+tags: [Has Code, Fine-Tuning, RAG, Reinforcement Learning, Training Techniques, Evaluation]
 ---
 Retriever-augmented instruction-following models are attractive alternatives
 to fine-tuned approaches for information-seeking tasks such as question

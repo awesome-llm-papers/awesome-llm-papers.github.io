@@ -3,13 +3,14 @@ layout: publication
 title: 'SPARTA: Efficient Open-domain Question Answering Via Sparse Transformer Matching
   Retrieval'
 authors: Tiancheng Zhao, Xiaopeng Lu, Kyusong Lee
-conference: Arxiv
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2020
 citations: 17
 bibkey: zhao2020efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.13013'}]
-tags: [Transformer, Reinforcement Learning, Interpretability and Explainability, Efficiency
-    and Optimization, Model Architecture]
+tags: [Model Architecture, Transformer, Interpretability and Explainability, Reinforcement
+    Learning, Efficiency and Optimization]
 ---
 We introduce SPARTA, a novel neural retrieval method that shows great promise
 in performance, generalization, and interpretability for open-domain question

@@ -7,7 +7,7 @@ year: 2023
 citations: 24
 bibkey: ren2023robots
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.01928'}]
-tags: [Efficiency and Optimization, Tools, Merging, Prompting]
+tags: [Tools, Prompting, Efficiency and Optimization, Merging]
 ---
 Large language models (LLMs) exhibit a wide range of promising capabilities
 -- from step-by-step planning to commonsense reasoning -- that may provide

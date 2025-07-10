@@ -3,13 +3,12 @@ layout: publication
 title: Supporting Human-ai Collaboration In Auditing Llms With Llms
 authors: Charvi Rastogi, Marco Tulio Ribeiro, Nicholas King, Harsha Nori, Saleema
   Amershi
-conference: In Proceedings of the 2023 AAAI and ACM Conference on AI Ethics and Society.
-  Association for Computing Machinery New York NY USA 913-926
+conference: 'AIES ''23: AAAI/ACM Conference on AI, Ethics, and Society'
 year: 2023
-citations: 35
+citations: 38
 bibkey: rastogi2023supporting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.09991'}]
-tags: [Ethics and Bias, GPT, RAG, Tools, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, RAG, Tools, Reinforcement Learning, GPT]
 ---
 Large language models are becoming increasingly pervasive and ubiquitous in
 society via deployment in sociotechnical systems. Yet these language models, be

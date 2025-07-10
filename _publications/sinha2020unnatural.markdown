@@ -2,13 +2,15 @@
 layout: publication
 title: Unnatural Language Inference
 authors: Koustuv Sinha, Prasanna Parthasarathi, Joelle Pineau, Adina Williams
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2020
 citations: 21
 bibkey: sinha2020unnatural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00010'}, {name: Code,
     url: 'https://github.com/facebookresearch/unlu'}]
-tags: [Has Code, Transformer, Model Architecture]
+tags: [Transformer, Has Code, Model Architecture, Evaluation]
 ---
 Recent investigations into the inner-workings of state-of-the-art large-scale
 pre-trained Transformer-based Natural Language Understanding (NLU) models

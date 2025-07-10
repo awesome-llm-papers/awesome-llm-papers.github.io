@@ -7,7 +7,7 @@ year: 2023
 citations: 23
 bibkey: li2023inference
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.03341'}]
-tags: [Reinforcement Learning, Attention Mechanism, Model Architecture]
+tags: [Reinforcement Learning, Model Architecture, Attention Mechanism, Evaluation]
 ---
 We introduce Inference-Time Intervention (ITI), a technique designed to
 enhance the "truthfulness" of large language models (LLMs). ITI operates by

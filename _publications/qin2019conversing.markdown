@@ -3,12 +3,13 @@ layout: publication
 title: 'Conversing By Reading: Contentful Neural Conversation With On-demand Machine
   Reading'
 authors: Lianhui Qin et al.
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 30
 bibkey: qin2019conversing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.02738'}]
-tags: [Reinforcement Learning]
+tags: [Reinforcement Learning, Evaluation]
 ---
 Although neural conversation models are effective in learning how to produce
 fluent responses, their primary challenge lies in knowing what to say to make

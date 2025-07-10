@@ -8,7 +8,8 @@ year: 2023
 citations: 15
 bibkey: zhou2023targeted
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.03279'}]
-tags: [Distillation, GPT, RAG, Efficiency and Optimization, Applications, Model Architecture]
+tags: [Model Architecture, Distillation, RAG, Applications, Efficiency and Optimization,
+  GPT, Evaluation]
 ---
 Large language models (LLMs) have demonstrated remarkable generalizability,
 such as understanding arbitrary entities and relations. Instruction tuning has

@@ -7,7 +7,7 @@ year: 2020
 citations: 85
 bibkey: petroni2020how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.04611'}]
-tags: [Reinforcement Learning, Model Architecture, BERT]
+tags: [Reinforcement Learning, BERT, Model Architecture]
 ---
 When pre-trained on large unsupervised textual corpora, language models are
 able to store and retrieve factual knowledge to some extent, making it possible

@@ -2,13 +2,14 @@
 layout: publication
 title: Coreferential Reasoning Learning For Language Representation
 authors: Deming Ye et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 68
+citations: 69
 bibkey: ye2020coreferential
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.06870'}, {name: Code,
     url: 'https://github.com/thunlp/CorefBERT'}]
-tags: [Training Techniques, Fine-Tuning, BERT, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Fine-Tuning, Training Techniques, BERT]
 ---
 Language representation models such as BERT could effectively capture
 contextual semantic information from plain text, and have been proved to

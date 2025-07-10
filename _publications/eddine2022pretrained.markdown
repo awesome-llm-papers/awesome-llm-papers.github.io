@@ -2,12 +2,13 @@
 layout: publication
 title: 'Arabart: A Pretrained Arabic Sequence-to-sequence Model For Abstractive Summarization'
 authors: Moussa Kamal Eddine, Nadi Tomeh, Nizar Habash, Joseph Le Roux, Michalis Vazirgiannis
-conference: Arxiv
+conference: Proceedings of the The Seventh Arabic Natural Language Processing Workshop
+  (WANLP)
 year: 2022
 citations: 16
 bibkey: eddine2022pretrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.10945'}]
-tags: [Transformer, Model Architecture, BERT]
+tags: [Transformer, BERT, Model Architecture]
 ---
 Like most natural language understanding and generation tasks,
 state-of-the-art models for summarization are transformer-based

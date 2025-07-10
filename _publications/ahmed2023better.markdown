@@ -2,12 +2,13 @@
 layout: publication
 title: Better Patching Using LLM Prompting, Via Self-consistency
 authors: Toufique Ahmed, Premkumar Devanbu
-conference: Arxiv
+conference: 2023 38th IEEE/ACM International Conference on Automated Software Engineering
+  (ASE)
 year: 2023
-citations: 15
+citations: 20
 bibkey: ahmed2023better
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.00108'}]
-tags: [Few-Shot, Interpretability and Explainability, Prompting]
+tags: [Interpretability and Explainability, Few-Shot, Prompting]
 ---
 Large Language models (LLMs) can be induced to solve non-trivial problems
 with "few-shot" prompts including illustrative problem-solution examples. Now

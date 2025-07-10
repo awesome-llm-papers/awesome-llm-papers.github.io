@@ -2,13 +2,14 @@
 layout: publication
 title: When BERT Plays The Lottery, All Tickets Are Winning
 authors: Sai Prasanna, Anna Rogers, Anna Rumshisky
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 43
 bibkey: prasanna2020when
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00561'}]
-tags: [Transformer, Reinforcement Learning, Attention Mechanism, BERT, Efficiency
-    and Optimization, Pruning, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Pruning, Reinforcement
+    Learning, Efficiency and Optimization, BERT]
 ---
 Large Transformer-based models were shown to be reducible to a smaller number
 of self-attention heads and layers. We consider this phenomenon from the

@@ -8,7 +8,7 @@ citations: 49
 bibkey: meng2022mass
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.07229'}, {name: Code,
     url: 'https://memit.baulab.info'}]
-tags: [Has Code, GPT, Transformer, Model Architecture]
+tags: [Transformer, GPT, Has Code, Model Architecture]
 ---
 Recent work has shown exciting promise in updating large language models with
 new memories, so as to replace obsolete information or add specialized

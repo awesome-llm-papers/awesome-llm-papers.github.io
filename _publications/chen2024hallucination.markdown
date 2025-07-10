@@ -3,12 +3,13 @@ layout: publication
 title: 'Hallucination Detection: Robustly Discerning Reliable Answers In Large Language
   Models'
 authors: Yuyan Chen et al.
-conference: Arxiv
+conference: 'CIKM ''23: The 32nd ACM International Conference on Information and Knowledge
+  Management'
 year: 2024
-citations: 42
+citations: 43
 bibkey: chen2024hallucination
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2407.04121'}]
-tags: [Uncategorized]
+tags: [Evaluation]
 ---
 Large Language Models (LLMs) have gained widespread adoption in various
 natural language processing tasks, including question answering and dialogue

@@ -3,12 +3,13 @@ layout: publication
 title: Why Are Sequence-to-sequence Models So Dull? Understanding The Low-diversity
   Problem Of Chatbots
 authors: Shaojie Jiang, Maarten De Rijke
-conference: Arxiv
+conference: 'Proceedings of the 2018 EMNLP Workshop SCAI: The 2nd International Workshop
+  on Search-Oriented Conversational AI'
 year: 2018
-citations: 16
+citations: 18
 bibkey: jiang2018why
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.01941'}]
-tags: [Uncategorized, Survey Paper]
+tags: [Survey Paper, Uncategorized]
 ---
 Diversity is a long-studied topic in information retrieval that usually
 refers to the requirement that retrieved results should be non-repetitive and

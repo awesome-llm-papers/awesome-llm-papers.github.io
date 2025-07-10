@@ -4,11 +4,11 @@ title: 'Palm: Scaling Language Modeling With Pathways'
 authors: Aakanksha Chowdhery et al.
 conference: Arxiv
 year: 2022
-citations: 1863
+citations: 1872
 bibkey: chowdhery2022scaling
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2204.02311v5'}]
-tags: [Ethics and Bias, Training Techniques, Transformer, RAG, Few-Shot, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Ethics and Bias, Transformer, Few-Shot,
+  RAG, Training Techniques, Evaluation]
 ---
 Large language models have been shown to achieve remarkable performance
 across a variety of natural language tasks using few-shot learning, which

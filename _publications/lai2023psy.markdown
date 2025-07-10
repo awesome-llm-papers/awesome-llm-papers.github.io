@@ -5,10 +5,10 @@ title: 'Psy-llm: Scaling Up Global Mental Health Psychological Services With Ai-
 authors: Tin Lai et al.
 conference: Arxiv
 year: 2023
-citations: 16
+citations: 17
 bibkey: lai2023psy
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.11991'}]
-tags: [RAG, Tools, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, RAG, Evaluation]
 ---
 The demand for psychological counselling has grown significantly in recent
 years, particularly with the global outbreak of COVID-19, which has heightened

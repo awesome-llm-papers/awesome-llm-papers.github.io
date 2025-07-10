@@ -4,12 +4,13 @@ title: 'VIMA: General Robot Manipulation With Multimodal Prompts'
 authors: Yunfan Jiang et al.
 conference: Arxiv
 year: 2022
-citations: 50
+citations: 51
 bibkey: jiang2022general
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.03094'}, {name: Code,
     url: 'https://vimalabs.github.io/'}]
-tags: [Training Techniques, Transformer, GPT, Reinforcement Learning, Agentic, Efficiency
-    and Optimization, Has Code, Prompting, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Transformer, Reinforcement Learning, Multimodal
+    Models, Prompting, Agentic, Efficiency and Optimization, Training Techniques,
+  Evaluation]
 ---
 Prompt-based learning has emerged as a successful paradigm in natural
 language processing, where a single general-purpose language model can be

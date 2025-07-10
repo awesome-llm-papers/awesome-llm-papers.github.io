@@ -2,13 +2,13 @@
 layout: publication
 title: 'Convert: Efficient And Accurate Conversational Representations From Transformers'
 authors: Matthew Henderson et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2019
 citations: 35
 bibkey: henderson2019efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03688'}]
-tags: [Training Techniques, Transformer, RAG, Tools, Reinforcement Learning, BERT,
-  Efficiency and Optimization, Applications, Model Architecture, Quantization]
+tags: [Model Architecture, Transformer, RAG, Applications, Quantization, Tools, Reinforcement
+    Learning, BERT, Efficiency and Optimization, Training Techniques]
 ---
 General-purpose pretrained sentence encoders such as BERT are not ideal for
 real-world conversational AI applications; they are computationally heavy,

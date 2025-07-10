@@ -8,7 +8,7 @@ year: 2021
 citations: 76
 bibkey: zeng2021pangu
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2104.12369v1'}]
-tags: [Few-Shot, Training Techniques, Model Architecture, GPT]
+tags: [Training Techniques, Few-Shot, Model Architecture, GPT]
 ---
 Large-scale Pretrained Language Models (PLMs) have become the new paradigm
 for Natural Language Processing (NLP). PLMs with hundreds of billions

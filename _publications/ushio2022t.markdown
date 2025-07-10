@@ -2,12 +2,13 @@
 layout: publication
 title: 'T-NER: An All-round Python Library For Transformer-based Named Entity Recognition'
 authors: Asahi Ushio, Jose Camacho-collados
-conference: Arxiv
+conference: 'Proceedings of the 16th Conference of the European Chapter of the Association
+  for Computational Linguistics: System Demonstrations'
 year: 2022
 citations: 23
 bibkey: ushio2022t
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.12616'}]
-tags: [Tools, Transformer, Model Architecture, Training Techniques]
+tags: [Model Architecture, Transformer, Tools, Training Techniques, Evaluation]
 ---
 Language model (LM) pretraining has led to consistent improvements in many
 NLP downstream tasks, including named entity recognition (NER). In this paper,

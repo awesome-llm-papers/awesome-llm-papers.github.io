@@ -2,13 +2,14 @@
 layout: publication
 title: On Generative Agents In Recommendation
 authors: An Zhang, Yuxin Chen, Leheng Sheng, Xiang Wang, Tat-seng Chua
-conference: Arxiv
+conference: 'SIGIR 2024: The 47th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2023
-citations: 27
+citations: 28
 bibkey: zhang2023generative
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2310.10108v2'}, {name: Code,
     url: 'https://github.com/LehengTHU/Agent4Rec'}]
-tags: [RAG, RecSys, Agentic, Tools, Reinforcement Learning, Has Code]
+tags: [Has Code, RAG, RecSys, Tools, Reinforcement Learning, Agentic, Evaluation]
 ---
 Recommender systems are the cornerstone of today's information dissemination,
 yet a disconnect between offline metrics and online performance greatly hinders

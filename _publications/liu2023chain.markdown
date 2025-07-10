@@ -7,7 +7,7 @@ year: 2023
 citations: 22
 bibkey: liu2023chain
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.02676'}]
-tags: [Efficiency and Optimization, Reinforcement Learning, Agentic]
+tags: [Agentic, Reinforcement Learning, Efficiency and Optimization, Evaluation]
 ---
 Learning from human preferences is important for language models to match
 human needs and to align with human and social values. Prior works have

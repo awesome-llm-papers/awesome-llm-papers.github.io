@@ -3,12 +3,13 @@ layout: publication
 title: 'Indonlg: Benchmark And Resources For Evaluating Indonesian Natural Language
   Generation'
 authors: Samuel Cahyawijaya et al.
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 31
+citations: 32
 bibkey: cahyawijaya2021benchmark
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08200'}]
-tags: [Training Techniques, Model Architecture, GPT]
+tags: [Training Techniques, Model Architecture, Evaluation, GPT]
 ---
 Natural language generation (NLG) benchmarks provide an important avenue to
 measure progress and develop better NLG systems. Unfortunately, the lack of

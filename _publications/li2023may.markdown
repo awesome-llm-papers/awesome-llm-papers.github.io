@@ -7,8 +7,8 @@ year: 2023
 citations: 146
 bibkey: li2023may
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.06161'}]
-tags: [Ethics and Bias, Tools, Responsible AI, Attention Mechanism, Reinforcement
-    Learning, Prompting, Model Architecture]
+tags: [Responsible AI, Model Architecture, Attention Mechanism, Ethics and Bias, Tools,
+  Reinforcement Learning, Prompting, Evaluation]
 ---
 The BigCode community, an open-scientific collaboration working on the
 responsible development of Large Language Models for Code (Code LLMs),

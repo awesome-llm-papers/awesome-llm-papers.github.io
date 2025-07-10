@@ -3,12 +3,12 @@ layout: publication
 title: Art Or Artifice? Large Language Models And The False Promise Of Creativity
 authors: Tuhin Chakrabarty, Philippe Laban, Divyansh Agarwal, Smaranda Muresan, Chien-sheng
   Wu
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 31
+citations: 35
 bibkey: chakrabarty2023art
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.14556'}]
-tags: [Uncategorized]
+tags: [Evaluation]
 ---
 Researchers have argued that large language models (LLMs) exhibit
 high-quality writing capabilities from blogs to stories. However, evaluating

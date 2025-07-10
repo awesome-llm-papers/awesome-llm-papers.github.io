@@ -7,7 +7,7 @@ year: 2022
 citations: 17
 bibkey: dai2022dialog
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.09073'}]
-tags: [Training Techniques]
+tags: [Training Techniques, Evaluation]
 ---
 Many important questions (e.g. "How to eat healthier?") require conversation
 to establish context and explore in depth. However, conversational question

@@ -3,12 +3,12 @@ layout: publication
 title: Model Tuning Or Prompt Tuning? A Study Of Large Language Models For Clinical
   Concept And Relation Extraction
 authors: Cheng Peng et al.
-conference: Journal of Biomedical Informatics. Volume 153 May 2024 104630
+conference: Journal of Biomedical Informatics
 year: 2023
-citations: 22
+citations: 24
 bibkey: peng2023model
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.06239'}]
-tags: [Training Techniques, Few-Shot, Fine-Tuning, Applications, Prompting]
+tags: [Fine-Tuning, Few-Shot, Applications, Prompting, Training Techniques, Evaluation]
 ---
 Objective To develop soft prompt-based learning algorithms for large language
 models (LLMs), examine the shape of prompts, prompt-tuning using

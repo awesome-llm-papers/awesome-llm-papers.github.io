@@ -2,14 +2,14 @@
 layout: publication
 title: A Survey On Large Language Models For Recommendation
 authors: Likang Wu et al.
-conference: Arxiv
+conference: World Wide Web
 year: 2023
-citations: 81
+citations: 87
 bibkey: wu2023survey
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.19860v5'}, {name: Code,
     url: 'https://github.com/WLiK/LLM4Rec'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Attention Mechanism, Tools, Has Code,
-  Survey Paper, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Fine-Tuning, RAG, Survey
+    Paper, Tools, Prompting, Training Techniques]
 ---
 Large Language Models (LLMs) have emerged as powerful tools in the field of
 Natural Language Processing (NLP) and have recently gained significant

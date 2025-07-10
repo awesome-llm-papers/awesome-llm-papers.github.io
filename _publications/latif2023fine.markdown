@@ -2,12 +2,12 @@
 layout: publication
 title: Fine-tuning Chatgpt For Automatic Scoring
 authors: Ehsan Latif, Xiaoming Zhai
-conference: Arxiv
+conference: 'Computers and Education: Artificial Intelligence'
 year: 2023
-citations: 47
+citations: 54
 bibkey: latif2023fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.10072'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Training Techniques, BERT]
 ---
 This study highlights the potential of fine-tuned ChatGPT (GPT-3.5) for
 automatically scoring student written constructed responses using example

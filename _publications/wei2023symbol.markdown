@@ -2,12 +2,13 @@
 layout: publication
 title: Symbol Tuning Improves In-context Learning In Language Models
 authors: Jerry Wei et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 15
+citations: 16
 bibkey: wei2023symbol
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.08298v2'}]
-tags: [RAG, In-Context Learning, Prompting]
+tags: [In-Context Learning, RAG, Prompting, Evaluation]
 ---
 We present symbol tuning - finetuning language models on in-context
 input-label pairs where natural language labels (e.g., "positive/negative

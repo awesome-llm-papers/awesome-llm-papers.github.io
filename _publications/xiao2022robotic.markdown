@@ -3,12 +3,12 @@ layout: publication
 title: Robotic Skill Acquisition Via Instruction Augmentation With Vision-language
   Models
 authors: Ted Xiao et al.
-conference: Arxiv
+conference: 'Robotics: Science and Systems 2023'
 year: 2022
 citations: 16
 bibkey: xiao2022robotic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.11736'}]
-tags: [RAG, Reinforcement Learning, Training Techniques, Multimodal Models]
+tags: [Reinforcement Learning, Training Techniques, Multimodal Models, RAG]
 ---
 In recent years, much progress has been made in learning robotic manipulation
 policies that follow natural language instructions. Such methods typically

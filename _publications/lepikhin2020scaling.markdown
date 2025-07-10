@@ -7,8 +7,8 @@ year: 2020
 citations: 290
 bibkey: lepikhin2020scaling
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2006.16668v1'}]
-tags: [Training Techniques, Transformer, Tools, Reinforcement Learning, Applications,
-  Model Architecture]
+tags: [Model Architecture, Transformer, Applications, Tools, Reinforcement Learning,
+  Training Techniques]
 ---
 Neural network scaling has been critical for improving the model quality in
 many real-world machine learning applications with vast amounts of training

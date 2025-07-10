@@ -2,12 +2,13 @@
 layout: publication
 title: A Recipe For Arbitrary Text Style Transfer With Large Language Models
 authors: Emily Reif et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 2: Short Papers)'
 year: 2021
-citations: 27
+citations: 28
 bibkey: reif2021recipe
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.03910'}]
-tags: [RAG, Fine-Tuning, Training Techniques, Prompting]
+tags: [Training Techniques, Fine-Tuning, Prompting, RAG]
 ---
 In this paper, we leverage large language models (LMs) to perform zero-shot
 text style transfer. We present a prompting method that we call augmented

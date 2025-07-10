@@ -7,8 +7,8 @@ year: 2022
 citations: 24
 bibkey: yu2022legal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.01326'}]
-tags: [Training Techniques, Few-Shot, Fine-Tuning, Interpretability and Explainability,
-  In-Context Learning, Prompting]
+tags: [Fine-Tuning, Few-Shot, Interpretability and Explainability, In-Context Learning,
+  Prompting, Training Techniques]
 ---
 Large language models that are capable of zero or few-shot prompting
 approaches have given rise to the new research area of prompt engineering.

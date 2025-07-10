@@ -3,12 +3,12 @@ layout: publication
 title: 'Bioinstruct: Instruction Tuning Of Large Language Models For Biomedical Natural
   Language Processing'
 authors: Hieu Tran, Zhichao Yang, Zonghai Yao, Hong Yu
-conference: Arxiv
+conference: Journal of the American Medical Informatics Association
 year: 2023
-citations: 15
+citations: 17
 bibkey: tran2023instruction
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.19975'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Applications, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Applications, Prompting, Training Techniques]
 ---
 To enhance the performance of large language models (LLMs) in biomedical
 natural language processing (BioNLP) by introducing a domain-specific

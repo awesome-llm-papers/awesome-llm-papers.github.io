@@ -2,13 +2,13 @@
 layout: publication
 title: 'Honeybee: Locality-enhanced Projector For Multimodal LLM'
 authors: Junbum Cha, Wooyoung Kang, Jonghwan Mun, Byungseok Roh
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 15
+citations: 16
 bibkey: cha2023locality
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.06742'}, {name: Code,
     url: 'https://github.com/kakaobrain/honeybee'}]
-tags: [Efficiency and Optimization, Has Code, Multimodal Models]
+tags: [Efficiency and Optimization, Has Code, Multimodal Models, Evaluation]
 ---
 In Multimodal Large Language Models (MLLMs), a visual projector plays a
 crucial role in bridging pre-trained vision encoders with LLMs, enabling

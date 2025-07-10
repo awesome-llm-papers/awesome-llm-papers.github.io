@@ -4,10 +4,10 @@ title: Improving Factuality And Reasoning In Language Models Through Multiagent 
 authors: Yilun Du, Shuang Li, Antonio Torralba, Joshua B. Tenenbaum, Igor Mordatch
 conference: Arxiv
 year: 2023
-citations: 52
+citations: 53
 bibkey: du2023improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14325'}]
-tags: [Few-Shot, Tools, Agentic, Prompting]
+tags: [Agentic, Tools, Few-Shot, Prompting]
 ---
 Large language models (LLMs) have demonstrated remarkable capabilities in
 language generation, understanding, and few-shot learning in recent years. An

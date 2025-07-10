@@ -2,13 +2,13 @@
 layout: publication
 title: 'The Rise And Potential Of Large Language Model Based Agents: A Survey'
 authors: Zhiheng Xi et al.
-conference: Arxiv
+conference: Science China Information Sciences
 year: 2023
-citations: 42
+citations: 55
 bibkey: xi2023rise
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2309.07864v3'}, {name: Code,
     url: 'https://github.com/WooooDyy/LLM-Agent-Paper-List'}]
-tags: [Training Techniques, RAG, Tools, Agentic, Has Code, Applications, Survey Paper]
+tags: [Has Code, RAG, Applications, Survey Paper, Tools, Agentic, Training Techniques]
 ---
 For a long time, humanity has pursued artificial intelligence (AI) equivalent
 to or surpassing the human level, with AI agents considered a promising vehicle

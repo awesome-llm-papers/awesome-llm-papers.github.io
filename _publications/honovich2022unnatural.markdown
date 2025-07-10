@@ -2,12 +2,13 @@
 layout: publication
 title: 'Unnatural Instructions: Tuning Language Models With (almost) No Human Labor'
 authors: Or Honovich, Thomas Scialom, Omer Levy, Timo Schick
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
 citations: 29
 bibkey: honovich2022unnatural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09689'}]
-tags: [Training Techniques, Prompting]
+tags: [Training Techniques, Prompting, Evaluation]
 ---
 Instruction tuning enables pretrained language models to perform new tasks
 from inference-time natural language descriptions. These approaches rely on

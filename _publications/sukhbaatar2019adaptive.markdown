@@ -2,12 +2,13 @@
 layout: publication
 title: Adaptive Attention Span In Transformers
 authors: Sainbayar Sukhbaatar, Edouard Grave, Piotr Bojanowski, Armand Joulin
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
-citations: 87
+citations: 88
 bibkey: sukhbaatar2019adaptive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.07799'}]
-tags: [Language Modeling, Attention Mechanism, Transformer, Model Architecture]
+tags: [Transformer, Language Modeling, Model Architecture, Attention Mechanism]
 ---
 We propose a novel self-attention mechanism that can learn its optimal
 attention span. This allows us to extend significantly the maximum context size

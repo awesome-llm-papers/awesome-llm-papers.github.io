@@ -3,14 +3,14 @@ layout: publication
 title: 'Sur-adapter: Enhancing Text-to-image Pre-trained Diffusion Models With Large
   Language Models'
 authors: Shanshan Zhong, Zhongzhan Huang, Wushao Wen, Jinghui Qin, Liang Lin
-conference: Arxiv
+conference: 'MM ''23: The 31st ACM International Conference on Multimedia'
 year: 2023
 citations: 25
 bibkey: zhong2023sur
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.05189'}, {name: Code,
     url: 'https://github.com/Qrange-group/SUR-adapter'}]
-tags: [Distillation, Training Techniques, Merging, Fine-Tuning, Efficiency and Optimization,
-  Has Code, Prompting]
+tags: [Has Code, Distillation, Fine-Tuning, Prompting, Efficiency and Optimization,
+  Training Techniques, Merging]
 ---
 Diffusion models, which have emerged to become popular text-to-image
 generation models, can produce high-quality and content-rich images guided by

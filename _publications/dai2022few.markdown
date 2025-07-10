@@ -7,8 +7,8 @@ year: 2022
 citations: 42
 bibkey: dai2022few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.11755'}]
-tags: [Training Techniques, RAG, Few-Shot, Reinforcement Learning, BERT, Prompting,
-  Model Architecture]
+tags: [Model Architecture, Few-Shot, RAG, Reinforcement Learning, Prompting, BERT,
+  Training Techniques]
 ---
 Much recent research on information retrieval has focused on how to transfer
 from one task (typically with abundant supervised data) to various other tasks

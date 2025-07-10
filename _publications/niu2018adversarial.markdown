@@ -2,12 +2,12 @@
 layout: publication
 title: Adversarial Over-sensitivity And Over-stability Strategies For Dialogue Models
 authors: Tong Niu, Mohit Bansal
-conference: Arxiv
+conference: Proceedings of the 22nd Conference on Computational Natural Language Learning
 year: 2018
 citations: 23
 bibkey: niu2018adversarial
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.02079'}]
-tags: [Training Techniques, Security]
+tags: [Training Techniques, Security, Evaluation]
 ---
 We present two categories of model-agnostic adversarial strategies that
 reveal the weaknesses of several generative, task-oriented dialogue models:

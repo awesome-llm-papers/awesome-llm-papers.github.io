@@ -7,7 +7,7 @@ year: 2016
 citations: 324
 bibkey: bahdanau2016actor
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1607.07086'}]
-tags: [Training Techniques, RAG, Reinforcement Learning, Agentic, Language Modeling]
+tags: [Language Modeling, RAG, Reinforcement Learning, Agentic, Training Techniques]
 ---
 We present an approach to training neural networks to generate sequences
 using actor-critic methods from reinforcement learning (RL). Current

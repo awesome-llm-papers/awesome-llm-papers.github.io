@@ -2,14 +2,14 @@
 layout: publication
 title: Prompt-aligned Gradient For Prompt Tuning
 authors: Beier Zhu, Yulei Niu, Yucheng Han, Yue Wu, Hanwang Zhang
-conference: Arxiv
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
 year: 2022
-citations: 100
+citations: 104
 bibkey: zhu2022prompt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.14865'}, {name: Code,
     url: 'https://github.com/BeierZhu/Prompt-align'}]
-tags: [Training Techniques, Fine-Tuning, Few-Shot, Reinforcement Learning, Has Code,
-  Prompting, Multimodal Models]
+tags: [Has Code, Fine-Tuning, Few-Shot, Reinforcement Learning, Multimodal Models,
+  Prompting, Training Techniques]
 ---
 Thanks to the large pre-trained vision-language models (VLMs) like CLIP, we
 can craft a zero-shot classifier by "prompt", e.g., the confidence score of an

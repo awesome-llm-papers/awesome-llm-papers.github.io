@@ -3,14 +3,16 @@ layout: publication
 title: 'UNIMO: Towards Unified-modal Understanding And Generation Via Cross-modal
   Contrastive Learning'
 authors: Wei Li et al.
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2020
-citations: 134
+citations: 135
 bibkey: li2020towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.15409'}, {name: Code,
     url: 'https://unimo-ptm.github.io/'}]
-tags: [Training Techniques, RAG, Pre-Training, Has Code, Multimodal Models, Model
-    Architecture]
+tags: [Has Code, Model Architecture, RAG, Multimodal Models, Pre-Training, Training
+    Techniques]
 ---
 Existed pre-training methods either focus on single-modal tasks or
 multi-modal tasks, and cannot effectively adapt to each other. They can only

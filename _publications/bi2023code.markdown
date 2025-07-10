@@ -2,13 +2,13 @@
 layout: publication
 title: 'Codekgc: Code Language Model For Generative Knowledge Graph Construction'
 authors: Zhen Bi et al.
-conference: Arxiv
+conference: ACM Transactions on Asian and Low-Resource Language Information Processing
 year: 2023
-citations: 22
+citations: 24
 bibkey: bi2023code
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.09048'}, {name: Code,
     url: 'https://github.com/zjunlp/DeepKE/tree/main/example/llm'}]
-tags: [Has Code, Prompting]
+tags: [Has Code, Prompting, Evaluation]
 ---
 Current generative knowledge graph construction approaches usually fail to
 capture structural knowledge by simply flattening natural language into

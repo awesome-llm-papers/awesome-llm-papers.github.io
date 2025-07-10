@@ -2,13 +2,13 @@
 layout: publication
 title: 'TAP: Text-aware Pre-training For Text-vqa And Text-caption'
 authors: Zhengyuan Yang et al.
-conference: Arxiv
+conference: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2020
-citations: 81
+citations: 82
 bibkey: yang2020text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.04638'}]
-tags: [Masked Language Model, Training Techniques, Pre-Training, BERT, Multimodal
-    Models, Language Modeling]
+tags: [Language Modeling, Masked Language Model, Multimodal Models, Pre-Training,
+  Training Techniques, BERT]
 ---
 In this paper, we propose Text-Aware Pre-training (TAP) for Text-VQA and
 Text-Caption tasks. These two tasks aim at reading and understanding scene text

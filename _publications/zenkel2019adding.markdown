@@ -7,7 +7,7 @@ year: 2019
 citations: 85
 bibkey: zenkel2019adding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1901.11359'}]
-tags: [Attention Mechanism, Transformer, Model Architecture, Training Techniques]
+tags: [Transformer, Training Techniques, Model Architecture, Attention Mechanism]
 ---
 Multi-layer models with multiple attention heads per layer provide superior
 translation quality compared to simpler and shallower models, but determining

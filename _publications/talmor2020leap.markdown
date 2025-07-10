@@ -8,7 +8,7 @@ year: 2020
 citations: 50
 bibkey: talmor2020leap
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.06609'}]
-tags: [Reinforcement Learning, Transformer, Model Architecture, Training Techniques]
+tags: [Transformer, Reinforcement Learning, Training Techniques, Model Architecture]
 ---
 To what extent can a neural network systematically reason over symbolic
 facts? Evidence suggests that large pre-trained language models (LMs) acquire

@@ -7,7 +7,7 @@ year: 2020
 citations: 191
 bibkey: tay2020rethinking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00743'}]
-tags: [Language Modeling, Attention Mechanism, Transformer, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Evaluation]
 ---
 The dot product self-attention is known to be central and indispensable to
 state-of-the-art Transformer models. But is it really required? This paper

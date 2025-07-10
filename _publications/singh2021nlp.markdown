@@ -2,13 +2,14 @@
 layout: publication
 title: 'The NLP Cookbook: Modern Recipes For Transformer Based Deep Learning Architectures'
 authors: Sushant Singh, Ausif Mahmood
-conference: IEEE Access (Volume 9) 2021
+conference: IEEE Access
 year: 2021
-citations: 101
+citations: 103
 bibkey: singh2021nlp
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.10640'}]
-tags: [Distillation, Transformer, GPT, Fine-Tuning, Reinforcement Learning, Attention
-    Mechanism, BERT, Efficiency and Optimization, Pruning, Model Architecture, Quantization]
+tags: [Model Architecture, Attention Mechanism, Distillation, Transformer, Pruning,
+  GPT, Fine-Tuning, Quantization, Reinforcement Learning, Efficiency and Optimization,
+  BERT, Evaluation]
 ---
 In recent years, Natural Language Processing (NLP) models have achieved
 phenomenal success in linguistic and semantic tasks like text classification,

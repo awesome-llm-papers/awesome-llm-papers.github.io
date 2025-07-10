@@ -8,7 +8,7 @@ year: 2021
 citations: 22
 bibkey: santhanam2021rome
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.05456'}]
-tags: [RAG, Transformer, Model Architecture]
+tags: [Transformer, RAG, Model Architecture, Evaluation]
 ---
 Recently neural response generation models have leveraged large pre-trained
 transformer models and knowledge snippets to generate relevant and informative

@@ -2,13 +2,13 @@
 layout: publication
 title: A Recurrent Vision-and-language BERT For Navigation
 authors: Yicong Hong, Qi Wu, Yuankai Qi, Cristian Rodriguez-opazo, Stephen Gould
-conference: Arxiv
+conference: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2020
-citations: 134
+citations: 135
 bibkey: hong2020recurrent
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.13922'}]
-tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, Reinforcement
-    Learning, BERT, Agentic, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, BERT, Reinforcement Learning,
+  Multimodal Models, Pre-Training, Agentic, Training Techniques]
 ---
 Accuracy of many visiolinguistic tasks has benefited significantly from the
 application of vision-and-language(V&L) BERT. However, its application for the

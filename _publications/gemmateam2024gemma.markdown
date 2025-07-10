@@ -4,11 +4,11 @@ title: 'Gemma 2: Improving Open Language Models At A Practical Size'
 authors: Gemma Team et al.
 conference: Arxiv
 year: 2024
-citations: 34
+citations: 35
 bibkey: gemmateam2024gemma
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2408.00118'}]
-tags: [Distillation, Transformer, Attention Mechanism, Reinforcement Learning, Efficiency
-    and Optimization, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Distillation, Transformer, Reinforcement
+    Learning, Efficiency and Optimization]
 ---
 In this work, we introduce Gemma 2, a new addition to the Gemma family of
 lightweight, state-of-the-art open models, ranging in scale from 2 billion to

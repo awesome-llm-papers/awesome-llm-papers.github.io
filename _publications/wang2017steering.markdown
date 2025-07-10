@@ -2,12 +2,13 @@
 layout: publication
 title: Steering Output Style And Topic In Neural Response Generation
 authors: Di Wang, Nebojsa Jojic, Chris Brockett, Eric Nyberg
-conference: Arxiv
+conference: Proceedings of the 2017 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2017
 citations: 18
 bibkey: wang2017steering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1709.03010'}]
-tags: [Ethics and Bias, Applications, Agentic, Training Techniques]
+tags: [Ethics and Bias, Applications, Agentic, Training Techniques, Evaluation]
 ---
 We propose simple and flexible training and decoding methods for influencing
 output style and topic in neural encoder-decoder based language generation.

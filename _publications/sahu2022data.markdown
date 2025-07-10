@@ -3,12 +3,12 @@ layout: publication
 title: Data Augmentation For Intent Classification With Off-the-shelf Large Language
   Models
 authors: Gaurav Sahu et al.
-conference: Arxiv
+conference: Proceedings of the 4th Workshop on NLP for Conversational AI
 year: 2022
 citations: 28
 bibkey: sahu2022data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.01959'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Few-Shot, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Few-Shot, Prompting, Training Techniques]
 ---
 Data augmentation is a widely employed technique to alleviate the problem of
 data scarcity. In this work, we propose a prompting-based approach to generate

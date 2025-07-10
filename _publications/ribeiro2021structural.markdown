@@ -2,9 +2,10 @@
 layout: publication
 title: Structural Adapters In Pretrained Language Models For Amr-to-text Generation
 authors: Leonardo F. R. Ribeiro, Yue Zhang, Iryna Gurevych
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 17
+citations: 18
 bibkey: ribeiro2021structural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.09120'}]
 tags: [Language Modeling, Training Techniques]

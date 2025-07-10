@@ -2,13 +2,13 @@
 layout: publication
 title: 'Large Language Models In Healthcare And Medical Domain: A Review'
 authors: Zabir Al Nazi, Wei Peng
-conference: Arxiv
+conference: Informatics
 year: 2023
-citations: 93
+citations: 103
 bibkey: nazi2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.06775'}]
-tags: [Fine-Tuning, Reinforcement Learning, Efficiency and Optimization, Applications,
-  Survey Paper]
+tags: [Fine-Tuning, Applications, Survey Paper, Reinforcement Learning, Efficiency
+    and Optimization, Evaluation]
 ---
 The deployment of large language models (LLMs) within the healthcare sector
 has sparked both enthusiasm and apprehension. These models exhibit the

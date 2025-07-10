@@ -3,10 +3,9 @@ layout: publication
 title: Exploring The Psychology Of Llms' Moral And Legal Reasoning
 authors: "Guilherme F. C. F. Almeida, Jos\xE9 Luiz Nunes, Neele Engelmann, Alex Wiegmann,\
   \ Marcelo De Ara\xFAjo"
-conference: Exploring the psychology of LLMs moral and legal reasoning. Artificial
-  Intelligence Volume 224 2024
+conference: Artificial Intelligence
 year: 2023
-citations: 16
+citations: 22
 bibkey: almeida2023exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.01264'}]
 tags: [GPT, Model Architecture]

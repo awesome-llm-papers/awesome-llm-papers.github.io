@@ -7,8 +7,8 @@ year: 2021
 citations: 48
 bibkey: ma2021linear
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.01540'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, Reinforcement Learning,
-  Efficiency and Optimization, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Reinforcement Learning,
+  Efficiency and Optimization, Training Techniques, Time Series, Evaluation]
 ---
 The quadratic computational and memory complexities of the Transformer's
 attention mechanism have limited its scalability for modeling long sequences.

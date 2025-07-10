@@ -2,13 +2,14 @@
 layout: publication
 title: 'Adapterdrop: On The Efficiency Of Adapters In Transformers'
 authors: "Andreas R\xFCckl\xE9 et al."
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2020
-citations: 45
+citations: 48
 bibkey: "r\xFCckl\xE92020efficiency"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.11918'}]
-tags: [Training Techniques, Transformer, Merging, RAG, Efficiency and Optimization,
-  Model Architecture]
+tags: [Model Architecture, Transformer, RAG, Efficiency and Optimization, Training
+    Techniques, Merging]
 ---
 Massively pre-trained transformer models are computationally expensive to
 fine-tune, slow for inference, and have large storage requirements. Recent

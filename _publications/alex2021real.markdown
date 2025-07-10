@@ -7,7 +7,7 @@ year: 2021
 citations: 28
 bibkey: alex2021real
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.14076'}]
-tags: [GPT, RAG, Few-Shot, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, Few-Shot, RAG, Reinforcement Learning, GPT, Evaluation]
 ---
 Large pre-trained language models have shown promise for few-shot learning,
 completing text-based tasks given only a few task-specific examples. Will

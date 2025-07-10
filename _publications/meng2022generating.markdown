@@ -8,8 +8,8 @@ year: 2022
 citations: 72
 bibkey: meng2022generating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.04538'}]
-tags: [Training Techniques, GPT, Few-Shot, Fine-Tuning, BERT, Prompting, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Fine-Tuning, Few-Shot, Prompting,
+  Training Techniques, BERT, Evaluation]
 ---
 Pretrained language models (PLMs) have demonstrated remarkable performance in
 various natural language processing tasks: Unidirectional PLMs (e.g., GPT) are

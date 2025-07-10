@@ -3,13 +3,13 @@ layout: publication
 title: Can Chatgpt Replace Traditional KBQA Models? An In-depth Analysis Of The Question
   Answering Performance Of The GPT LLM Family
 authors: Yiming Tan et al.
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2023
-citations: 43
+citations: 51
 bibkey: tan2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.07992'}, {name: Code,
     url: 'https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-GPT-family.git'}]
-tags: [GPT, Reinforcement Learning, Tools, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Tools, Reinforcement Learning, GPT, Evaluation]
 ---
 ChatGPT is a powerful large language model (LLM) that covers knowledge
 resources such as Wikipedia and supports natural language question answering

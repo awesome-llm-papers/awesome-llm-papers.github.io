@@ -2,13 +2,13 @@
 layout: publication
 title: Personalized Prompt Learning For Explainable Recommendation
 authors: Lei Li, Yongfeng Zhang, Li Chen
-conference: Arxiv
+conference: ACM Transactions on Information Systems
 year: 2022
-citations: 75
+citations: 78
 bibkey: li2022personalized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.07371'}]
-tags: [Training Techniques, Transformer, RecSys, Interpretability and Explainability,
-  Prompting, Model Architecture]
+tags: [Model Architecture, Transformer, RecSys, Interpretability and Explainability,
+  Prompting, Training Techniques]
 ---
 Providing user-understandable explanations to justify recommendations could
 help users better understand the recommended items, increase the system's ease

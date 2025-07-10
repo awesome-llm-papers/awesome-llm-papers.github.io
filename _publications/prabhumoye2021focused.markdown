@@ -2,12 +2,13 @@
 layout: publication
 title: Focused Attention Improves Document-grounded Generation
 authors: Shrimai Prabhumoye, Kazuma Hashimoto, Yingbo Zhou, Alan W Black, Ruslan Salakhutdinov
-conference: Arxiv
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
 citations: 18
 bibkey: prabhumoye2021focused
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.12714'}]
-tags: [Language Modeling, Attention Mechanism, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Evaluation]
 ---
 Document grounded generation is the task of using the information provided in
 a document to improve text generation. This work focuses on two different

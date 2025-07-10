@@ -8,8 +8,8 @@ year: 2023
 citations: 28
 bibkey: omar2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.06466'}]
-tags: [GPT, Training Techniques, Merging, Reinforcement Learning, Tools, Survey Paper,
-  Model Architecture]
+tags: [Model Architecture, GPT, Survey Paper, Tools, Reinforcement Learning, Training
+    Techniques, Evaluation, Merging]
 ---
 Conversational AI and Question-Answering systems (QASs) for knowledge graphs
 (KGs) are both emerging research areas: they empower users with natural

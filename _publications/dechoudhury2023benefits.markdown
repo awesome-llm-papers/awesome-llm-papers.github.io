@@ -2,7 +2,7 @@
 layout: publication
 title: Benefits And Harms Of Large Language Models In Digital Mental Health
 authors: Munmun De Choudhury, Sachin R. Pendse, Neha Kumar
-conference: Arxiv
+conference: Center for Open Science
 year: 2023
 citations: 21
 bibkey: dechoudhury2023benefits

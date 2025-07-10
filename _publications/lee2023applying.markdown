@@ -2,13 +2,13 @@
 layout: publication
 title: Applying Large Language Models And Chain-of-thought For Automatic Scoring
 authors: Gyeong-geon Lee, Ehsan Latif, Xuansheng Wu, Ninghao Liu, Xiaoming Zhai
-conference: Arxiv
+conference: 'Computers and Education: Artificial Intelligence'
 year: 2023
-citations: 42
+citations: 45
 bibkey: lee2023applying
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.03748'}]
-tags: [GPT, Few-Shot, Tools, Interpretability and Explainability, Reinforcement Learning,
-  Prompting, Model Architecture]
+tags: [Model Architecture, Few-Shot, Interpretability and Explainability, Tools, Reinforcement
+    Learning, Prompting, GPT]
 ---
 This study investigates the application of large language models (LLMs),
 specifically GPT-3.5 and GPT-4, with Chain-of-Though (CoT) in the automatic

@@ -3,13 +3,14 @@ layout: publication
 title: Incorporating External Knowledge Through Pre-training For Natural Language
   To Code Generation
 authors: Frank F. Xu, Zhengbao Jiang, Pengcheng Yin, Bogdan Vasilescu, Graham Neubig
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
 citations: 24
 bibkey: xu2020incorporating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.09015'}, {name: Code,
     url: 'https://github.com/neulab/external-knowledge-codegen'}]
-tags: [Pre-Training, Tools, Training Techniques, Has Code]
+tags: [Has Code, Tools, Pre-Training, Training Techniques, Evaluation]
 ---
 Open-domain code generation aims to generate code in a general-purpose
 programming language (such as Python) from natural language (NL) intents.

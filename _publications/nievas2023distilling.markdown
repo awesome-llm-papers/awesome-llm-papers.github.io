@@ -2,13 +2,13 @@
 layout: publication
 title: Distilling Large Language Models For Matching Patients To Clinical Trials
 authors: Mauro Nievas, Aditya Basu, Yanshan Wang, Hrituraj Singh
-conference: Arxiv
+conference: Journal of the American Medical Informatics Association
 year: 2023
 citations: 33
 bibkey: nievas2023distilling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.09958'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, Tools, Applications,
-  Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Applications, Tools, Reinforcement Learning,
+  Training Techniques, Evaluation]
 ---
 The recent success of large language models (LLMs) has paved the way for
 their adoption in the high-stakes domain of healthcare. Specifically, the

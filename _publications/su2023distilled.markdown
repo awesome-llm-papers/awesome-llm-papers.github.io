@@ -2,12 +2,13 @@
 layout: publication
 title: Distilled GPT For Source Code Summarization
 authors: Chia-yi Su, Collin Mcmillan
-conference: Arxiv
+conference: Automated Software Engineering
 year: 2023
-citations: 16
+citations: 21
 bibkey: su2023distilled
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.14731'}]
-tags: [Distillation, GPT, Tools, Efficiency and Optimization, Model Architecture]
+tags: [Model Architecture, Distillation, Tools, Efficiency and Optimization, GPT,
+  Evaluation]
 ---
 A code summary is a brief natural language description of source code.
 Summaries are usually only a single sentence long, and yet form the backbone of

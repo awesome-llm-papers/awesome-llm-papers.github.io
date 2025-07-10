@@ -3,12 +3,13 @@ layout: publication
 title: BERT, Mbert, Or Bibert? A Study On Contextualized Embeddings For Neural Machine
   Translation
 authors: Haoran Xu, Benjamin Van Durme, Kenton Murray
-conference: EMNLP 2021
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 28
+citations: 29
 bibkey: xu2021study
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.04588'}]
-tags: [Masked Language Model, BERT, SLT, Prompting, WMT, Model Architecture]
+tags: [Model Architecture, WMT, Masked Language Model, SLT, Prompting, BERT]
 ---
 The success of bidirectional encoders using masked language models, such as
 BERT, on numerous natural language processing tasks has prompted researchers to

@@ -8,7 +8,7 @@ year: 2019
 citations: 52
 bibkey: sukhbaatar2019augmenting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.01470'}]
-tags: [Language Modeling, Attention Mechanism, Transformer, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Evaluation]
 ---
 Transformer networks have lead to important progress in language modeling and
 machine translation. These models include two consecutive modules, a

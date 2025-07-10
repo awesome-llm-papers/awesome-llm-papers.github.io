@@ -2,14 +2,16 @@
 layout: publication
 title: 'VD-BERT: A Unified Vision And Dialog Transformer With BERT'
 authors: Yue Wang et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 41
 bibkey: wang2020vd
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.13278'}, {name: Code,
     url: 'https://github.com/salesforce/VD-BERT'}]
-tags: [Training Techniques, Transformer, Merging, RAG, Tools, Reinforcement Learning,
-  BERT, Attention Mechanism, Agentic, Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, RAG, BERT,
+  Tools, Reinforcement Learning, Multimodal Models, Agentic, Training Techniques,
+  Evaluation, Merging]
 ---
 Visual dialog is a challenging vision-language task, where a dialog agent
 needs to answer a series of questions through reasoning on the image content

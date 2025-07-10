@@ -8,8 +8,8 @@ year: 2021
 citations: 15
 bibkey: wu2021explaining
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00196'}]
-tags: [Training Techniques, Fine-Tuning, Attention Mechanism, Interpretability and
-    Explainability, BERT, Security, Model Architecture]
+tags: [Security, Model Architecture, Attention Mechanism, Fine-Tuning, Interpretability
+    and Explainability, BERT, Training Techniques, Evaluation]
 ---
 BERT, as one of the pretrianed language models, attracts the most attention
 in recent years for creating new benchmarks across GLUE tasks via fine-tuning.

@@ -3,13 +3,14 @@ layout: publication
 title: Vision-and-language Or Vision-for-language? On Cross-modal Influence In Multimodal
   Transformers
 authors: Stella Frank, Emanuele Bugliarello, Desmond Elliott
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 18
 bibkey: frank2021vision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.04448'}]
-tags: [Masked Language Model, Training Techniques, Transformer, BERT, Multimodal Models,
-  Model Architecture]
+tags: [Model Architecture, Transformer, Masked Language Model, Multimodal Models,
+  BERT, Training Techniques]
 ---
 Pretrained vision-and-language BERTs aim to learn representations that
 combine information from both modalities. We propose a diagnostic method based

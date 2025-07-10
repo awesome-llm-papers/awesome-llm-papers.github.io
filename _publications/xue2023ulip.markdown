@@ -2,14 +2,14 @@
 layout: publication
 title: 'ULIP-2: Towards Scalable Multimodal Pre-training For 3D Understanding'
 authors: Le Xue et al.
-conference: CVPR2024
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 25
+citations: 26
 bibkey: xue2023ulip
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.08275'}, {name: Code,
     url: 'https://github.com/salesforce/ULIP'}]
-tags: [Training Techniques, RAG, Pre-Training, Tools, Fine-Tuning, Has Code, Multimodal
-    Models]
+tags: [Has Code, Fine-Tuning, RAG, Tools, Multimodal Models, Pre-Training, Training
+    Techniques, Evaluation]
 ---
 Recent advancements in multimodal pre-training have shown promising efficacy
 in 3D representation learning by aligning multimodal features across 3D shapes,

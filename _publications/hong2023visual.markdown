@@ -2,13 +2,13 @@
 layout: publication
 title: 'Cogagent: A Visual Language Model For GUI Agents'
 authors: Wenyi Hong et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 37
+citations: 41
 bibkey: hong2023visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.08914'}, {name: Code,
     url: 'https://github.com/THUDM/CogVLM,'}, {name: Code, url: 'https://github.com/THUDM/CogAgent'}]
-tags: [GPT, Reinforcement Learning, Agentic, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Reinforcement Learning, Agentic, GPT, Evaluation]
 ---
 People are spending an enormous amount of time on digital devices through
 graphical user interfaces (GUIs), e.g., computer or smartphone screens. Large

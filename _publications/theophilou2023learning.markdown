@@ -2,12 +2,12 @@
 layout: publication
 title: 'Learning To Prompt In The Classroom To Understand AI Limits: A Pilot Study'
 authors: Emily Theophilou et al.
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2023
-citations: 22
+citations: 23
 bibkey: theophilou2023learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.01540'}]
-tags: [RAG, GPT, Model Architecture, Prompting]
+tags: [GPT, RAG, Model Architecture, Prompting]
 ---
 Artificial intelligence's (AI) progress holds great promise in tackling
 pressing societal concerns such as health and climate. Large Language Models

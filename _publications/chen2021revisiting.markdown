@@ -2,12 +2,13 @@
 layout: publication
 title: Revisiting Self-training For Few-shot Learning Of Language Model
 authors: Yiming Chen et al.
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 17
 bibkey: chen2021revisiting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.01256'}]
-tags: [Training Techniques, Few-Shot, Fine-Tuning, Security, Prompting]
+tags: [Security, Fine-Tuning, Few-Shot, Prompting, Training Techniques, Evaluation]
 ---
 As unlabeled data carry rich task-relevant information, they are proven
 useful for few-shot learning of language model. The question is how to

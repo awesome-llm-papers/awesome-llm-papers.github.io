@@ -7,7 +7,7 @@ year: 2019
 citations: 29
 bibkey: bao2019non
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.10677'}]
-tags: [Language Modeling, GPT, Transformer, Model Architecture]
+tags: [Transformer, Language Modeling, GPT, Model Architecture]
 ---
 Non-autoregressive models are promising on various text generation tasks.
 Previous work hardly considers to explicitly model the positions of generated

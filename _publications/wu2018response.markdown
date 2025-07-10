@@ -2,9 +2,9 @@
 layout: publication
 title: Response Generation By Context-aware Prototype Editing
 authors: Yu Wu et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2018
-citations: 35
+citations: 37
 bibkey: wu2018response
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1806.07042'}]
 tags: [Uncategorized]

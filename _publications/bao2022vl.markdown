@@ -7,8 +7,8 @@ year: 2022
 citations: 21
 bibkey: bao2022vl
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.01127'}]
-tags: [Masked Language Model, Training Techniques, Transformer, BERT, Multimodal Models,
-  Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Masked Language Model,
+  Multimodal Models, BERT, Training Techniques, Evaluation]
 ---
 We introduce a vision-language foundation model called VL-BEiT, which is a
 bidirectional multimodal Transformer learned by generative pretraining. Our

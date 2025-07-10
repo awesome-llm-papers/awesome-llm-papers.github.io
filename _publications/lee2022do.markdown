@@ -2,13 +2,13 @@
 layout: publication
 title: Do Language Models Plagiarize?
 authors: Jooyoung Lee, Thai Le, Jinghui Chen, Dongwon Lee
-conference: Arxiv
+conference: 'WWW ''23: The ACM Web Conference 2023'
 year: 2022
-citations: 27
+citations: 28
 bibkey: lee2022do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.07618'}, {name: Code,
     url: 'https://github.com/Brit7777/LM-plagiarism'}]
-tags: [Has Code, Training Techniques, Model Architecture, GPT]
+tags: [Training Techniques, Has Code, Model Architecture, GPT]
 ---
 Past literature has illustrated that language models (LMs) often memorize
 parts of training instances and reproduce them in natural language generation

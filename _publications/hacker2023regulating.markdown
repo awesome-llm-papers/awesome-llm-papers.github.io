@@ -2,12 +2,13 @@
 layout: publication
 title: Regulating Chatgpt And Other Large Generative AI Models
 authors: Philipp Hacker, Andreas Engel, Marco Mauer
-conference: Arxiv
+conference: 'FAccT ''23: the 2023 ACM Conference on Fairness, Accountability, and
+  Transparency'
 year: 2023
-citations: 231
+citations: 237
 bibkey: hacker2023regulating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.02337'}]
-tags: [Ethics and Bias, GPT, Merging, Tools, Applications, Fairness, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, Fairness, Applications, Tools, GPT, Merging]
 ---
 Large generative AI models (LGAIMs), such as ChatGPT, GPT-4 or Stable
 Diffusion, are rapidly transforming the way we communicate, illustrate, and

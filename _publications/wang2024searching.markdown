@@ -2,12 +2,13 @@
 layout: publication
 title: Searching For Best Practices In Retrieval-augmented Generation
 authors: Xiaohua Wang et al.
-conference: Arxiv
+conference: Proceedings of the 2024 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2024
-citations: 22
+citations: 23
 bibkey: wang2024searching
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2407.01219'}]
-tags: [RAG, Efficiency and Optimization, Reinforcement Learning, Multimodal Models]
+tags: [Reinforcement Learning, Multimodal Models, Efficiency and Optimization, RAG]
 ---
 Retrieval-augmented generation (RAG) techniques have proven to be effective
 in integrating up-to-date information, mitigating hallucinations, and enhancing

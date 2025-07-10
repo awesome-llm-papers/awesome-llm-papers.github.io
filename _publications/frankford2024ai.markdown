@@ -3,12 +3,13 @@ layout: publication
 title: Ai-tutoring In Software Engineering Education
 authors: Eduard Frankford, Clemens Sauerwein, Patrick Bassner, Stephan Krusche, Ruth
   Breu
-conference: Arxiv
+conference: 'ICSE-SEET ''24: 46th International Conference on Software Engineering:
+  Software Engineering Education and Training'
 year: 2024
 citations: 20
 bibkey: frankford2024ai
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.02548'}]
-tags: [GPT, Fine-Tuning, Tools, Survey Paper, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, Survey Paper, Tools, GPT, Evaluation]
 ---
 With the rapid advancement of artificial intelligence (AI) in various
 domains, the education sector is set for transformation. The potential of

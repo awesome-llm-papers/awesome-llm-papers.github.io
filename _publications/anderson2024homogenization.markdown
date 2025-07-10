@@ -2,12 +2,12 @@
 layout: publication
 title: Homogenization Effects Of Large Language Models On Human Creative Ideation
 authors: Barrett R. Anderson, Jash Hemant Shah, Max Kreminski
-conference: Arxiv
+conference: 'C&C ''24: Creativity and Cognition'
 year: 2024
-citations: 37
+citations: 50
 bibkey: anderson2024homogenization
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.01536'}]
-tags: [Model Architecture, GPT, Tools, Reinforcement Learning]
+tags: [Tools, Reinforcement Learning, Model Architecture, GPT]
 ---
 Large language models (LLMs) are now being used in a wide variety of
 contexts, including as creativity support tools (CSTs) intended to help their

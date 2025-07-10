@@ -3,12 +3,13 @@ layout: publication
 title: 'XGLUE: A New Benchmark Dataset For Cross-lingual Pre-training, Understanding
   And Generation'
 authors: Yaobo Liang et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 50
 bibkey: liang2020new
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.01401'}]
-tags: [Pre-Training, Training Techniques, Model Architecture, BERT]
+tags: [Model Architecture, Pre-Training, Training Techniques, BERT, Evaluation]
 ---
 In this paper, we introduce XGLUE, a new benchmark dataset that can be used
 to train large-scale cross-lingual pre-trained models using multilingual and

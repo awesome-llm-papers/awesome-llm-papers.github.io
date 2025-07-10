@@ -3,13 +3,13 @@ layout: publication
 title: What Do Llms Know About Financial Markets? A Case Study On Reddit Market Sentiment
   Analysis
 authors: Xiang Deng, Vasilisa Bashlovkina, Feng Han, Simon Baumgartner, Michael Bendersky
-conference: Arxiv
+conference: 'WWW ''23: The ACM Web Conference 2023'
 year: 2022
-citations: 23
+citations: 24
 bibkey: deng2022what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.11311'}]
-tags: [Distillation, Training Techniques, Efficiency and Optimization, Applications,
-  Prompting]
+tags: [Distillation, Applications, Prompting, Efficiency and Optimization, Training
+    Techniques]
 ---
 Market sentiment analysis on social media content requires knowledge of both
 financial markets and social media jargon, which makes it a challenging task

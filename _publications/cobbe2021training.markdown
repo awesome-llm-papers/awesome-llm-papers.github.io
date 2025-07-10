@@ -4,10 +4,10 @@ title: Training Verifiers To Solve Math Word Problems
 authors: Karl Cobbe et al.
 conference: Arxiv
 year: 2021
-citations: 397
+citations: 398
 bibkey: cobbe2021training
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.14168'}]
-tags: [Reinforcement Learning, Transformer, Model Architecture, Training Techniques]
+tags: [Transformer, Reinforcement Learning, Training Techniques, Model Architecture]
 ---
 State-of-the-art language models can match human performance on many tasks,
 but they still struggle to robustly perform multi-step mathematical reasoning.

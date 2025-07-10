@@ -8,7 +8,7 @@ citations: 37
 bibkey: jang2021towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.03215'}, {name: Code,
     url: 'https://github.com/joeljang/continual-knowledge-learning'}]
-tags: [Has Code, Reinforcement Learning]
+tags: [Reinforcement Learning, Has Code, Evaluation]
 ---
 Large Language Models (LMs) are known to encode world knowledge in their
 parameters as they pretrain on a vast amount of web corpus, which is often

@@ -3,14 +3,14 @@ layout: publication
 title: Is Chatgpt Fair For Recommendation? Evaluating Fairness In Large Language Model
   Recommendation
 authors: Jizhi Zhang et al.
-conference: Arxiv
+conference: 'RecSys ''23: Seventeenth ACM Conference on Recommender Systems'
 year: 2023
-citations: 64
+citations: 68
 bibkey: zhang2023is
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.07609v3'}, {name: Code,
     url: 'https://github.com/jizhi-zhang/FaiRLLM'}]
-tags: [Ethics and Bias, GPT, Reinforcement Learning, Has Code, Fairness, Bias Mitigation,
-  Model Architecture]
+tags: [Has Code, Model Architecture, Ethics and Bias, Fairness, Reinforcement Learning,
+  Bias Mitigation, GPT, Evaluation]
 ---
 The remarkable achievements of Large Language Models (LLMs) have led to the
 emergence of a novel recommendation paradigm -- Recommendation via LLM

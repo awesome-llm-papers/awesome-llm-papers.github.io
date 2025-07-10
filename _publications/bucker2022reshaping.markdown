@@ -3,14 +3,15 @@ layout: publication
 title: 'Reshaping Robot Trajectories Using Natural Language Commands: A Study Of Multi-modal
   Data Alignment Using Transformers'
 authors: Arthur Bucker et al.
-conference: Arxiv
+conference: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems
+  (IROS)
 year: 2022
 citations: 29
 bibkey: bucker2022reshaping
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.13411'}, {name: Code,
     url: 'https://arthurfenderbucker.github.io/NL_trajectory_reshaper/'}]
-tags: [Transformer, Attention Mechanism, Tools, Reinforcement Learning, BERT, Agentic,
-  Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, Tools, Reinforcement
+    Learning, Agentic, BERT]
 ---
 Natural language is the most intuitive medium for us to interact with other
 people when expressing commands and instructions. However, using language is

@@ -9,7 +9,7 @@ citations: 29
 bibkey: mitchell2022memory
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.06520'}, {name: Code,
     url: 'https://sites.google.com/view/serac-editing'}]
-tags: [RAG, Has Code, Reinforcement Learning]
+tags: [Reinforcement Learning, Has Code, RAG, Evaluation]
 ---
 Even the largest neural networks make errors, and once-correct predictions
 can become invalid as the world changes. Model editors make local updates to

@@ -7,8 +7,8 @@ year: 2023
 citations: 89
 bibkey: tian2023is
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.11938'}]
-tags: [Training Techniques, GPT, RAG, Attention Mechanism, Model Architecture, Applications,
-  Prompting, ACL]
+tags: [Model Architecture, Attention Mechanism, GPT, RAG, Applications, ACL, Prompting,
+  Training Techniques, Evaluation]
 ---
 Recently, the ChatGPT LLM has received great attention: it can be used as a
 bot for discussing source code, prompting it to suggest changes, provide

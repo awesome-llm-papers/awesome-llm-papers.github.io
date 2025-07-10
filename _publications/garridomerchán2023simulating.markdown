@@ -9,7 +9,8 @@ year: 2023
 citations: 15
 bibkey: "garridomerch\xE1n2023simulating"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.03429'}]
-tags: [GPT, Reinforcement Learning, Applications, Survey Paper, Prompting, Model Architecture]
+tags: [Model Architecture, Applications, Survey Paper, Reinforcement Learning, Prompting,
+  GPT, Evaluation]
 ---
 In this paper, we present a novel approach to simulating H.P. Lovecraft's
 horror literature using the ChatGPT large language model, specifically the

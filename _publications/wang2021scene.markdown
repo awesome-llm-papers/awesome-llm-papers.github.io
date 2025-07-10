@@ -2,13 +2,13 @@
 layout: publication
 title: 'SGEITL: Scene Graph Enhanced Image-text Learning For Visual Commonsense Reasoning'
 authors: Zhecan Wang et al.
-conference: AAAI 2022
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2021
 citations: 20
 bibkey: wang2021scene
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.08587'}]
-tags: [Training Techniques, Transformer, RAG, Pre-Training, Tools, Attention Mechanism,
-  Multimodal Models, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, Tools, Multimodal
+    Models, Pre-Training, Training Techniques]
 ---
 Answering complex questions about images is an ambitious goal for machine
 intelligence, which requires a joint understanding of images, text, and

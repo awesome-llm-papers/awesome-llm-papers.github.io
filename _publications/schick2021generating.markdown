@@ -2,12 +2,13 @@
 layout: publication
 title: Generating Datasets With Pretrained Language Models
 authors: "Timo Schick, Hinrich Sch\xFCtze"
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 33
+citations: 34
 bibkey: schick2021generating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.07540'}]
-tags: [RAG, Training Techniques]
+tags: [Training Techniques, RAG]
 ---
 To obtain high-quality sentence embeddings from pretrained language models
 (PLMs), they must either be augmented with additional pretraining objectives or

@@ -7,7 +7,7 @@ year: 2022
 citations: 23
 bibkey: trautmann2022legal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.02199'}]
-tags: [Fine-Tuning, Reinforcement Learning, Training Techniques, Prompting]
+tags: [Reinforcement Learning, Training Techniques, Fine-Tuning, Prompting]
 ---
 Legal Prompt Engineering (LPE) or Legal Prompting is a process to guide and
 assist a large language model (LLM) with performing a natural legal language

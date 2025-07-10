@@ -8,7 +8,8 @@ citations: 16
 bibkey: zhang2023enhanced
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.17107'}, {name: Code,
     url: 'https://llavar.github.io/'}]
-tags: [GPT, Tools, Reinforcement Learning, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Tools, Reinforcement Learning, Prompting, GPT,
+  Evaluation]
 ---
 Instruction tuning unlocks the superior capability of Large Language Models
 (LLM) to interact with humans. Furthermore, recent instruction-following

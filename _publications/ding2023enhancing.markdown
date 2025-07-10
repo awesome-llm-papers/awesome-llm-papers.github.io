@@ -2,13 +2,15 @@
 layout: publication
 title: Enhancing Chat Language Models By Scaling High-quality Instructional Conversations
 authors: Ning Ding et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 32
+citations: 35
 bibkey: ding2023enhancing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14233'}, {name: Code,
     url: 'https://github.com/thunlp/UltraChat'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Tools, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Fine-Tuning, RAG, Tools, Training Techniques,
+  Evaluation]
 ---
 Fine-tuning on instruction data has been widely validated as an effective
 practice for implementing chat language models like ChatGPT. Scaling the

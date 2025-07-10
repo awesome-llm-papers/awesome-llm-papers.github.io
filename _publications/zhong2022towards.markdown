@@ -2,13 +2,14 @@
 layout: publication
 title: Towards A Unified Multi-dimensional Evaluator For Text Generation
 authors: Ming Zhong et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 32
+citations: 33
 bibkey: zhong2022towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.07197'}, {name: Code,
     url: 'https://github.com/maszhongming/UniEval)'}]
-tags: [Language Modeling, Has Code, Tools]
+tags: [Language Modeling, Has Code, Tools, Evaluation]
 ---
 Multi-dimensional evaluation is the dominant paradigm for human evaluation in
 Natural Language Generation (NLG), i.e., evaluating the generated text from

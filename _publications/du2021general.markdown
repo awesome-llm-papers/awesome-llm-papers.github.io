@@ -2,12 +2,13 @@
 layout: publication
 title: 'GLM: General Language Model Pretraining With Autoregressive Blank Infilling'
 authors: Zhengxiao Du et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
-citations: 488
+citations: 512
 bibkey: du2021general
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.10360'}]
-tags: [GPT, Training Techniques, Tools, BERT, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Tools, Training Techniques, BERT]
 ---
 There have been various types of pretraining architectures including
 autoencoding models (e.g., BERT), autoregressive models (e.g., GPT), and

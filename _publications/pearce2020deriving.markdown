@@ -2,12 +2,12 @@
 layout: publication
 title: 'DAVE: Deriving Automatically Verilog From English'
 authors: Hammond Pearce, Benjamin Tan, Ramesh Karri
-conference: Arxiv
+conference: 'MLCAD ''20: 2020 ACM/IEEE Workshop on Machine Learning for CAD'
 year: 2020
-citations: 36
+citations: 37
 bibkey: pearce2020deriving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.01026'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Training Techniques]
 ---
 While specifications for digital systems are provided in natural language,
 engineers undertake significant efforts to translate them into the programming

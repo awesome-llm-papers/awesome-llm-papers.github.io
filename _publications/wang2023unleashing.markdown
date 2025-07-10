@@ -3,13 +3,15 @@ layout: publication
 title: 'Unleashing The Emergent Cognitive Synergy In Large Language Models: A Task-solving
   Agent Through Multi-persona Self-collaboration'
 authors: Zhenhailong Wang et al.
-conference: Arxiv
+conference: 'Proceedings of the 2024 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies (Volume 1:
+  Long Papers)'
 year: 2023
-citations: 15
+citations: 19
 bibkey: wang2023unleashing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.05300'}, {name: Code,
     url: 'https://github.com/MikeWangWZHL/Solo-Performance-Prompting.git'}]
-tags: [GPT, Agentic, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Prompting, Agentic, GPT]
 ---
 Human intelligence thrives on cognitive synergy, where collaboration among
 different minds yield superior outcomes compared to isolated individuals. In

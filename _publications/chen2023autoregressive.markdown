@@ -3,13 +3,13 @@ layout: publication
 title: 'Autotamp: Autoregressive Task And Motion Planning With Llms As Translators
   And Checkers'
 authors: Yongchao Chen et al.
-conference: The 2024 International Conference on Robotics and Automation
+conference: 2024 IEEE International Conference on Robotics and Automation (ICRA)
 year: 2023
-citations: 21
+citations: 22
 bibkey: chen2023autoregressive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.06531'}, {name: Code,
     url: 'https://yongchao98.github.io/MIT-REALM-AutoTAMP/'}]
-tags: [Has Code, Few-Shot, GPT, Prompting]
+tags: [Has Code, GPT, Few-Shot, Prompting]
 ---
 For effective human-robot interaction, robots need to understand, plan, and
 execute complex, long-horizon tasks described by natural language. Recent

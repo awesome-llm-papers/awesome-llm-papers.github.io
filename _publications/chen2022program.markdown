@@ -9,7 +9,7 @@ citations: 92
 bibkey: chen2022program
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2211.12588v4'}, {name: Code,
     url: 'https://github.com/wenhuchen/Program-of-Thoughts'}]
-tags: [RAG, Few-Shot, Has Code, Prompting]
+tags: [Has Code, Few-Shot, Prompting, RAG]
 ---
 Recently, there has been significant progress in teaching language models to
 perform step-by-step reasoning to solve complex numerical reasoning tasks.

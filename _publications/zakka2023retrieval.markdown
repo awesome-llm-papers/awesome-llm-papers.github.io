@@ -2,12 +2,12 @@
 layout: publication
 title: 'Almanac: Retrieval-augmented Language Models For Clinical Medicine'
 authors: Cyril Zakka et al.
-conference: Arxiv
+conference: Springer Science and Business Media LLC
 year: 2023
 citations: 15
 bibkey: zakka2023retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.01229'}]
-tags: [RAG, Tools, Responsible AI, Reinforcement Learning, Applications]
+tags: [Responsible AI, RAG, Applications, Tools, Reinforcement Learning]
 ---
 Large-language models have recently demonstrated impressive zero-shot
 capabilities in a variety of natural language tasks such as summarization,

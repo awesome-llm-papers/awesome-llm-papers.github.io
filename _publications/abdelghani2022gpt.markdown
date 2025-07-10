@@ -3,13 +3,13 @@ layout: publication
 title: Gpt-3-driven Pedagogical Agents For Training Children's Curious Question-asking
   Skills
 authors: Rania Abdelghani et al.
-conference: Arxiv
+conference: International Journal of Artificial Intelligence in Education
 year: 2022
-citations: 56
+citations: 62
 bibkey: abdelghani2022gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.14228'}]
-tags: [Training Techniques, GPT, RAG, Reinforcement Learning, Agentic, Efficiency
-    and Optimization, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, RAG, Reinforcement Learning, Prompting, Agentic, Efficiency
+    and Optimization, Training Techniques]
 ---
 In order to train children's ability to ask curiosity-driven questions,
 previous research has explored designing specific exercises relying on

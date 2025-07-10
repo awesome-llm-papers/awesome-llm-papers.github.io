@@ -2,9 +2,10 @@
 layout: publication
 title: 'LLM In A Flash: Efficient Large Language Model Inference With Limited Memory'
 authors: Keivan Alizadeh et al.
-conference: Arxiv
+conference: 'Proceedings of the 62nd Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
-citations: 22
+citations: 23
 bibkey: alizadeh2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.11514'}]
 tags: [Tools]

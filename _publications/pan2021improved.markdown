@@ -2,12 +2,13 @@
 layout: publication
 title: Improved Text Classification Via Contrastive Adversarial Training
 authors: Lin Pan, Chung-wei Hang, Avirup Sil, Saloni Potdar
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2021
-citations: 47
+citations: 50
 bibkey: pan2021improved
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.10137'}]
-tags: [Training Techniques, Transformer, RAG, Fine-Tuning, BERT, Security, Model Architecture]
+tags: [Security, Model Architecture, Transformer, Fine-Tuning, RAG, BERT, Training
+    Techniques, Evaluation]
 ---
 We propose a simple and general method to regularize the fine-tuning of
 Transformer-based encoders for text classification tasks. Specifically, during

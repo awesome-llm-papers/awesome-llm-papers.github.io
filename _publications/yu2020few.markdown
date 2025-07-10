@@ -2,12 +2,13 @@
 layout: publication
 title: Few-shot Generative Conversational Query Rewriting
 authors: Shi Yu et al.
-conference: Arxiv
+conference: 'SIGIR ''20: The 43rd International ACM SIGIR conference on research and
+  development in Information Retrieval'
 year: 2020
-citations: 68
+citations: 69
 bibkey: yu2020few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.05009'}]
-tags: [Few-Shot, Training Techniques, Model Architecture, GPT]
+tags: [Training Techniques, Few-Shot, Model Architecture, GPT]
 ---
 Conversational query rewriting aims to reformulate a concise conversational
 query to a fully specified, context-independent query that can be effectively

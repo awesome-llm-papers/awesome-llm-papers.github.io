@@ -2,14 +2,14 @@
 layout: publication
 title: Explain Yourself! Leveraging Language Models For Commonsense Reasoning
 authors: Nazneen Fatema Rajani, Bryan Mccann, Caiming Xiong, Richard Socher
-conference: In Proceedings of the Association for Computational Linguistics (ACL)
-  2019. Florence Italy
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 71
 bibkey: rajani2019explain
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.02361'}]
-tags: [Training Techniques, RAG, Tools, Interpretability and Explainability, Reinforcement
-    Learning]
+tags: [RAG, Interpretability and Explainability, Tools, Reinforcement Learning, Training
+    Techniques]
 ---
 Deep learning models perform poorly on tasks that require commonsense
 reasoning, which often necessitates some form of world-knowledge or reasoning

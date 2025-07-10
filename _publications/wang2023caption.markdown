@@ -8,8 +8,8 @@ citations: 15
 bibkey: wang2023caption
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.02677v3'}, {name: Code,
     url: 'https://github.com/ttengwang/Caption-Anything'}]
-tags: [GPT, Merging, RAG, Reinforcement Learning, Tools, Has Code, Applications, Prompting,
-  Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, RAG, Applications, Tools, Reinforcement Learning,
+  Multimodal Models, Prompting, GPT, Merging]
 ---
 Controllable image captioning is an emerging multimodal topic that aims to
 describe the image with natural language following human purpose,

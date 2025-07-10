@@ -4,12 +4,12 @@ title: 'Automated Source Code Generation And Auto-completion Using Deep Learning
   Comparing And Discussing Current Language-model-related Approaches'
 authors: Juan Cruz-benito, Sanjay Vishwakarma, Francisco Martin-fernandez, Ismael
   Faro
-conference: Arxiv
+conference: AI
 year: 2020
 citations: 19
 bibkey: cruzbenito2020automated
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.07740'}]
-tags: [Transformer, Fine-Tuning, Attention Mechanism, Model Architecture, Tokenization]
+tags: [Tokenization, Attention Mechanism, Model Architecture, Transformer, Fine-Tuning]
 ---
 In recent years, the use of deep learning in language models gained much
 attention. Some research projects claim that they can generate text that can be

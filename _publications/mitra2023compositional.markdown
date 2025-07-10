@@ -2,13 +2,13 @@
 layout: publication
 title: Compositional Chain-of-thought Prompting For Large Multimodal Models
 authors: Chancharik Mitra, Brandon Huang, Trevor Darrell, Roei Herzig
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 18
+citations: 20
 bibkey: mitra2023compositional
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.17076'}, {name: Code,
     url: 'https://github.com/chancharikmitra/CCoT'}]
-tags: [Training Techniques, Fine-Tuning, Has Code, Prompting, Multimodal Models]
+tags: [Has Code, Fine-Tuning, Multimodal Models, Prompting, Training Techniques, Evaluation]
 ---
 The combination of strong visual backbones and Large Language Model (LLM)
 reasoning has led to Large Multimodal Models (LMMs) becoming the current

@@ -9,8 +9,8 @@ citations: 42
 bibkey: yu2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.15895'}, {name: Code,
     url: 'https://github.com/yueyu1030/AttrPrompt'}]
-tags: [Ethics and Bias, Training Techniques, GPT, RAG, Efficiency and Optimization,
-  Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Ethics and Bias, GPT, RAG, Prompting, Efficiency
+    and Optimization, Training Techniques]
 ---
 Large language models (LLMs) have been recently leveraged as training data
 generators for various natural language processing (NLP) tasks. While previous

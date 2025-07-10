@@ -4,10 +4,10 @@ title: 'Llama: Open And Efficient Foundation Language Models'
 authors: Hugo Touvron et al.
 conference: Arxiv
 year: 2023
-citations: 2718
+citations: 2721
 bibkey: touvron2023open
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2302.13971v1'}]
-tags: [GPT, Model Architecture]
+tags: [GPT, Model Architecture, Evaluation]
 ---
 We introduce LLaMA, a collection of foundation language models ranging from
 7B to 65B parameters. We train our models on trillions of tokens, and show that

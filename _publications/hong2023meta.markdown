@@ -8,7 +8,7 @@ citations: 59
 bibkey: hong2023meta
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.00352'}, {name: Code,
     url: 'https://github.com/geekan/MetaGPT'}]
-tags: [GPT, Tools, Agentic, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Tools, Prompting, Agentic, GPT, Evaluation]
 ---
 Remarkable progress has been made on automated problem solving through
 societies of agents based on large language models (LLMs). Existing LLM-based

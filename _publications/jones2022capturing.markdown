@@ -7,7 +7,7 @@ year: 2022
 citations: 30
 bibkey: jones2022capturing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.12299'}]
-tags: [Ethics and Bias, Tools, Training Techniques, Prompting]
+tags: [Tools, Training Techniques, Prompting, Ethics and Bias]
 ---
 Large language models generate complex, open-ended outputs: instead of
 outputting a class label they write summaries, generate dialogue, or produce

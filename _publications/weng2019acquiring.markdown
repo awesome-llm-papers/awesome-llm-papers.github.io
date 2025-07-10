@@ -2,13 +2,13 @@
 layout: publication
 title: Acquiring Knowledge From Pre-trained Model To Neural Machine Translation
 authors: Rongxiang Weng, Heng Yu, Shujian Huang, Shanbo Cheng, Weihua Luo
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2019
-citations: 29
+citations: 30
 bibkey: weng2019acquiring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.01774'}]
-tags: [Distillation, Training Techniques, Merging, Pre-Training, Tools, Fine-Tuning,
-  BERT, Efficiency and Optimization, WMT, Model Architecture]
+tags: [Model Architecture, Distillation, WMT, Fine-Tuning, Tools, Pre-Training, BERT,
+  Efficiency and Optimization, Training Techniques, Merging]
 ---
 Pre-training and fine-tuning have achieved great success in the natural
 language process field. The standard paradigm of exploiting them includes two

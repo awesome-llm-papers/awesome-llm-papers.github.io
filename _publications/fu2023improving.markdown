@@ -5,10 +5,10 @@ title: Improving Language Model Negotiation With Self-play And In-context Learni
 authors: Yao Fu, Hao Peng, Tushar Khot, Mirella Lapata
 conference: Arxiv
 year: 2023
-citations: 27
+citations: 28
 bibkey: fu2023improving
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.10142v1'}]
-tags: [GPT, Fine-Tuning, Agentic, In-Context Learning, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, In-Context Learning, Agentic, GPT, Evaluation]
 ---
 We study whether multiple large language models (LLMs) can autonomously
 improve each other in a negotiation game by playing, reflecting, and

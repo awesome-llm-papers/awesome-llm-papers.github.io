@@ -2,12 +2,12 @@
 layout: publication
 title: 'Towards Reasoning In Large Language Models: A Survey'
 authors: Jie Huang, Kevin Chen-chuan Chang
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2022
-citations: 139
+citations: 152
 bibkey: huang2022towards
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2212.10403v2'}]
-tags: [Survey Paper]
+tags: [Survey Paper, Evaluation]
 ---
 Reasoning is a fundamental aspect of human intelligence that plays a crucial
 role in activities such as problem solving, decision making, and critical

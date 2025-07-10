@@ -3,12 +3,12 @@ layout: publication
 title: 'Embedding Large Language Models Into Extended Reality: Opportunities And Challenges
   For Inclusion, Engagement, And Privacy'
 authors: Efe Bozkir et al.
-conference: Arxiv
+conference: 'CUI ''24: ACM Conversational User Interfaces 2024'
 year: 2024
-citations: 18
+citations: 22
 bibkey: bozkir2024embedding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.03907'}]
-tags: [Fine-Tuning, Reinforcement Learning, Training Techniques, Prompting]
+tags: [Reinforcement Learning, Training Techniques, Fine-Tuning, Prompting]
 ---
 Advances in artificial intelligence and human-computer interaction will
 likely lead to extended reality (XR) becoming pervasive. While XR can provide

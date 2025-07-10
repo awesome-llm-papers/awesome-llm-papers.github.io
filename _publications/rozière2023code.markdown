@@ -7,7 +7,7 @@ year: 2023
 citations: 212
 bibkey: "rozi\xE8re2023code"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.12950'}]
-tags: [Applications, Reinforcement Learning]
+tags: [Reinforcement Learning, Evaluation, Applications]
 ---
 We release Code Llama, a family of large language models for code based on
 Llama 2 providing state-of-the-art performance among open models, infilling

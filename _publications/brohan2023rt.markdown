@@ -7,7 +7,7 @@ year: 2023
 citations: 120
 bibkey: brohan2023rt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.15818'}]
-tags: [Training Techniques, Multimodal Models]
+tags: [Training Techniques, Multimodal Models, Evaluation]
 ---
 We study how vision-language models trained on Internet-scale data can be
 incorporated directly into end-to-end robotic control to boost generalization

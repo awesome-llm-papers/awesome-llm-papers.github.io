@@ -2,12 +2,12 @@
 layout: publication
 title: Paraphrasing With Large Language Models
 authors: Sam Witteveen, Martin Andrews
-conference: Arxiv
+conference: Proceedings of the 3rd Workshop on Neural Generation and Translation
 year: 2019
 citations: 24
 bibkey: witteveen2019paraphrasing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.09661'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Fine-Tuning, RAG, Training Techniques]
 ---
 Recently, large language models such as GPT-2 have shown themselves to be
 extremely adept at text generation and have also been able to achieve

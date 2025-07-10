@@ -2,12 +2,12 @@
 layout: publication
 title: Scaling Language-image Pre-training Via Masking
 authors: Yanghao Li, Haoqi Fan, Ronghang Hu, Christoph Feichtenhofer, Kaiming He
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
-citations: 136
+citations: 142
 bibkey: li2022scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.00794'}]
-tags: [RAG, Pre-Training, Training Techniques, Multimodal Models]
+tags: [Training Techniques, Multimodal Models, Pre-Training, RAG]
 ---
 We present Fast Language-Image Pre-training (FLIP), a simple and more
 efficient method for training CLIP. Our method randomly masks out and removes a

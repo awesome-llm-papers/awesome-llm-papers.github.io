@@ -7,7 +7,7 @@ year: 2019
 citations: 349
 bibkey: ziegler2019fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.08593'}]
-tags: [Fine-Tuning, Reinforcement Learning, Agentic, Training Techniques]
+tags: [Agentic, Reinforcement Learning, Training Techniques, Fine-Tuning]
 ---
 Reward learning enables the application of reinforcement learning (RL) to
 tasks where reward is defined by human judgment, building a model of reward by

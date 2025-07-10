@@ -3,13 +3,13 @@ layout: publication
 title: A Survey Of Controllable Text Generation Using Transformer-based Pre-trained
   Language Models
 authors: Hanqing Zhang, Haolin Song, Shaoyu Li, Ming Zhou, Dawei Song
-conference: Arxiv
+conference: ACM Computing Surveys
 year: 2022
-citations: 107
+citations: 112
 bibkey: zhang2022survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.05337'}]
-tags: [Transformer, Merging, Tools, Interpretability and Explainability, Applications,
-  Survey Paper, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Applications, Interpretability
+    and Explainability, Tools, Survey Paper, Evaluation, Merging]
 ---
 Controllable Text Generation (CTG) is emerging area in the field of natural
 language generation (NLG). It is regarded as crucial for the development of

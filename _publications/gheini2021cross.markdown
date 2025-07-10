@@ -3,13 +3,14 @@ layout: publication
 title: 'Cross-attention Is All You Need: Adapting Pretrained Transformers For Machine
   Translation'
 authors: Mozhdeh Gheini, Xiang Ren, Jonathan May
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 46
+citations: 49
 bibkey: gheini2021cross
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08771'}]
-tags: [Training Techniques, Transformer, RAG, Fine-Tuning, Reinforcement Learning,
-  Attention Mechanism, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Fine-Tuning, RAG, Reinforcement
+    Learning, Training Techniques]
 ---
 We study the power of cross-attention in the Transformer architecture within
 the context of transfer learning for machine translation, and extend the

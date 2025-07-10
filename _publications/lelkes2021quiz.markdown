@@ -2,12 +2,13 @@
 layout: publication
 title: Quiz-style Question Generation For News Stories
 authors: Adam D. Lelkes, Vinh Q. Tran, Cong Yu
-conference: Arxiv
+conference: 'WWW ''21: The Web Conference 2021'
 year: 2021
 citations: 22
 bibkey: lelkes2021quiz
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.09094'}]
-tags: [Transformer, Tools, Reinforcement Learning, Survey Paper, Model Architecture]
+tags: [Model Architecture, Transformer, Survey Paper, Tools, Reinforcement Learning,
+  Evaluation]
 ---
 A large majority of American adults get at least some of their news from the
 Internet. Even though many online news products have the goal of informing

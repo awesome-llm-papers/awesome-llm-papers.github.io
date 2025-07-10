@@ -3,13 +3,14 @@ layout: publication
 title: 'From Zero To Hero: On The Limitations Of Zero-shot Cross-lingual Transfer
   With Multilingual Transformers'
 authors: "Anne Lauscher, Vinit Ravishankar, Ivan Vuli\u0107, Goran Glava\u0161"
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 45
 bibkey: lauscher2020from
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00633'}]
-tags: [Training Techniques, Transformer, Few-Shot, Fine-Tuning, BERT, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Fine-Tuning, Few-Shot,
+  BERT, Training Techniques, Evaluation]
 ---
 Massively multilingual transformers pretrained with language modeling
 objectives (e.g., mBERT, XLM-R) have become a de facto default transfer

@@ -8,7 +8,7 @@ year: 2018
 citations: 61
 bibkey: khatri2018advancing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1812.10757'}]
-tags: [RAG, Tools, INTERSPEECH]
+tags: [Tools, Evaluation, RAG, INTERSPEECH]
 ---
 Building open domain conversational systems that allow users to have engaging
 conversations on topics of their choice is a challenging task. Alexa Prize was

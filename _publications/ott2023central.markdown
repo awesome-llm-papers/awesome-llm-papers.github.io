@@ -2,13 +2,13 @@
 layout: publication
 title: 'Thoughtsource: A Central Hub For Large Language Model Reasoning Data'
 authors: Simon Ott et al.
-conference: Scientific Data 10 528 (2023)
+conference: Scientific Data
 year: 2023
-citations: 20
+citations: 21
 bibkey: ott2023central
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2301.11596'}]
-tags: [Ethics and Bias, Training Techniques, GPT, Reinforcement Learning, Tools, Prompting,
-  Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, Tools, Reinforcement Learning, Prompting,
+  Training Techniques, Evaluation]
 ---
 Large language models (LLMs) such as GPT-4 have recently demonstrated
 impressive results across a wide range of tasks. LLMs are still limited,

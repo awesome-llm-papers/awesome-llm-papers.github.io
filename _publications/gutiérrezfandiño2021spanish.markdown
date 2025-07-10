@@ -7,7 +7,7 @@ year: 2021
 citations: 56
 bibkey: "guti\xE9rrezfandi\xF1o2021spanish"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.07253'}]
-tags: [GPT, Training Techniques, Tools, BERT, Model Architecture]
+tags: [Model Architecture, GPT, Tools, Training Techniques, BERT, Evaluation]
 ---
 This work presents MarIA, a family of Spanish language models and associated
 resources made available to the industry and the research community. Currently,

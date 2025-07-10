@@ -8,8 +8,8 @@ citations: 131
 bibkey: wang2023open
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.16291v2'}, {name: Code,
     url: 'https://voyager.minedojo.org/'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, Tools, Agentic,
-  Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Fine-Tuning, Tools, Reinforcement Learning,
+  Prompting, Agentic, Training Techniques]
 ---
 We introduce Voyager, the first LLM-powered embodied lifelong learning agent
 in Minecraft that continuously explores the world, acquires diverse skills, and

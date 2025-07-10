@@ -2,13 +2,14 @@
 layout: publication
 title: Memory-assisted Prompt Editing To Improve GPT-3 After Deployment
 authors: Aman Madaan, Niket Tandon, Peter Clark, Yiming Yang
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 22
+citations: 23
 bibkey: madaan2022memory
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.06009'}, {name: Code,
     url: 'https://www.memprompt.com/'}]
-tags: [Training Techniques, GPT, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Prompting, Training Techniques]
 ---
 Large LMs such as GPT-3 are powerful, but can commit mistakes that are
 obvious to humans. For example, GPT-3 would mistakenly interpret "What word is

@@ -8,8 +8,8 @@ citations: 162
 bibkey: kuchaiev2019toolkit
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.09577'}, {name: Code,
     url: 'https://github.com/NVIDIA/NeMo'}]
-tags: [Large-Scale Training, Training Techniques, INTERSPEECH, Reinforcement Learning,
-  Tools, Has Code, Applications]
+tags: [Has Code, Large-Scale Training, Applications, Tools, Reinforcement Learning,
+  Training Techniques, INTERSPEECH]
 ---
 NeMo (Neural Modules) is a Python framework-agnostic toolkit for creating AI
 applications through re-usability, abstraction, and composition. NeMo is built

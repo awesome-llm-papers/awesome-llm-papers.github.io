@@ -2,14 +2,14 @@
 layout: publication
 title: 'SOLOIST: Building Task Bots At Scale With Transfer Learning And Machine Teaching'
 authors: Baolin Peng et al.
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2020
-citations: 38
+citations: 40
 bibkey: peng2020building
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.05298'}, {name: Code,
     url: 'https://aka.ms/soloist'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Few-Shot, Reinforcement Learning,
-  Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Fine-Tuning, Few-Shot, Reinforcement
+    Learning, Training Techniques, Evaluation]
 ---
 We present a new method SOLOIST that uses transfer learning and machine
 teaching to build task bots at scale. We parameterize classical modular

@@ -2,12 +2,12 @@
 layout: publication
 title: Synchronous Bidirectional Inference For Neural Sequence Generation
 authors: Jiajun Zhang, Long Zhou, Yang Zhao, Chengqing Zong
-conference: Arxiv
+conference: Artificial Intelligence
 year: 2019
 citations: 18
 bibkey: zhang2019synchronous
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.08955'}]
-tags: [Efficiency and Optimization, Attention Mechanism, Transformer, Model Architecture]
+tags: [Transformer, Efficiency and Optimization, Model Architecture, Attention Mechanism]
 ---
 In sequence to sequence generation tasks (e.g. machine translation and
 abstractive summarization), inference is generally performed in a left-to-right

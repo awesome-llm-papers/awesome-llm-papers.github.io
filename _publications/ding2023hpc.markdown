@@ -2,12 +2,13 @@
 layout: publication
 title: 'HPC-GPT: Integrating Large Language Model For High-performance Computing'
 authors: Xianzhong Ding et al.
-conference: Arxiv
+conference: 'SC-W 2023: Workshops of The International Conference on High Performance
+  Computing, Network, Storage, and Analysis'
 year: 2023
-citations: 16
+citations: 17
 bibkey: ding2023hpc
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.12833'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Applications, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Applications, Training Techniques, Evaluation]
 ---
 Large Language Models (LLMs), including the LLaMA model, have exhibited their
 efficacy across various general-domain natural language processing (NLP) tasks.

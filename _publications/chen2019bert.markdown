@@ -7,8 +7,8 @@ year: 2019
 citations: 418
 bibkey: chen2019bert
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.10909'}]
-tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, Fine-Tuning,
-  BERT, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Fine-Tuning, Pre-Training,
+  BERT, Training Techniques, Evaluation]
 ---
 Intent classification and slot filling are two essential tasks for natural
 language understanding. They often suffer from small-scale human-labeled

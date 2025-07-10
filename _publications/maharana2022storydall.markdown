@@ -2,12 +2,12 @@
 layout: publication
 title: 'Storydall-e: Adapting Pretrained Text-to-image Transformers For Story Continuation'
 authors: Adyasha Maharana, Darryl Hannan, Mohit Bansal
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2022
-citations: 30
+citations: 32
 bibkey: maharana2022storydall
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.06192'}]
-tags: [Transformer, Agentic, Security, Prompting, Model Architecture]
+tags: [Security, Model Architecture, Transformer, Prompting, Agentic]
 ---
 Recent advances in text-to-image synthesis have led to large pretrained
 transformers with excellent capabilities to generate visualizations from a

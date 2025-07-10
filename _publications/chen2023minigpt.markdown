@@ -9,8 +9,8 @@ citations: 46
 bibkey: chen2023minigpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.09478'}, {name: Code,
     url: 'https://minigpt-v2.github.io/'}]
-tags: [Training Techniques, GPT, Efficiency and Optimization, Has Code, Applications,
-  Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Applications, Multimodal Models, Efficiency
+    and Optimization, Training Techniques, Evaluation]
 ---
 Large language models have shown their remarkable capabilities as a general
 interface for various language-related applications. Motivated by this, we

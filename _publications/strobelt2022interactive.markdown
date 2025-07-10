@@ -3,12 +3,12 @@ layout: publication
 title: Interactive And Visual Prompt Engineering For Ad-hoc Task Adaptation With Large
   Language Models
 authors: Hendrik Strobelt et al.
-conference: Arxiv
+conference: IEEE Transactions on Visualization and Computer Graphics
 year: 2022
-citations: 88
+citations: 91
 bibkey: strobelt2022interactive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.07852'}]
-tags: [Applications, Training Techniques, Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Training Techniques, Prompting, Applications]
 ---
 State-of-the-art neural language models can now be used to solve ad-hoc
 language tasks through zero-shot prompting without the need for supervised

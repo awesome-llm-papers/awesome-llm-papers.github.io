@@ -2,13 +2,13 @@
 layout: publication
 title: Prompting The Hidden Talent Of Web-scale Speech Models For Zero-shot Task Generalization
 authors: Puyuan Peng, Brian Yan, Shinji Watanabe, David Harwath
-conference: Arxiv
+conference: INTERSPEECH 2023
 year: 2023
 citations: 23
 bibkey: peng2023prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.11095'}, {name: Code,
     url: 'https://github.com/jasonppy/PromptingWhisper'}]
-tags: [Ethics and Bias, INTERSPEECH, RAG, Has Code, Security, Prompting]
+tags: [Security, Has Code, Ethics and Bias, RAG, Prompting, INTERSPEECH]
 ---
 We investigate the emergent abilities of the recently proposed web-scale
 speech model Whisper, by adapting it to unseen tasks with prompt engineering.

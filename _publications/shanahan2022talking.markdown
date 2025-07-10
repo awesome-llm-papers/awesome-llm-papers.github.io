@@ -2,12 +2,12 @@
 layout: publication
 title: Talking About Large Language Models
 authors: Murray Shanahan
-conference: Arxiv
+conference: Communications of the ACM
 year: 2022
-citations: 112
+citations: 119
 bibkey: shanahan2022talking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.03551'}]
-tags: [RAG, Tools]
+tags: [Tools, RAG]
 ---
 Thanks to rapid progress in artificial intelligence, we have entered an era
 when technology and philosophy intersect in interesting ways. Sitting squarely

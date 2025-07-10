@@ -3,12 +3,12 @@ layout: publication
 title: 'Automating Human Tutor-style Programming Feedback: Leveraging GPT-4 Tutor
   Model For Hint Generation And GPT-3.5 Student Model For Hint Validation'
 authors: Tung Phung et al.
-conference: Arxiv
+conference: 'LAK ''24: The 14th Learning Analytics and Knowledge Conference'
 year: 2023
-citations: 17
+citations: 21
 bibkey: phung2023automating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.03780'}]
-tags: [GPT, RAG, Tools, Reinforcement Learning, Prompting, Model Architecture]
+tags: [Model Architecture, RAG, Tools, Reinforcement Learning, Prompting, GPT, Evaluation]
 ---
 Generative AI and large language models hold great promise in enhancing
 programming education by automatically generating individualized feedback for

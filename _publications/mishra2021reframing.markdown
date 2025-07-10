@@ -2,12 +2,12 @@
 layout: publication
 title: Reframing Instructional Prompts To Gptk's Language
 authors: Swaroop Mishra, Daniel Khashabi, Chitta Baral, Yejin Choi, Hannaneh Hajishirzi
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2022'
 year: 2021
-citations: 27
+citations: 29
 bibkey: mishra2021reframing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.07830'}]
-tags: [GPT, RAG, Few-Shot, Prompting, Model Architecture]
+tags: [Model Architecture, Few-Shot, RAG, Prompting, GPT]
 ---
 What kinds of instructional prompts are easier to follow for Language Models
 (LMs)? We study this question by conducting extensive empirical analysis that

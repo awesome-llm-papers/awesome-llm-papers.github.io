@@ -2,14 +2,14 @@
 layout: publication
 title: Texts As Images In Prompt Tuning For Multi-label Image Recognition
 authors: Zixian Guo et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
-citations: 33
+citations: 35
 bibkey: guo2022texts
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.12739'}, {name: Code,
     url: 'https://github.com/guozix/TaI-DPT'}]
-tags: [Training Techniques, Reinforcement Learning, Has Code, Prompting, Multimodal
-    Models]
+tags: [Has Code, Reinforcement Learning, Multimodal Models, Prompting, Training Techniques,
+  Evaluation]
 ---
 Prompt tuning has been employed as an efficient way to adapt large
 vision-language pre-trained models (e.g. CLIP) to various downstream tasks in

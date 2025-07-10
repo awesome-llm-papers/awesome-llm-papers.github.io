@@ -7,7 +7,7 @@ year: 2023
 citations: 16
 bibkey: xu2023comprehensive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.15020'}]
-tags: [GPT, Tools, Reinforcement Learning, Applications, Model Architecture]
+tags: [Model Architecture, Applications, Tools, Reinforcement Learning, GPT, Evaluation]
 ---
 Large language models (LLMs) have shown the potential to be integrated into
 human daily lives. Therefore, user preference is the most critical criterion

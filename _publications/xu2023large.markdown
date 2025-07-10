@@ -2,13 +2,13 @@
 layout: publication
 title: 'Large Language Models For Generative Information Extraction: A Survey'
 authors: Derong Xu et al.
-conference: Arxiv
+conference: Frontiers of Computer Science
 year: 2023
-citations: 41
+citations: 54
 bibkey: xu2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.17617'}, {name: Code,
     url: 'https://github.com/quqxui/Awesome-LLM4IE-Papers}{LLM4IE'}]
-tags: [Fine-Tuning, Merging, Survey Paper, Has Code]
+tags: [Survey Paper, Has Code, Fine-Tuning, Merging]
 ---
 Information extraction (IE) aims to extract structural knowledge from plain
 natural language texts. Recently, generative Large Language Models (LLMs) have

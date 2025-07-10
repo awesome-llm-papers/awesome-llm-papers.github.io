@@ -7,7 +7,7 @@ year: 2019
 citations: 17
 bibkey: jean2019context
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1903.04715'}]
-tags: [RAG, Transformer, Model Architecture]
+tags: [Transformer, RAG, Model Architecture, Evaluation]
 ---
 Interest in larger-context neural machine translation, including
 document-level and multi-modal translation, has been growing. Multiple works

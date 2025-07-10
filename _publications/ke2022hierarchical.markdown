@@ -2,12 +2,12 @@
 layout: publication
 title: 'Hitskt: A Hierarchical Transformer Model For Session-aware Knowledge Tracing'
 authors: Fucai Ke et al.
-conference: Arxiv
+conference: Knowledge-Based Systems
 year: 2022
-citations: 18
+citations: 21
 bibkey: ke2022hierarchical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.12139'}]
-tags: [RAG, Attention Mechanism, Transformer, Model Architecture]
+tags: [Transformer, RAG, Model Architecture, Attention Mechanism]
 ---
 Knowledge tracing (KT) aims to leverage students' learning histories to
 estimate their mastery levels on a set of pre-defined skills, based on which

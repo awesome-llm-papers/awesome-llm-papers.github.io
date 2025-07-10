@@ -5,10 +5,11 @@ title: 'Llava-med: Training A Large Language-and-vision Assistant For Biomedicin
 authors: Chunyuan Li et al.
 conference: Arxiv
 year: 2023
-citations: 103
+citations: 105
 bibkey: li2023llava
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.00890'}]
-tags: [Training Techniques, GPT, RAG, Tools, Multimodal Models, Model Architecture]
+tags: [Model Architecture, GPT, RAG, Tools, Multimodal Models, Training Techniques,
+  Evaluation]
 ---
 Conversational generative AI has demonstrated remarkable promise for
 empowering biomedical practitioners, but current investigations focus on

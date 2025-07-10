@@ -2,12 +2,13 @@
 layout: publication
 title: Improving The Transformer Translation Model With Document-level Context
 authors: Jiacheng Zhang et al.
-conference: Arxiv
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2018
 citations: 77
 bibkey: zhang2018improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1810.03581'}]
-tags: [SLT, Transformer, Model Architecture, Training Techniques]
+tags: [Transformer, Training Techniques, Model Architecture, SLT]
 ---
 Although the Transformer translation model (Vaswani et al., 2017) has
 achieved state-of-the-art performance in a variety of translation tasks, how to

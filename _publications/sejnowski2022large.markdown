@@ -2,9 +2,9 @@
 layout: publication
 title: Large Language Models And The Reverse Turing Test
 authors: Terrence Sejnowski
-conference: Neural Computation 35 309-342 (2023)
+conference: Neural Computation
 year: 2022
-citations: 85
+citations: 87
 bibkey: sejnowski2022large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.14382'}]
 tags: [Training Techniques, Model Architecture, GPT]

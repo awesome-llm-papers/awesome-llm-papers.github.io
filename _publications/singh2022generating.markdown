@@ -2,9 +2,9 @@
 layout: publication
 title: 'Progprompt: Generating Situated Robot Task Plans Using Large Language Models'
 authors: Ishika Singh et al.
-conference: Arxiv
+conference: 2023 IEEE International Conference on Robotics and Automation (ICRA)
 year: 2022
-citations: 229
+citations: 237
 bibkey: singh2022generating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.11302'}]
 tags: [Reinforcement Learning, Prompting]

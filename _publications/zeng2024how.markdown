@@ -3,12 +3,14 @@ layout: publication
 title: 'How Johnny Can Persuade Llms To Jailbreak Them: Rethinking Persuasion To Challenge
   AI Safety By Humanizing Llms'
 authors: Yi Zeng et al.
-conference: Arxiv
+conference: 'Proceedings of the 62nd Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2024
-citations: 15
+citations: 17
 bibkey: zeng2024how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.06373'}]
-tags: [GPT, Responsible AI, Reinforcement Learning, Security, Prompting, Model Architecture]
+tags: [Responsible AI, Security, Model Architecture, Reinforcement Learning, Prompting,
+  GPT]
 ---
 Most traditional AI safety research has approached AI models as machines and
 centered on algorithm-focused attacks developed by security experts. As large

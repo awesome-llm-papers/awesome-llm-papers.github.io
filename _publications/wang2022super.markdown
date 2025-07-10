@@ -3,12 +3,13 @@ layout: publication
 title: 'Super-naturalinstructions: Generalization Via Declarative Instructions On
   1600+ NLP Tasks'
 authors: Yizhong Wang et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 89
+citations: 95
 bibkey: wang2022super
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2204.07705v3'}]
-tags: [Training Techniques, Transformer, Model Architecture, GPT]
+tags: [Model Architecture, GPT, Transformer, Training Techniques, Evaluation]
 ---
 How well can NLP models generalize to a variety of unseen tasks when provided
 with task instructions? To address this question, we first introduce

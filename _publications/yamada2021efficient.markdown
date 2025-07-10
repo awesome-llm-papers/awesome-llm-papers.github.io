@@ -2,13 +2,15 @@
 layout: publication
 title: Efficient Passage Retrieval With Hashing For Open-domain Question Answering
 authors: Ikuya Yamada, Akari Asai, Hannaneh Hajishirzi
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 2: Short Papers)'
 year: 2021
 citations: 24
 bibkey: yamada2021efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.00882'}, {name: Code,
     url: 'https://github.com/studio-ousia/bpr'}]
-tags: [Has Code, Uncategorized]
+tags: [Has Code, Evaluation]
 ---
 Most state-of-the-art open-domain question answering systems use a neural
 retrieval model to encode passages into continuous vectors and extract them

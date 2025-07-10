@@ -2,12 +2,12 @@
 layout: publication
 title: Do Large Language Models Resemble Humans In Language Use?
 authors: Zhenguang G. Cai, Xufeng Duan, David A. Haslett, Shuqi Wang, Martin J. Pickering
-conference: Arxiv
+conference: Center for Open Science
 year: 2023
 citations: 21
 bibkey: cai2023do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.08014'}]
-tags: [Reinforcement Learning, Transformer, Model Architecture, GPT]
+tags: [Transformer, Reinforcement Learning, GPT, Model Architecture]
 ---
 Large language models (LLMs) such as ChatGPT and Vicuna have shown remarkable
 capacities in comprehending and producing language. However, their internal

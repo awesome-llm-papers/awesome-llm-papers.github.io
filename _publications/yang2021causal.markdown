@@ -2,14 +2,14 @@
 layout: publication
 title: Causal Attention For Vision-language Tasks
 authors: Xu Yang, Hanwang Zhang, Guojun Qi, Jianfei Cai
-conference: Arxiv
+conference: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2021
-citations: 108
+citations: 113
 bibkey: yang2021causal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.03493'}, {name: Code,
     url: 'https://github.com/yangxuntu/catt'}]
-tags: [Ethics and Bias, Training Techniques, Transformer, Pre-Training, Attention
-    Mechanism, Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Ethics and Bias, Transformer,
+  Multimodal Models, Pre-Training, Training Techniques]
 ---
 We present a novel attention mechanism: Causal Attention (CATT), to remove
 the ever-elusive confounding effect in existing attention-based vision-language

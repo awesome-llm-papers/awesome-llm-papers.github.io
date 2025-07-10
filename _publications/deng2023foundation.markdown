@@ -3,13 +3,14 @@ layout: publication
 title: 'K2: A Foundation Language Model For Geoscience Knowledge Understanding And
   Utilization'
 authors: Cheng Deng et al.
-conference: Arxiv
+conference: 'WSDM ''24: The 17th ACM International Conference on Web Search and Data
+  Mining'
 year: 2023
-citations: 29
+citations: 33
 bibkey: deng2023foundation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.05064'}, {name: Code,
     url: 'https://github.com/davendw49/k2'}]
-tags: [Has Code, Applications, Tools, Training Techniques]
+tags: [Has Code, Applications, Tools, Training Techniques, Evaluation]
 ---
 Large language models (LLMs) have achieved great success in general domains
 of natural language processing. In this paper, we bring LLMs to the realm of

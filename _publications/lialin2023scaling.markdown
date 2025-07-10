@@ -7,8 +7,7 @@ year: 2023
 citations: 49
 bibkey: lialin2023scaling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.15647'}]
-tags: [Efficiency and Optimization, Fine-Tuning, Reinforcement Learning, Training
-    Techniques]
+tags: [Reinforcement Learning, Training Techniques, Fine-Tuning, Efficiency and Optimization]
 ---
 This paper presents a systematic overview of parameter-efficient fine-tuning
 methods, covering over 50 papers published between early 2019 and mid-2024.

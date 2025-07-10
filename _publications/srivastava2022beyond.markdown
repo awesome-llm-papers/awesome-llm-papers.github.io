@@ -8,8 +8,8 @@ year: 2022
 citations: 413
 bibkey: srivastava2022beyond
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.04615'}]
-tags: [Ethics and Bias, GPT, Transformer, Reinforcement Learning, Prompting, Model
-    Architecture]
+tags: [Model Architecture, Ethics and Bias, Transformer, Reinforcement Learning, Prompting,
+  GPT, Evaluation]
 ---
 Language models demonstrate both quantitative improvement and new qualitative
 capabilities with increasing scale. Despite their potentially transformative

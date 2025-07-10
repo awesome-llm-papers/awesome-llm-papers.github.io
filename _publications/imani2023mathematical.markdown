@@ -2,12 +2,13 @@
 layout: publication
 title: 'Mathprompter: Mathematical Reasoning Using Large Language Models'
 authors: Shima Imani, Liang Du, Harsh Shrivastava
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 5: Industry Track)'
 year: 2023
-citations: 48
+citations: 51
 bibkey: imani2023mathematical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.05398'}]
-tags: [GPT, Model Architecture, Prompting]
+tags: [GPT, Prompting, Model Architecture]
 ---
 Large Language Models (LLMs) have limited performance when solving arithmetic
 reasoning tasks and often provide incorrect answers. Unlike natural language

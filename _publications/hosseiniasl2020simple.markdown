@@ -7,7 +7,7 @@ year: 2020
 citations: 262
 bibkey: hosseiniasl2020simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00796'}]
-tags: [GPT, RAG, Security, Language Modeling, Model Architecture]
+tags: [Language Modeling, Security, Model Architecture, RAG, GPT, Evaluation]
 ---
 Task-oriented dialogue is often decomposed into three tasks: understanding
 user input, deciding actions, and generating a response. While such

@@ -2,14 +2,15 @@
 layout: publication
 title: On Transferability Of Prompt Tuning For Natural Language Processing
 authors: Yusheng Su et al.
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2021
 citations: 22
 bibkey: su2021transferability
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.06719'}, {name: Code,
     url: 'https://github.com/thunlp/Prompt-Transferability'}]
-tags: [Training Techniques, Fine-Tuning, Reinforcement Learning, Efficiency and Optimization,
-  Has Code, Prompting]
+tags: [Has Code, Fine-Tuning, Reinforcement Learning, Prompting, Efficiency and Optimization,
+  Training Techniques]
 ---
 Prompt tuning (PT) is a promising parameter-efficient method to utilize
 extremely large pre-trained language models (PLMs), which can achieve

@@ -3,12 +3,12 @@ layout: publication
 title: 'Language Models That Seek For Knowledge: Modular Search & Generation For Dialogue
   And Prompt Completion'
 authors: Kurt Shuster et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2022
 citations: 32
 bibkey: shuster2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.13224'}]
-tags: [GPT, Model Architecture, Prompting]
+tags: [GPT, Prompting, Model Architecture]
 ---
 Language models (LMs) have recently been shown to generate more factual
 responses by employing modularity (Zhou et al., 2021) in combination with

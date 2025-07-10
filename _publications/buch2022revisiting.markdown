@@ -2,12 +2,12 @@
 layout: publication
 title: Revisiting The "video" In Video-language Understanding
 authors: Shyamal Buch et al.
-conference: Arxiv
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
 citations: 85
 bibkey: buch2022revisiting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.01720'}]
-tags: [RAG, Efficiency and Optimization, Training Techniques, Multimodal Models]
+tags: [RAG, Multimodal Models, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 What makes a video task uniquely suited for videos, beyond what can be
 understood from a single image? Building on recent progress in self-supervised

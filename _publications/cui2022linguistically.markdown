@@ -8,7 +8,7 @@ citations: 23
 bibkey: cui2022linguistically
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.05344'}, {name: Code,
     url: 'https://github.com/ymcui/LERT'}]
-tags: [Masked Language Model, Training Techniques, Pre-Training, BERT, Has Code]
+tags: [Has Code, Masked Language Model, Pre-Training, Training Techniques, BERT]
 ---
 Pre-trained Language Model (PLM) has become a representative foundation model
 in the natural language processing field. Most PLMs are trained with

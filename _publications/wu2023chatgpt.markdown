@@ -7,7 +7,7 @@ year: 2023
 citations: 40
 bibkey: wu2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.13648'}]
-tags: [Reinforcement Learning, Attention Mechanism, Model Architecture, GPT]
+tags: [Model Architecture, Attention Mechanism, Reinforcement Learning, GPT, Evaluation]
 ---
 ChatGPT is a cutting-edge artificial intelligence language model developed by
 OpenAI, which has attracted a lot of attention due to its surprisingly strong

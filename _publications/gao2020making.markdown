@@ -2,12 +2,15 @@
 layout: publication
 title: Making Pre-trained Language Models Better Few-shot Learners
 authors: Tianyu Gao, Adam Fisch, Danqi Chen
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2020
-citations: 457
+citations: 468
 bibkey: gao2020making
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2012.15723v2'}]
-tags: [Training Techniques, GPT, RAG, Few-Shot, Fine-Tuning, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Few-Shot, Prompting, Training Techniques,
+  Evaluation]
 ---
 The recent GPT-3 model (Brown et al., 2020) achieves remarkable few-shot
 performance solely by leveraging a natural-language prompt and a few task

@@ -2,12 +2,12 @@
 layout: publication
 title: Language And Culture Internalisation For Human-like Autotelic AI
 authors: "C\xE9dric Colas, Tristan Karch, Cl\xE9ment Moulin-frier, Pierre-yves Oudeyer"
-conference: Nature Machine Intelligence 4 1068-1076 (2022)
+conference: Nature Machine Intelligence
 year: 2022
-citations: 18
+citations: 19
 bibkey: colas2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.01134'}]
-tags: [Merging, Fine-Tuning, Tools, Agentic, Reinforcement Learning]
+tags: [Fine-Tuning, Tools, Reinforcement Learning, Agentic, Merging]
 ---
 Building autonomous agents able to grow open-ended repertoires of skills
 across their lives is a fundamental goal of artificial intelligence (AI). A

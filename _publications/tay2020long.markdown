@@ -8,7 +8,7 @@ citations: 178
 bibkey: tay2020long
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.04006'}, {name: Code,
     url: 'https://github.com/google-research/long-range-arena'}]
-tags: [Transformer, Attention Mechanism, Tools, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, Tools, Evaluation]
 ---
 Transformers do not scale very well to long sequence lengths largely because
 of quadratic self-attention complexity. In the recent months, a wide spectrum

@@ -2,13 +2,14 @@
 layout: publication
 title: Inducing Language-agnostic Multilingual Representations
 authors: Wei Zhao, Steffen Eger, Johannes Bjerva, Isabelle Augenstein
-conference: Arxiv
+conference: 'Proceedings of *SEM 2021: The Tenth Joint Conference on Lexical and Computational
+  Semantics'
 year: 2020
 citations: 15
 bibkey: zhao2020inducing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.09112'}]
-tags: [Training Techniques, RAG, Reinforcement Learning, BERT, Model Architecture,
-  TACL, ACL]
+tags: [Model Architecture, RAG, TACL, ACL, Reinforcement Learning, BERT, Training
+    Techniques]
 ---
 Cross-lingual representations have the potential to make NLP techniques
 available to the vast majority of languages in the world. However, they

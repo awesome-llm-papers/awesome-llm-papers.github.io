@@ -7,7 +7,7 @@ year: 2023
 citations: 66
 bibkey: tang2023does
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.04360'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Tools, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Tools, Training Techniques]
 ---
 Recent advancements in large language models (LLMs) have led to the
 development of highly potent models like OpenAI's ChatGPT. These models have

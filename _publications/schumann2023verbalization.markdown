@@ -3,12 +3,12 @@ layout: publication
 title: 'VELMA: Verbalization Embodiment Of LLM Agents For Vision And Language Navigation
   In Street View'
 authors: Raphael Schumann et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 17
+citations: 19
 bibkey: schumann2023verbalization
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.06082'}]
-tags: [Reinforcement Learning, Agentic, Prompting]
+tags: [Agentic, Reinforcement Learning, Prompting]
 ---
 Incremental decision making in real-world environments is one of the most
 challenging tasks in embodied artificial intelligence. One particularly

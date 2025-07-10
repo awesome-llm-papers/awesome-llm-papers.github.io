@@ -3,13 +3,13 @@ layout: publication
 title: Large Language Models Can Infer Psychological Dispositions Of Social Media
   Users
 authors: Heinrich Peters, Sandra Matz
-conference: Arxiv
+conference: PNAS Nexus
 year: 2023
-citations: 21
+citations: 23
 bibkey: peters2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.08631'}]
-tags: [Ethics and Bias, Training Techniques, GPT, RAG, Tools, Reinforcement Learning,
-  Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, RAG, Tools, Reinforcement Learning,
+  Training Techniques]
 ---
 Large Language Models (LLMs) demonstrate increasingly human-like abilities
 across a wide variety of tasks. In this paper, we investigate whether LLMs like

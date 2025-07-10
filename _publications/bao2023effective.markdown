@@ -3,14 +3,14 @@ layout: publication
 title: 'Tallrec: An Effective And Efficient Tuning Framework To Align Large Language
   Model With Recommendation'
 authors: Keqin Bao et al.
-conference: Arxiv
+conference: 'RecSys ''23: Seventeenth ACM Conference on Recommender Systems'
 year: 2023
-citations: 125
+citations: 133
 bibkey: bao2023effective
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.00447'}, {name: Code,
     url: 'https://github.com/SAI990323/TALLRec'}]
-tags: [Training Techniques, RAG, Pre-Training, Tools, In-Context Learning, Has Code,
-  Prompting, LREC]
+tags: [Has Code, RAG, Tools, In-Context Learning, Prompting, Pre-Training, Training
+    Techniques, LREC]
 ---
 Large Language Models (LLMs) have demonstrated remarkable performance across
 diverse domains, thereby prompting researchers to explore their potential for

@@ -2,14 +2,14 @@
 layout: publication
 title: 'CDLM: Cross-document Language Modeling'
 authors: Avi Caciularu et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
 year: 2021
 citations: 15
 bibkey: caciularu2021cross
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00406'}, {name: Code,
     url: 'https://github.com/aviclu/CDLM'}]
-tags: [Masked Language Model, Training Techniques, Transformer, RAG, Attention Mechanism,
-  BERT, Has Code, Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Attention Mechanism, Transformer,
+  RAG, Masked Language Model, BERT, Training Techniques]
 ---
 We introduce a new pretraining approach geared for multi-document language
 modeling, incorporating two key ideas into the masked language modeling

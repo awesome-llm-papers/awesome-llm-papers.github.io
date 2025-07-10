@@ -2,7 +2,7 @@
 layout: publication
 title: 'PAQ: 65 Million Probably-asked Questions And What You Can Do With Them'
 authors: Patrick Lewis et al.
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2021
 citations: 36
 bibkey: lewis2021million

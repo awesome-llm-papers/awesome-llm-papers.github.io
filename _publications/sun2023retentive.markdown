@@ -8,8 +8,8 @@ citations: 70
 bibkey: sun2023retentive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.08621'}, {name: Code,
     url: 'https://aka.ms/retnet'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, Reinforcement Learning,
-  Has Code, Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Attention Mechanism, Transformer,
+  Reinforcement Learning, Training Techniques, Time Series]
 ---
 In this work, we propose Retentive Network (RetNet) as a foundation
 architecture for large language models, simultaneously achieving training

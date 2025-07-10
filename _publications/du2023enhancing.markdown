@@ -2,12 +2,12 @@
 layout: publication
 title: Enhancing Job Recommendation Through Llm-based Generative Adversarial Networks
 authors: Yingpeng Du et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 23
+citations: 27
 bibkey: du2023enhancing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.10747'}]
-tags: [RAG, Few-Shot, Tools, Reinforcement Learning, Security]
+tags: [Security, Few-Shot, RAG, Tools, Reinforcement Learning]
 ---
 Recommending suitable jobs to users is a critical task in online recruitment
 platforms, as it can enhance users' satisfaction and the platforms'

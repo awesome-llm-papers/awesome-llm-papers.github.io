@@ -4,10 +4,10 @@ title: 'Llama 2: Open Foundation And Fine-tuned Chat Models'
 authors: Hugo Touvron et al.
 conference: Arxiv
 year: 2023
-citations: 1714
+citations: 1725
 bibkey: touvron2023llama
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2307.09288v2'}]
-tags: [Fine-Tuning, Applications, Responsible AI, Training Techniques]
+tags: [Responsible AI, Fine-Tuning, Applications, Training Techniques, Evaluation]
 ---
 In this work, we develop and release Llama 2, a collection of pretrained and
 fine-tuned large language models (LLMs) ranging in scale from 7 billion to 70

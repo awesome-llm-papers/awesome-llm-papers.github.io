@@ -3,12 +3,12 @@ layout: publication
 title: Adapting And Evaluating A Deep Learning Language Model For Clinical Why-question
   Answering
 authors: Andrew Wen, Mohamed Y. Elwazir, Sungrim Moon, Jungwei Fan
-conference: Arxiv
+conference: JAMIA Open
 year: 2019
 citations: 22
 bibkey: wen2019adapting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.05604'}]
-tags: [Training Techniques, Transformer, Tools, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, Tools, BERT, Training Techniques, Evaluation]
 ---
 Objectives: To adapt and evaluate a deep learning language model for
 answering why-questions based on patient-specific clinical text. Materials and

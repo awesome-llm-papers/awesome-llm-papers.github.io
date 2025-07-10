@@ -4,10 +4,10 @@ title: Finetuned Language Models Are Zero-shot Learners
 authors: Jason Wei et al.
 conference: Arxiv
 year: 2021
-citations: 696
+citations: 699
 bibkey: wei2021finetuned
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2109.01652v5'}]
-tags: [Few-Shot, GPT, Model Architecture]
+tags: [GPT, Few-Shot, Model Architecture]
 ---
 This paper explores a simple method for improving the zero-shot learning
 abilities of language models. We show that instruction tuning -- finetuning

@@ -3,12 +3,12 @@ layout: publication
 title: A Comprehensive Evaluation Of Large Language Models On Benchmark Biomedical
   Text Processing Tasks
 authors: Israt Jahan, Md Tahmid Rahman Laskar, Chun Peng, Jimmy Huang
-conference: Arxiv
+conference: Computers in Biology and Medicine
 year: 2023
-citations: 41
+citations: 43
 bibkey: jahan2023comprehensive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.04270'}]
-tags: [Training Techniques]
+tags: [Training Techniques, Evaluation]
 ---
 Recently, Large Language Models (LLM) have demonstrated impressive capability
 to solve a wide range of tasks. However, despite their success across various

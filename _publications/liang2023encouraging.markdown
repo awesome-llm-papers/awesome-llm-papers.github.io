@@ -3,13 +3,15 @@ layout: publication
 title: Encouraging Divergent Thinking In Large Language Models Through Multi-agent
   Debate
 authors: Tian Liang et al.
-conference: Arxiv
+conference: Proceedings of the 2024 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 24
+citations: 37
 bibkey: liang2023encouraging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.19118'}, {name: Code,
     url: 'https://github.com/Skytliang/Multi-Agents-Debate'}]
-tags: [GPT, RAG, Tools, Agentic, Reinforcement Learning, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, RAG, Tools, Reinforcement Learning, Agentic,
+  GPT]
 ---
 Modern large language models (LLMs) like ChatGPT have shown remarkable
 performance on general language tasks but still struggle on complex reasoning

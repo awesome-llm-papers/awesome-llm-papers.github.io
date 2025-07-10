@@ -7,7 +7,7 @@ year: 2023
 citations: 87
 bibkey: yang2023baichuan
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.10305'}]
-tags: [Pre-Training, Training Techniques]
+tags: [Training Techniques, Pre-Training, Evaluation]
 ---
 Large language models (LLMs) have demonstrated remarkable performance on a
 variety of natural language tasks based on just a few examples of natural

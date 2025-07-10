@@ -2,12 +2,12 @@
 layout: publication
 title: Language Models As Agent Models
 authors: Jacob Andreas
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2022
 citations: 36
 bibkey: andreas2022language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.01681'}]
-tags: [Reinforcement Learning, Agentic, Training Techniques, Survey Paper]
+tags: [Agentic, Reinforcement Learning, Training Techniques, Survey Paper]
 ---
 Language models (LMs) are trained on collections of documents, written by
 individual human agents to achieve specific goals in an outside world. During

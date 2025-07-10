@@ -2,13 +2,13 @@
 layout: publication
 title: Exploring Chatgpt And Its Impact On Society
 authors: Md. Asraful Haque, Shuai Li
-conference: AI and Ethics (2024)
+conference: AI and Ethics
 year: 2024
 citations: 17
 bibkey: haque2024exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.14643'}]
-tags: [Ethics and Bias, Training Techniques, Transformer, GPT, Attention Mechanism,
-  Responsible AI, Applications, Model Architecture]
+tags: [Responsible AI, Model Architecture, Attention Mechanism, Ethics and Bias, GPT,
+  Transformer, Applications, Training Techniques]
 ---
 Artificial intelligence has been around for a while, but suddenly it has
 received more attention than ever before. Thanks to innovations from companies

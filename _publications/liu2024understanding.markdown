@@ -2,13 +2,13 @@
 layout: publication
 title: 'Understanding Llms: A Comprehensive Overview From Training To Inference'
 authors: Yiheng Liu et al.
-conference: Arxiv
+conference: Elsevier BV
 year: 2024
-citations: 16
+citations: 17
 bibkey: liu2024understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.02038'}]
-tags: [Training Techniques, GPT, Merging, Pre-Training, Fine-Tuning, Efficiency and
-    Optimization, Model Architecture, Quantization]
+tags: [Model Architecture, GPT, Fine-Tuning, Quantization, Pre-Training, Efficiency
+    and Optimization, Training Techniques, Merging]
 ---
 The introduction of ChatGPT has led to a significant increase in the
 utilization of Large Language Models (LLMs) for addressing downstream tasks.

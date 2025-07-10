@@ -7,7 +7,7 @@ year: 2019
 citations: 1093
 bibkey: houlsby2019parameter
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.00751'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, BERT, Training Techniques, Evaluation]
 ---
 Fine-tuning large pre-trained models is an effective transfer mechanism in
 NLP. However, in the presence of many downstream tasks, fine-tuning is

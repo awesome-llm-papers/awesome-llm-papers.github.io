@@ -5,11 +5,11 @@ title: 'Llm-empowered Chatbots For Psychiatrist And Patient Simulation: Applicat
 authors: Siyuan Chen et al.
 conference: Arxiv
 year: 2023
-citations: 23
+citations: 24
 bibkey: chen2023llm
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.13614'}]
-tags: [GPT, Fine-Tuning, Attention Mechanism, Reinforcement Learning, Prompting, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Fine-Tuning, Reinforcement Learning,
+  Prompting, GPT, Evaluation]
 ---
 Empowering chatbots in the field of mental health is receiving increasing
 amount of attention, while there still lacks exploration in developing and

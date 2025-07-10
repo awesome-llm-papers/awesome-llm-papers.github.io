@@ -7,7 +7,8 @@ year: 2023
 citations: 16
 bibkey: pan2023preliminary
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.04256'}]
-tags: [Training Techniques, GPT, Attention Mechanism, Prompting, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, GPT, Prompting, Training Techniques,
+  Evaluation]
 ---
 Zero-shot dialogue understanding aims to enable dialogue to track the user's
 needs without any training data, which has gained increasing attention. In this

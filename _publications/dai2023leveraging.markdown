@@ -2,12 +2,12 @@
 layout: publication
 title: 'Auggpt: Leveraging Chatgpt For Text Data Augmentation'
 authors: Haixing Dai et al.
-conference: Arxiv
+conference: IEEE Transactions on Big Data
 year: 2023
 citations: 16
 bibkey: dai2023leveraging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.13007'}]
-tags: [Training Techniques, GPT, RAG, Few-Shot, Model Architecture]
+tags: [Model Architecture, GPT, Few-Shot, RAG, Training Techniques]
 ---
 Text data augmentation is an effective strategy for overcoming the challenge
 of limited sample sizes in many natural language processing (NLP) tasks. This

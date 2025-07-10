@@ -7,7 +7,7 @@ year: 2023
 citations: 200
 bibkey: shen2023solving
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.17580v4'}]
-tags: [RAG, GPT, Agentic, Model Architecture]
+tags: [Agentic, GPT, RAG, Model Architecture]
 ---
 Solving complicated AI tasks with different domains and modalities is a key
 step toward artificial general intelligence. While there are numerous AI models

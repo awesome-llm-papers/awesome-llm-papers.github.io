@@ -2,13 +2,13 @@
 layout: publication
 title: Recommender Systems In The Era Of Large Language Models (llms)
 authors: Zihuai Zhao et al.
-conference: Arxiv
+conference: IEEE Transactions on Knowledge and Data Engineering
 year: 2023
-citations: 84
+citations: 91
 bibkey: zhao2023recommender
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2307.02046v6'}]
-tags: [Training Techniques, GPT, Merging, Pre-Training, RecSys, Tools, Fine-Tuning,
-  Applications, Survey Paper, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Applications, RecSys, Tools, Survey Paper,
+  Prompting, Pre-Training, Training Techniques, Merging]
 ---
 With the prosperity of e-commerce and web applications, Recommender Systems
 (RecSys) have become an important component of our daily life, providing

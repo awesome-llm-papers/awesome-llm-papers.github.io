@@ -3,13 +3,14 @@ layout: publication
 title: 'Towards Efficient Fine-tuning Of Pre-trained Code Models: An Experimental
   Study And Beyond'
 authors: Ensheng Shi et al.
-conference: Arxiv
+conference: 'ISSTA ''23: 32nd ACM SIGSOFT International Symposium on Software Testing
+  and Analysis'
 year: 2023
-citations: 16
+citations: 18
 bibkey: shi2023towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.05216'}, {name: Code,
     url: 'https://github.com/DeepSoftwareAnalytics/Telly'}]
-tags: [Training Techniques, Fine-Tuning, BERT, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Fine-Tuning, Training Techniques, BERT]
 ---
 Recently, fine-tuning pre-trained code models such as CodeBERT on downstream
 tasks has achieved great success in many software testing and analysis tasks.

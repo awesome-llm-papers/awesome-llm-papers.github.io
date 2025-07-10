@@ -2,12 +2,12 @@
 layout: publication
 title: Measuring And Narrowing The Compositionality Gap In Language Models
 authors: Ofir Press et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2022
-citations: 56
+citations: 58
 bibkey: press2022measuring
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2210.03350v3'}]
-tags: [Training Techniques, Model Architecture, GPT, Prompting]
+tags: [Training Techniques, Prompting, Model Architecture, GPT]
 ---
 We investigate the ability of language models to perform compositional
 reasoning tasks where the overall solution depends on correctly composing the

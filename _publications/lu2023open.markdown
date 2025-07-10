@@ -3,12 +3,12 @@ layout: publication
 title: 'RTLLM: An Open-source Benchmark For Design RTL Generation With Large Language
   Model'
 authors: Yao Lu, Shang Liu, Qijun Zhang, Zhiyao Xie
-conference: Asia and South Pacific Design Automation Conference (ASP-DAC) 2024
+conference: 2024 29th Asia and South Pacific Design Automation Conference (ASP-DAC)
 year: 2023
-citations: 49
+citations: 56
 bibkey: lu2023open
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.05345'}]
-tags: [GPT, Model Architecture, Prompting]
+tags: [GPT, Prompting, Model Architecture, Evaluation]
 ---
 Inspired by the recent success of large language models (LLMs) like ChatGPT,
 researchers start to explore the adoption of LLMs for agile hardware design,

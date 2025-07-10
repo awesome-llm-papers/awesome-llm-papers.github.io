@@ -2,12 +2,12 @@
 layout: publication
 title: Automatic Semantic Augmentation Of Language Model Prompts (for Code Summarization)
 authors: Toufique Ahmed, Kunal Suresh Pai, Premkumar Devanbu, Earl T. Barr
-conference: Arxiv
+conference: 'ICSE ''24: IEEE/ACM 46th International Conference on Software Engineering'
 year: 2023
-citations: 25
+citations: 35
 bibkey: ahmed2023automatic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.06815'}]
-tags: [Transformer, Few-Shot, Reinforcement Learning, Prompting, Model Architecture]
+tags: [Model Architecture, Transformer, Few-Shot, Reinforcement Learning, Prompting]
 ---
 Large Language Models (LLM) are a new class of computation engines,
 "programmed" via prompt engineering. We are still learning how to best

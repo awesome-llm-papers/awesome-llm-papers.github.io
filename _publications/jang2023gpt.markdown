@@ -3,13 +3,13 @@ layout: publication
 title: GPT-4 Can Pass The Korean National Licensing Examination For Korean Medicine
   Doctors
 authors: Dongyeop Jang, Tae-rim Yun, Choong-yeol Lee, Young-kyu Kwon, Chang-eop Kim
-conference: Arxiv
+conference: PLOS Digital Health
 year: 2023
-citations: 34
+citations: 35
 bibkey: jang2023gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.17807'}]
-tags: [Ethics and Bias, Training Techniques, GPT, RAG, Reinforcement Learning, Prompting,
-  Model Architecture]
+tags: [Model Architecture, Ethics and Bias, GPT, RAG, Reinforcement Learning, Prompting,
+  Training Techniques, Evaluation]
 ---
 Traditional Korean medicine (TKM) emphasizes individualized diagnosis and
 treatment. This uniqueness makes AI modeling difficult due to limited data and

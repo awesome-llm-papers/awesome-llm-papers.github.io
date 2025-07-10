@@ -8,7 +8,7 @@ year: 2023
 citations: 18
 bibkey: kim2023ai
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.09620'}]
-tags: [Merging, RAG, Tools, Reinforcement Learning, Applications, Survey Paper]
+tags: [RAG, Applications, Survey Paper, Tools, Reinforcement Learning, Merging]
 ---
 Large language models (LLMs) that produce human-like responses have begun to
 revolutionize research practices in the social sciences. We develop a novel

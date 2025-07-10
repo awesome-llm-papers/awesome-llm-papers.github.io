@@ -3,14 +3,14 @@ layout: publication
 title: 'RLHF-V: Towards Trustworthy Mllms Via Behavior Alignment From Fine-grained
   Correctional Human Feedback'
 authors: Tianyu Yu et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 21
+citations: 24
 bibkey: yu2023rlhf
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2312.00849v2'}, {name: Code,
     url: 'https://github.com/RLHF-V/RLHF-V'}]
-tags: [GPT, Reinforcement Learning, Efficiency and Optimization, Has Code, Applications,
-  Security, Multimodal Models, Model Architecture]
+tags: [Security, Has Code, Model Architecture, Applications, Reinforcement Learning,
+  Multimodal Models, Efficiency and Optimization, GPT, Evaluation]
 ---
 Multimodal Large Language Models (MLLMs) have recently demonstrated
 impressive capabilities in multimodal understanding, reasoning, and

@@ -7,8 +7,8 @@ year: 2022
 citations: 38
 bibkey: chan2022data
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.05055'}]
-tags: [Training Techniques, Transformer, RAG, Few-Shot, In-Context Learning, Model
-    Architecture]
+tags: [Model Architecture, Transformer, Few-Shot, RAG, In-Context Learning, Training
+    Techniques]
 ---
 Large transformer-based models are able to perform in-context few-shot
 learning, without being explicitly trained for it. This observation raises the

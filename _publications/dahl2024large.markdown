@@ -2,12 +2,12 @@
 layout: publication
 title: 'Large Legal Fictions: Profiling Legal Hallucinations In Large Language Models'
 authors: Matthew Dahl, Varun Magesh, Mirac Suzgun, Daniel E. Ho
-conference: Journal of Legal Analysis 16 no. 1 (2024) 64-93
+conference: Journal of Legal Analysis
 year: 2024
-citations: 50
+citations: 55
 bibkey: dahl2024large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.01301'}]
-tags: [Tools, Model Architecture, GPT]
+tags: [Tools, GPT, Model Architecture]
 ---
 Do large language models (LLMs) know the law? These models are increasingly
 being used to augment legal practice, education, and research, yet their

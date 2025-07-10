@@ -7,7 +7,7 @@ year: 2023
 citations: 55
 bibkey: shen2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.08979'}]
-tags: [GPT, Security, Model Architecture]
+tags: [Security, Model Architecture, GPT]
 ---
 The way users acquire information is undergoing a paradigm shift with the
 advent of ChatGPT. Unlike conventional search engines, ChatGPT retrieves

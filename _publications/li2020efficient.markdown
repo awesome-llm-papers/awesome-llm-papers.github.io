@@ -3,13 +3,13 @@ layout: publication
 title: Efficient Transformer-based Large Scale Language Representations Using Hardware-friendly
   Block Structured Pruning
 authors: Bingbing Li et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
 citations: 20
 bibkey: li2020efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.08065'}]
-tags: [Distillation, Transformer, RAG, Tools, BERT, Efficiency and Optimization, Pruning,
-  Model Architecture]
+tags: [Model Architecture, Distillation, Transformer, Pruning, RAG, Tools, Efficiency
+    and Optimization, BERT, Evaluation]
 ---
 Pre-trained large-scale language models have increasingly demonstrated high
 accuracy on many natural language processing (NLP) tasks. However, the limited

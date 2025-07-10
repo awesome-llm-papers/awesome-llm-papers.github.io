@@ -2,12 +2,12 @@
 layout: publication
 title: Jointly Optimizing Diversity And Relevance In Neural Response Generation
 authors: Xiang Gao et al.
-conference: Arxiv
+conference: Proceedings of the 2019 Conference of the North
 year: 2019
 citations: 18
 bibkey: gao2019jointly
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.11205'}]
-tags: [RAG, Merging]
+tags: [RAG, Evaluation, Merging]
 ---
 Although recent neural conversation models have shown great potential, they
 often generate bland and generic responses. While various approaches have been

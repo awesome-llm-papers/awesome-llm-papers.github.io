@@ -3,13 +3,13 @@ layout: publication
 title: 'Bad Actor, Good Advisor: Exploring The Role Of Large Language Models In Fake
   News Detection'
 authors: Beizhe Hu et al.
-conference: AAAI 2024
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 48
+citations: 54
 bibkey: hu2023bad
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.12247'}]
-tags: [Distillation, GPT, Reinforcement Learning, BERT, Efficiency and Optimization,
-  Model Architecture]
+tags: [Model Architecture, Distillation, GPT, Reinforcement Learning, Efficiency and
+    Optimization, BERT]
 ---
 Detecting fake news requires both a delicate sense of diverse clues and a
 profound understanding of the real-world background, which remains challenging

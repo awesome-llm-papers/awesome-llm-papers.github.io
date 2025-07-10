@@ -2,12 +2,13 @@
 layout: publication
 title: Improving Vision-and-language Navigation With Image-text Pairs From The Web
 authors: Arjun Majumdar et al.
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2020
 citations: 91
 bibkey: majumdar2020improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.14973'}]
-tags: [Training Techniques, Transformer, RAG, Fine-Tuning, Agentic, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, RAG, BERT, Agentic, Training
+    Techniques]
 ---
 Following a navigation instruction such as 'Walk down the stairs and stop at
 the brown sofa' requires embodied AI agents to ground scene elements referenced

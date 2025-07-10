@@ -9,7 +9,7 @@ citations: 15
 bibkey: jang2023exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.03202'}, {name: Code,
     url: 'https://github.com/joeljang/ELM'}]
-tags: [Training Techniques, Merging, RAG, Fine-Tuning, Has Code, Prompting]
+tags: [Has Code, Fine-Tuning, RAG, Prompting, Training Techniques, Evaluation, Merging]
 ---
 Recently, Language Models (LMs) instruction-tuned on multiple tasks, also
 known as multitask-prompted fine-tuning (MT), have shown the capability to

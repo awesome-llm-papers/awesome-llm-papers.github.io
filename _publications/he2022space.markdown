@@ -3,13 +3,14 @@ layout: publication
 title: 'SPACE-3: Unified Dialog Model Pre-training For Task-oriented Dialog Understanding
   And Generation'
 authors: Wanwei He et al.
-conference: Arxiv
+conference: 'SIGIR ''22: The 45th International ACM SIGIR Conference on Research and
+  Development in Information Retrieval'
 year: 2022
 citations: 18
 bibkey: he2022space
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.06664'}]
-tags: [Training Techniques, Transformer, Pre-Training, Few-Shot, Efficiency and Optimization,
-  Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Few-Shot, Pre-Training,
+  Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 Recently, pre-training methods have shown remarkable success in task-oriented
 dialog (TOD) systems. However, most existing pre-trained models for TOD focus

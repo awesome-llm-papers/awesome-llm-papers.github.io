@@ -4,10 +4,10 @@ title: 'Paperqa: Retrieval-augmented Generative Agent For Scientific Research'
 authors: "Jakub L\xE1la et al."
 conference: Arxiv
 year: 2023
-citations: 21
+citations: 23
 bibkey: "l\xE1la2023retrieval"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.07559'}]
-tags: [RAG, Interpretability and Explainability, Agentic]
+tags: [Interpretability and Explainability, RAG, Evaluation, Agentic]
 ---
 Large Language Models (LLMs) generalize well across language tasks, but
 suffer from hallucinations and uninterpretability, making it difficult to

@@ -4,11 +4,11 @@ title: 'GMAT: Global Memory Augmentation For Transformers'
 authors: Ankit Gupta, Jonathan Berant
 conference: Arxiv
 year: 2020
-citations: 24
+citations: 25
 bibkey: gupta2020global
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.03274'}]
-tags: [Masked Language Model, Transformer, Attention Mechanism, BERT, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Masked
+    Language Model, BERT]
 ---
 Transformer-based models have become ubiquitous in natural language
 processing thanks to their large capacity, innate parallelism and high

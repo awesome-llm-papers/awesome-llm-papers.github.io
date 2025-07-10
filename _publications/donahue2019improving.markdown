@@ -8,8 +8,8 @@ year: 2019
 citations: 48
 bibkey: donahue2019improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.04868'}]
-tags: [Training Techniques, Transformer, RAG, Pre-Training, Reinforcement Learning,
-  Fine-Tuning, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, RAG, Reinforcement Learning,
+  Pre-Training, Training Techniques]
 ---
 We are interested in the task of generating multi-instrumental music scores.
 The Transformer architecture has recently shown great promise for the task of

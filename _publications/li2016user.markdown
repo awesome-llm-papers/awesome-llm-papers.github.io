@@ -7,7 +7,7 @@ year: 2016
 citations: 145
 bibkey: li2016user
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1612.05688'}]
-tags: [RAG, Tools, Agentic, Reinforcement Learning, TACL, ACL]
+tags: [RAG, TACL, ACL, Tools, Reinforcement Learning, Agentic]
 ---
 Despite widespread interests in reinforcement-learning for task-oriented
 dialogue systems, several obstacles can frustrate research and development

@@ -7,7 +7,7 @@ year: 2019
 citations: 48
 bibkey: chen2019gmail
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.00080'}]
-tags: [RAG, Training Techniques]
+tags: [Training Techniques, RAG, Evaluation]
 ---
 In this paper, we present Smart Compose, a novel system for generating
 interactive, real-time suggestions in Gmail that assists users in writing mails

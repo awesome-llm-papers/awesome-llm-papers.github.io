@@ -5,10 +5,10 @@ title: One Question Answering Model For Many Languages With Cross-lingual Dense 
 authors: Akari Asai, Xinyan Yu, Jungo Kasai, Hannaneh Hajishirzi
 conference: Arxiv
 year: 2021
-citations: 30
+citations: 31
 bibkey: asai2021one
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.11976'}]
-tags: [Reinforcement Learning, GPT, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Evaluation, GPT]
 ---
 We present Cross-lingual Open-Retrieval Answer Generation (CORA), the first
 unified many-to-many question answering (QA) model that can answer questions

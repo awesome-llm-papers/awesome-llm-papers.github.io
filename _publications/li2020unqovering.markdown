@@ -2,13 +2,13 @@
 layout: publication
 title: Unqovering Stereotyping Biases Via Underspecified Questions
 authors: Tao Li, Tushar Khot, Daniel Khashabi, Ashish Sabharwal, Vivek Srikumar
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
-citations: 16
+citations: 18
 bibkey: li2020unqovering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.02428'}]
-tags: [Ethics and Bias, Training Techniques, Transformer, Fine-Tuning, Tools, Reinforcement
-    Learning, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, Transformer, Fine-Tuning, Tools, Reinforcement
+    Learning, Training Techniques]
 ---
 While language embeddings have been shown to have stereotyping biases, how
 these biases affect downstream question answering (QA) models remains

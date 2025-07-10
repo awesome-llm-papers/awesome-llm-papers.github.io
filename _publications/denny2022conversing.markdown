@@ -3,9 +3,9 @@ layout: publication
 title: 'Conversing With Copilot: Exploring Prompt Engineering For Solving CS1 Problems
   Using Natural Language'
 authors: Paul Denny, Viraj Kumar, Nasser Giacaman
-conference: Arxiv
+conference: 'SIGCSE 2023: The 54th ACM Technical Symposium on Computer Science Education'
 year: 2022
-citations: 181
+citations: 185
 bibkey: denny2022conversing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.15157'}]
 tags: [Reinforcement Learning, Prompting]

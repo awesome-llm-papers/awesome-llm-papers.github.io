@@ -2,12 +2,13 @@
 layout: publication
 title: 'CAT-LM: Training Language Models On Aligned Code And Tests'
 authors: Nikitha Rao, Kush Jain, Uri Alon, Claire Le Goues, Vincent J. Hellendoorn
-conference: Arxiv
+conference: 2023 38th IEEE/ACM International Conference on Automated Software Engineering
+  (ASE)
 year: 2023
-citations: 16
+citations: 21
 bibkey: rao2023cat
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.01602'}]
-tags: [Training Techniques, GPT, RAG, Tools, Applications, Model Architecture]
+tags: [Model Architecture, GPT, RAG, Applications, Tools, Training Techniques]
 ---
 Testing is an integral part of the software development process. Yet, writing
 tests is time-consuming and therefore often neglected. Classical test

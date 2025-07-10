@@ -3,12 +3,13 @@ layout: publication
 title: Can Large Language Models Reason About Medical Questions?
 authors: "Valentin Li\xE9vin, Christoffer Egeberg Hother, Andreas Geert Motzfeldt,\
   \ Ole Winther"
-conference: Arxiv
+conference: Patterns
 year: 2022
-citations: 86
+citations: 90
 bibkey: "li\xE9vin2022can"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.08143'}]
-tags: [GPT, RAG, Few-Shot, Reinforcement Learning, Prompting, Model Architecture]
+tags: [Model Architecture, Few-Shot, RAG, Reinforcement Learning, Prompting, GPT,
+  Evaluation]
 ---
 Although large language models (LLMs) often produce impressive outputs, it
 remains unclear how they perform in real-world scenarios requiring strong

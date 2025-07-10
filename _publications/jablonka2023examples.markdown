@@ -3,12 +3,12 @@ layout: publication
 title: '14 Examples Of How Llms Can Transform Materials Science And Chemistry: A Reflection
   On A Large Language Model Hackathon'
 authors: Kevin Maik Jablonka et al.
-conference: Arxiv
+conference: Digital Discovery
 year: 2023
-citations: 112
+citations: 117
 bibkey: jablonka2023examples
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.06283'}]
-tags: [Applications, Model Architecture, GPT, Tools]
+tags: [Tools, GPT, Model Architecture, Applications]
 ---
 Large-language models (LLMs) such as GPT-4 caught the interest of many
 scientists. Recent studies suggested that these models could be useful in

@@ -4,12 +4,12 @@ title: 'Visual Chatgpt: Talking, Drawing And Editing With Visual Foundation Mode
 authors: Chenfei Wu et al.
 conference: Arxiv
 year: 2023
-citations: 147
+citations: 149
 bibkey: wu2023visual
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2303.04671v1'}, {name: Code,
     url: 'https://github.com/microsoft/visual-chatgpt'}]
-tags: [GPT, Transformer, Merging, Reinforcement Learning, Has Code, Prompting, Model
-    Architecture]
+tags: [Has Code, Model Architecture, Transformer, Reinforcement Learning, Prompting,
+  GPT, Merging]
 ---
 ChatGPT is attracting a cross-field interest as it provides a language
 interface with remarkable conversational competency and reasoning capabilities

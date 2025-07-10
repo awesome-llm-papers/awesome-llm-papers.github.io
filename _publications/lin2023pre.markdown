@@ -2,13 +2,13 @@
 layout: publication
 title: 'VILA: On Pre-training For Visual Language Models'
 authors: Ji Lin et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 35
+citations: 39
 bibkey: lin2023pre
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.07533'}]
-tags: [Training Techniques, Pre-Training, Reinforcement Learning, Tools, Fine-Tuning,
-  In-Context Learning]
+tags: [Fine-Tuning, Tools, Reinforcement Learning, In-Context Learning, Pre-Training,
+  Training Techniques, Evaluation]
 ---
 Visual language models (VLMs) rapidly progressed with the recent success of
 large language models. There have been growing efforts on visual instruction

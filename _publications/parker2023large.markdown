@@ -2,13 +2,13 @@
 layout: publication
 title: A Large Language Model Approach To Educational Survey Feedback Analysis
 authors: Michael J. Parker, Caitlin Anderson, Claire Stone, Yearim Oh
-conference: Int J Artif Intell Educ (2024)
+conference: International Journal of Artificial Intelligence in Education
 year: 2023
 citations: 16
 bibkey: parker2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.17447'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Reinforcement Learning, Applications,
-  Survey Paper, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Applications, Survey Paper, Reinforcement
+    Learning, Prompting, Training Techniques]
 ---
 This paper assesses the potential for the large language models (LLMs) GPT-4
 and GPT-3.5 to aid in deriving insight from education feedback surveys.

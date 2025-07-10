@@ -2,13 +2,13 @@
 layout: publication
 title: GPT Detectors Are Biased Against Non-native English Writers
 authors: Weixin Liang, Mert Yuksekgonul, Yining Mao, Eric Wu, James Zou
-conference: Arxiv
+conference: Patterns
 year: 2023
-citations: 178
+citations: 186
 bibkey: liang2023gpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.02819'}]
-tags: [Ethics and Bias, GPT, Tools, Reinforcement Learning, Security, Bias Mitigation,
-  Fairness, Prompting, Model Architecture]
+tags: [Security, Model Architecture, Ethics and Bias, Fairness, Tools, Reinforcement
+    Learning, Bias Mitigation, Prompting, GPT]
 ---
 The rapid adoption of generative language models has brought about
 substantial advancements in digital communication, while simultaneously raising

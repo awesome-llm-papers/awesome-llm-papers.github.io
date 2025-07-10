@@ -2,12 +2,13 @@
 layout: publication
 title: 'Lamp: When Large Language Models Meet Personalization'
 authors: Alireza Salemi, Sheshera Mysore, Michael Bendersky, Hamed Zamani
-conference: Arxiv
+conference: 'Proceedings of the 62nd Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
-citations: 15
+citations: 19
 bibkey: salemi2023when
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.11406'}]
-tags: [Language Modeling, Tools, Training Techniques]
+tags: [Language Modeling, Training Techniques, Tools, Evaluation]
 ---
 This paper highlights the importance of personalization in large language
 models and introduces the LaMP benchmark -- a novel benchmark for training and

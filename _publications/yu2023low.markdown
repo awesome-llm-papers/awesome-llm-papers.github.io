@@ -3,13 +3,13 @@ layout: publication
 title: Low-rank Adaptation Of Large Language Model Rescoring For Parameter-efficient
   Speech Recognition
 authors: Yu Yu et al.
-conference: Proc. IEEE ASRU Workshop Dec. 2023
+conference: 2023 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
 year: 2023
 citations: 20
 bibkey: yu2023low
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.15223'}]
-tags: [Training Techniques, INTERSPEECH, Fine-Tuning, BERT, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, Fine-Tuning, Training Techniques, BERT,
+  INTERSPEECH]
 ---
 We propose a neural language modeling system based on low-rank adaptation
 (LoRA) for speech recognition output rescoring. Although pretrained language

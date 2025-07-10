@@ -7,7 +7,7 @@ year: 2023
 citations: 31
 bibkey: sumers2023cognitive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.02427'}]
-tags: [Tools, Agentic, Survey Paper, Prompting, Model Architecture]
+tags: [Model Architecture, Survey Paper, Tools, Prompting, Agentic]
 ---
 Recent efforts have augmented large language models (LLMs) with external
 resources (e.g., the Internet) or internal control flows (e.g., prompt

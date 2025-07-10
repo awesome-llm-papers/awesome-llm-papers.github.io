@@ -2,14 +2,14 @@
 layout: publication
 title: 'LISA: Reasoning Segmentation Via Large Language Model'
 authors: Xin Lai et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 72
+citations: 75
 bibkey: lai2023reasoning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.00692'}, {name: Code,
     url: 'https://github.com/dvlab-research/LISA'}]
-tags: [Training Techniques, Fine-Tuning, Reinforcement Learning, Has Code, Multimodal
-    Models]
+tags: [Has Code, Fine-Tuning, Reinforcement Learning, Multimodal Models, Training
+    Techniques, Evaluation]
 ---
 Although perception systems have made remarkable advancements in recent
 years, they still rely on explicit human instruction or pre-defined categories

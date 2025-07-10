@@ -3,12 +3,13 @@ layout: publication
 title: 'Fake News In Sheep''s Clothing: Robust Fake News Detection Against Llm-empowered
   Style Attacks'
 authors: Jiaying Wu, Jiafeng Guo, Bryan Hooi
-conference: Arxiv
+conference: 'KDD ''24: The 30th ACM SIGKDD Conference on Knowledge Discovery and Data
+  Mining'
 year: 2023
-citations: 20
+citations: 23
 bibkey: wu2023fake
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.10830'}]
-tags: [Reinforcement Learning, Security, Training Techniques]
+tags: [Training Techniques, Reinforcement Learning, Security, Evaluation]
 ---
 It is commonly perceived that fake news and real news exhibit distinct
 writing styles, such as the use of sensationalist versus objective language.

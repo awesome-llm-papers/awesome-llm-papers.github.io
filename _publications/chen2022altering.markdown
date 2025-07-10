@@ -2,13 +2,13 @@
 layout: publication
 title: 'Altclip: Altering The Language Encoder In CLIP For Extended Language Capabilities'
 authors: Zhongzhi Chen et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL 2023'
 year: 2022
-citations: 16
+citations: 17
 bibkey: chen2022altering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.06679'}, {name: Code,
     url: 'https://github.com/FlagAI-Open/FlagAI'}]
-tags: [Has Code, Training Techniques, Multimodal Models]
+tags: [Has Code, Training Techniques, Multimodal Models, Evaluation]
 ---
 In this work, we present a conceptually simple and effective method to train
 a strong bilingual/multilingual multimodal representation model. Starting from

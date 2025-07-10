@@ -8,7 +8,8 @@ year: 2019
 citations: 71
 bibkey: ye2019mask
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.06725'}]
-tags: [Training Techniques, Transformer, Pre-Training, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, Pre-Training, BERT, Training
+    Techniques, Evaluation]
 ---
 The state-of-the-art pre-trained language representation models, such as
 Bidirectional Encoder Representations from Transformers (BERT), rarely

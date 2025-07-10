@@ -8,7 +8,7 @@ year: 2021
 citations: 24
 bibkey: ma2021evaluation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.06052'}]
-tags: [Tools, Security]
+tags: [Tools, Security, Evaluation]
 ---
 We introduce Dynaboard, an evaluation-as-a-service framework for hosting
 benchmarks and conducting holistic model comparison, integrated with the

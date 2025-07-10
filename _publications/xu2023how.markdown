@@ -2,13 +2,14 @@
 layout: publication
 title: How To Unleash The Power Of Large Language Models For Few-shot Relation Extraction?
 authors: Xin Xu, Yuqi Zhu, Xiaohan Wang, Ningyu Zhang
-conference: Arxiv
+conference: Proceedings of The Fourth Workshop on Simple and Efficient Natural Language
+  Processing (SustaiNLP)
 year: 2023
 citations: 16
 bibkey: xu2023how
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.01555'}, {name: Code,
     url: 'https://github.com/zjunlp/DeepKE/tree/main/example/llm'}]
-tags: [GPT, Few-Shot, In-Context Learning, Has Code, Prompting, Model Architecture]
+tags: [Has Code, Model Architecture, Few-Shot, In-Context Learning, Prompting, GPT]
 ---
 Scaling language models have revolutionized widespread NLP tasks, yet little
 comprehensively explored few-shot relation extraction with large language

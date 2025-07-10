@@ -3,12 +3,13 @@ layout: publication
 title: '(A)I Am Not A Lawyer, But...: Engaging Legal Experts Towards Responsible LLM
   Policies For Legal Advice'
 authors: Inyoung Cheong, King Xia, K. J. Kevin Feng, Quan Ze Chen, Amy X. Zhang
-conference: Arxiv
+conference: 'FAccT ''24: The 2024 ACM Conference on Fairness, Accountability, and
+  Transparency'
 year: 2024
-citations: 30
+citations: 38
 bibkey: cheong2024am
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2402.01864'}]
-tags: [Tools, Reinforcement Learning, Survey Paper]
+tags: [Survey Paper, Tools, Reinforcement Learning]
 ---
 Large language models (LLMs) are increasingly capable of providing users with
 advice in a wide range of professional domains, including legal advice.

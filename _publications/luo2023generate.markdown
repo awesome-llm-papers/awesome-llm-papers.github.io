@@ -3,12 +3,12 @@ layout: publication
 title: 'Chatkbqa: A Generate-then-retrieve Framework For Knowledge Base Question Answering
   With Fine-tuned Large Language Models'
 authors: Haoran Luo et al.
-conference: ACL 2024
+conference: Findings of the Association for Computational Linguistics ACL 2024
 year: 2023
-citations: 20
+citations: 22
 bibkey: luo2023generate
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.08975'}]
-tags: [RAG, Tools]
+tags: [Tools, RAG]
 ---
 Knowledge Base Question Answering (KBQA) aims to answer natural language
 questions over large-scale knowledge bases (KBs), which can be summarized into

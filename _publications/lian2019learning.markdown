@@ -2,12 +2,13 @@
 layout: publication
 title: Learning To Select Knowledge For Response Generation In Dialog Systems
 authors: Rongzhong Lian, Min Xie, Fan Wang, Jinhua Peng, Hua Wu
-conference: Arxiv
+conference: Twenty-Eighth International Joint Conference on Artificial Intelligence
+  {IJCAI-19}
 year: 2019
 citations: 69
 bibkey: lian2019learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.04911'}]
-tags: [RAG, Training Techniques]
+tags: [Training Techniques, RAG, Evaluation]
 ---
 End-to-end neural models for intelligent dialogue systems suffer from the
 problem of generating uninformative responses. Various methods were proposed to

@@ -3,14 +3,14 @@ layout: publication
 title: 'Speechprompt: An Exploration Of Prompt Tuning On Generative Spoken Language
   Model For Speech Processing Tasks'
 authors: Kai-wei Chang, Wei-cheng Tseng, Shang-wen Li, Hung-yi Lee
-conference: Arxiv
+conference: Interspeech 2022
 year: 2022
 citations: 24
 bibkey: chang2022exploration
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.16773'}, {name: Code,
     url: 'https://github.com/ga642381/SpeechPrompt'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Efficiency and Optimization, Has Code,
-  Prompting]
+tags: [Has Code, Fine-Tuning, RAG, Prompting, Efficiency and Optimization, Training
+    Techniques]
 ---
 Speech representations learned from Self-supervised learning (SSL) models can
 benefit various speech processing tasks. However, utilizing SSL representations

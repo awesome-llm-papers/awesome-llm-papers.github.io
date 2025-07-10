@@ -3,12 +3,12 @@ layout: publication
 title: '"it''s A Fair Game", Or Is It? Examining How Users Navigate Disclosure Risks
   And Benefits When Using Llm-based Conversational Agents'
 authors: Zhiping Zhang et al.
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 26
+citations: 32
 bibkey: zhang2023fair
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.11653'}]
-tags: [GPT, RAG, Reinforcement Learning, Agentic, Model Architecture]
+tags: [Model Architecture, RAG, Reinforcement Learning, Agentic, GPT]
 ---
 The widespread use of Large Language Model (LLM)-based conversational agents
 (CAs), especially in high-stakes domains, raises many privacy concerns.

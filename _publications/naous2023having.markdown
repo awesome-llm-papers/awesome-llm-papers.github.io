@@ -2,14 +2,15 @@
 layout: publication
 title: Having Beer After Prayer? Measuring Cultural Bias In Large Language Models
 authors: Tarek Naous, Michael J. Ryan, Alan Ritter, Wei Xu
-conference: Arxiv
+conference: 'Proceedings of the 62nd Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
-citations: 19
+citations: 23
 bibkey: naous2023having
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.14456'}, {name: Code,
     url: 'https://github.com/tareknaous/camel'}]
-tags: [Ethics and Bias, Training Techniques, Pre-Training, Has Code, Fairness, Bias
-    Mitigation, Prompting]
+tags: [Has Code, Ethics and Bias, Fairness, Bias Mitigation, Prompting, Pre-Training,
+  Training Techniques, Evaluation]
 ---
 As the reach of large language models (LMs) expands globally, their ability
 to cater to diverse cultural contexts becomes crucial. Despite advancements in

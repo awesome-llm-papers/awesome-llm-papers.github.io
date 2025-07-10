@@ -2,12 +2,12 @@
 layout: publication
 title: Shortcut Learning Of Large Language Models In Natural Language Understanding
 authors: Mengnan Du, Fengxiang He, Na Zou, Dacheng Tao, Xia Hu
-conference: Arxiv
+conference: Communications of the ACM
 year: 2022
-citations: 34
+citations: 37
 bibkey: du2022shortcut
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.11857'}]
-tags: [Ethics and Bias, Security, Survey Paper]
+tags: [Survey Paper, Security, Ethics and Bias]
 ---
 Large language models (LLMs) have achieved state-of-the-art performance on a
 series of natural language understanding tasks. However, these LLMs might rely

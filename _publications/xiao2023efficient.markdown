@@ -8,8 +8,8 @@ citations: 19
 bibkey: xiao2023efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.17453'}, {name: Code,
     url: 'https://github.com/mit-han-lab/streaming-llm'}]
-tags: [Training Techniques, Pre-Training, Attention Mechanism, Fine-Tuning, Tools,
-  Has Code, Applications, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Fine-Tuning, Applications,
+  Tools, Pre-Training, Training Techniques]
 ---
 Deploying Large Language Models (LLMs) in streaming applications such as
 multi-round dialogue, where long interactions are expected, is urgently needed

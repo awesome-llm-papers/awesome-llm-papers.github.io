@@ -8,8 +8,8 @@ citations: 65
 bibkey: fu2023comprehensive
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2306.13394v4'}, {name: Code,
     url: 'https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation'}]
-tags: [Reinforcement Learning, Efficiency and Optimization, Has Code, Prompting, Multimodal
-    Models]
+tags: [Has Code, Reinforcement Learning, Multimodal Models, Prompting, Efficiency
+    and Optimization, Evaluation]
 ---
 Multimodal Large Language Model (MLLM) relies on the powerful LLM to perform
 multimodal tasks, showing amazing emergent abilities in recent studies, such as

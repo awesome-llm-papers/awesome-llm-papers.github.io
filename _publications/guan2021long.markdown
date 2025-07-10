@@ -2,12 +2,14 @@
 layout: publication
 title: Long Text Generation By Modeling Sentence-level And Discourse-level Coherence
 authors: Jian Guan et al.
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
-citations: 16
+citations: 18
 bibkey: guan2021long
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.08963'}]
-tags: [Language Modeling, Reinforcement Learning, Training Techniques]
+tags: [Language Modeling, Training Techniques, Reinforcement Learning]
 ---
 Generating long and coherent text is an important but challenging task,
 particularly for open-ended language generation tasks such as story generation.

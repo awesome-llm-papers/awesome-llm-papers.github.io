@@ -3,12 +3,12 @@ layout: publication
 title: 'M3P: Learning Universal Representations Via Multitask Multilingual Multimodal
   Pre-training'
 authors: Minheng Ni et al.
-conference: Arxiv
+conference: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2020
-citations: 42
+citations: 43
 bibkey: ni2020learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.02635'}]
-tags: [Training Techniques, RAG, Pre-Training, Tools, Multimodal Models]
+tags: [RAG, Tools, Multimodal Models, Pre-Training, Training Techniques, Evaluation]
 ---
 We present M3P, a Multitask Multilingual Multimodal Pre-trained model that
 combines multilingual pre-training and multimodal pre-training into a unified

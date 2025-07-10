@@ -3,14 +3,13 @@ layout: publication
 title: 'Empowering Molecule Discovery For Molecule-caption Translation With Large
   Language Models: A Chatgpt Perspective'
 authors: Jiatong Li et al.
-conference: Arxiv
+conference: IEEE Transactions on Knowledge and Data Engineering
 year: 2023
-citations: 17
+citations: 18
 bibkey: li2023empowering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.06615'}]
-tags: [Training Techniques, GPT, RAG, Pre-Training, Tools, Few-Shot, Reinforcement
-    Learning, Fine-Tuning, In-Context Learning, Applications, Multimodal Models, Model
-    Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Few-Shot, Applications, Tools, Reinforcement
+    Learning, Multimodal Models, Pre-Training, In-Context Learning, Training Techniques]
 ---
 Molecule discovery plays a crucial role in various scientific fields,
 advancing the design of tailored materials and drugs. However, most of the

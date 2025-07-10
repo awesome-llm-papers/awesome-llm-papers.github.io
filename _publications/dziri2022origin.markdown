@@ -3,12 +3,13 @@ layout: publication
 title: 'On The Origin Of Hallucinations In Conversational Models: Is It The Datasets
   Or The Models?'
 authors: Nouha Dziri, Sivan Milton, Mo Yu, Osmar Zaiane, Siva Reddy
-conference: Arxiv
+conference: 'Proceedings of the 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2022
-citations: 51
+citations: 53
 bibkey: dziri2022origin
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.07931'}]
-tags: [Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Evaluation]
 ---
 Knowledge-grounded conversational models are known to suffer from producing
 factually invalid statements, a phenomenon commonly called hallucination. In

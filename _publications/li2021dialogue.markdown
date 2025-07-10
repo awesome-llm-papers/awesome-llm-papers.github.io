@@ -3,13 +3,13 @@ layout: publication
 title: Dialogue History Matters! Personalized Response Selectionin Multi-turn Retrieval-based
   Chatbots
 authors: Juntao Li et al.
-conference: Arxiv
+conference: ACM Transactions on Information Systems
 year: 2021
 citations: 15
 bibkey: li2021dialogue
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2103.09534'}]
-tags: [Transformer, Attention Mechanism, Reinforcement Learning, Applications, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Applications, Reinforcement
+    Learning]
 ---
 Existing multi-turn context-response matching methods mainly concentrate on
 obtaining multi-level and multi-dimension representations and better

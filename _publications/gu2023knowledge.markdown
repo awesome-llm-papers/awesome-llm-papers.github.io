@@ -8,8 +8,8 @@ citations: 16
 bibkey: gu2023knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.08543'}, {name: Code,
     url: 'https://github.com/microsoft/LMOps/tree/main/minillm'}]
-tags: [Ethics and Bias, Distillation, GPT, Training Techniques, Tools, Efficiency
-    and Optimization, Has Code, Language Modeling, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, Ethics and Bias, Distillation,
+  GPT, Tools, Efficiency and Optimization, Training Techniques]
 ---
 Knowledge Distillation (KD) is a promising technique for reducing the high
 computational demand of large language models (LLMs). However, previous KD

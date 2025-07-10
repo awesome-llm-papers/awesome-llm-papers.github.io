@@ -2,12 +2,13 @@
 layout: publication
 title: Sequence-level Mixed Sample Data Augmentation
 authors: Demi Guo, Yoon Kim, Alexander M. Rush
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 18
+citations: 19
 bibkey: guo2020sequence
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.09039'}]
-tags: [RAG, Training Techniques, Transformer, Model Architecture]
+tags: [Transformer, Training Techniques, RAG, Model Architecture]
 ---
 Despite their empirical success, neural networks still have difficulty
 capturing compositional aspects of natural language. This work proposes a

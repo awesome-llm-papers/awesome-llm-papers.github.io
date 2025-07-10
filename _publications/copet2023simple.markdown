@@ -8,7 +8,7 @@ citations: 47
 bibkey: copet2023simple
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.05284'}, {name: Code,
     url: 'https://github.com/facebookresearch/audiocraft'}]
-tags: [Has Code, Reinforcement Learning, Transformer, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Reinforcement Learning, Evaluation]
 ---
 We tackle the task of conditional music generation. We introduce MusicGen, a
 single Language Model (LM) that operates over several streams of compressed

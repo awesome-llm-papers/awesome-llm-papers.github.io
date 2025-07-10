@@ -8,8 +8,8 @@ citations: 22
 bibkey: yang2023teaching
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.18752v1'}, {name: Code,
     url: 'https://github.com/StevenGrove/GPT4Tools'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Tools, Efficiency and Optimization,
-  Has Code, Prompting, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Fine-Tuning, Tools, Multimodal Models, Prompting,
+  Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 This paper aims to efficiently enable Large Language Models (LLMs) to use
 multimodal tools. Advanced proprietary LLMs, such as ChatGPT and GPT-4, have

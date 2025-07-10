@@ -2,12 +2,13 @@
 layout: publication
 title: What Makes Good In-context Examples For GPT-\(3\)?
 authors: Jiachang Liu et al.
-conference: Arxiv
+conference: 'Proceedings of Deep Learning Inside Out (DeeLIO 2022): The 3rd Workshop
+  on Knowledge Extraction and Integration for Deep Learning Architectures'
 year: 2021
-citations: 216
+citations: 231
 bibkey: liu2021what
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.06804'}]
-tags: [GPT, RAG, Few-Shot, Attention Mechanism, Prompting, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Few-Shot, RAG, Prompting, GPT, Evaluation]
 ---
 GPT-\\(3\\) has attracted lots of attention due to its superior performance
 across a wide range of NLP tasks, especially with its powerful and versatile

@@ -2,13 +2,13 @@
 layout: publication
 title: Evaluation Of Chatgpt Family Of Models For Biomedical Reasoning And Classification
 authors: Shan Chen et al.
-conference: Arxiv
+conference: Journal of the American Medical Informatics Association
 year: 2023
-citations: 32
+citations: 36
 bibkey: chen2023evaluation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.02496'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Tools, BERT, Applications, Prompting,
-  Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Applications, Tools, Prompting, BERT,
+  Training Techniques, Evaluation]
 ---
 Recent advances in large language models (LLMs) have shown impressive ability
 in biomedical question-answering, but have not been adequately investigated for

@@ -5,11 +5,11 @@ title: 'P-tuning V2: Prompt Tuning Can Be Comparable To Fine-tuning Universally 
 authors: Xiao Liu et al.
 conference: Arxiv
 year: 2021
-citations: 246
+citations: 249
 bibkey: liu2021p
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2110.07602v3'}, {name: Code,
     url: 'https://github.com/THUDM/P-tuning-v2'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Reinforcement Learning, Has Code, Prompting]
+tags: [Has Code, Fine-Tuning, RAG, Reinforcement Learning, Prompting, Training Techniques]
 ---
 Prompt tuning, which only tunes continuous prompts with a frozen language
 model, substantially reduces per-task storage and memory usage at training.

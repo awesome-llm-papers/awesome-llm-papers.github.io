@@ -7,7 +7,8 @@ year: 2021
 citations: 44
 bibkey: madotto2021few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2110.08118'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Few-Shot, Prompting, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Few-Shot, Prompting, Training Techniques,
+  Evaluation]
 ---
 Learning to converse using only a few examples is a great challenge in
 conversational AI. The current best conversational models, which are either

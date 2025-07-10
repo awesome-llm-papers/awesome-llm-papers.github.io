@@ -3,12 +3,14 @@ layout: publication
 title: 'All That''s ''human'' Is Not Gold: Evaluating Human Evaluation Of Generated
   Text'
 authors: Elizabeth Clark et al.
-conference: Arxiv
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
 year: 2021
-citations: 86
+citations: 88
 bibkey: clark2021all
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2107.00061'}]
-tags: [Training Techniques, Model Architecture, GPT]
+tags: [Training Techniques, Model Architecture, Evaluation, GPT]
 ---
 Human evaluations are typically considered the gold standard in natural
 language generation, but as models' fluency improves, how well can evaluators

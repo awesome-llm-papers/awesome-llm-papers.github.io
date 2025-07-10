@@ -3,12 +3,12 @@ layout: publication
 title: A Study On The Implementation Of Generative AI Services Using An Enterprise
   Data-based LLM Application Architecture
 authors: Cheonsu Jeong
-conference: Arxiv
+conference: Advances in Artificial Intelligence and Machine Learning
 year: 2023
-citations: 36
+citations: 38
 bibkey: jeong2023study
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.01105'}]
-tags: [RAG, Fine-Tuning, Training Techniques, Model Architecture]
+tags: [Training Techniques, Fine-Tuning, Model Architecture, RAG]
 ---
 This study presents a method for implementing generative AI services by
 utilizing the Large Language Models (LLM) application architecture. With recent

@@ -8,8 +8,8 @@ year: 2020
 citations: 67
 bibkey: chung2020rethinking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.12821'}]
-tags: [Training Techniques, Transformer, RAG, Pre-Training, Fine-Tuning, Efficiency
-    and Optimization, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, RAG, Pre-Training, Efficiency
+    and Optimization, Training Techniques, Evaluation]
 ---
 We re-evaluate the standard practice of sharing weights between input and
 output embeddings in state-of-the-art pre-trained language models. We show that

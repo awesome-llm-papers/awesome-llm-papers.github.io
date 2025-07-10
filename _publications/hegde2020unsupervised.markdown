@@ -7,7 +7,7 @@ year: 2020
 citations: 44
 bibkey: hegde2020unsupervised
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.05477'}]
-tags: [RAG, GPT, Model Architecture]
+tags: [GPT, RAG, Model Architecture]
 ---
 Large scale Pre-trained Language Models have proven to be very powerful
 approach in various Natural language tasks. OpenAI's GPT-2

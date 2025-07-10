@@ -2,14 +2,14 @@
 layout: publication
 title: Adapting Large Language Models By Integrating Collaborative Semantics For Recommendation
 authors: Bowen Zheng et al.
-conference: Arxiv
+conference: 2024 IEEE 40th International Conference on Data Engineering (ICDE)
 year: 2023
-citations: 18
+citations: 19
 bibkey: zheng2023adapting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.09049'}, {name: Code,
     url: 'https://github.com/RUCAIBox/LC-Rec/'}]
-tags: [Training Techniques, RAG, Fine-Tuning, RecSys, Efficiency and Optimization,
-  Has Code, Quantization]
+tags: [Has Code, Fine-Tuning, RAG, Quantization, RecSys, Efficiency and Optimization,
+  Training Techniques]
 ---
 Recently, large language models (LLMs) have shown great potential in
 recommender systems, either improving existing recommendation models or serving

@@ -4,11 +4,11 @@ title: Exploring Visual Prompts For Adapting Large-scale Models
 authors: Hyojin Bahng, Ali Jahanian, Swami Sankaranarayanan, Phillip Isola
 conference: Arxiv
 year: 2022
-citations: 94
+citations: 95
 bibkey: bahng2022exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.17274'}, {name: Code,
     url: 'http://hjbahng.github.io/visual_prompting'}]
-tags: [Has Code, Reinforcement Learning, Security, Prompting]
+tags: [Reinforcement Learning, Security, Prompting, Has Code]
 ---
 We investigate the efficacy of visual prompting to adapt large-scale models
 in vision. Following the recent approach from prompt tuning and adversarial

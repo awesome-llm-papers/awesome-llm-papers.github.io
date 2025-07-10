@@ -2,13 +2,14 @@
 layout: publication
 title: 'Pmc-llama: Towards Building Open-source Language Models For Medicine'
 authors: Chaoyi Wu et al.
-conference: Arxiv
+conference: Journal of the American Medical Informatics Association
 year: 2023
-citations: 98
+citations: 109
 bibkey: wu2023pmc
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.14454'}, {name: Code,
     url: 'https://github.com/chaoyi-wu/PMC-LLaMA'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Has Code, Applications, Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Fine-Tuning, Applications, Training Techniques,
+  Evaluation]
 ---
 Recently, Large Language Models (LLMs) have showcased remarkable capabilities
 in natural language understanding. While demonstrating proficiency in everyday

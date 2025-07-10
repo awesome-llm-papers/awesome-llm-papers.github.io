@@ -2,12 +2,13 @@
 layout: publication
 title: 'MT6: Multilingual Pretrained Text-to-text Transformer With Translation Pairs'
 authors: Zewen Chi et al.
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 26
 bibkey: chi2021multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08692'}]
-tags: [Training Techniques, Transformer, GPT, Pre-Training, Model Architecture]
+tags: [Model Architecture, GPT, Transformer, Pre-Training, Training Techniques, Evaluation]
 ---
 Multilingual T5 (mT5) pretrains a sequence-to-sequence model on massive
 monolingual texts, which has shown promising results on many cross-lingual

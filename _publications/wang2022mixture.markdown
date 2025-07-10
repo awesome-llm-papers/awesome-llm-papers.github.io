@@ -2,13 +2,14 @@
 layout: publication
 title: 'Adamix: Mixture-of-adaptations For Parameter-efficient Model Tuning'
 authors: Yaqing Wang et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 38
+citations: 40
 bibkey: wang2022mixture
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.17451'}]
-tags: [Training Techniques, Transformer, RAG, Few-Shot, Reinforcement Learning, Fine-Tuning,
-  Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, RAG, Few-Shot, Reinforcement
+    Learning, Training Techniques]
 ---
 Standard fine-tuning of large pre-trained language models (PLMs) for
 downstream tasks requires updating hundreds of millions to billions of

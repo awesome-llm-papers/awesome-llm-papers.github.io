@@ -5,11 +5,11 @@ title: 'LUT-GEMM: Quantized Matrix Multiplication Based On Luts For Efficient In
 authors: Gunho Park et al.
 conference: Arxiv
 year: 2022
-citations: 16
+citations: 17
 bibkey: park2022lut
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.09557'}]
-tags: [Training Techniques, Transformer, Efficiency and Optimization, Model Architecture,
-  Quantization]
+tags: [Model Architecture, Transformer, Quantization, Efficiency and Optimization,
+  Training Techniques]
 ---
 Recent advances in self-supervised learning and the Transformer architecture
 have significantly improved natural language processing (NLP), achieving

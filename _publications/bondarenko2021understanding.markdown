@@ -2,14 +2,15 @@
 layout: publication
 title: Understanding And Overcoming The Challenges Of Efficient Transformer Quantization
 authors: Yelysei Bondarenko, Markus Nagel, Tijmen Blankevoort
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
-citations: 32
+citations: 35
 bibkey: bondarenko2021understanding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.12948'}, {name: Code,
     url: 'https://github.com/qualcomm-ai-research/transformer-quantization'}]
-tags: [Training Techniques, Transformer, RAG, Attention Mechanism, BERT, Efficiency
-    and Optimization, Has Code, Model Architecture, Quantization]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, RAG, Quantization,
+  BERT, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 Transformer-based architectures have become the de-facto standard models for
 a wide range of Natural Language Processing tasks. However, their memory

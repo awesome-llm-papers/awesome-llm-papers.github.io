@@ -3,13 +3,13 @@ layout: publication
 title: Encoding Syntactic Knowledge In Transformer Encoder For Intent Detection And
   Slot Filling
 authors: Jixuan Wang, Kai Wei, Martin Radfar, Weiwei Zhang, Clement Chung
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2020
 citations: 18
 bibkey: wang2020encoding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.11689'}]
-tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Pre-Training, Training
+    Techniques, Evaluation]
 ---
 We propose a novel Transformer encoder-based architecture with syntactical
 knowledge encoded for intent detection and slot filling. Specifically, we

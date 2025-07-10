@@ -7,7 +7,7 @@ year: 2021
 citations: 21
 bibkey: sheng2021revealing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08728'}]
-tags: [Ethics and Bias, Tools, Model Architecture, GPT]
+tags: [Tools, GPT, Model Architecture, Ethics and Bias]
 ---
 Dialogue systems in the form of chatbots and personal assistants are being
 increasingly integrated into people's lives. Modern dialogue systems may

@@ -7,7 +7,7 @@ year: 2019
 citations: 113
 bibkey: das2019multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.05733'}]
-tags: [RAG, Tools, Model Architecture]
+tags: [Tools, RAG, Model Architecture]
 ---
 This paper introduces a new framework for open-domain question answering in
 which the retriever and the reader iteratively interact with each other. The

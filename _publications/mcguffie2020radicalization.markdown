@@ -7,7 +7,7 @@ year: 2020
 citations: 81
 bibkey: mcguffie2020radicalization
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.06807'}]
-tags: [GPT, Model Architecture, Prompting]
+tags: [GPT, Prompting, Model Architecture]
 ---
 In this paper, we expand on our previous research of the potential for abuse
 of generative language models by assessing GPT-3. Experimenting with prompts

@@ -8,7 +8,7 @@ citations: 65
 bibkey: zhang2021differentiable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.13161'}, {name: Code,
     url: 'https://github.com/zjunlp/DART'}]
-tags: [Few-Shot, Reinforcement Learning, Has Code, Applications, Prompting]
+tags: [Has Code, Few-Shot, Applications, Reinforcement Learning, Prompting, Evaluation]
 ---
 Large-scale pre-trained language models have contributed significantly to
 natural language processing by demonstrating remarkable abilities as few-shot

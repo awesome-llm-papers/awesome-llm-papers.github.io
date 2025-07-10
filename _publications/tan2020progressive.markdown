@@ -2,12 +2,13 @@
 layout: publication
 title: Progressive Generation Of Long Text With Pretrained Language Models
 authors: Bowen Tan, Zichao Yang, Maruan Ai-shedivat, Eric P. Xing, Zhiting Hu
-conference: Arxiv
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2020
-citations: 16
+citations: 20
 bibkey: tan2020progressive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.15720'}]
-tags: [Efficiency and Optimization, GPT, Model Architecture]
+tags: [Efficiency and Optimization, GPT, Model Architecture, Evaluation]
 ---
 Large-scale language models (LMs) pretrained on massive corpora of text, such
 as GPT-2, are powerful open-domain text generators. However, as our systematic

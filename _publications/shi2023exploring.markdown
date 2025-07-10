@@ -8,8 +8,8 @@ year: 2023
 citations: 17
 bibkey: shi2023exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.12298'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Attention Mechanism, Reinforcement Learning,
-  Agentic, Security, Model Architecture]
+tags: [Security, Model Architecture, Attention Mechanism, GPT, Fine-Tuning, Reinforcement
+    Learning, Agentic, Training Techniques]
 ---
 Recently, ChatGPT has gained significant attention in research due to its
 ability to interact with humans effectively. The core idea behind this model is

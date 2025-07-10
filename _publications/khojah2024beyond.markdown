@@ -4,12 +4,12 @@ title: 'Beyond Code Generation: An Observational Study Of Chatgpt Usage In Softw
   Engineering Practice'
 authors: Ranim Khojah, Mazen Mohamad, Philipp Leitner, Francisco Gomes De Oliveira
   Neto
-conference: Arxiv
+conference: Proceedings of the ACM on Software Engineering
 year: 2024
-citations: 17
+citations: 20
 bibkey: khojah2024beyond
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2404.14901'}]
-tags: [GPT, Reinforcement Learning, Tools, Survey Paper, Model Architecture]
+tags: [Model Architecture, Survey Paper, Tools, Reinforcement Learning, GPT]
 ---
 Large Language Models (LLMs) are frequently discussed in academia and the
 general public as support tools for virtually any use case that relies on the

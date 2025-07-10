@@ -2,12 +2,12 @@
 layout: publication
 title: 'Gtrans: Grouping And Fusing Transformer Layers For Neural Machine Translation'
 authors: Jian Yang et al.
-conference: Arxiv
+conference: IEEE/ACM Transactions on Audio, Speech, and Language Processing
 year: 2022
-citations: 15
+citations: 16
 bibkey: yang2022grouping
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.14467'}]
-tags: [WMT, Transformer, Model Architecture]
+tags: [Transformer, WMT, Model Architecture, Evaluation]
 ---
 Transformer structure, stacked by a sequence of encoder and decoder network
 layers, achieves significant development in neural machine translation.

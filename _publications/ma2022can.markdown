@@ -2,12 +2,12 @@
 layout: publication
 title: 'CREPE: Can Vision-language Foundation Models Reason Compositionally?'
 authors: Zixian Ma et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
 citations: 37
 bibkey: ma2022can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.07796'}]
-tags: [Training Techniques, Model Architecture, GPT, Multimodal Models]
+tags: [Model Architecture, GPT, Multimodal Models, Training Techniques, Evaluation]
 ---
 A fundamental characteristic common to both human vision and natural language
 is their compositional nature. Yet, despite the performance gains contributed

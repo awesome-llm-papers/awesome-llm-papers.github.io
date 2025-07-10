@@ -2,9 +2,10 @@
 layout: publication
 title: 'GLTR: Statistical Detection And Visualization Of Generated Text'
 authors: Sebastian Gehrmann, Hendrik Strobelt, Alexander M. Rush
-conference: Arxiv
+conference: 'Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics: System Demonstrations'
 year: 2019
-citations: 123
+citations: 128
 bibkey: gehrmann2019statistical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.04043'}]
 tags: [Language Modeling, Training Techniques, Tools, Reinforcement Learning]

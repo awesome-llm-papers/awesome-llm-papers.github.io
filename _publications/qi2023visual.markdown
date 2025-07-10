@@ -2,13 +2,13 @@
 layout: publication
 title: Visual Adversarial Examples Jailbreak Aligned Large Language Models
 authors: Xiangyu Qi et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2023
-citations: 36
+citations: 37
 bibkey: qi2023visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.13213'}]
-tags: [GPT, Merging, Few-Shot, Responsible AI, Security, Multimodal Models, Model
-    Architecture]
+tags: [Responsible AI, Security, Model Architecture, Few-Shot, Multimodal Models,
+  GPT, Merging]
 ---
 Recently, there has been a surge of interest in integrating vision into Large
 Language Models (LLMs), exemplified by Visual Language Models (VLMs) such as

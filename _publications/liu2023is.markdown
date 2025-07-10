@@ -7,8 +7,8 @@ year: 2023
 citations: 32
 bibkey: liu2023is
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2304.10149v3'}]
-tags: [GPT, Few-Shot, Reinforcement Learning, Interpretability and Explainability,
-  In-Context Learning, Prompting, Model Architecture]
+tags: [Model Architecture, Few-Shot, Interpretability and Explainability, Reinforcement
+    Learning, In-Context Learning, Prompting, GPT, Evaluation]
 ---
 Recommendation systems have witnessed significant advancements and have been
 widely used over the past decades. However, most traditional recommendation

@@ -3,12 +3,12 @@ layout: publication
 title: 'Codegru: Context-aware Deep Learning With Gated Recurrent Unit For Source
   Code Modeling'
 authors: Yasir Hussain, Zhiqiu Huang, Yu Zhou, Senzhang Wang
-conference: Information and Software Technology. Volume 125 September 2020 106309
+conference: Information and Software Technology
 year: 2019
 citations: 28
 bibkey: hussain2019context
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1903.00884'}]
-tags: [RAG, Applications, Training Techniques, Reinforcement Learning]
+tags: [RAG, Applications, Reinforcement Learning, Training Techniques, Evaluation]
 ---
 Recently deep learning based Natural Language Processing (NLP) models have
 shown great potential in the modeling of source code. However, a major

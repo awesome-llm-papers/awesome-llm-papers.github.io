@@ -2,12 +2,13 @@
 layout: publication
 title: Chatgpt For PLC/DCS Control Logic Generation
 authors: Heiko Koziolek, Sten Gruener, Virendra Ashiwal
-conference: Arxiv
+conference: 2023 IEEE 28th International Conference on Emerging Technologies and Factory
+  Automation (ETFA)
 year: 2023
-citations: 17
+citations: 19
 bibkey: koziolek2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.15809'}]
-tags: [GPT, Fine-Tuning, Reinforcement Learning, Prompting, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, Reinforcement Learning, Prompting, GPT, Evaluation]
 ---
 Large language models (LLMs) providing generative AI have become popular to
 support software engineers in creating, summarizing, optimizing, and

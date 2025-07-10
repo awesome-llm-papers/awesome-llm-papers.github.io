@@ -2,9 +2,10 @@
 layout: publication
 title: Enabling Language Models To Fill In The Blanks
 authors: Chris Donahue, Mina Lee, Percy Liang
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
-citations: 39
+citations: 41
 bibkey: donahue2020enabling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.05339'}]
 tags: [Language Modeling, Tools, Attention Mechanism, Model Architecture]

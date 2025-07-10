@@ -2,14 +2,14 @@
 layout: publication
 title: Exploring The Universal Vulnerability Of Prompt-based Learning Paradigm
 authors: Lei Xu, Yangyi Chen, Ganqu Cui, Hongcheng Gao, Zhiyuan Liu
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: NAACL 2022'
 year: 2022
 citations: 21
 bibkey: xu2022exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.05239'}, {name: Code,
     url: 'https://github.com/leix28/prompt-universal-vulnerability'}]
-tags: [Training Techniques, Pre-Training, Few-Shot, Fine-Tuning, Has Code, Security,
-  Prompting]
+tags: [Security, Has Code, Fine-Tuning, Few-Shot, Prompting, Pre-Training, Training
+    Techniques]
 ---
 Prompt-based learning paradigm bridges the gap between pre-training and
 fine-tuning, and works effectively under the few-shot setting. However, we find

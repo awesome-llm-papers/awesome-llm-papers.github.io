@@ -8,7 +8,7 @@ citations: 28
 bibkey: sun2022recitation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.01296'}, {name: Code,
     url: 'https://github.com/Edward-Sun/RECITE'}]
-tags: [RAG, Has Code]
+tags: [Has Code, RAG]
 ---
 We propose a new paradigm to help Large Language Models (LLMs) generate more
 accurate factual knowledge without retrieving from an external corpus, called

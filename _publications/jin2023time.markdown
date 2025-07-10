@@ -7,7 +7,8 @@ year: 2023
 citations: 60
 bibkey: jin2023time
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.01728'}]
-tags: [RAG, Few-Shot, Tools, Reinforcement Learning, Applications, Prompting]
+tags: [Few-Shot, RAG, Applications, Tools, Reinforcement Learning, Prompting, Time
+    Series, Evaluation]
 ---
 Time series forecasting holds significant importance in many real-world
 dynamic systems and has been extensively studied. Unlike natural language

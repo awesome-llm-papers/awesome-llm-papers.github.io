@@ -2,13 +2,14 @@
 layout: publication
 title: 'ETC: Encoding Long And Structured Inputs In Transformers'
 authors: Joshua Ainslie et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 93
+citations: 95
 bibkey: ainslie2020encoding
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.08483'}]
-tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Pre-Training, Training
+    Techniques]
 ---
 Transformer models have advanced the state of the art in many Natural
 Language Processing (NLP) tasks. In this paper, we present a new Transformer

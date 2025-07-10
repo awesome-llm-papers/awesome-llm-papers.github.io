@@ -4,11 +4,12 @@ title: 'VL-BERT: Pre-training Of Generic Visual-linguistic Representations'
 authors: Weijie Su et al.
 conference: Arxiv
 year: 2019
-citations: 709
+citations: 710
 bibkey: su2019vl
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.08530'}, {name: Code,
     url: 'https://github.com/jackroos/VL-BERT'}]
-tags: [Training Techniques, Transformer, Pre-Training, BERT, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Pre-Training, BERT, Training Techniques,
+  Evaluation]
 ---
 We introduce a new pre-trainable generic representation for visual-linguistic
 tasks, called Visual-Linguistic BERT (VL-BERT for short). VL-BERT adopts the

@@ -7,7 +7,7 @@ year: 2022
 citations: 22
 bibkey: liu2022prompting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.01543'}]
-tags: [Efficiency and Optimization, Few-Shot, Security, Prompting]
+tags: [Efficiency and Optimization, Security, Few-Shot, Prompting]
 ---
 Recently, prompt-based learning for pre-trained language models has succeeded
 in few-shot Named Entity Recognition (NER) by exploiting prompts as task

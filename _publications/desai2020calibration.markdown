@@ -2,12 +2,13 @@
 layout: publication
 title: Calibration Of Pre-trained Transformers
 authors: Shrey Desai, Greg Durrett
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 48
+citations: 51
 bibkey: desai2020calibration
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.07892'}]
-tags: [Transformer, Model Architecture, BERT]
+tags: [Transformer, BERT, Model Architecture]
 ---
 Pre-trained Transformers are now ubiquitous in natural language processing,
 but despite their high end-task performance, little is known empirically about

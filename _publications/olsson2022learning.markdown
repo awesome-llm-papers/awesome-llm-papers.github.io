@@ -7,8 +7,8 @@ year: 2022
 citations: 57
 bibkey: olsson2022learning
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.11895'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, In-Context Learning,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, In-Context Learning,
+  Training Techniques]
 ---
 "Induction heads" are attention heads that implement a simple algorithm to
 complete token sequences like [A][B] ... [A] -> [B]. In this work, we present

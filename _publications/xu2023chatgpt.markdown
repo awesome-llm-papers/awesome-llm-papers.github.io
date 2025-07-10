@@ -2,12 +2,12 @@
 layout: publication
 title: 'Chatgpt Vs. Google: A Comparative Study Of Search Performance And User Experience'
 authors: Ruiyun Rayna Xu, Yue Katherine Feng, Hailiang Chen
-conference: Arxiv
+conference: SSRN Electronic Journal
 year: 2023
 citations: 21
 bibkey: xu2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.01135'}]
-tags: [GPT, Tools, Reinforcement Learning, Prompting, Model Architecture]
+tags: [Model Architecture, Tools, Reinforcement Learning, Prompting, GPT]
 ---
 The advent of ChatGPT, a large language model-powered chatbot, has prompted
 questions about its potential implications for traditional search engines. In

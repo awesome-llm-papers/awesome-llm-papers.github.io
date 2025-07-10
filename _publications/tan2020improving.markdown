@@ -3,14 +3,15 @@ layout: publication
 title: 'Vokenization: Improving Language Understanding With Contextualized, Visual-grounded
   Supervision'
 authors: Hao Tan, Mohit Bansal
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 23
 bibkey: tan2020improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.06775'}, {name: Code,
     url: 'https://github.com/airsplay/vokenization'}]
-tags: [Training Techniques, Pre-Training, Reinforcement Learning, Tools, Fine-Tuning,
-  Has Code, Multimodal Models]
+tags: [Has Code, Fine-Tuning, Tools, Reinforcement Learning, Multimodal Models, Pre-Training,
+  Training Techniques]
 ---
 Humans learn language by listening, speaking, writing, reading, and also, via
 interaction with the multimodal real world. Existing language pre-training

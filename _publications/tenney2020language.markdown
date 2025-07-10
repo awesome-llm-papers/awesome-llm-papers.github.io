@@ -3,14 +3,15 @@ layout: publication
 title: 'The Language Interpretability Tool: Extensible, Interactive Visualizations
   And Analysis For NLP Models'
 authors: Ian Tenney et al.
-conference: Arxiv
+conference: 'Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing: System Demonstrations'
 year: 2020
-citations: 54
+citations: 57
 bibkey: tenney2020language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.05122'}, {name: Code,
     url: 'https://github.com/pair-code/lit'}]
-tags: [Ethics and Bias, Fine-Tuning, Tools, Interpretability and Explainability, Reinforcement
-    Learning, Has Code, Language Modeling]
+tags: [Language Modeling, Has Code, Ethics and Bias, Fine-Tuning, Interpretability
+    and Explainability, Tools, Reinforcement Learning]
 ---
 We present the Language Interpretability Tool (LIT), an open-source platform
 for visualization and understanding of NLP models. We focus on core questions

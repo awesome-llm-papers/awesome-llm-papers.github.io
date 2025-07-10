@@ -7,7 +7,7 @@ year: 2017
 citations: 80
 bibkey: daniluk2017frustratingly
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1702.04521'}]
-tags: [Language Modeling, Attention Mechanism, Transformer, Model Architecture]
+tags: [Transformer, Language Modeling, Model Architecture, Attention Mechanism]
 ---
 Neural language models predict the next token using a latent representation
 of the immediate token history. Recently, various methods for augmenting neural

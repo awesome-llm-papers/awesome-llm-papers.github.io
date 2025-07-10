@@ -7,8 +7,8 @@ year: 2019
 citations: 103
 bibkey: htut2019do
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.12246'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Attention Mechanism, BERT, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Fine-Tuning, BERT, Training
+    Techniques]
 ---
 We investigate the extent to which individual attention heads in pretrained
 transformer language models, such as BERT and RoBERTa, implicitly capture

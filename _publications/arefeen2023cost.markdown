@@ -2,12 +2,12 @@
 layout: publication
 title: 'Leancontext: Cost-efficient Domain-specific Question Answering Using Llms'
 authors: Md Adnan Arefeen, Biplob Debnath, Srimat Chakradhar
-conference: Arxiv
+conference: Natural Language Processing Journal
 year: 2023
-citations: 18
+citations: 22
 bibkey: arefeen2023cost
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.00841'}]
-tags: [Tools, Agentic, Reinforcement Learning, Arxiv]
+tags: [Agentic, Tools, Reinforcement Learning, Arxiv]
 ---
 Question-answering (QA) is a significant application of Large Language Models
 (LLMs), shaping chatbot capabilities across healthcare, education, and customer

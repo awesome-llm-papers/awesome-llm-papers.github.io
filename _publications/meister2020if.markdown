@@ -2,7 +2,8 @@
 layout: publication
 title: If Beam Search Is The Answer, What Was The Question?
 authors: Clara Meister, Tim Vieira, Ryan Cotterell
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 22
 bibkey: meister2020if

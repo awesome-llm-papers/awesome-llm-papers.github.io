@@ -2,13 +2,14 @@
 layout: publication
 title: Few-shot In-context Learning For Knowledge Base Question Answering
 authors: Tianle Li et al.
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
 citations: 25
 bibkey: li2023few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.01750'}, {name: Code,
     url: 'https://github.com/ltl3A87/KB-BINDER'}]
-tags: [Training Techniques, RAG, Few-Shot, Tools, In-Context Learning, Has Code]
+tags: [Has Code, Few-Shot, RAG, Tools, In-Context Learning, Training Techniques]
 ---
 Question answering over knowledge bases is considered a difficult problem due
 to the challenge of generalizing to a wide variety of possible natural language

@@ -7,8 +7,8 @@ year: 2020
 citations: 25
 bibkey: liang2020towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.00593'}]
-tags: [Distillation, Training Techniques, RAG, Reinforcement Learning, Tools, Efficiency
-    and Optimization]
+tags: [Distillation, RAG, Tools, Reinforcement Learning, Efficiency and Optimization,
+  Training Techniques, Evaluation]
 ---
 Large-scale language models have recently demonstrated impressive empirical
 performance. Nevertheless, the improved results are attained at the price of

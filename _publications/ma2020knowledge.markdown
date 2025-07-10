@@ -3,12 +3,12 @@ layout: publication
 title: Knowledge-driven Data Construction For Zero-shot Evaluation In Commonsense
   Question Answering
 authors: Kaixin Ma et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2020
 citations: 22
 bibkey: ma2020knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.03863'}]
-tags: [Language Modeling, Pre-Training, Tools, Training Techniques]
+tags: [Language Modeling, Tools, Pre-Training, Training Techniques, Evaluation]
 ---
 Recent developments in pre-trained neural language modeling have led to leaps
 in accuracy on commonsense question-answering benchmarks. However, there is

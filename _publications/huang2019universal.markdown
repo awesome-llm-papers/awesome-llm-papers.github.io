@@ -3,13 +3,15 @@ layout: publication
 title: 'Unicoder: A Universal Language Encoder By Pre-training With Multiple Cross-lingual
   Tasks'
 authors: Haoyang Huang et al.
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
 citations: 52
 bibkey: huang2019universal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.00964'}]
-tags: [Masked Language Model, Training Techniques, RAG, Fine-Tuning, Pre-Training,
-  BERT, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, RAG, Masked Language Model, Pre-Training,
+  BERT, Training Techniques]
 ---
 We present Unicoder, a universal language encoder that is insensitive to
 different languages. Given an arbitrary NLP task, a model can be trained with

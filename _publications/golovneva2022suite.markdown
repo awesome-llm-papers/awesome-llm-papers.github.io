@@ -7,8 +7,8 @@ year: 2022
 citations: 23
 bibkey: golovneva2022suite
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.07919'}]
-tags: [RAG, Reinforcement Learning, Interpretability and Explainability, Prompting,
-  Language Modeling]
+tags: [Language Modeling, RAG, Interpretability and Explainability, Reinforcement
+    Learning, Prompting, Evaluation]
 ---
 Large language models show improved downstream task performance when prompted
 to generate step-by-step reasoning to justify their final answers. These

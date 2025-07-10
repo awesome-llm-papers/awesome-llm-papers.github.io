@@ -3,12 +3,13 @@ layout: publication
 title: 'Xuanyuan 2.0: A Large Chinese Financial Chat Model With Hundreds Of Billions
   Parameters'
 authors: Xuanyu Zhang, Qing Yang, Dongliang Xu
-conference: Arxiv
+conference: 'CIKM ''23: The 32nd ACM International Conference on Information and Knowledge
+  Management'
 year: 2023
-citations: 30
+citations: 35
 bibkey: zhang2023xuanyuan
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.12002'}]
-tags: [Training Techniques, Pre-Training, Tools, Fine-Tuning, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, Tools, Pre-Training, Training Techniques]
 ---
 In recent years, pre-trained language models have undergone rapid development
 with the emergence of large-scale models. However, there is a lack of

@@ -3,12 +3,12 @@ layout: publication
 title: 'KRISP: Integrating Implicit And Symbolic Knowledge For Open-domain Knowledge-based
   VQA'
 authors: Kenneth Marino, Xinlei Chen, Devi Parikh, Abhinav Gupta, Marcus Rohrbach
-conference: Arxiv
+conference: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2020
-citations: 104
+citations: 106
 bibkey: marino2020integrating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.11014'}]
-tags: [Pre-Training, Training Techniques, Transformer, Model Architecture]
+tags: [Transformer, Training Techniques, Pre-Training, Model Architecture]
 ---
 One of the most challenging question types in VQA is when answering the
 question requires outside knowledge not present in the image. In this work we

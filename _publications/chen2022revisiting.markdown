@@ -2,12 +2,13 @@
 layout: publication
 title: 'Revisiting Parameter-efficient Tuning: Are We Really There Yet?'
 authors: Guanzheng Chen, Fangyu Liu, Zaiqiao Meng, Shangsong Liang
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
-citations: 21
+citations: 23
 bibkey: chen2022revisiting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.07962'}]
-tags: [Training Techniques]
+tags: [Training Techniques, Evaluation]
 ---
 Parameter-Efficient Tuning (PETuning) methods have been deemed by many as the
 new paradigm for using pretrained language models (PLMs). By tuning just a

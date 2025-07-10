@@ -3,12 +3,12 @@ layout: publication
 title: 'The Imitation Game: Detecting Human And Ai-generated Texts In The Era Of Chatgpt
   And BARD'
 authors: Kadhim Hayawi, Sakib Shahriar, Sujith Samuel Mathew
-conference: Arxiv
+conference: Journal of Information Science
 year: 2023
-citations: 22
+citations: 23
 bibkey: hayawi2023imitation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.12166'}]
-tags: [Reinforcement Learning, Model Architecture, GPT]
+tags: [Reinforcement Learning, GPT, Model Architecture]
 ---
 The potential of artificial intelligence (AI)-based large language models
 (LLMs) holds considerable promise in revolutionizing education, research, and

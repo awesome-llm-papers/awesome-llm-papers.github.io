@@ -7,7 +7,7 @@ year: 2020
 citations: 172
 bibkey: tang2020multilingual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.00401'}]
-tags: [RAG, Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, RAG, Evaluation]
 ---
 Recent work demonstrates the potential of multilingual pretraining of
 creating one model that can be used for various tasks in different languages.

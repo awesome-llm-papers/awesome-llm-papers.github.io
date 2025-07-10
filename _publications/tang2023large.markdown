@@ -2,13 +2,13 @@
 layout: publication
 title: 'Medagents: Large Language Models As Collaborators For Zero-shot Medical Reasoning'
 authors: Xiangru Tang et al.
-conference: Arxiv
+conference: Findings of the Association for Computational Linguistics ACL 2024
 year: 2023
-citations: 18
+citations: 19
 bibkey: tang2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.10537'}, {name: Code,
     url: 'https://github.com/gersteinlab/MedAgents'}]
-tags: [Training Techniques, RAG, Tools, Agentic, Reinforcement Learning, Has Code]
+tags: [Has Code, RAG, Tools, Reinforcement Learning, Agentic, Training Techniques]
 ---
 Large language models (LLMs), despite their remarkable progress across
 various general domains, encounter significant barriers in medicine and

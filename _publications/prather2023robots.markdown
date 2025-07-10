@@ -3,13 +3,13 @@ layout: publication
 title: 'The Robots Are Here: Navigating The Generative AI Revolution In Computing
   Education'
 authors: James Prather et al.
-conference: Arxiv
+conference: 'ITiCSE 2023: Innovation and Technology in Computer Science Education'
 year: 2023
-citations: 154
+citations: 173
 bibkey: prather2023robots
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.00658'}]
-tags: [Ethics and Bias, RAG, Fine-Tuning, Tools, Reinforcement Learning, Responsible
-    AI, Survey Paper]
+tags: [Responsible AI, Ethics and Bias, RAG, Fine-Tuning, Survey Paper, Tools, Reinforcement
+    Learning, Evaluation]
 ---
 Recent advancements in artificial intelligence (AI) are fundamentally
 reshaping computing, with large language models (LLMs) now effectively being

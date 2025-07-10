@@ -3,12 +3,13 @@ layout: publication
 title: 'Generative Artificial Intelligence In Learning Analytics: Contextualising
   Opportunities And Challenges Through The Learning Analytics Cycle'
 authors: "Lixiang Yan, Roberto Martinez-maldonado, Dragan Ga\u0161evi\u0107"
-conference: Arxiv
+conference: 'LAK ''24: The 14th Learning Analytics and Knowledge Conference'
 year: 2023
-citations: 30
+citations: 31
 bibkey: yan2023generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.00087'}]
-tags: [GPT, Merging, Reinforcement Learning, Tools, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Tools, Reinforcement Learning, Multimodal Models, GPT,
+  Merging]
 ---
 Generative artificial intelligence (GenAI), exemplified by ChatGPT,
 Midjourney, and other state-of-the-art large language models and diffusion

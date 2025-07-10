@@ -3,13 +3,14 @@ layout: publication
 title: One Teacher Is Enough? Pre-trained Language Model Distillation From Multiple
   Teachers
 authors: Chuhan Wu, Fangzhao Wu, Yongfeng Huang
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: ACL-IJCNLP
+  2021'
 year: 2021
 citations: 18
 bibkey: wu2021one
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.01023'}]
-tags: [Ethics and Bias, Distillation, Tools, BERT, Efficiency and Optimization, Applications,
-  Model Architecture, Quantization]
+tags: [Model Architecture, Ethics and Bias, Distillation, Applications, Quantization,
+  Tools, Efficiency and Optimization, BERT, Evaluation]
 ---
 Pre-trained language models (PLMs) achieve great success in NLP. However,
 their huge model sizes hinder their applications in many practical systems.

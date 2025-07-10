@@ -7,7 +7,7 @@ year: 2023
 citations: 32
 bibkey: koh2023generating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.17216'}]
-tags: [RAG, Reinforcement Learning, Multimodal Models]
+tags: [Reinforcement Learning, Multimodal Models, RAG]
 ---
 We propose a method to fuse frozen text-only large language models (LLMs)
 with pre-trained image encoder and decoder models, by mapping between their

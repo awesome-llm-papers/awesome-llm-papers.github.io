@@ -3,12 +3,12 @@ layout: publication
 title: 'Not All Languages Are Created Equal In Llms: Improving Multilingual Capability
   By Cross-lingual-thought Prompting'
 authors: Haoyang Huang et al.
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
-citations: 18
+citations: 21
 bibkey: huang2023not
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.07004'}]
-tags: [RAG, Prompting]
+tags: [RAG, Prompting, Evaluation]
 ---
 Large language models (LLMs) demonstrate impressive multilingual capability,
 but their performance varies substantially across different languages. In this

@@ -3,14 +3,14 @@ layout: publication
 title: 'Sgva-clip: Semantic-guided Visual Adapting Of Vision-language Models For Few-shot
   Image Classification'
 authors: Fang Peng, Xiaoshan Yang, Linhui Xiao, Yaowei Wang, Changsheng Xu
-conference: Arxiv
+conference: IEEE Transactions on Multimedia
 year: 2022
-citations: 22
+citations: 26
 bibkey: peng2022sgva
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.16191'}]
-tags: [Distillation, Training Techniques, Pre-Training, Few-Shot, Tools, Reinforcement
-    Learning, Attention Mechanism, Efficiency and Optimization, Multimodal Models,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Distillation, Few-Shot, Tools, Reinforcement
+    Learning, Multimodal Models, Pre-Training, Efficiency and Optimization, Training
+    Techniques]
 ---
 Although significant progress has been made in few-shot learning, most of
 existing few-shot image classification methods require supervised pre-training

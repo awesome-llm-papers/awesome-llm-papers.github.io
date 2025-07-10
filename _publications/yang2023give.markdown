@@ -3,12 +3,12 @@ layout: publication
 title: 'Give Us The Facts: Enhancing Large Language Models With Knowledge Graphs For
   Fact-aware Language Modeling'
 authors: Linyao Yang, Hongyang Chen, Zhao Li, Xiao Ding, Xindong Wu
-conference: Arxiv
+conference: IEEE Transactions on Knowledge and Data Engineering
 year: 2023
-citations: 54
+citations: 57
 bibkey: yang2023give
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.11489'}]
-tags: [GPT, Attention Mechanism, Applications, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Applications, GPT]
 ---
 Recently, ChatGPT, a representative large language model (LLM), has gained
 considerable attention due to its powerful emergent abilities. Some researchers

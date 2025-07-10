@@ -8,8 +8,8 @@ year: 2023
 citations: 17
 bibkey: pandya2023automating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.05421'}]
-tags: [Training Techniques, GPT, Merging, RAG, Fine-Tuning, Tools, Reinforcement Learning,
-  Applications, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Applications, Tools, Reinforcement
+    Learning, Training Techniques, Merging]
 ---
 In the digital age, the dynamics of customer service are evolving, driven by
 technological advancements and the integration of Large Language Models (LLMs).

@@ -8,7 +8,7 @@ year: 2023
 citations: 29
 bibkey: chan2023chatgpt
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.14827'}]
-tags: [GPT, Model Architecture, In-Context Learning, Prompting]
+tags: [Model Architecture, In-Context Learning, Prompting, GPT, Evaluation]
 ---
 This paper aims to quantitatively evaluate the performance of ChatGPT, an
 interactive large language model, on inter-sentential relations such as

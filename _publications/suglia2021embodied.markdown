@@ -8,8 +8,8 @@ year: 2021
 citations: 29
 bibkey: suglia2021embodied
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.04927'}]
-tags: [Training Techniques, Transformer, Reinforcement Learning, Agentic, BERT, Model
-    Architecture]
+tags: [Model Architecture, Transformer, BERT, Reinforcement Learning, Agentic, Training
+    Techniques, Evaluation]
 ---
 Language-guided robots performing home and office tasks must navigate in and
 interact with the world. Grounding language instructions against visual

@@ -4,12 +4,13 @@ title: 'Nemo Guardrails: A Toolkit For Controllable And Safe LLM Applications Wi
   Programmable Rails'
 authors: Traian Rebedea, Razvan Dinu, Makesh Sreedhar, Christopher Parisien, Jonathan
   Cohen
-conference: Arxiv
+conference: 'Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing: System Demonstrations'
 year: 2023
-citations: 33
+citations: 34
 bibkey: rebedea2023nemo
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.10501'}]
-tags: [Applications, Training Techniques, Reinforcement Learning]
+tags: [Reinforcement Learning, Training Techniques, Applications]
 ---
 NeMo Guardrails is an open-source toolkit for easily adding programmable
 guardrails to LLM-based conversational systems. Guardrails (or rails for short)

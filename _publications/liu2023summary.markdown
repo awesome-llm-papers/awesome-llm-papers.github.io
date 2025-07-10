@@ -3,13 +3,13 @@ layout: publication
 title: Summary Of Chatgpt-related Research And Perspective Towards The Future Of Large
   Language Models
 authors: Yiheng Liu et al.
-conference: Meta-Radiology (2023)100017
+conference: Meta-Radiology
 year: 2023
-citations: 427
+citations: 451
 bibkey: liu2023summary
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.01852'}]
-tags: [Training Techniques, GPT, Fine-Tuning, Pre-Training, Reinforcement Learning,
-  Agentic, Applications, Survey Paper, Arxiv, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Applications, Survey Paper, Reinforcement
+    Learning, Arxiv, Pre-Training, Agentic, Training Techniques]
 ---
 This paper presents a comprehensive survey of ChatGPT-related (GPT-3.5 and
 GPT-4) research, state-of-the-art large language models (LLM) from the GPT

@@ -10,7 +10,7 @@ bibkey: jin2022when
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.01478'}, {name: Code,
     url: 'https://huggingface.co/datasets/feradauto/MoralExceptQA'}, {name: Code,
     url: 'https://github.com/feradauto/MoralCoT'}]
-tags: [Has Code, Responsible AI, Prompting]
+tags: [Responsible AI, Has Code, Prompting]
 ---
 AI systems are becoming increasingly intertwined with human life. In order to
 effectively collaborate with humans and ensure safety, AI systems need to be

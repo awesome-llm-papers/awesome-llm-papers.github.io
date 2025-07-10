@@ -5,12 +5,12 @@ title: 'Minigpt-4: Enhancing Vision-language Understanding With Advanced Large L
 authors: Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny
 conference: Arxiv
 year: 2023
-citations: 351
+citations: 353
 bibkey: zhu2023minigpt
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2304.10592v2'}, {name: Code,
     url: 'https://minigpt-4.github.io/'}]
-tags: [GPT, Merging, RAG, Reinforcement Learning, Has Code, Multimodal Models, Model
-    Architecture]
+tags: [Has Code, Model Architecture, RAG, Reinforcement Learning, Multimodal Models,
+  GPT, Merging]
 ---
 The recent GPT-4 has demonstrated extraordinary multi-modal abilities, such
 as directly generating websites from handwritten text and identifying humorous

@@ -2,12 +2,13 @@
 layout: publication
 title: 'SIMMC 2.0: A Task-oriented Dialog Dataset For Immersive Multimodal Conversations'
 authors: Satwik Kottur, Seungwhan Moon, Alborz Geramifard, Babak Damavandi
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 23
 bibkey: kottur2021simmc
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08667'}]
-tags: [Reinforcement Learning, Multimodal Models]
+tags: [Reinforcement Learning, Multimodal Models, Evaluation]
 ---
 Next generation task-oriented dialog systems need to understand
 conversational contexts with their perceived surroundings, to effectively help

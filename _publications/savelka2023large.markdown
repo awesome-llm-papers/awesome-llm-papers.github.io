@@ -3,13 +3,13 @@ layout: publication
 title: Large Language Models (GPT) Struggle To Answer Multiple-choice Questions About
   Code
 authors: Jaromir Savelka, Arav Agarwal, Christopher Bogart, Majd Sakr
-conference: Arxiv
+conference: 15th International Conference on Computer Supported Education
 year: 2023
 citations: 37
 bibkey: savelka2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.08033'}]
-tags: [GPT, Transformer, Merging, RAG, Reinforcement Learning, Interpretability and
-    Explainability, Model Architecture]
+tags: [Model Architecture, Transformer, RAG, Interpretability and Explainability,
+  Reinforcement Learning, GPT, Merging]
 ---
 We analyzed effectiveness of three generative pre-trained transformer (GPT)
 models in answering multiple-choice question (MCQ) assessments, often involving

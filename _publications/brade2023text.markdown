@@ -3,12 +3,13 @@ layout: publication
 title: 'Promptify: Text-to-image Generation Through Interactive Prompt Exploration
   With Large Language Models'
 authors: Stephen Brade, Bryan Wang, Mauricio Sousa, Sageev Oore, Tovi Grossman
-conference: Arxiv
+conference: 'UIST ''23: The 36th Annual ACM Symposium on User Interface Software and
+  Technology'
 year: 2023
-citations: 75
+citations: 83
 bibkey: brade2023text
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.09337'}]
-tags: [Fine-Tuning, Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Fine-Tuning, Prompting]
 ---
 Text-to-image generative models have demonstrated remarkable capabilities in
 generating high-quality images based on textual prompts. However, crafting

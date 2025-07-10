@@ -2,12 +2,12 @@
 layout: publication
 title: 'Language Model Crossover: Variation Through Few-shot Prompting'
 authors: Elliot Meyerson et al.
-conference: Arxiv
+conference: ACM Transactions on Evolutionary Learning and Optimization
 year: 2023
-citations: 15
+citations: 19
 bibkey: meyerson2023language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.12170'}]
-tags: [RAG, Few-Shot, In-Context Learning, Prompting]
+tags: [In-Context Learning, Few-Shot, Prompting, RAG]
 ---
 This paper pursues the insight that language models naturally enable an
 intelligent variation operator similar in spirit to evolutionary crossover. In

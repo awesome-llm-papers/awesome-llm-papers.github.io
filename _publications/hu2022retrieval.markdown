@@ -3,13 +3,12 @@ layout: publication
 title: 'REVEAL: Retrieval-augmented Visual-language Pre-training With Multi-source
   Multimodal Knowledge Memory'
 authors: Ziniu Hu et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2022
-citations: 25
+citations: 26
 bibkey: hu2022retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.05221'}]
-tags: [Training Techniques, RAG, Pre-Training, Reinforcement Learning, Multimodal
-    Models]
+tags: [RAG, Reinforcement Learning, Multimodal Models, Pre-Training, Training Techniques]
 ---
 In this paper, we propose an end-to-end Retrieval-Augmented Visual Language
 Model (REVEAL) that learns to encode world knowledge into a large-scale memory,

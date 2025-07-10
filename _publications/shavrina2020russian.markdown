@@ -2,13 +2,14 @@
 layout: publication
 title: 'Russiansuperglue: A Russian Language Understanding Evaluation Benchmark'
 authors: Tatiana Shavrina et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 16
 bibkey: shavrina2020russian
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.15925'}, {name: Code,
     url: 'https://github.com/RussianNLP/RussianSuperGLUE),'}]
-tags: [Has Code, Tools, Transformer, Model Architecture]
+tags: [Has Code, Model Architecture, Transformer, Tools, Evaluation]
 ---
 In this paper, we introduce an advanced Russian general language
 understanding evaluation benchmark -- RussianGLUE. Recent advances in the field

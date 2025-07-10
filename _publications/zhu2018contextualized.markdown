@@ -8,7 +8,7 @@ year: 2018
 citations: 124
 bibkey: zhu2018contextualized
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1812.03593'}]
-tags: [Transformer, RAG, Attention Mechanism, BERT, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, RAG, BERT, Evaluation]
 ---
 Conversational question answering (CQA) is a novel QA task that requires
 understanding of dialogue context. Different from traditional single-turn

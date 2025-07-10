@@ -4,7 +4,8 @@ title: 'Like Hiking? You Probably Enjoy Nature: Persona-grounded Dialog With Com
   Expansions'
 authors: Bodhisattwa Prasad Majumder, Harsh Jhamtani, Taylor Berg-kirkpatrick, Julian
   Mcauley
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 21
 bibkey: majumder2020like

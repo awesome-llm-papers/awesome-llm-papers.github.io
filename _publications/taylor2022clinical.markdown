@@ -2,14 +2,14 @@
 layout: publication
 title: Clinical Prompt Learning With Frozen Language Models
 authors: Niall Taylor, Yi Zhang, Dan Joyce, Alejo Nevado-holgado, Andrey Kormilitzin
-conference: Arxiv
+conference: IEEE Transactions on Neural Networks and Learning Systems
 year: 2022
-citations: 18
+citations: 20
 bibkey: taylor2022clinical
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2205.05535'}, {name: Code,
     url: 'https://github.com/NtaylorOX/Public_Clinical_Prompt'}]
-tags: [Training Techniques, GPT, Pre-Training, Few-Shot, Fine-Tuning, Has Code, Prompting,
-  Model Architecture]
+tags: [Has Code, Model Architecture, GPT, Fine-Tuning, Few-Shot, Prompting, Pre-Training,
+  Training Techniques, Evaluation]
 ---
 Prompt learning is a new paradigm in the Natural Language Processing (NLP)
 field which has shown impressive performance on a number of natural language

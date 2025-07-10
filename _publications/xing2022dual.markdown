@@ -2,14 +2,14 @@
 layout: publication
 title: Dual Modality Prompt Tuning For Vision-language Pre-trained Model
 authors: Yinghui Xing et al.
-conference: IEEE Transactions on Multimedia 2023
+conference: IEEE Transactions on Multimedia
 year: 2022
-citations: 29
+citations: 32
 bibkey: xing2022dual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.08340'}, {name: Code,
     url: 'https://github.com/fanrena/DPT'}]
-tags: [Attention Mechanism, Prompting, Efficiency and Optimization, Has Code, Multimodal
-    Models, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Prompting, Multimodal Models,
+  Efficiency and Optimization]
 ---
 With the emergence of large pre-trained vison-language model like CLIP,
 transferable representations can be adapted to a wide range of downstream tasks

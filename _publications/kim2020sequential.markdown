@@ -7,7 +7,7 @@ year: 2020
 citations: 110
 bibkey: kim2020sequential
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.07510'}]
-tags: [RAG, Transformer, Model Architecture]
+tags: [Transformer, RAG, Model Architecture, Evaluation]
 ---
 Knowledge-grounded dialogue is a task of generating an informative response
 based on both discourse context and external knowledge. As we focus on better

@@ -3,12 +3,13 @@ layout: publication
 title: A Token-level Reference-free Hallucination Detection Benchmark For Free-form
   Text Generation
 authors: Tianyu Liu et al.
-conference: Arxiv
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2021
-citations: 21
+citations: 24
 bibkey: liu2021token
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08704'}]
-tags: [GPT, Model Architecture, Applications, Language Modeling, ACL]
+tags: [Language Modeling, Model Architecture, Applications, ACL, GPT, Evaluation]
 ---
 Large pretrained generative models like GPT-3 often suffer from hallucinating
 non-existent or incorrect content, which undermines their potential merits in

@@ -2,13 +2,13 @@
 layout: publication
 title: 'Language Model Behavior: A Comprehensive Survey'
 authors: Tyler A. Chang, Benjamin K. Bergen
-conference: Arxiv
+conference: Computational Linguistics
 year: 2023
-citations: 32
+citations: 36
 bibkey: chang2023language
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.11504'}]
-tags: [Ethics and Bias, Training Techniques, Transformer, RAG, Fine-Tuning, Reinforcement
-    Learning, Attention Mechanism, Survey Paper, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Ethics and Bias, Transformer, RAG,
+  Fine-Tuning, Survey Paper, Reinforcement Learning, Training Techniques]
 ---
 Transformer language models have received widespread public attention, yet
 their generated text is often surprising even to NLP researchers. In this

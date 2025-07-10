@@ -3,13 +3,14 @@ layout: publication
 title: Vision Guided Generative Pre-trained Language Models For Multimodal Abstractive
   Summarization
 authors: Tiezheng Yu, Wenliang Dai, Zihan Liu, Pascale Fung
-conference: Arxiv
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2021
 citations: 35
 bibkey: yu2021vision
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.02401'}]
-tags: [Merging, RAG, Attention Mechanism, Multimodal Models, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, RAG, Multimodal
+    Models, Merging]
 ---
 Multimodal abstractive summarization (MAS) models that summarize videos
 (vision modality) and their corresponding transcripts (text modality) are able

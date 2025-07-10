@@ -2,13 +2,14 @@
 layout: publication
 title: 'X-LXMERT: Paint, Caption And Answer Questions With Multi-modal Transformers'
 authors: Jaemin Cho, Jiasen Lu, Dustin Schwenk, Hannaneh Hajishirzi, Aniruddha Kembhavi
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
 citations: 52
 bibkey: cho2020x
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.11278'}]
-tags: [Masked Language Model, Training Techniques, Transformer, Pre-Training, BERT,
-  Multimodal Models, Model Architecture]
+tags: [Model Architecture, Transformer, Masked Language Model, Multimodal Models,
+  Pre-Training, BERT, Training Techniques]
 ---
 Mirroring the success of masked language models, vision-and-language
 counterparts like ViLBERT, LXMERT and UNITER have achieved state of the art

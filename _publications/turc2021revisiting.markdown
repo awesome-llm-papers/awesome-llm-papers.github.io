@@ -7,7 +7,7 @@ year: 2021
 citations: 34
 bibkey: turc2021revisiting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.16171'}]
-tags: [Training Techniques, Merging, Fine-Tuning, BERT, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, Training Techniques, BERT, Evaluation, Merging]
 ---
 Despite their success, large pre-trained multilingual models have not
 completely alleviated the need for labeled data, which is cumbersome to collect

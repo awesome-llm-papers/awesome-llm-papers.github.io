@@ -7,7 +7,7 @@ year: 2021
 citations: 16
 bibkey: tay2021are
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.03322'}]
-tags: [Pre-Training, Training Techniques, Transformer, Model Architecture]
+tags: [Transformer, Training Techniques, Pre-Training, Model Architecture]
 ---
 In the era of pre-trained language models, Transformers are the de facto
 choice of model architectures. While recent research has shown promise in

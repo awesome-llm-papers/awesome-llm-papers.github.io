@@ -3,12 +3,12 @@ layout: publication
 title: 'Action-gpt: Leveraging Large-scale Language Models For Improved And Generalized
   Action Generation'
 authors: Sai Shashank Kalakonda, Shubh Maheshwari, Ravi Kiran Sarvadevabhatla
-conference: Arxiv
+conference: 2023 IEEE International Conference on Multimedia and Expo (ICME)
 year: 2022
 citations: 28
 bibkey: kalakonda2022action
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.15603'}]
-tags: [GPT, RAG, Tools, Prompting, Model Architecture]
+tags: [Model Architecture, RAG, Tools, Prompting, GPT]
 ---
 We introduce Action-GPT, a plug-and-play framework for incorporating Large
 Language Models (LLMs) into text-based action generation models. Action phrases

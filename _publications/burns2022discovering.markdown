@@ -7,7 +7,7 @@ year: 2022
 citations: 33
 bibkey: burns2022discovering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.03827'}]
-tags: [RAG, Reinforcement Learning, Training Techniques, Prompting]
+tags: [Reinforcement Learning, Training Techniques, RAG, Prompting]
 ---
 Existing techniques for training language models can be misaligned with the
 truth: if we train models with imitation learning, they may reproduce errors

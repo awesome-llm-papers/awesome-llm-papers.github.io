@@ -3,12 +3,12 @@ layout: publication
 title: 'Luminate: Structured Generation And Exploration Of Design Space With Large
   Language Models For Human-ai Co-creation'
 authors: Sangho Suh, Meng Chen, Bryan Min, Toby Jia-jun Li, Haijun Xia
-conference: Arxiv
+conference: 'CHI ''24: CHI Conference on Human Factors in Computing Systems'
 year: 2023
-citations: 41
+citations: 56
 bibkey: suh2023structured
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.12953'}]
-tags: [Fine-Tuning, Tools]
+tags: [Tools, Fine-Tuning]
 ---
 Thanks to their generative capabilities, large language models (LLMs) have
 become an invaluable tool for creative processes. These models have the

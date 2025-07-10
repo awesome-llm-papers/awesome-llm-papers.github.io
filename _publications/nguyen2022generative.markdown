@@ -2,12 +2,12 @@
 layout: publication
 title: Generative Spoken Dialogue Language Modeling
 authors: Tu Anh Nguyen et al.
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2022
 citations: 19
 bibkey: nguyen2022generative
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.16502'}]
-tags: [Language Modeling, Attention Mechanism, Transformer, Model Architecture]
+tags: [Transformer, Language Modeling, Model Architecture, Attention Mechanism]
 ---
 We introduce dGSLM, the first "textless" model able to generate audio samples
 of naturalistic spoken dialogues. It uses recent work on unsupervised spoken

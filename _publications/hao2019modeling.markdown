@@ -2,12 +2,12 @@
 layout: publication
 title: Modeling Recurrence For Transformer
 authors: Jie Hao et al.
-conference: Arxiv
+conference: Proceedings of the 2019 Conference of the North
 year: 2019
 citations: 33
 bibkey: hao2019modeling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.03092'}]
-tags: [Transformer, RAG, Attention Mechanism, WMT, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, WMT, RAG]
 ---
 Recently, the Transformer model that is based solely on attention mechanisms,
 has advanced the state-of-the-art on various machine translation tasks.

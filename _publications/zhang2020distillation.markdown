@@ -2,13 +2,14 @@
 layout: publication
 title: 'Ternarybert: Distillation-aware Ultra-low Bit BERT'
 authors: Wei Zhang et al.
-conference: Arxiv
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
 year: 2020
-citations: 56
+citations: 57
 bibkey: zhang2020distillation
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.12812'}]
-tags: [Distillation, Transformer, Training Techniques, RAG, Pre-Training, BERT, Efficiency
-    and Optimization, Model Architecture, Quantization]
+tags: [Model Architecture, Distillation, Transformer, RAG, Quantization, Pre-Training,
+  BERT, Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 Transformer-based pre-training models like BERT have achieved remarkable
 performance in many natural language processing tasks.However, these models are

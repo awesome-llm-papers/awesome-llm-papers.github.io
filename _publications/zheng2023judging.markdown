@@ -4,11 +4,11 @@ title: Judging Llm-as-a-judge With Mt-bench And Chatbot Arena
 authors: Lianmin Zheng et al.
 conference: Arxiv
 year: 2023
-citations: 290
+citations: 292
 bibkey: zheng2023judging
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2306.05685'}, {name: Code,
     url: 'https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge'}]
-tags: [Ethics and Bias, GPT, Tools, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Ethics and Bias, Tools, GPT, Evaluation]
 ---
 Evaluating large language model (LLM) based chat assistants is challenging
 due to their broad capabilities and the inadequacy of existing benchmarks in

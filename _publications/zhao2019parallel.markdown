@@ -8,7 +8,7 @@ citations: 38
 bibkey: zhao2019parallel
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.09483'}, {name: Code,
     url: 'https://github.com/lancopku/MUSE'}]
-tags: [Has Code, Attention Mechanism, Transformer, Model Architecture]
+tags: [Transformer, Has Code, Model Architecture, Attention Mechanism]
 ---
 In sequence to sequence learning, the self-attention mechanism proves to be
 highly effective, and achieves significant improvements in many tasks. However,

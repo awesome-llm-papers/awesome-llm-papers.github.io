@@ -3,13 +3,15 @@ layout: publication
 title: 'Llmlingua: Compressing Prompts For Accelerated Inference Of Large Language
   Models'
 authors: Huiqiang Jiang, Qianhui Wu, Chin-yew Lin, Yuqing Yang, Lili Qiu
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 41
+citations: 44
 bibkey: jiang2023compressing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.05736'}, {name: Code,
     url: 'https://aka.ms/LLMLingua'}]
-tags: [GPT, In-Context Learning, Has Code, Applications, Prompting, Arxiv, Model Architecture]
+tags: [Has Code, Model Architecture, Applications, Arxiv, In-Context Learning, Prompting,
+  GPT]
 ---
 Large language models (LLMs) have been applied in various applications due to
 their astonishing capabilities. With advancements in technologies such as

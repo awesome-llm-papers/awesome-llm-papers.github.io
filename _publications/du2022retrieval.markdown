@@ -2,12 +2,13 @@
 layout: publication
 title: Retrieval-augmented Generative Question Answering For Event Argument Extraction
 authors: Xinya Du, Heng Ji
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
 citations: 17
 bibkey: du2022retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.07067'}]
-tags: [RAG, Few-Shot, Prompting]
+tags: [Few-Shot, Prompting, RAG]
 ---
 Event argument extraction has long been studied as a sequential prediction
 problem with extractive-based methods, tackling each argument in isolation.

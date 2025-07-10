@@ -7,7 +7,7 @@ year: 2020
 citations: 33
 bibkey: lu2020countering
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.12694'}]
-tags: [Training Techniques, Agentic]
+tags: [Agentic, Training Techniques]
 ---
 Pretraining on human corpus and then finetuning in a simulator has become a
 standard pipeline for training a goal-oriented dialogue agent. Nevertheless, as

@@ -7,7 +7,7 @@ year: 2023
 citations: 18
 bibkey: roy2023generating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.05133'}]
-tags: [GPT, Agentic, Security, Prompting, Model Architecture]
+tags: [Security, Model Architecture, Prompting, Agentic, GPT]
 ---
 The ability of ChatGPT to generate human-like responses and understand
 context has made it a popular tool for conversational agents, content creation,

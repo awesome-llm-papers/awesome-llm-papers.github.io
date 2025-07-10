@@ -2,14 +2,14 @@
 layout: publication
 title: 'Swinbert: End-to-end Transformers With Sparse Attention For Video Captioning'
 authors: Kevin Lin et al.
-conference: Arxiv
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2021
-citations: 168
+citations: 171
 bibkey: lin2021end
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.13196'}, {name: Code,
     url: 'https://github.com/microsoft/SwinBERT'}]
-tags: [Transformer, RAG, Reinforcement Learning, Attention Mechanism, BERT, Has Code,
-  Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Transformer, RAG, Reinforcement
+    Learning, BERT, Time Series]
 ---
 The canonical approach to video captioning dictates a caption generation
 model to learn from offline-extracted dense video features. These feature

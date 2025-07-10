@@ -2,13 +2,13 @@
 layout: publication
 title: A Dataset For Document Grounded Conversations
 authors: Kangyan Zhou, Shrimai Prabhumoye, Alan W Black
-conference: Conference on Empirical Methods in Natural Language Processing (EMNLP)
-  2018
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2018
 citations: 63
 bibkey: zhou2018dataset
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.07358'}]
-tags: [RAG, Model Architecture]
+tags: [RAG, Model Architecture, Evaluation]
 ---
 This paper introduces a document grounded dataset for text conversations. We
 define "Document Grounded Conversations" as conversations that are about the

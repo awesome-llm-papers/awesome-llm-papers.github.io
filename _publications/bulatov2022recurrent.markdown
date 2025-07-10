@@ -7,7 +7,7 @@ year: 2022
 citations: 22
 bibkey: bulatov2022recurrent
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.06881'}]
-tags: [Transformer, Attention Mechanism, Applications, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Applications]
 ---
 Transformer-based models show their effectiveness across multiple domains and
 tasks. The self-attention allows to combine information from all sequence

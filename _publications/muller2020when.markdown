@@ -3,12 +3,14 @@ layout: publication
 title: 'When Being Unseen From Mbert Is Just The Beginning: Handling New Languages
   With Multilingual Language Models'
 authors: "Benjamin Muller, Antonis Anastasopoulos, Beno\xEEt Sagot, Djam\xE9 Seddah"
-conference: Arxiv
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
 year: 2020
 citations: 16
 bibkey: muller2020when
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.12858'}]
-tags: [Training Techniques, Fine-Tuning, Reinforcement Learning, BERT, Model Architecture]
+tags: [Model Architecture, Fine-Tuning, Reinforcement Learning, Training Techniques,
+  BERT]
 ---
 Transfer learning based on pretraining language models on a large amount of
 raw data has become a new norm to reach state-of-the-art performance in NLP.

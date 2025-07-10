@@ -2,13 +2,13 @@
 layout: publication
 title: Thinking About GPT-3 In-context Learning For Biomedical IE? Think Again
 authors: "Bernal Jim\xE9nez Guti\xE9rrez et al."
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 year: 2022
-citations: 40
+citations: 41
 bibkey: "guti\xE9rrez2022thinking"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2203.08410'}]
-tags: [Training Techniques, GPT, Few-Shot, Fine-Tuning, BERT, In-Context Learning,
-  Survey Paper, Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, Few-Shot, Survey Paper, In-Context Learning,
+  Training Techniques, BERT]
 ---
 The strong few-shot in-context learning capability of large pre-trained
 language models (PLMs) such as GPT-3 is highly appealing for application

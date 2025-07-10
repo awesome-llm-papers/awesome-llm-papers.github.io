@@ -2,12 +2,12 @@
 layout: publication
 title: 'Biobart: Pretraining And Evaluation Of A Biomedical Generative Language Model'
 authors: Hongyi Yuan et al.
-conference: Arxiv
+conference: Proceedings of the 21st Workshop on Biomedical Language Processing
 year: 2022
-citations: 51
+citations: 52
 bibkey: yuan2022pretraining
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2204.03905'}]
-tags: [Training Techniques, Prompting]
+tags: [Training Techniques, Prompting, Evaluation]
 ---
 Pretrained language models have served as important backbones for natural
 language processing. Recently, in-domain pretraining has been shown to benefit

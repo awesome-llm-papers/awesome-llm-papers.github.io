@@ -2,12 +2,13 @@
 layout: publication
 title: Towards Using Few-shot Prompt Learning For Automating Model Completion
 authors: "Meriem Ben Chaaben, Lola Burgue\xF1o, Houari Sahraoui"
-conference: Arxiv
+conference: '2023 IEEE/ACM 45th International Conference on Software Engineering:
+  New Ideas and Emerging Results (ICSE-NIER)'
 year: 2022
-citations: 31
+citations: 33
 bibkey: chaaben2022towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.03404'}]
-tags: [Few-Shot, Prompting]
+tags: [Few-Shot, Prompting, Evaluation]
 ---
 We propose a simple yet a novel approach to improve completion in domain
 modeling activities. Our approach exploits the power of large language models

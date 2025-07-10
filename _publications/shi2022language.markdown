@@ -8,7 +8,7 @@ citations: 37
 bibkey: shi2022language
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2210.03057v1'}, {name: Code,
     url: 'https://github.com/google-research/url-nlp'}]
-tags: [Has Code, Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Has Code, Prompting, Evaluation]
 ---
 We evaluate the reasoning abilities of large language models in multilingual
 settings. We introduce the Multilingual Grade School Math (MGSM) benchmark, by

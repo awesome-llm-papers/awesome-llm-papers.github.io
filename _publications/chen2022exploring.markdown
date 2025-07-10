@@ -3,13 +3,14 @@ layout: publication
 title: 'Convfinqa: Exploring The Chain Of Numerical Reasoning In Conversational Finance
   Question Answering'
 authors: Zhiyu Chen et al.
-conference: Arxiv
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2022
 citations: 16
 bibkey: chen2022exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.03849'}, {name: Code,
     url: 'https://github.com/czyssrs/ConvFinQA'}]
-tags: [Has Code, Fine-Tuning, Reinforcement Learning, Prompting]
+tags: [Reinforcement Learning, Has Code, Fine-Tuning, Prompting]
 ---
 With the recent advance in large pre-trained language models, researchers
 have achieved record performances in NLP tasks that mostly focus on language

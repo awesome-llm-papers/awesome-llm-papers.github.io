@@ -3,13 +3,13 @@ layout: publication
 title: 'LRC-BERT: Latent-representation Contrastive Knowledge Distillation For Natural
   Language Understanding'
 authors: Hao Fu et al.
-conference: Arxiv
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
 year: 2020
 citations: 33
 bibkey: fu2020lrc
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2012.07335'}]
-tags: [Distillation, Training Techniques, Pre-Training, BERT, Efficiency and Optimization,
-  Security, Model Architecture]
+tags: [Security, Model Architecture, Distillation, Pre-Training, BERT, Efficiency
+    and Optimization, Training Techniques, Evaluation]
 ---
 The pre-training models such as BERT have achieved great results in various
 natural language processing problems. However, a large number of parameters

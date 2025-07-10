@@ -2,13 +2,13 @@
 layout: publication
 title: In-context Retrieval-augmented Language Models
 authors: Ori Ram et al.
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2023
-citations: 117
+citations: 122
 bibkey: ram2023retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.00083'}]
-tags: [Training Techniques, RAG, Tools, Reinforcement Learning, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, RAG, Reinforcement Learning, Tools,
+  Training Techniques]
 ---
 Retrieval-Augmented Language Modeling (RALM) methods, which condition a
 language model (LM) on relevant documents from a grounding corpus during

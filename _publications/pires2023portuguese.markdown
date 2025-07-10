@@ -2,12 +2,13 @@
 layout: publication
 title: 'Sabi\''a: Portuguese Large Language Models'
 authors: Ramon Pires, Hugo Abonizio, Thales Sales Almeida, Rodrigo Nogueira
-conference: Arxiv
+conference: Lecture Notes in Computer Science
 year: 2023
-citations: 28
+citations: 29
 bibkey: pires2023portuguese
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.07880'}]
-tags: [GPT, Training Techniques, Few-Shot, Reinforcement Learning, Model Architecture]
+tags: [Model Architecture, GPT, Few-Shot, Reinforcement Learning, Training Techniques,
+  Evaluation]
 ---
 As the capabilities of language models continue to advance, it is conceivable
 that "one-size-fits-all" model will remain as the main paradigm. For instance,

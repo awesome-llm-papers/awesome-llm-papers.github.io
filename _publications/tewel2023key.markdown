@@ -2,13 +2,14 @@
 layout: publication
 title: Key-locked Rank One Editing For Text-to-image Personalization
 authors: Yoad Tewel, Rinon Gal, Gal Chechik, Yuval Atzmon
-conference: Arxiv
+conference: 'SIGGRAPH ''23: Special Interest Group on Computer Graphics and Interactive
+  Techniques Conference'
 year: 2023
-citations: 68
+citations: 70
 bibkey: tewel2023key
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.01644'}]
-tags: [Training Techniques, Merging, Attention Mechanism, Reinforcement Learning,
-  Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Reinforcement Learning, Training Techniques,
+  Merging]
 ---
 Text-to-image models (T2I) offer a new level of flexibility by allowing users
 to guide the creative process through natural language. However, personalizing

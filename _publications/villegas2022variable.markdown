@@ -7,8 +7,8 @@ year: 2022
 citations: 70
 bibkey: villegas2022variable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.02399'}]
-tags: [Training Techniques, Transformer, Attention Mechanism, Reinforcement Learning,
-  Prompting, Model Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Reinforcement Learning,
+  Prompting, Training Techniques]
 ---
 We present Phenaki, a model capable of realistic video synthesis, given a
 sequence of textual prompts. Generating videos from text is particularly

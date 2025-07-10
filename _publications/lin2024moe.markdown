@@ -8,7 +8,8 @@ citations: 18
 bibkey: lin2024moe
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.15947'}, {name: Code,
     url: 'https://github.com/PKU-YuanGroup/MoE-LLaVA'}]
-tags: [Training Techniques, RAG, Has Code, Multimodal Models, Model Architecture]
+tags: [Has Code, Model Architecture, RAG, Multimodal Models, Training Techniques,
+  Evaluation]
 ---
 Recent advances demonstrate that scaling Large Vision-Language Models (LVLMs)
 effectively improves downstream task performances. However, existing scaling

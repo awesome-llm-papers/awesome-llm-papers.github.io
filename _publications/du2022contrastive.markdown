@@ -2,12 +2,13 @@
 layout: publication
 title: Contrastive Learning With Bidirectional Transformers For Sequential Recommendation
 authors: Hanwen Du et al.
-conference: Arxiv
+conference: 'CIKM ''22: The 31st ACM International Conference on Information and Knowledge
+  Management'
 year: 2022
-citations: 37
+citations: 39
 bibkey: du2022contrastive
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2208.03895'}]
-tags: [Tools, Transformer, Model Architecture, BERT]
+tags: [Model Architecture, Transformer, Tools, BERT, Evaluation]
 ---
 Contrastive learning with Transformer-based sequence encoder has gained
 predominance for sequential recommendation. It maximizes the agreements between

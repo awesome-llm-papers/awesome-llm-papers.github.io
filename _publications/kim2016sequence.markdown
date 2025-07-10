@@ -2,12 +2,13 @@
 layout: publication
 title: Sequence-level Knowledge Distillation
 authors: Yoon Kim, Alexander M. Rush
-conference: Arxiv
+conference: Proceedings of the 2016 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2016
-citations: 260
+citations: 264
 bibkey: kim2016sequence
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.07947'}]
-tags: [Pruning, Efficiency and Optimization, Distillation]
+tags: [Efficiency and Optimization, Pruning, Distillation]
 ---
 Neural machine translation (NMT) offers a novel alternative formulation of
 translation that is potentially simpler than statistical approaches. However to

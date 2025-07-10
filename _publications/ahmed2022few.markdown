@@ -2,13 +2,14 @@
 layout: publication
 title: Few-shot Training Llms For Project-specific Code-summarization
 authors: Toufique Ahmed, Premkumar Devanbu
-conference: Arxiv
+conference: 'ASE ''22: 37th IEEE/ACM International Conference on Automated Software
+  Engineering'
 year: 2022
-citations: 119
+citations: 139
 bibkey: ahmed2022few
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.04237'}]
-tags: [Training Techniques, Transformer, GPT, RAG, Few-Shot, Tools, Reinforcement
-    Learning, Model Architecture]
+tags: [Model Architecture, GPT, Transformer, Few-Shot, RAG, Tools, Reinforcement Learning,
+  Training Techniques]
 ---
 Very large language models (LLMs), such as GPT-3 and Codex have achieved
 state-of-the-art performance on several natural-language tasks, and show great

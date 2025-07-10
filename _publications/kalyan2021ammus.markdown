@@ -8,8 +8,8 @@ year: 2021
 citations: 135
 bibkey: kalyan2021ammus
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.05542'}]
-tags: [Training Techniques, Transformer, GPT, Fine-Tuning, BERT, Survey Paper, Model
-    Architecture]
+tags: [Model Architecture, GPT, Transformer, Fine-Tuning, Survey Paper, BERT, Training
+    Techniques, Evaluation]
 ---
 Transformer-based pretrained language models (T-PTLMs) have achieved great
 success in almost every NLP task. The evolution of these models started with

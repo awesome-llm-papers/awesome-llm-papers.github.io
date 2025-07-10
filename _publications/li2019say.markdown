@@ -2,7 +2,8 @@
 layout: publication
 title: Don't Say That! Making Inconsistent Dialogue Unlikely With Unlikelihood Training
 authors: Margaret Li et al.
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 26
 bibkey: li2019say

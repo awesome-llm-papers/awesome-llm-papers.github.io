@@ -7,8 +7,8 @@ year: 2022
 citations: 17
 bibkey: wang2022clip
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2201.05729'}]
-tags: [Distillation, Training Techniques, Reinforcement Learning, Efficiency and Optimization,
-  Multimodal Models, Model Architecture]
+tags: [Model Architecture, Distillation, Reinforcement Learning, Multimodal Models,
+  Efficiency and Optimization, Training Techniques, Evaluation]
 ---
 Contrastive language-image pretraining (CLIP) links vision and language
 modalities into a unified embedding space, yielding the tremendous potential

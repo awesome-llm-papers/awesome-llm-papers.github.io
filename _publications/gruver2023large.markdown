@@ -4,10 +4,11 @@ title: Large Language Models Are Zero-shot Time Series Forecasters
 authors: Nate Gruver, Marc Finzi, Shikai Qiu, Andrew Gordon Wilson
 conference: Arxiv
 year: 2023
-citations: 45
+citations: 46
 bibkey: gruver2023large
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.07820'}]
-tags: [Ethics and Bias, GPT, Reinforcement Learning, Multimodal Models, Model Architecture]
+tags: [Model Architecture, Ethics and Bias, Reinforcement Learning, Multimodal Models,
+  GPT, Time Series]
 ---
 By encoding time series as a string of numerical digits, we can frame time
 series forecasting as next-token prediction in text. Developing this approach,

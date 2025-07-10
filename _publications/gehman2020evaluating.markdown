@@ -2,12 +2,12 @@
 layout: publication
 title: 'Realtoxicityprompts: Evaluating Neural Toxic Degeneration In Language Models'
 authors: Samuel Gehman, Suchin Gururangan, Maarten Sap, Yejin Choi, Noah A. Smith
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 year: 2020
-citations: 159
+citations: 173
 bibkey: gehman2020evaluating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.11462'}]
-tags: [Training Techniques, GPT, Prompting, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, GPT, Prompting, Training Techniques]
 ---
 Pretrained neural language models (LMs) are prone to generating racist,
 sexist, or otherwise toxic language which hinders their safe deployment. We

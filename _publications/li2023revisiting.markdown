@@ -2,12 +2,12 @@
 layout: publication
 title: Revisiting Large Language Models As Zero-shot Relation Extractors
 authors: Guozheng Li, Peng Wang, Wenjun Ke
-conference: Arxiv
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 year: 2023
 citations: 18
 bibkey: li2023revisiting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.05028'}]
-tags: [Reinforcement Learning, Model Architecture, GPT, Prompting]
+tags: [Model Architecture, Reinforcement Learning, Prompting, GPT, Evaluation]
 ---
 Relation extraction (RE) consistently involves a certain degree of labeled or
 unlabeled data even if under zero-shot setting. Recent studies have shown that

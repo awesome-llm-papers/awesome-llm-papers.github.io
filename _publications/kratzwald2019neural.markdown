@@ -2,12 +2,13 @@
 layout: publication
 title: 'Rankqa: Neural Question Answering With Answer Re-ranking'
 authors: Bernhard Kratzwald, Anna Eigenmann, Stefan Feuerriegel
-conference: Arxiv
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2019
 citations: 18
 bibkey: kratzwald2019neural
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.03008'}]
-tags: [RAG, Reinforcement Learning]
+tags: [Reinforcement Learning, RAG, Evaluation]
 ---
 The conventional paradigm in neural question answering (QA) for narrative
 content is limited to a two-stage process: first, relevant text passages are

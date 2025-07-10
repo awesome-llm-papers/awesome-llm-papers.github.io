@@ -2,14 +2,15 @@
 layout: publication
 title: 'Parlai: A Dialog Research Software Platform'
 authors: Alexander H. Miller et al.
-conference: Arxiv
+conference: 'Proceedings of the 2017 Conference on Empirical Methods in Natural Language
+  Processing: System Demonstrations'
 year: 2017
-citations: 70
+citations: 71
 bibkey: miller2017dialog
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1705.06476'}, {name: Code,
     url: 'http://parl.ai'}]
-tags: [Training Techniques, Tools, Agentic, Reinforcement Learning, Has Code, Model
-    Architecture]
+tags: [Has Code, Model Architecture, Tools, Reinforcement Learning, Agentic, Training
+    Techniques, Evaluation]
 ---
 We introduce ParlAI (pronounced "par-lay"), an open-source software platform
 for dialog research implemented in Python, available at http://parl.ai. Its

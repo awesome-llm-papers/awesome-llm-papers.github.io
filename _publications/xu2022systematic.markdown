@@ -2,13 +2,13 @@
 layout: publication
 title: A Systematic Evaluation Of Large Language Models Of Code
 authors: Frank F. Xu, Uri Alon, Graham Neubig, Vincent J. Hellendoorn
-conference: Arxiv
+conference: 'MAPS ''22: 6th ACM SIGPLAN International Symposium on Machine Programming'
 year: 2022
-citations: 277
+citations: 301
 bibkey: xu2022systematic
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.13169'}, {name: Code,
     url: 'https://github.com/VHellendoorn/Code-LMs,'}]
-tags: [Language Modeling, Has Code, GPT, Model Architecture]
+tags: [Language Modeling, Has Code, Model Architecture, GPT, Evaluation]
 ---
 Large language models (LMs) of code have recently shown tremendous promise in
 completing code and synthesizing code from natural language descriptions.

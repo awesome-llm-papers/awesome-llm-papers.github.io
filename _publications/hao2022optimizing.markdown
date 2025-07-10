@@ -7,8 +7,8 @@ year: 2022
 citations: 32
 bibkey: hao2022optimizing
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09611'}]
-tags: [Training Techniques, Merging, RAG, Fine-Tuning, Tools, Reinforcement Learning,
-  Agentic, Prompting]
+tags: [Fine-Tuning, RAG, Reinforcement Learning, Tools, Prompting, Agentic, Training
+    Techniques, Evaluation, Merging]
 ---
 Well-designed prompts can guide text-to-image models to generate amazing
 images. However, the performant prompts are often model-specific and misaligned

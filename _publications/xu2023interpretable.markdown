@@ -3,13 +3,13 @@ layout: publication
 title: 'Drivegpt4: Interpretable End-to-end Autonomous Driving Via Large Language
   Model'
 authors: Zhenhua Xu et al.
-conference: Arxiv
+conference: IEEE Robotics and Automation Letters
 year: 2023
-citations: 83
+citations: 90
 bibkey: xu2023interpretable
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.01412'}]
-tags: [Training Techniques, GPT, RAG, Fine-Tuning, Applications, Multimodal Models,
-  Model Architecture]
+tags: [Model Architecture, GPT, Fine-Tuning, RAG, Applications, Multimodal Models,
+  Training Techniques, Evaluation]
 ---
 Multimodal large language models (MLLMs) have emerged as a prominent area of
 interest within the research community, given their proficiency in handling and

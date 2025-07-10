@@ -7,7 +7,7 @@ year: 2019
 citations: 68
 bibkey: welleck2019non
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.02192'}]
-tags: [Language Modeling, Tools, ACL, Training Techniques]
+tags: [ACL, Tools, Training Techniques, Language Modeling]
 ---
 Standard sequential generation methods assume a pre-specified generation
 order, such as text generation methods which generate words from left to right.

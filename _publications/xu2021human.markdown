@@ -2,12 +2,13 @@
 layout: publication
 title: 'Human Parity On Commonsenseqa: Augmenting Self-attention With External Attention'
 authors: Yichong Xu et al.
-conference: IJCAI 2022 (Long oral)
+conference: Thirty-First International Joint Conference on Artificial Intelligence
+  {IJCAI-22}
 year: 2021
 citations: 18
 bibkey: xu2021human
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.03254'}]
-tags: [Model Architecture, Applications, Transformer, Attention Mechanism]
+tags: [Model Architecture, Attention Mechanism, Transformer, Applications, Evaluation]
 ---
 Most of today's AI systems focus on using self-attention mechanisms and
 transformer architectures on large amounts of diverse data to achieve

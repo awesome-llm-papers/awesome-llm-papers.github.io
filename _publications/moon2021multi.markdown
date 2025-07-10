@@ -3,14 +3,14 @@ layout: publication
 title: Multi-modal Understanding And Generation For Medical Images And Text Via Vision-language
   Pre-training
 authors: Jong Hak Moon, Hyungyung Lee, Woncheol Shin, Young-hak Kim, Edward Choi
-conference: IEEE Journal of Biomedical and Health Informatics 2022
+conference: IEEE Journal of Biomedical and Health Informatics
 year: 2021
-citations: 111
+citations: 116
 bibkey: moon2021multi
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.11333'}, {name: Code,
     url: 'https://github.com/SuperSupermoon/MedViLL'}]
-tags: [Training Techniques, Pre-Training, Attention Mechanism, BERT, Has Code, Multimodal
-    Models, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Multimodal Models, Pre-Training,
+  Training Techniques, BERT]
 ---
 Recently a number of studies demonstrated impressive performance on diverse
 vision-language multi-modal tasks such as image captioning and visual question

@@ -8,8 +8,8 @@ citations: 56
 bibkey: xiong2023fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.01097'}, {name: Code,
     url: 'https://github.com/xionghonglin/DoctorGLM'}]
-tags: [GPT, Training Techniques, Fine-Tuning, Reinforcement Learning, Has Code, Model
-    Architecture]
+tags: [Has Code, Model Architecture, GPT, Fine-Tuning, Reinforcement Learning, Training
+    Techniques]
 ---
 The recent progress of large language models (LLMs), including ChatGPT and
 GPT-4, in comprehending and responding to human instructions has been

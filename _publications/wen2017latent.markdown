@@ -7,7 +7,7 @@ year: 2017
 citations: 137
 bibkey: wen2017latent
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1705.10229'}]
-tags: [Tools, Agentic, Reinforcement Learning]
+tags: [Agentic, Tools, Reinforcement Learning, Evaluation]
 ---
 Developing a dialogue agent that is capable of making autonomous decisions
 and communicating by natural language is one of the long-term goals of machine

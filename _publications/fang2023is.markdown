@@ -8,7 +8,7 @@ year: 2023
 citations: 39
 bibkey: fang2023is
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2304.01746v1'}]
-tags: [Few-Shot, GPT, Model Architecture, In-Context Learning]
+tags: [Model Architecture, Few-Shot, In-Context Learning, GPT, Evaluation]
 ---
 ChatGPT, a large-scale language model based on the advanced GPT-3.5
 architecture, has shown remarkable potential in various Natural Language

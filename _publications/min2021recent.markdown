@@ -3,13 +3,13 @@ layout: publication
 title: 'Recent Advances In Natural Language Processing Via Large Pre-trained Language
   Models: A Survey'
 authors: Bonan Min et al.
-conference: Arxiv
+conference: ACM Computing Surveys
 year: 2021
-citations: 574
+citations: 609
 bibkey: min2021recent
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.01243'}]
-tags: [Training Techniques, Transformer, Pre-Training, Fine-Tuning, BERT, Survey Paper,
-  Prompting, Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, Fine-Tuning, Survey Paper,
+  Prompting, Pre-Training, BERT, Training Techniques]
 ---
 Large, pre-trained transformer-based language models such as BERT have
 drastically changed the Natural Language Processing (NLP) field. We present a

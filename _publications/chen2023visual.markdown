@@ -3,12 +3,12 @@ layout: publication
 title: 'LL3DA: Visual Interactive Instruction Tuning For Omni-3d Understanding, Reasoning,
   And Planning'
 authors: Sijin Chen et al.
-conference: Arxiv
+conference: 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 15
+citations: 16
 bibkey: chen2023visual
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2311.18651'}]
-tags: [Applications, Prompting, Multimodal Models]
+tags: [Multimodal Models, Prompting, Applications]
 ---
 Recent advances in Large Multimodal Models (LMM) have made it possible for
 various applications in human-machine interactions. However, developing LMMs

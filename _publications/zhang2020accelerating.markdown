@@ -8,8 +8,8 @@ year: 2020
 citations: 29
 bibkey: zhang2020accelerating
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.13369'}]
-tags: [Training Techniques, Transformer, RAG, Pre-Training, BERT, Efficiency and Optimization,
-  Language Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Transformer, RAG, Pre-Training, BERT,
+  Efficiency and Optimization, Training Techniques]
 ---
 Recently, Transformer-based language models have demonstrated remarkable
 performance across many NLP domains. However, the unsupervised pre-training

@@ -2,12 +2,12 @@
 layout: publication
 title: 'Byt5: Towards A Token-free Future With Pre-trained Byte-to-byte Models'
 authors: Linting Xue et al.
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2021
-citations: 87
+citations: 93
 bibkey: xue2021towards
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2105.13626'}]
-tags: [Training Techniques, Transformer, Model Architecture]
+tags: [Transformer, Training Techniques, Model Architecture]
 ---
 Most widely-used pre-trained language models operate on sequences of tokens
 corresponding to word or subword units. By comparison, token-free models that

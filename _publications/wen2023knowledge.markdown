@@ -3,13 +3,14 @@ layout: publication
 title: 'Mindmap: Knowledge Graph Prompting Sparks Graph Of Thoughts In Large Language
   Models'
 authors: Yilin Wen, Zifeng Wang, Jimeng Sun
-conference: Arxiv
+conference: 'Proceedings of the 62nd Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2023
-citations: 31
+citations: 35
 bibkey: wen2023knowledge
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.09729'}, {name: Code,
     url: 'https://github.com/wyl-willing/MindMap'}]
-tags: [Ethics and Bias, Merging, RAG, Tools, Has Code, Security, Prompting]
+tags: [Security, Has Code, Ethics and Bias, RAG, Tools, Prompting, Evaluation, Merging]
 ---
 Large language models (LLMs) have achieved remarkable performance in natural
 language understanding and generation tasks. However, they often suffer from

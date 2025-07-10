@@ -2,12 +2,13 @@
 layout: publication
 title: Training Millions Of Personalized Dialogue Agents
 authors: "Pierre-emmanuel Mazar\xE9, Samuel Humeau, Martin Raison, Antoine Bordes"
-conference: Arxiv
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2018
-citations: 71
+citations: 75
 bibkey: "mazar\xE92018training"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.01984'}]
-tags: [RAG, Fine-Tuning, Training Techniques, Agentic]
+tags: [Agentic, Training Techniques, Fine-Tuning, RAG]
 ---
 Current dialogue systems are not very engaging for users, especially when
 trained end-to-end without relying on proactive reengaging scripted strategies.

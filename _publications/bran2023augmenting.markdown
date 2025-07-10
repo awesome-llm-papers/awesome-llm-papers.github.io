@@ -7,7 +7,8 @@ year: 2023
 citations: 105
 bibkey: bran2023augmenting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.05376'}]
-tags: [GPT, Tools, Agentic, Reinforcement Learning, Applications, Model Architecture]
+tags: [Model Architecture, Applications, Tools, Reinforcement Learning, Agentic, GPT,
+  Evaluation]
 ---
 Over the last decades, excellent computational chemistry tools have been
 developed. Integrating them into a single platform with enhanced accessibility

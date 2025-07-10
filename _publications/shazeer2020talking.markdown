@@ -7,7 +7,7 @@ year: 2020
 citations: 49
 bibkey: shazeer2020talking
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.02436'}]
-tags: [Attention Mechanism, Model Architecture]
+tags: [Model Architecture, Attention Mechanism]
 ---
 We introduce "talking-heads attention" - a variation on multi-head attention
 which includes linearprojections across the attention-heads dimension,

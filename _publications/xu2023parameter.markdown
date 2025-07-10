@@ -8,8 +8,8 @@ year: 2023
 citations: 25
 bibkey: xu2023parameter
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.12148'}]
-tags: [Training Techniques, Transformer, Fine-Tuning, Reinforcement Learning, Efficiency
-    and Optimization, Applications, Survey Paper, Model Architecture]
+tags: [Model Architecture, Transformer, Fine-Tuning, Applications, Survey Paper, Reinforcement
+    Learning, Efficiency and Optimization, Training Techniques]
 ---
 With the continuous growth in the number of parameters of transformer-based
 pretrained language models (PLMs), particularly the emergence of large language

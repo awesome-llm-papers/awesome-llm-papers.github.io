@@ -2,12 +2,14 @@
 layout: publication
 title: 'Multifit: Efficient Multi-lingual Language Model Fine-tuning'
 authors: Julian Martin Eisenschlos et al.
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 44
+citations: 45
 bibkey: eisenschlos2019efficient
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.04761'}]
-tags: [Fine-Tuning, Reinforcement Learning, Training Techniques]
+tags: [Reinforcement Learning, Training Techniques, Fine-Tuning]
 ---
 Pretrained language models are promising particularly for low-resource
 languages as they only require unlabelled data. However, training existing

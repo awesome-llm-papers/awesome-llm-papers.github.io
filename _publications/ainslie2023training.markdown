@@ -2,13 +2,14 @@
 layout: publication
 title: 'GQA: Training Generalized Multi-query Transformer Models From Multi-head Checkpoints'
 authors: Joshua Ainslie et al.
-conference: Arxiv
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
 year: 2023
-citations: 103
+citations: 118
 bibkey: ainslie2023training
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.13245'}]
-tags: [Training Techniques, Transformer, Pre-Training, Attention Mechanism, Model
-    Architecture]
+tags: [Model Architecture, Attention Mechanism, Transformer, Pre-Training, Training
+    Techniques]
 ---
 Multi-query attention (MQA), which only uses a single key-value head,
 drastically speeds up decoder inference. However, MQA can lead to quality

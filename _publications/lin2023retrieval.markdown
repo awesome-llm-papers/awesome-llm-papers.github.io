@@ -3,14 +3,14 @@ layout: publication
 title: 'Rella: Retrieval-enhanced Large Language Models For Lifelong Sequential Behavior
   Comprehension In Recommendation'
 authors: Jianghao Lin et al.
-conference: Arxiv
+conference: 'WWW ''24: The ACM Web Conference 2024'
 year: 2023
 citations: 15
 bibkey: lin2023retrieval
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.11131'}, {name: Code,
     url: 'https://github.com/LaVieEnRose365/ReLLa'}]
-tags: [Training Techniques, Few-Shot, RecSys, Tools, Reinforcement Learning, Attention
-    Mechanism, Has Code, Model Architecture]
+tags: [Has Code, Model Architecture, Attention Mechanism, Few-Shot, RecSys, Tools,
+  Reinforcement Learning, Training Techniques]
 ---
 With large language models (LLMs) achieving remarkable breakthroughs in
 natural language processing (NLP) domains, LLM-enhanced recommender systems

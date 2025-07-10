@@ -7,8 +7,8 @@ year: 2023
 citations: 15
 bibkey: sun2023safety
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.10436'}]
-tags: [GPT, Responsible AI, Attention Mechanism, Reinforcement Learning, Tools, Security,
-  Prompting, Model Architecture]
+tags: [Responsible AI, Security, Model Architecture, Attention Mechanism, Tools, Reinforcement
+    Learning, Prompting, GPT, Evaluation]
 ---
 With the rapid popularity of large language models such as ChatGPT and GPT-4,
 a growing amount of attention is paid to their safety concerns. These models

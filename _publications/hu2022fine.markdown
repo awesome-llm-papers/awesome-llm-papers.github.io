@@ -3,9 +3,10 @@ layout: publication
 title: A Fine-grained Comparison Of Pragmatic Language Understanding In Humans And
   Language Models
 authors: Jennifer Hu, Sammy Floyd, Olessia Jouravlev, Evelina Fedorenko, Edward Gibson
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 16
+citations: 17
 bibkey: hu2022fine
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.06801'}]
 tags: [RAG, Prompting]

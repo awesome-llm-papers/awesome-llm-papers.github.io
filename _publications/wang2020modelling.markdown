@@ -8,7 +8,8 @@ year: 2020
 citations: 31
 bibkey: wang2020modelling
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.06814'}]
-tags: [Ethics and Bias, Training Techniques, Tools, Agentic, Reinforcement Learning]
+tags: [Ethics and Bias, Tools, Reinforcement Learning, Agentic, Training Techniques,
+  Evaluation]
 ---
 Designing task-oriented dialogue systems is a challenging research topic,
 since it needs not only to generate utterances fulfilling user requests but

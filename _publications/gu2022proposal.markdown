@@ -3,13 +3,14 @@ layout: publication
 title: 'Don''t Generate, Discriminate: A Proposal For Grounding Language Models To
   Real-world Environments'
 authors: Yu Gu, Xiang Deng, Yu Su
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 17
+citations: 19
 bibkey: gu2022proposal
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.09736'}]
-tags: [Few-Shot, Tools, Reinforcement Learning, BERT, In-Context Learning, Agentic,
-  Model Architecture]
+tags: [Model Architecture, Few-Shot, Tools, Reinforcement Learning, In-Context Learning,
+  Agentic, BERT]
 ---
 A key missing capacity of current language models (LMs) is grounding to
 real-world environments. Most existing work for grounded language understanding

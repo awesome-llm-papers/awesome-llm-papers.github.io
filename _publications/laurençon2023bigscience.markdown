@@ -7,7 +7,7 @@ year: 2023
 citations: 50
 bibkey: "lauren\xE7on2023bigscience"
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.03915'}]
-tags: [Ethics and Bias, Tools, Responsible AI, Training Techniques]
+tags: [Responsible AI, Tools, Training Techniques, Ethics and Bias]
 ---
 As language models grow ever larger, the need for large-scale high-quality
 text datasets has never been more pressing, especially in multilingual

@@ -3,13 +3,13 @@ layout: publication
 title: Improving Large Language Models For Clinical Named Entity Recognition Via Prompt
   Engineering
 authors: Yan Hu et al.
-conference: Arxiv
+conference: Journal of the American Medical Informatics Association
 year: 2023
-citations: 114
+citations: 125
 bibkey: hu2023improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.16416'}]
-tags: [Training Techniques, GPT, Few-Shot, Responsible AI, Tools, BERT, Applications,
-  Prompting, Model Architecture]
+tags: [Responsible AI, Model Architecture, GPT, Few-Shot, Applications, Tools, Prompting,
+  BERT, Training Techniques]
 ---
 Objective: This study quantifies the capabilities of GPT-3.5 and GPT-4 for
 clinical named entity recognition (NER) tasks and proposes task-specific

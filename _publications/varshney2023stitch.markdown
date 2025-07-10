@@ -8,7 +8,7 @@ year: 2023
 citations: 18
 bibkey: varshney2023stitch
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.03987'}]
-tags: [GPT, RAG, Reinforcement Learning, Applications, Model Architecture]
+tags: [Model Architecture, RAG, Applications, Reinforcement Learning, GPT]
 ---
 Recently developed large language models have achieved remarkable success in
 generating fluent and coherent text. However, these models often tend to

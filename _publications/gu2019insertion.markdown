@@ -2,12 +2,12 @@
 layout: publication
 title: Insertion-based Decoding With Automatically Inferred Generation Order
 authors: Jiatao Gu, Qi Liu, Kyunghyun Cho
-conference: Arxiv
+conference: Transactions of the Association for Computational Linguistics
 year: 2019
 citations: 17
 bibkey: gu2019insertion
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.01370'}]
-tags: [Reinforcement Learning, Transformer, Model Architecture, GPT]
+tags: [Transformer, Reinforcement Learning, GPT, Model Architecture]
 ---
 Conventional neural autoregressive decoding commonly assumes a fixed
 left-to-right generation order, which may be sub-optimal. In this work, we

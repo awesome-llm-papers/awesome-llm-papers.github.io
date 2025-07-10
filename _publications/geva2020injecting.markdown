@@ -2,12 +2,13 @@
 layout: publication
 title: Injecting Numerical Reasoning Skills Into Language Models
 authors: Mor Geva, Ankit Gupta, Jonathan Berant
-conference: Arxiv
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
 year: 2020
 citations: 50
 bibkey: geva2020injecting
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.04487'}]
-tags: [Pre-Training, Training Techniques, Model Architecture, BERT]
+tags: [BERT, Training Techniques, Pre-Training, Model Architecture]
 ---
 Large pre-trained language models (LMs) are known to encode substantial
 amounts of linguistic information. However, high-level reasoning skills, such

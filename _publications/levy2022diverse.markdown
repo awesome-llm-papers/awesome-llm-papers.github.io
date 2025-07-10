@@ -2,12 +2,13 @@
 layout: publication
 title: Diverse Demonstrations Improve In-context Compositional Generalization
 authors: Itay Levy, Ben Bogin, Jonathan Berant
-conference: Arxiv
+conference: 'Proceedings of the 61st Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
 year: 2022
-citations: 19
+citations: 20
 bibkey: levy2022diverse
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.06800'}]
-tags: [RAG, Training Techniques, In-Context Learning, Prompting]
+tags: [RAG, In-Context Learning, Prompting, Training Techniques, Evaluation]
 ---
 In-context learning has shown great success in i.i.d semantic parsing splits,
 where the training and test sets are drawn from the same distribution. In this

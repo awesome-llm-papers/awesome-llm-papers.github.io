@@ -7,7 +7,7 @@ year: 2020
 citations: 34
 bibkey: sood2020improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.07891'}]
-tags: [Attention Mechanism, Transformer, Model Architecture, Tools]
+tags: [Transformer, Tools, Model Architecture, Attention Mechanism]
 ---
 A lack of corpora has so far limited advances in integrating human gaze data
 as a supervisory signal in neural attention mechanisms for natural language

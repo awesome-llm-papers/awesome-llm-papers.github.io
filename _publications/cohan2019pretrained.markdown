@@ -4,12 +4,12 @@ title: Pretrained Language Models For Sequential Sentence Classification
 authors: Arman Cohan, Iz Beltagy, Daniel King, Bhavana Dalvi, Daniel S. Weld
 conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
   Processing and the 9th International Joint Conference on Natural Language Processing
-  (EMNLP-IJCNLP) (2019) 3693-3699
+  (EMNLP-IJCNLP)
 year: 2019
-citations: 46
+citations: 48
 bibkey: cohan2019pretrained
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.04054'}]
-tags: [Transformer, Model Architecture, BERT]
+tags: [Transformer, BERT, Model Architecture]
 ---
 As a step toward better document-level understanding, we explore
 classification of a sequence of sentences into their corresponding categories,

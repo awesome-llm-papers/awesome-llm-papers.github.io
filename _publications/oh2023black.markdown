@@ -2,14 +2,14 @@
 layout: publication
 title: 'Blackvip: Black-box Visual Prompting For Robust Transfer Learning'
 authors: Changdae Oh et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 year: 2023
-citations: 20
+citations: 21
 bibkey: oh2023black
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2303.14773'}, {name: Code,
     url: 'https://github.com/changdaeoh/BlackVIP'}]
-tags: [Training Techniques, Fine-Tuning, Few-Shot, Tools, Reinforcement Learning,
-  Attention Mechanism, Has Code, Applications, Security, Prompting, Model Architecture]
+tags: [Security, Has Code, Model Architecture, Attention Mechanism, Fine-Tuning, Few-Shot,
+  Applications, Tools, Reinforcement Learning, Prompting, Training Techniques]
 ---
 With the surge of large-scale pre-trained models (PTMs), fine-tuning these
 models to numerous downstream tasks becomes a crucial problem. Consequently,

@@ -2,13 +2,13 @@
 layout: publication
 title: Physically Grounded Vision-language Models For Robotic Manipulation
 authors: Jensen Gao et al.
-conference: Arxiv
+conference: 2024 IEEE International Conference on Robotics and Automation (ICRA)
 year: 2023
 citations: 23
 bibkey: gao2023physically
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.02561'}]
-tags: [Training Techniques, RAG, Fine-Tuning, Tools, Reinforcement Learning, Multimodal
-    Models]
+tags: [Fine-Tuning, RAG, Reinforcement Learning, Tools, Multimodal Models, Training
+    Techniques]
 ---
 Recent advances in vision-language models (VLMs) have led to improved
 performance on tasks such as visual question answering and image captioning.

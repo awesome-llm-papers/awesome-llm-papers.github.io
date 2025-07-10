@@ -2,13 +2,14 @@
 layout: publication
 title: 'Mixgen: A New Multi-modal Data Augmentation'
 authors: Xiaoshuai Hao et al.
-conference: Arxiv
+conference: 2023 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops
+  (WACVW)
 year: 2022
 citations: 53
 bibkey: hao2022new
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2206.08358'}]
-tags: [Training Techniques, Pre-Training, Efficiency and Optimization, Multimodal
-    Models, Model Architecture]
+tags: [Model Architecture, Multimodal Models, Pre-Training, Efficiency and Optimization,
+  Training Techniques]
 ---
 Data augmentation is a necessity to enhance data efficiency in deep learning.
 For vision-language pre-training, data is only augmented either for images or

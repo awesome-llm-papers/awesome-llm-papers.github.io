@@ -2,13 +2,15 @@
 layout: publication
 title: Mixture Content Selection For Diverse Sequence Generation
 authors: Jaemin Cho, Minjoon Seo, Hannaneh Hajishirzi
-conference: Arxiv
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
 year: 2019
 citations: 21
 bibkey: cho2019mixture
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.01953'}, {name: Code,
     url: 'https://github.com/clovaai/FocusSeq2Seq'}]
-tags: [Training Techniques, RAG, Efficiency and Optimization, Has Code, Applications]
+tags: [Has Code, RAG, Applications, Efficiency and Optimization, Training Techniques]
 ---
 Generating diverse sequences is important in many NLP applications such as
 question generation or summarization that exhibit semantically one-to-many

@@ -4,11 +4,11 @@ title: Improving CLIP Training With Language Rewrites
 authors: Lijie Fan, Dilip Krishnan, Phillip Isola, Dina Katabi, Yonglong Tian
 conference: Arxiv
 year: 2023
-citations: 24
+citations: 25
 bibkey: fan2023improving
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.20088'}, {name: Code,
     url: 'https://github.com/LijieFan/LaCLIP'}]
-tags: [Training Techniques, RAG, Pre-Training, In-Context Learning, Has Code, ACL]
+tags: [Has Code, RAG, ACL, In-Context Learning, Pre-Training, Training Techniques]
 ---
 Contrastive Language-Image Pre-training (CLIP) stands as one of the most
 effective and scalable methods for training transferable vision models using

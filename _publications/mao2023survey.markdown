@@ -8,7 +8,7 @@ year: 2023
 citations: 18
 bibkey: mao2023survey
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.12488'}]
-tags: [GPT, Model Architecture, Survey Paper]
+tags: [Survey Paper, GPT, Model Architecture, Evaluation]
 ---
 The emergence of ChatGPT has generated much speculation in the press about
 its potential to disrupt social and economic systems. Its astonishing language

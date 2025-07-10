@@ -8,8 +8,8 @@ citations: 185
 bibkey: zhu2019enhanced
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.11764'}, {name: Code,
     url: 'https://github.com/zhuchen03/FreeLB'}]
-tags: [Training Techniques, Transformer, Reinforcement Learning, BERT, Has Code, Security,
-  Model Architecture]
+tags: [Security, Has Code, Model Architecture, Transformer, Reinforcement Learning,
+  BERT, Training Techniques, Evaluation]
 ---
 Adversarial training, which minimizes the maximal risk for label-preserving
 input perturbations, has proved to be effective for improving the

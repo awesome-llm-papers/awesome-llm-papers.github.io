@@ -7,8 +7,8 @@ year: 2021
 citations: 51
 bibkey: topal2021exploring
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.08036'}]
-tags: [Large-Scale Training, GPT, Transformer, Attention Mechanism, Tools, BERT, Language
-    Modeling, Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, GPT, Transformer,
+  Tools, BERT, Large-Scale Training]
 ---
 Recent years have seen a proliferation of attention mechanisms and the rise
 of Transformers in Natural Language Generation (NLG). Previously,

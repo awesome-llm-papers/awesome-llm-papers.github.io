@@ -8,8 +8,8 @@ year: 2019
 citations: 27
 bibkey: ziegler2019encoder
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1908.06938'}]
-tags: [Transformer, Attention Mechanism, Reinforcement Learning, Language Modeling,
-  Model Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, Reinforcement
+    Learning]
 ---
 Large pretrained language models have changed the way researchers approach
 discriminative natural language understanding tasks, leading to the dominance

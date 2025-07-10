@@ -2,13 +2,15 @@
 layout: publication
 title: 'REPLUG: Retrieval-augmented Black-box Language Models'
 authors: Weijia Shi et al.
-conference: Arxiv
+conference: 'Proceedings of the 2024 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies (Volume 1:
+  Long Papers)'
 year: 2023
-citations: 33
+citations: 34
 bibkey: shi2023retrieval
 additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2301.12652v4'}]
-tags: [GPT, Transformer, RAG, Attention Mechanism, Tools, Language Modeling, Model
-    Architecture]
+tags: [Language Modeling, Model Architecture, Attention Mechanism, Transformer, RAG,
+  Tools, GPT]
 ---
 We introduce REPLUG, a retrieval-augmented language modeling framework that
 treats the language model (LM) as a black box and augments it with a tuneable

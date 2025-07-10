@@ -7,7 +7,7 @@ year: 2023
 citations: 47
 bibkey: zhu2023can
 additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.10145'}]
-tags: [RAG, GPT, Model Architecture]
+tags: [GPT, RAG, Model Architecture]
 ---
 The release of ChatGPT has uncovered a range of possibilities whereby large
 language models (LLMs) can substitute human intelligence. In this paper, we
