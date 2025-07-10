@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      CLIP-TD: CLIP Targeted Distillation For Vision-language Tasks &middot; Awesome LLM Papers
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to LLM-Bible</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          Awesome LLM Papers
+        </a>
+      </h1>
+      <p class="lead">A curated collection of research papers on Large Language Models (LLMs), transformers, prompting, fine-tuning, and multi-modal systems. Maintained by <a href="https://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="sidebar-item">
+        <p style="font-size: 12px">Search related work 
+          <input type='text' id='searchTarget' size="16"/> 
+          <button onClick="search();">Go</button>
+        </p>
+      </div>
+      <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+      <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+      <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+      <a class="sidebar-nav-item" href="/topic-viz.html">Topic-based Explorer</a>
+      <a class="sidebar-nav-item" href="/chatbot.html">Chatbot-based Explorer</a>
+      <a class="sidebar-nav-item" href="/digest.html">Newsletter Digest</a>
+      <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+      <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+    </nav>
+
+    <div class="sidebar-item">
+      <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+      <span style="font-size: 9px">
+        Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+      </span></p>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Initiate search when 'Enter' is pressed in the search input
+  $("#searchTarget").keydown(function (e) {	
+    if (e.keyCode == 13) {
+      search();
+    }
+  });
+
+  function search() {
+    var query = $("#searchTarget").val();
+    try {
+      ga('send', 'event', 'search', 'search', query);  // Google Analytics event tracking
+    } finally {
+      // Redirect to papers.html with the query as a hash
+      window.location = "/papers.html#" + encodeURIComponent(query);
+    }
+  }
+</script>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">CLIP-TD: CLIP Targeted Distillation For Vision-language Tasks</h1>
+  <h5>
+  Zhecan Wang et al.. Arxiv 2022
+  
+    – <span>17 citations</span>
+  
+  </h5>
+  <p>
+    
+      [<a href="https://arxiv.org/abs/2201.05729" target="_blank">Paper</a>]
+    
+    &nbsp;<a href='http://scholar.google.com/scholar?q=CLIP-TD: CLIP Targeted Distillation For Vision-language Tasks' target="_blank"><img  style="display: inline; margin: 0;" src="/public/media/google-scholar.png"/></a>
+    &nbsp;<a href='https://www.semanticscholar.org/search?q=CLIP-TD: CLIP Targeted Distillation For Vision-language Tasks' target="_blank"><img style="display: inline; margin: 0;" src="/public/media/semscholar.png"/></a>
+    <br/>
+    
+      <tag><a href="/tags.html#Model Architecture">Model Architecture</a></tag>
+    
+      <tag><a href="/tags.html#Distillation">Distillation</a></tag>
+    
+      <tag><a href="/tags.html#Reinforcement Learning">Reinforcement Learning</a></tag>
+    
+      <tag><a href="/tags.html#Multimodal Models">Multimodal Models</a></tag>
+    
+      <tag><a href="/tags.html#Efficiency and Optimization">Efficiency and Optimization</a></tag>
+    
+      <tag><a href="/tags.html#Training Techniques">Training Techniques</a></tag>
+    
+      <tag><a href="/tags.html#Evaluation">Evaluation</a></tag>
+    
+  </p>
+  <p><p>Contrastive language-image pretraining (CLIP) links vision and language
+modalities into a unified embedding space, yielding the tremendous potential
+for vision-language (VL) tasks. While early concurrent works have begun to
+study this potential on a subset of tasks, important questions remain: 1) What
+is the benefit of CLIP on unstudied VL tasks? 2) Does CLIP provide benefit in
+low-shot or domain-shifted scenarios? 3) Can CLIP improve existing approaches
+without impacting inference or pretraining complexity? In this work, we seek to
+answer these questions through two key contributions. First, we introduce an
+evaluation protocol that includes Visual Commonsense Reasoning (VCR), Visual
+Entailment (SNLI-VE), and Visual Question Answering (VQA), across a variety of
+data availability constraints and conditions of domain shift. Second, we
+propose an approach, named CLIP Targeted Distillation (CLIP-TD), to
+intelligently distill knowledge from CLIP into existing architectures using a
+dynamically weighted objective applied to adaptively selected tokens per
+instance. Experiments demonstrate that our proposed CLIP-TD leads to
+exceptional gains in the low-shot (up to 51.9%) and domain-shifted (up to
+71.3%) conditions of VCR, while simultaneously improving performance under
+standard fully-supervised conditions (up to 2%), achieving state-of-art
+performance on VCR compared to other single models that are pretrained with
+image-text data only. On SNLI-VE, CLIP-TD produces significant gains in
+low-shot conditions (up to 6.6%) as well as fully supervised (up to 3%). On
+VQA, CLIP-TD provides improvement in low-shot (up to 9%), and in
+fully-supervised (up to 1.3%). Finally, CLIP-TD outperforms concurrent works
+utilizing CLIP for finetuning, as well as baseline naive distillation
+approaches. Code will be made available.</p>
+</p>
+
+  <h6>Similar Work</h6>
+  <p>
+    <ul id="relwork">
+
+    </ul>
+  </p>
+
+ <script>  
+    $(document).ready(
+      function() {
+        $.getJSON("/publications-metadata/wang2022clip.json", function(data) {
+          num_papers = data.length;
+          html = "";
+          for (let i=0; i < num_papers; i++) {
+              html += '<li><a href="/publications/' + data[i][0] + '">'+ data[i][1] +'</a></li>'
+          }
+          $("#relwork").append(html);
+        });
+      });
+  </script>
+
+
+</div>
+
+    </div>
+
+    <!-- 
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        let isBot = true;
+
+        // Check for mouse movement or keyboard interaction
+        document.addEventListener('mousemove', function () {
+          isBot = false;
+        });
+        document.addEventListener('keydown', function () {
+          isBot = false;
+        });
+
+        // Redirect or take action if no user interaction is detected
+        setTimeout(function () {
+          if (isBot) {
+            // Redirect to a challenge page or show a message
+            window.location.href = '/challenge-page.html'; // Update with your actual challenge page
+          }
+        }, 5000); // Adjust the time delay as needed
+      });
+    </script>
+    -->
+  </body>
+</html>
