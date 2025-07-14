@@ -1,0 +1,26 @@
+---
+layout: publication
+title: Blockwise Parallel Transformer For Large Context Models
+authors: Hao Liu, Pieter Abbeel
+conference: Arxiv
+year: 2023
+bibkey: hao2023blockwise
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2305.19370v3'}]
+tags: [Model Architecture, Attention Mechanism, Language Modeling, Agentic, Efficiency
+    And Optimization, Transformer, Reinforcement Learning, RAG, Applications, Merging,
+  Training Techniques]
+---
+Transformers have emerged as the cornerstone of state-of-the-art natural
+language processing models, showcasing exceptional performance across a wide
+range of AI applications. However, the memory demands posed by the
+self-attention mechanism and the large feedforward network in Transformers
+limit their ability to handle long sequences, thereby creating challenges for
+tasks involving multiple long sequences or long-term dependencies. We present a
+distinct approach, Blockwise Parallel Transformer (BPT), that leverages
+blockwise computation of self-attention and feedforward network fusion to
+minimize memory costs. By processing longer input sequences while maintaining
+memory efficiency, BPT enables training sequences 32 times longer than vanilla
+Transformers and up to 4 times longer than previous memory-efficient methods.
+Extensive experiments on language modeling and reinforcement learning tasks
+demonstrate the effectiveness of BPT in reducing memory requirements and
+improving performance.
