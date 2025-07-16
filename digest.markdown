@@ -4,20 +4,22 @@ title: LLM News Digest
 description: Stay current with the latest breakthroughs in large language models.
 ---
 
-**Your weekly briefing on Large Language Models — in your inbox.**
+**A practical, research-grounded summary of what’s happening in LLMs — delivered weekly.**
 
-Join **thousands of ML researchers, engineers, and founders** who rely on LLM News Digest to stay ahead of the curve. Each week, we scan arXiv, major conferences, and research labs to bring you:
+The **LLM News Digest** is a curated email for researchers, engineers, and founders who want to keep up with recent developments in large language models without wading through thousands of papers.
 
-- 🔍 **Concise summaries** of the newest LLM papers (GPT, BERT, Claude, Mistral & more)  
-- 📈 **Micro-Trend Watch**: what tags are surging in frequency this week  
-- 🧠 **LLM WTF of the Week**: the most bizarre, left-field paper we could find  
-- 💎 **Under-the-Radar Gem**: a low-citation, high-quality paper you probably missed  
-- 📚 **AI Word of the Week**: a fresh term + short definition to keep your vocabulary sharp  
-- 🎲 **Serendipitous Pick**: a randomly surfaced, unexpectedly delightful read  
-- 🏆 **Most Cited Classics**: timeless papers that continue to shape the field  
-- 🧭 **Top Papers by Theme**: fine-tuning, RAG, agents, alignment, and more
+Each edition includes:
 
-No spam. Just signal.
+- 🔍 **Concise paper summaries**: hand-picked recent work on GPT, Claude, BERT, Mistral, and beyond  
+- 📈 **Micro-Trend Watch**: which topics and tags are increasing in frequency  
+- 🧠 **Deep Dive**: a brief explanation of a single standout paper  
+- 📚 **AI Word of the Week**: a short definition of a recurring or emerging technical term  
+- 🎲 **Serendipitous Pick**: a surprising or quirky paper from the archive  
+- 💎 **Under-the-Radar Gem**: a lesser-known but high-quality contribution  
+- 🏆 **Most Cited Classics**: foundational works that still matter  
+- 🧭 **Top Papers by Theme**: recent highlights from fine-tuning, RAG, prompting, alignment, and more
+
+It's a low-noise way to stay informed.
 
 <form id="subscribe-form" class="llm-news-digest-form">
   <input type="email" name="email" id="email" class="llm-news-input" placeholder="Your Email Address" required><br><br>
