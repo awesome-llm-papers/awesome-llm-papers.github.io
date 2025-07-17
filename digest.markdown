@@ -17,6 +17,7 @@ Each edition includes:
 - 🎲 **Serendipitous Pick**: a surprising or quirky paper from the archive  
 - 💎 **Under-the-Radar Gem**: a lesser-known but high-quality contribution  
 - 🏆 **Most Cited Classics**: foundational works that still matter  
+- 🕰️ **Oldies But Goodies**: a random pick from the earliest papers in our archive — timeless and still relevant  
 - 🧭 **Top Papers by Theme**: recent highlights from fine-tuning, RAG, prompting, alignment, and more
 
 It's a low-noise way to stay informed.
