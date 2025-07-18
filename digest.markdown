@@ -10,7 +10,8 @@ The **LLM News Digest** is a curated email for researchers, engineers, and found
 
 Each edition includes:
 
-- 🔍 **Concise paper summaries**: hand-picked recent work on GPT, Claude, BERT, Mistral, and beyond  
+- 🔍 **Concise paper summaries**: hand-picked recent work on GPT, Claude, BERT, Mistral, and beyond
+- 🗞️ **AI News of the Week:** short, curated headlines from trusted sources across the AI landscape
 - 📈 **Micro-Trend Watch**: which topics and tags are increasing in frequency  
 - 🧠 **Deep Dive**: a brief explanation of a single standout paper  
 - 📚 **AI Word of the Week**: a short definition of a recurring or emerging technical term  
