@@ -21,6 +21,7 @@
       <a class="sidebar-nav-item{% if page.url == "/tags.html" %} active{% endif %}" href="{% link tags.html %}">Papers by Tag</a>
       <a class="sidebar-nav-item{% if page.url == "/tsne-viz.html" %} active{% endif %}" href="{% link tsne-viz.html %}">2D Map of Papers</a>
       <a class="sidebar-nav-item{% if page.url == "/topic-viz.html" %} active{% endif %}" href="{% link topic-viz.html %}">Topic-based Explorer</a>
+      <a class="sidebar-nav-item{% if page.url == "/author-viz.html" %} active{% endif %}" href="{% link author-viz.markdown %}">Author Visualisation <span style="font-size:10px; color: #999;">(Coming Soon)</span></a>
       <a class="sidebar-nav-item{% if page.url == "/chatbot.html" %} active{% endif %}" href="{% link chatbot.markdown %}">Chatbot-based Explorer</a>
       <a class="sidebar-nav-item{% if page.url == "/digest.html" %} active{% endif %}" href="{% link digest.markdown %}">E-Mail Digest</a>
       <a class="sidebar-nav-item{% if page.url == "/resources.html" %} active{% endif %}" href="{% link resources.md %}">Resources, Courses & Events</a>
@@ -35,22 +36,3 @@
     </div>
   </div>
 </div>
-
-<script>
-  // Initiate search when 'Enter' is pressed in the search input
-  $("#searchTarget").keydown(function (e) {	
-    if (e.keyCode == 13) {
-      search();
-    }
-  });
-
-  function search() {
-    var query = $("#searchTarget").val();
-    try {
-      ga('send', 'event', 'search', 'search', query);  // Google Analytics event tracking
-    } finally {
-      // Redirect to papers.html with the query as a hash
-      window.location = "{% link papers.html %}#" + encodeURIComponent(query);
-    }
-  }
-</script>
