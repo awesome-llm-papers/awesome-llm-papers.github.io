@@ -145,7 +145,7 @@ html, body {
 
 <script>
 // Fetch popular queries from your Flask endpoint
-fetch("https://llmbible.tinyapps.run/popular-queries")
+fetch("https://awesome-llm-papers.tinyapps.run/popular-queries")
     .then(response => response.json())
     .then(data => {
         const queriesList = document.getElementById("popular-queries-list");
@@ -188,7 +188,7 @@ async function sendQuery() {
   loadingDiv.style.display = "block"; // Show spinner
 
   try {
-    const response = await fetch("https://llmbible.tinyapps.run/chat", {
+    const response = await fetch("https://awesome-llm-papers.tinyapps.run/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ user_input: query })
@@ -219,7 +219,7 @@ async function sendQuery() {
 }
 
 function displayWelcomeMessage() {
-  displayBotMessage("Hello! I'm LLM-Bible Bot. How can I assist you today?");
+  displayBotMessage("Hello! I'm the Awesome LLM Papers Bot. How can I assist you today?");
 }
 
 function parseAndDisplayAnswer(answer) {
@@ -240,7 +240,7 @@ function parseAndDisplayAnswer(answer) {
 
     const botMessage = document.createElement("div");
     botMessage.classList.add("message", "bot");
-    botMessage.innerHTML = `<p>LLM-Bible Bot:</p><ul>${formatBotResponse(papers)}</ul>`;
+    botMessage.innerHTML = `<p>Awesome LLM Papers Bot:</p><ul>${formatBotResponse(papers)}</ul>`;
     document.getElementById("messages").appendChild(botMessage);
   } catch (jsonError) {
     displayBotMessage("Error parsing the response data.");
@@ -250,7 +250,7 @@ function parseAndDisplayAnswer(answer) {
 function displayBotMessage(text) {
   const errorMessage = document.createElement("div");
   errorMessage.classList.add("message", "bot");
-  errorMessage.textContent = `LLM-Bible Bot: ${text}`;
+  errorMessage.textContent = `Awesome LLM Papers Bot: ${text}`;
   document.getElementById("messages").appendChild(errorMessage);
 }
 
