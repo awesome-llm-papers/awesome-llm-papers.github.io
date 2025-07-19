@@ -1,0 +1,25 @@
+---
+layout: publication
+title: An Investigation Of Why Overparameterization Exacerbates Spurious Correlations
+authors: Sagawa et al.
+conference: Arxiv
+year: 2020
+bibkey: sagawa2020investigation
+citations: 75
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.04345'}]
+tags: [RAG, Training Techniques, Datasets, Ethics And Bias]
+---
+We study why overparameterization -- increasing model size well beyond the
+point of zero training error -- can hurt test error on minority groups despite
+improving average test error when there are spurious correlations in the data.
+Through simulations and experiments on two image datasets, we identify two key
+properties of the training data that drive this behavior: the proportions of
+majority versus minority groups, and the signal-to-noise ratio of the spurious
+correlations. We then analyze a linear setting and theoretically show how the
+inductive bias of models towards "memorizing" fewer examples can cause
+overparameterization to hurt. Our analysis leads to a counterintuitive approach
+of subsampling the majority group, which empirically achieves low minority
+error in the overparameterized regime, even though the standard approach of
+upweighting the minority fails. Overall, our results suggest a tension between
+using overparameterized models versus using all the training data for achieving
+low worst-group error.

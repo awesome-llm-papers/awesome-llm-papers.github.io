@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Codraw: Collaborative Drawing As A Testbed For Grounded Goal-driven Communication'
+authors: Kim et al.
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
+year: 2017
+bibkey: kim2017codraw
+citations: 52
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1712.05558'}]
+tags: [Training Techniques, Evaluation, ACL, Agentic, Datasets, Reinforcement Learning]
+---
+In this work, we propose a goal-driven collaborative task that combines
+language, perception, and action. Specifically, we develop a Collaborative
+image-Drawing game between two agents, called CoDraw. Our game is grounded in a
+virtual world that contains movable clip art objects. The game involves two
+players: a Teller and a Drawer. The Teller sees an abstract scene containing
+multiple clip art pieces in a semantically meaningful configuration, while the
+Drawer tries to reconstruct the scene on an empty canvas using available clip
+art pieces. The two players communicate with each other using natural language.
+We collect the CoDraw dataset of ~10K dialogs consisting of ~138K messages
+exchanged between human players. We define protocols and metrics to evaluate
+learned agents in this testbed, highlighting the need for a novel "crosstalk"
+evaluation condition which pairs agents trained independently on disjoint
+subsets of the training data. We present models for our task and benchmark them
+using both fully automated evaluation and by having them play the game live
+with humans.

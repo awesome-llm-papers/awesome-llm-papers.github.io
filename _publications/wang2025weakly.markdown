@@ -1,0 +1,14 @@
+---
+layout: publication
+title: Weakly-supervised Vlm-guided Partial Contrastive Learning For Visual Language
+  Navigation
+authors: Wang et al.
+conference: 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2025
+bibkey: wang2025weakly
+citations: 87
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2506.15757'}]
+tags: [ICCV, Training Techniques, Agentic, Evaluation, Efficiency And Optimization,
+  Security, Fine Tuning, Datasets]
+---
+Visual Language Navigation (VLN) is a fundamental task within the field of Embodied AI, focusing on the ability of agents to navigate complex environments based on natural language instructions. Despite the progress made by existing methods, these methods often present some common challenges. First, they rely on pre-trained backbone models for visual perception, which struggle with the dynamic viewpoints in VLN scenarios. Second, the performance is limited when using pre-trained LLMs or VLMs without fine-tuning, due to the absence of VLN domain knowledge. Third, while fine-tuning LLMs and VLMs can improve results, their computational costs are higher than those without fine-tuning. To address these limitations, we propose Weakly-supervised Partial Contrastive Learning (WPCL), a method that enhances an agent's ability to identify objects from dynamic viewpoints in VLN scenarios by effectively integrating pre-trained VLM knowledge into the perception process, without requiring VLM fine-tuning. Our method enhances the agent's ability to interpret and respond to environmental cues while ensuring computational efficiency. Experimental results have shown that our method outperforms the baseline methods on multiple benchmarks, which validate the effectiveness, robustness and generalizability of our method.

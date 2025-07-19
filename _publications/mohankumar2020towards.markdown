@@ -1,0 +1,38 @@
+---
+layout: publication
+title: Towards Transparent And Explainable Attention Models
+authors: Mohankumar et al.
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
+year: 2020
+bibkey: mohankumar2020towards
+citations: 71
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.14243'}]
+tags: [Ethics And Bias, Model Architecture, Interpretability And Explainability, Training
+    Techniques, Evaluation, ACL, Transformer, Datasets, Attention Mechanism]
+---
+Recent studies on interpretability of attention distributions have led to
+notions of faithful and plausible explanations for a model's predictions.
+Attention distributions can be considered a faithful explanation if a higher
+attention weight implies a greater impact on the model's prediction. They can
+be considered a plausible explanation if they provide a human-understandable
+justification for the model's predictions. In this work, we first explain why
+current attention mechanisms in LSTM based encoders can neither provide a
+faithful nor a plausible explanation of the model's predictions. We observe
+that in LSTM based encoders the hidden representations at different time-steps
+are very similar to each other (high conicity) and attention weights in these
+situations do not carry much meaning because even a random permutation of the
+attention weights does not affect the model's predictions. Based on experiments
+on a wide variety of tasks and datasets, we observe attention distributions
+often attribute the model's predictions to unimportant words such as
+punctuation and fail to offer a plausible explanation for the predictions. To
+make attention mechanisms more faithful and plausible, we propose a modified
+LSTM cell with a diversity-driven training objective that ensures that the
+hidden representations learned at different time steps are diverse. We show
+that the resulting attention distributions offer more transparency as they (i)
+provide a more precise importance ranking of the hidden states (ii) are better
+indicative of words important for the model's predictions (iii) correlate
+better with gradient-based attribution methods. Human evaluations indicate that
+the attention distributions learned by our model offer a plausible explanation
+of the model's predictions. Our code has been made publicly available at
+https://github.com/akashkm99/Interpretable-Attention

@@ -1,0 +1,33 @@
+---
+layout: publication
+title: Is Your LLM Secretly A World Model Of The Internet? Model-based Planning For
+  Web Agents
+authors: Gu et al.
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2024
+bibkey: gu2024is
+citations: 70
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2411.06559'}]
+tags: [ICCV, Training Techniques, GPT, Agentic, Tools, Model Architecture, Efficiency
+    And Optimization, Reinforcement Learning]
+---
+Language agents based on large language models (LLMs) have demonstrated great
+promise in automating web-based tasks. Recent work has shown that incorporating
+advanced planning algorithms, e.g., tree search, is advantageous over reactive
+planning for web agents. However, unlike simulated sandbox environments,
+real-world environments such as the web are rife with irreversible actions.
+This undermines the feasibility of backtracking, a cornerstone of (tree)
+search. Overly relying on test-time search also hurts efficiency. We advocate
+model-based planning for web agents that employs a world model to simulate and
+deliberate over the outcome of each candidate action before committing to one.
+We systematically explore this paradigm by (1) Proposing a model-based planning
+framework, WebDreamer, which employs LLMs to serve as both world models and
+value functions; (2) Training specialized LLMs as world models with a scalable
+data synthesis pipeline. Empirical results demonstrate that WebDreamer achieves
+substantial performance improvements over reactive baselines. It is
+competitive, while being 4-5 times more efficient, with tree search in sandbox
+environments (VisualWebArena) and also works effectively on real-world websites
+(Online-Mind2Web and Mind2Web-Live). Furthermore, our trained world model,
+Dreamer-7B, performs comparable to GPT-4o, highlighting the potential of
+specialized world models for efficient and effective planning in complex web
+environments.

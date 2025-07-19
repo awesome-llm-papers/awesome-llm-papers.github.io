@@ -1,0 +1,23 @@
+---
+layout: publication
+title: Compositional Generalization Via Neural-symbolic Stack Machines
+authors: Chen et al.
+conference: Arxiv
+year: 2020
+bibkey: chen2020compositional
+citations: 51
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.06662'}]
+tags: [Training Techniques, Evaluation, Few Shot, Reinforcement Learning, Datasets]
+---
+Despite achieving tremendous success, existing deep learning models have
+exposed limitations in compositional generalization, the capability to learn
+compositional rules and apply them to unseen cases in a systematic manner. To
+tackle this issue, we propose the Neural-Symbolic Stack Machine (NeSS). It
+contains a neural network to generate traces, which are then executed by a
+symbolic stack machine enhanced with sequence manipulation operations. NeSS
+combines the expressive power of neural sequence models with the recursion
+supported by the symbolic stack machine. Without training supervision on
+execution traces, NeSS achieves 100% generalization performance in four
+domains: the SCAN benchmark of language-driven navigation tasks, the task of
+few-shot learning of compositional instructions, the compositional machine
+translation benchmark, and context-free grammar parsing tasks.

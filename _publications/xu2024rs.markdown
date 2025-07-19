@@ -1,0 +1,38 @@
+---
+layout: publication
+title: 'RS-GPT4V: A Unified Multimodal Instruction-following Dataset For Remote Sensing
+  Image Understanding'
+authors: Xu et al.
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2024
+bibkey: xu2024rs
+citations: 58
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2406.12479'}]
+tags: [ICCV, Training Techniques, GPT, Model Architecture, Multimodal Models, Datasets]
+---
+The remote sensing image intelligence understanding model is undergoing a new
+profound paradigm shift which has been promoted by multi-modal large language
+model (MLLM), i.e. from the paradigm learning a domain model (LaDM) shifts to
+paradigm learning a pre-trained general foundation model followed by an
+adaptive domain model (LaGD). Under the new LaGD paradigm, the old datasets,
+which have led to advances in RSI intelligence understanding in the last
+decade, are no longer suitable for fire-new tasks. We argued that a new dataset
+must be designed to lighten tasks with the following features: 1)
+Generalization: training model to learn shared knowledge among tasks and to
+adapt to different tasks; 2) Understanding complex scenes: training model to
+understand the fine-grained attribute of the objects of interest, and to be
+able to describe the scene with natural language; 3) Reasoning: training model
+to be able to realize high-level visual reasoning. In this paper, we designed a
+high-quality, diversified, and unified multimodal instruction-following dataset
+for RSI understanding produced by GPT-4V and existing datasets, which we called
+RS-GPT4V. To achieve generalization, we used a (Question, Answer) which was
+deduced from GPT-4V via instruction-following to unify the tasks such as
+captioning and localization; To achieve complex scene, we proposed a
+hierarchical instruction description with local strategy in which the
+fine-grained attributes of the objects and their spatial relationships are
+described and global strategy in which all the local information are integrated
+to yield detailed instruction descript; To achieve reasoning, we designed
+multiple-turn QA pair to provide the reasoning ability for a model. The
+empirical results show that the fine-tuned MLLMs by RS-GPT4V can describe
+fine-grained information. The dataset is available at:
+https://github.com/GeoX-Lab/RS-GPT4V.

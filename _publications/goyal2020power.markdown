@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Power-bert: Accelerating BERT Inference Via Progressive Word-vector Elimination'
+authors: Goyal et al.
+conference: Arxiv
+year: 2020
+bibkey: goyal2020power
+citations: 51
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2001.08950'}]
+tags: [Attention Mechanism, Evaluation, Transformer, BERT, Model Architecture, Datasets]
+---
+We develop a novel method, called PoWER-BERT, for improving the inference
+time of the popular BERT model, while maintaining the accuracy. It works by: a)
+exploiting redundancy pertaining to word-vectors (intermediate encoder outputs)
+and eliminating the redundant vectors. b) determining which word-vectors to
+eliminate by developing a strategy for measuring their significance, based on
+the self-attention mechanism. c) learning how many word-vectors to eliminate by
+augmenting the BERT model and the loss function. Experiments on the standard
+GLUE benchmark shows that PoWER-BERT achieves up to 4.5x reduction in inference
+time over BERT with <1% loss in accuracy. We show that PoWER-BERT offers
+significantly better trade-off between accuracy and inference time compared to
+prior methods. We demonstrate that our method attains up to 6.8x reduction in
+inference time with <1% loss in accuracy when applied over ALBERT, a highly
+compressed version of BERT. The code for PoWER-BERT is publicly available at
+https://github.com/IBM/PoWER-BERT.

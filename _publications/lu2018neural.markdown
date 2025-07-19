@@ -1,0 +1,27 @@
+---
+layout: publication
+title: Neural Baby Talk
+authors: Lu et al.
+conference: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
+bibkey: lu2018neural
+citations: 458
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1803.09845'}]
+tags: [Model Architecture, Tools, CVPR, Datasets]
+---
+We introduce a novel framework for image captioning that can produce natural
+language explicitly grounded in entities that object detectors find in the
+image. Our approach reconciles classical slot filling approaches (that are
+generally better grounded in images) with modern neural captioning approaches
+(that are generally more natural sounding and accurate). Our approach first
+generates a sentence `template' with slot locations explicitly tied to specific
+image regions. These slots are then filled in by visual concepts identified in
+the regions by object detectors. The entire architecture (sentence template
+generation and slot filling with object detectors) is end-to-end
+differentiable. We verify the effectiveness of our proposed model on different
+image captioning tasks. On standard image captioning and novel object
+captioning, our model reaches state-of-the-art on both COCO and Flickr30k
+datasets. We also demonstrate that our model has unique advantages when the
+train and test distributions of scene compositions -- and hence language priors
+of associated captions -- are different. Code has been made available at:
+https://github.com/jiasenlu/NeuralBabyTalk

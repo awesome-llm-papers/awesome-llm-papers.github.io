@@ -1,0 +1,30 @@
+---
+layout: publication
+title: Evaluating Discourse Phenomena In Neural Machine Translation
+authors: Bawden et al.
+conference: 'Proceedings of the 2018 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies, Volume 1
+  (Long Papers)'
+year: 2017
+bibkey: bawden2017evaluating
+citations: 87
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1711.00513'}]
+tags: [ACL, Reinforcement Learning, Evaluation]
+---
+For machine translation to tackle discourse phenomena, models must have
+access to extra-sentential linguistic context. There has been recent interest
+in modelling context in neural machine translation (NMT), but models have been
+principally evaluated with standard automatic metrics, poorly adapted to
+evaluating discourse phenomena. In this article, we present hand-crafted,
+discourse test sets, designed to test the models' ability to exploit previous
+source and target sentences. We investigate the performance of recently
+proposed multi-encoder NMT models trained on subtitles for English to French.
+We also explore a novel way of exploiting context from the previous sentence.
+Despite gains using BLEU, multi-encoder models give limited improvement in the
+handling of discourse phenomena: 50% accuracy on our coreference test set and
+53.5% for coherence/cohesion (compared to a non-contextual baseline of 50%). A
+simple strategy of decoding the concatenation of the previous and current
+sentence leads to good performance, and our novel strategy of multi-encoding
+and decoding of two sentences leads to the best performance (72.5% for
+coreference and 57% for coherence/cohesion), highlighting the importance of
+target-side context.

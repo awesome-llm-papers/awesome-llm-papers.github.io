@@ -1,0 +1,21 @@
+---
+layout: publication
+title: Can Neural Machine Translation Do Simultaneous Translation?
+authors: Cho Kyunghyun, Esipova Masha
+conference: Arxiv
+year: 2016
+bibkey: cho2016can
+citations: 144
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.02012'}]
+tags: [Model Architecture, Attention Mechanism]
+---
+We investigate the potential of attention-based neural machine translation in
+simultaneous translation. We introduce a novel decoding algorithm, called
+simultaneous greedy decoding, that allows an existing neural machine
+translation model to begin translating before a full source sentence is
+received. This approach is unique from previous works on simultaneous
+translation in that segmentation and translation are done jointly to maximize
+the translation quality and that translating each segment is strongly
+conditioned on all the previous segments. This paper presents a first step
+toward building a full simultaneous translation system based on neural machine
+translation.

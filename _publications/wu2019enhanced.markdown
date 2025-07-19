@@ -1,0 +1,28 @@
+---
+layout: publication
+title: Enhanced Meta-learning For Cross-lingual Named Entity Recognition With Minimal
+  Resources
+authors: Wu et al.
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
+year: 2019
+bibkey: wu2019enhanced
+citations: 65
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.06161'}]
+tags: [RAG, AAAI, Training Techniques]
+---
+For languages with no annotated resources, transferring knowledge from
+rich-resource languages is an effective solution for named entity recognition
+(NER). While all existing methods directly transfer from source-learned model
+to a target language, in this paper, we propose to fine-tune the learned model
+with a few similar examples given a test case, which could benefit the
+prediction by leveraging the structural and semantic information conveyed in
+such similar examples. To this end, we present a meta-learning algorithm to
+find a good model parameter initialization that could fast adapt to the given
+test case and propose to construct multiple pseudo-NER tasks for meta-training
+by computing sentence similarities. To further improve the model's
+generalization ability across different languages, we introduce a masking
+scheme and augment the loss function with an additional maximum term during
+meta-training. We conduct extensive experiments on cross-lingual named entity
+recognition with minimal resources over five target languages. The results show
+that our approach significantly outperforms existing state-of-the-art methods
+across the board.

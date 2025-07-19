@@ -1,0 +1,27 @@
+---
+layout: publication
+title: User Experience Design Professionals' Perceptions Of Generative Artificial
+  Intelligence
+authors: Li et al.
+conference: Proceedings of the CHI Conference on Human Factors in Computing Systems
+year: 2023
+bibkey: li2023user
+citations: 53
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.15237'}]
+tags: [Reinforcement Learning]
+---
+Among creative professionals, Generative Artificial Intelligence (GenAI) has
+sparked excitement over its capabilities and fear over unanticipated
+consequences. How does GenAI impact User Experience Design (UXD) practice, and
+are fears warranted? We interviewed 20 UX Designers, with diverse experience
+and across companies (startups to large enterprises). We probed them to
+characterize their practices, and sample their attitudes, concerns, and
+expectations. We found that experienced designers are confident in their
+originality, creativity, and empathic skills, and find GenAI's role as
+assistive. They emphasized the unique human factors of "enjoyment" and
+"agency", where humans remain the arbiters of "AI alignment". However, skill
+degradation, job replacement, and creativity exhaustion can adversely impact
+junior designers. We discuss implications for human-GenAI collaboration,
+specifically copyright and ownership, human creativity and agency, and AI
+literacy and access. Through the lens of responsible and participatory AI, we
+contribute a deeper understanding of GenAI fears and opportunities for UXD.

@@ -1,0 +1,27 @@
+---
+layout: publication
+title: Knowledge Aided Consistency For Weakly Supervised Phrase Grounding
+authors: Chen Kan, Gao Jiyang, Nevatia Ram
+conference: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
+bibkey: chen2018knowledge
+citations: 94
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1803.03879'}]
+tags: [RAG, Training Techniques, CVPR, Efficiency And Optimization, Datasets]
+---
+Given a natural language query, a phrase grounding system aims to localize
+mentioned objects in an image. In weakly supervised scenario, mapping between
+image regions (i.e., proposals) and language is not available in the training
+set. Previous methods address this deficiency by training a grounding system
+via learning to reconstruct language information contained in input queries
+from predicted proposals. However, the optimization is solely guided by the
+reconstruction loss from the language modality, and ignores rich visual
+information contained in proposals and useful cues from external knowledge. In
+this paper, we explore the consistency contained in both visual and language
+modalities, and leverage complementary external knowledge to facilitate weakly
+supervised grounding. We propose a novel Knowledge Aided Consistency Network
+(KAC Net) which is optimized by reconstructing input query and proposal's
+information. To leverage complementary knowledge contained in the visual
+features, we introduce a Knowledge Based Pooling (KBP) gate to focus on
+query-related proposals. Experiments show that KAC Net provides a significant
+improvement on two popular datasets.

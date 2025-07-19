@@ -1,0 +1,31 @@
+---
+layout: publication
+title: Multi-object Hallucination In Vision-language Models
+authors: Chen et al.
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2024
+bibkey: chen2024multi
+citations: 136
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2407.06192'}]
+tags: [EMNLP, Prompting, Evaluation, Multimodal Models, Datasets]
+---
+Large vision language models (LVLMs) often suffer from object hallucination,
+producing objects not present in the given images. While current benchmarks for
+object hallucination primarily concentrate on the presence of a single object
+class rather than individual entities, this work systematically investigates
+multi-object hallucination, examining how models misperceive (e.g., invent
+nonexistent objects or become distracted) when tasked with focusing on multiple
+objects simultaneously. We introduce Recognition-based Object Probing
+Evaluation (ROPE), an automated evaluation protocol that considers the
+distribution of object classes within a single image during testing and uses
+visual referring prompts to eliminate ambiguity. With comprehensive empirical
+studies and analysis of potential factors leading to multi-object
+hallucination, we found that (1). LVLMs suffer more hallucinations when
+focusing on multiple objects compared to a single object. (2). The tested
+object class distribution affects hallucination behaviors, indicating that
+LVLMs may follow shortcuts and spurious correlations. (3). Hallucinatory
+behaviors are influenced by data-specific factors, salience and frequency, and
+model intrinsic behaviors. We hope to enable LVLMs to recognize and reason
+about multiple objects that often occur in realistic visual scenes, provide
+insights, and quantify our progress towards mitigating the issues.

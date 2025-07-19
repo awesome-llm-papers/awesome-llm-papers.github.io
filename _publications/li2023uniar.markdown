@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Uniar: A Unified Model For Predicting Human Attention And Responses On Visual
+  Content'
+authors: Li et al.
+conference: IEEE Transactions on Circuits and Systems for Video Technology
+year: 2023
+bibkey: li2023uniar
+citations: 73
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.10175'}]
+tags: [RAG, Attention Mechanism, Evaluation, Transformer, Model Architecture, Reinforcement
+    Learning, Applications, Multimodal Models, Datasets]
+---
+Progress in human behavior modeling involves understanding both implicit,
+early-stage perceptual behavior, such as human attention, and explicit,
+later-stage behavior, such as subjective preferences or likes. Yet most prior
+research has focused on modeling implicit and explicit human behavior in
+isolation; and often limited to a specific type of visual content. We propose
+UniAR -- a unified model of human attention and preference behavior across
+diverse visual content. UniAR leverages a multimodal transformer to predict
+subjective feedback, such as satisfaction or aesthetic quality, along with the
+underlying human attention or interaction heatmaps and viewing order. We train
+UniAR on diverse public datasets spanning natural images, webpages, and graphic
+designs, and achieve SOTA performance on multiple benchmarks across various
+image domains and behavior modeling tasks. Potential applications include
+providing instant feedback on the effectiveness of UIs/visual content, and
+enabling designers and content-creation models to optimize their creation for
+human-centric improvements.

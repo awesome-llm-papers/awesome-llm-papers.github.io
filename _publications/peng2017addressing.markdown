@@ -1,0 +1,19 @@
+---
+layout: publication
+title: Addressing The Data Sparsity Issue In Neural AMR Parsing
+authors: Peng et al.
+conference: 'Proceedings of the 15th Conference of the European Chapter of the Association
+  for Computational Linguistics: Volume 1, Long Papers'
+year: 2017
+bibkey: peng2017addressing
+citations: 76
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1702.05053'}]
+tags: [ACL, Model Architecture, Attention Mechanism]
+---
+Neural attention models have achieved great success in different NLP tasks.
+How- ever, they have not fulfilled their promise on the AMR parsing task due to
+the data sparsity issue. In this paper, we de- scribe a sequence-to-sequence
+model for AMR parsing and present different ways to tackle the data sparsity
+problem. We show that our methods achieve significant improvement over a
+baseline neural atten- tion model and our results are also compet- itive
+against state-of-the-art systems that do not use extra linguistic resources.

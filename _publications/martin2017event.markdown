@@ -1,0 +1,26 @@
+---
+layout: publication
+title: Event Representations For Automated Story Generation With Deep Neural Nets
+authors: Martin et al.
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
+year: 2017
+bibkey: martin2017event
+citations: 160
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1706.01331'}]
+tags: [AAAI]
+---
+Automated story generation is the problem of automatically selecting a
+sequence of events, actions, or words that can be told as a story. We seek to
+develop a system that can generate stories by learning everything it needs to
+know from textual story corpora. To date, recurrent neural networks that learn
+language models at character, word, or sentence levels have had little success
+generating coherent stories. We explore the question of event representations
+that provide a mid-level of abstraction between words and sentences in order to
+retain the semantic information of the original data while minimizing event
+sparsity. We present a technique for preprocessing textual story data into
+event sequences. We then present a technique for automated story generation
+whereby we decompose the problem into the generation of successive events
+(event2event) and the generation of natural language sentences from events
+(event2sentence). We give empirical results comparing different event
+representations and their effects on event successor generation and the
+translation of events to natural language.

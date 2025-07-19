@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Smoothquant: Accurate And Efficient Post-training Quantization For Large Language
+  Models'
+authors: Xiao et al.
+conference: Arxiv
+year: 2022
+bibkey: xiao2022smoothquant
+citations: 54
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.10438'}]
+tags: [Efficiency And Optimization, Training Techniques, Quantization]
+---
+Large language models (LLMs) show excellent performance but are compute- and
+memory-intensive. Quantization can reduce memory and accelerate inference.
+However, existing methods cannot maintain accuracy and hardware efficiency at
+the same time. We propose SmoothQuant, a training-free, accuracy-preserving,
+and general-purpose post-training quantization (PTQ) solution to enable 8-bit
+weight, 8-bit activation (W8A8) quantization for LLMs. Based on the fact that
+weights are easy to quantize while activations are not, SmoothQuant smooths the
+activation outliers by offline migrating the quantization difficulty from
+activations to weights with a mathematically equivalent transformation.
+SmoothQuant enables an INT8 quantization of both weights and activations for
+all the matrix multiplications in LLMs, including OPT, BLOOM, GLM, MT-NLG,
+Llama-1/2, Falcon, Mistral, and Mixtral models. We demonstrate up to 1.56x
+speedup and 2x memory reduction for LLMs with negligible loss in accuracy.
+SmoothQuant enables serving 530B LLM within a single node. Our work offers a
+turn-key solution that reduces hardware costs and democratizes LLMs. Code is
+available at https://github.com/mit-han-lab/smoothquant.

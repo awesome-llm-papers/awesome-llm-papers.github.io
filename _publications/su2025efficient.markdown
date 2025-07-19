@@ -1,0 +1,30 @@
+---
+layout: publication
+title: Efficient Multimodal 3D Object Detector Via Instance-level Contrastive Distillation
+authors: Su et al.
+conference: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2025
+bibkey: su2025efficient
+citations: 251
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2503.12914'}]
+tags: [RAG, Attention Mechanism, Distillation, Tools, CVPR, Evaluation, Model Architecture,
+  Efficiency And Optimization, Multimodal Models, Datasets, Merging]
+---
+Multimodal 3D object detectors leverage the strengths of both geometry-aware
+LiDAR point clouds and semantically rich RGB images to enhance detection
+performance. However, the inherent heterogeneity between these modalities,
+including unbalanced convergence and modal misalignment, poses significant
+challenges. Meanwhile, the large size of the detection-oriented feature also
+constrains existing fusion strategies to capture long-range dependencies for
+the 3D detection tasks. In this work, we introduce a fast yet effective
+multimodal 3D object detector, incorporating our proposed Instance-level
+Contrastive Distillation (ICD) framework and Cross Linear Attention Fusion
+Module (CLFM). ICD aligns instance-level image features with LiDAR
+representations through object-aware contrastive distillation, ensuring
+fine-grained cross-modal consistency. Meanwhile, CLFM presents an efficient and
+scalable fusion strategy that enhances cross-modal global interactions within
+sizable multimodal BEV features. Extensive experiments on the KITTI and
+nuScenes 3D object detection benchmarks demonstrate the effectiveness of our
+methods. Notably, our 3D object detector outperforms state-of-the-art (SOTA)
+methods while achieving superior efficiency. The implementation of our method
+has been released as open-source at: https://github.com/nubot-nudt/ICD-Fusion.

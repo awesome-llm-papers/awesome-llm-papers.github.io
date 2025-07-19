@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'Multilegalsbd: A Multilingual Legal Sentence Boundary Detection Dataset'
+authors: "Brugger Tobias, St\xFCrmer Matthias, Niklaus Joel"
+conference: Computational Linguistics
+year: 2023
+bibkey: brugger2023multilegalsbd
+citations: 174
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.01211'}]
+tags: [Model Architecture, Datasets, TACL, ACL, RAG, Transformer, NAACL, EACL, COLING]
+---
+Sentence Boundary Detection (SBD) is one of the foundational building blocks
+of Natural Language Processing (NLP), with incorrectly split sentences heavily
+influencing the output quality of downstream tasks. It is a challenging task
+for algorithms, especially in the legal domain, considering the complex and
+different sentence structures used. In this work, we curated a diverse
+multilingual legal dataset consisting of over 130'000 annotated sentences in 6
+languages. Our experimental results indicate that the performance of existing
+SBD models is subpar on multilingual legal data. We trained and tested
+monolingual and multilingual models based on CRF, BiLSTM-CRF, and transformers,
+demonstrating state-of-the-art performance. We also show that our multilingual
+models outperform all baselines in the zero-shot setting on a Portuguese test
+set. To encourage further research and development by the community, we have
+made our dataset, models, and code publicly available.

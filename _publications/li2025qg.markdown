@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'QG-VTC: Question-guided Visual Token Compression In Mllms For Efficient VQA'
+authors: Li et al.
+conference: International Journal of Computer Vision
+year: 2025
+bibkey: li2025qg
+citations: 229
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2504.00654'}]
+tags: [Reinforcement Learning]
+---
+Recent advances in Multi-modal Large Language Models (MLLMs) have shown
+significant progress in open-world Visual Question Answering (VQA). However,
+integrating visual information increases the number of processed tokens,
+leading to higher GPU memory usage and computational overhead. Images often
+contain more redundant information than text, and not all visual details are
+pertinent to specific questions. To address these challenges, we propose
+QG-VTC, a novel question-guided visual token compression method for MLLM-based
+VQA tasks. QG-VTC employs a pretrained text encoder and a learnable
+feed-forward layer to embed user questions into the vision encoder's feature
+space then computes correlation scores between the question embeddings and
+visual tokens. By selecting the most relevant tokens and softly compressing
+others, QG-VTC ensures fine-tuned relevance to user needs. Additionally, a
+progressive strategy applies this compression across different vision encoder
+layers, gradually reducing token numbers. This approach maximizes retention of
+question-relevant information while discarding irrelevant details. Experimental
+results show that our method achieves performance on par with uncompressed
+models using just 1/8 of the visual tokens. The code and model will be publicly
+available on GitHub.

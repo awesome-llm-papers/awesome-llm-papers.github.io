@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Objaverse-xl: A Universe Of 10M+ 3D Objects'
+authors: Deitke et al.
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2023
+bibkey: deitke2023objaverse
+citations: 278
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.05663'}]
+tags: [CVPR, Training Techniques, Datasets]
+---
+Natural language processing and 2D vision models have attained remarkable
+proficiency on many tasks primarily by escalating the scale of training data.
+However, 3D vision tasks have not seen the same progress, in part due to the
+challenges of acquiring high-quality 3D data. In this work, we present
+Objaverse-XL, a dataset of over 10 million 3D objects. Our dataset comprises
+deduplicated 3D objects from a diverse set of sources, including manually
+designed objects, photogrammetry scans of landmarks and everyday items, and
+professional scans of historic and antique artifacts. Representing the largest
+scale and diversity in the realm of 3D datasets, Objaverse-XL enables
+significant new possibilities for 3D vision. Our experiments demonstrate the
+improvements enabled with the scale provided by Objaverse-XL. We show that by
+training Zero123 on novel view synthesis, utilizing over 100 million multi-view
+rendered images, we achieve strong zero-shot generalization abilities. We hope
+that releasing Objaverse-XL will enable further innovations in the field of 3D
+vision at scale.

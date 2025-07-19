@@ -1,0 +1,31 @@
+---
+layout: publication
+title: End-to-end Dense Video Captioning With Masked Transformer
+authors: Zhou et al.
+conference: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
+bibkey: zhou2018end
+citations: 521
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.00819'}]
+tags: [Training Techniques, Attention Mechanism, Alt, CVPR, Transformer, Model Architecture,
+  Datasets]
+---
+Dense video captioning aims to generate text descriptions for all events in
+an untrimmed video. This involves both detecting and describing events.
+Therefore, all previous methods on dense video captioning tackle this problem
+by building two models, i.e. an event proposal and a captioning model, for
+these two sub-problems. The models are either trained separately or in
+alternation. This prevents direct influence of the language description to the
+event proposal, which is important for generating accurate descriptions. To
+address this problem, we propose an end-to-end transformer model for dense
+video captioning. The encoder encodes the video into appropriate
+representations. The proposal decoder decodes from the encoding with different
+anchors to form video event proposals. The captioning decoder employs a masking
+network to restrict its attention to the proposal event over the encoding
+feature. This masking network converts the event proposal to a differentiable
+mask, which ensures the consistency between the proposal and captioning during
+training. In addition, our model employs a self-attention mechanism, which
+enables the use of efficient non-recurrent structure during encoding and leads
+to performance improvements. We demonstrate the effectiveness of this
+end-to-end model on ActivityNet Captions and YouCookII datasets, where we
+achieved 10.12 and 6.58 METEOR score, respectively.

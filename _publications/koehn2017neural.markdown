@@ -1,0 +1,17 @@
+---
+layout: publication
+title: Neural Machine Translation
+authors: Koehn Philipp
+conference: Arxiv
+year: 2017
+bibkey: koehn2017neural
+citations: 15336
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1709.07809'}]
+tags: [Alt, Model Architecture, Attention Mechanism]
+---
+Draft of textbook chapter on neural machine translation. a comprehensive
+treatment of the topic, ranging from introduction to neural networks,
+computation graphs, description of the currently dominant attentional
+sequence-to-sequence model, recent refinements, alternative architectures and
+challenges. Written as chapter for the textbook Statistical Machine
+Translation. Used in the JHU Fall 2017 class on machine translation.

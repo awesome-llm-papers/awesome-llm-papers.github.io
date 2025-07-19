@@ -1,0 +1,26 @@
+---
+layout: publication
+title: A Comprehensive AI Policy Education Framework For University Teaching And Learning
+authors: Chan Cecilia Ka Yuk
+conference: International Journal of Educational Technology in Higher Education
+year: 2023
+bibkey: chan2023comprehensive
+citations: 575
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.00280'}]
+tags: [Security, Tools, Training Techniques, Responsible AI]
+---
+This study aims to develop an AI education policy for higher education by
+examining the perceptions and implications of text generative AI technologies.
+Data was collected from 457 students and 180 teachers and staff across various
+disciplines in Hong Kong universities, using both quantitative and qualitative
+research methods. Based on the findings, the study proposes an AI Ecological
+Education Policy Framework to address the multifaceted implications of AI
+integration in university teaching and learning. This framework is organized
+into three dimensions: Pedagogical, Governance, and Operational. The
+Pedagogical dimension concentrates on using AI to improve teaching and learning
+outcomes, while the Governance dimension tackles issues related to privacy,
+security, and accountability. The Operational dimension addresses matters
+concerning infrastructure and training. The framework fosters a nuanced
+understanding of the implications of AI integration in academic settings,
+ensuring that stakeholders are aware of their responsibilities and can take
+appropriate actions accordingly.

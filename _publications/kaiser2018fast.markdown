@@ -1,0 +1,29 @@
+---
+layout: publication
+title: Fast Decoding In Sequence Models Using Discrete Latent Variables
+authors: Kaiser et al.
+conference: Arxiv
+year: 2018
+bibkey: kaiser2018fast
+citations: 180
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1803.03382'}]
+tags: [Training Techniques, GPT, Transformer, Model Architecture, Language Modeling]
+---
+Autoregressive sequence models based on deep neural networks, such as RNNs,
+Wavenet and the Transformer attain state-of-the-art results on many tasks.
+However, they are difficult to parallelize and are thus slow at processing long
+sequences. RNNs lack parallelism both during training and decoding, while
+architectures like WaveNet and Transformer are much more parallelizable during
+training, yet still operate sequentially during decoding.
+  Inspired by [arxiv:1711.00937], we present a method to extend sequence models
+using discrete latent variables that makes decoding much more parallelizable.
+We first auto-encode the target sequence into a shorter sequence of discrete
+latent variables, which at inference time is generated autoregressively, and
+finally decode the output sequence from this shorter latent sequence in
+parallel. To this end, we introduce a novel method for constructing a sequence
+of discrete latent variables and compare it with previously introduced methods.
+Finally, we evaluate our model end-to-end on the task of neural machine
+translation, where it is an order of magnitude faster at decoding than
+comparable autoregressive models. While lower in BLEU than purely
+autoregressive models, our model achieves higher scores than previously
+proposed non-autoregressive translation models.

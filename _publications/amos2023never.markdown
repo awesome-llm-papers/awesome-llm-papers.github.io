@@ -1,0 +1,32 @@
+---
+layout: publication
+title: 'Never Train From Scratch: Fair Comparison Of Long-sequence Models Requires
+  Data-driven Priors'
+authors: Amos Ido, Berant Jonathan, Gupta Ankit
+conference: ISA Transactions
+year: 2023
+bibkey: amos2023never
+citations: 53
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.02980'}]
+tags: [Training Techniques, Tools, Evaluation, Transformer, Model Architecture, Reinforcement
+    Learning, Datasets]
+---
+Modeling long-range dependencies across sequences is a longstanding goal in
+machine learning and has led to architectures, such as state space models, that
+dramatically outperform Transformers on long sequences. However, these
+impressive empirical gains have been by and large demonstrated on benchmarks
+(e.g. Long Range Arena), where models are randomly initialized and trained to
+predict a target label from an input sequence. In this work, we show that
+random initialization leads to gross overestimation of the differences between
+architectures and that pretraining with standard denoising objectives, using
+\\(\textit\{only the downstream task data\}\\), leads to dramatic gains across
+multiple architectures and to very small gaps between Transformers and state
+space models (SSMs). In stark contrast to prior works, we find vanilla
+Transformers to match the performance of S4 on Long Range Arena when properly
+pretrained, and we improve the best reported results of SSMs on the PathX-256
+task by 20 absolute points. Subsequently, we analyze the utility of
+previously-proposed structured parameterizations for SSMs and show they become
+mostly redundant in the presence of data-driven initialization obtained through
+pretraining. Our work shows that, when evaluating different architectures on
+supervised tasks, incorporation of data-driven priors via pretraining is
+essential for reliable performance estimation, and can be done efficiently.

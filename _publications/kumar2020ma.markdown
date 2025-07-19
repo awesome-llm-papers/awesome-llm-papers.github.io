@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'MA-DST: Multi-attention Based Scalable Dialog State Tracking'
+authors: Kumar et al.
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
+year: 2020
+bibkey: kumar2020ma
+citations: 50
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.08898'}]
+tags: [Attention Mechanism, Agentic, Transformer, Model Architecture, AAAI, Datasets]
+---
+Task oriented dialog agents provide a natural language interface for users to
+complete their goal. Dialog State Tracking (DST), which is often a core
+component of these systems, tracks the system's understanding of the user's
+goal throughout the conversation. To enable accurate multi-domain DST, the
+model needs to encode dependencies between past utterances and slot semantics
+and understand the dialog context, including long-range cross-domain
+references. We introduce a novel architecture for this task to encode the
+conversation history and slot semantics more robustly by using attention
+mechanisms at multiple granularities. In particular, we use cross-attention to
+model relationships between the context and slots at different semantic levels
+and self-attention to resolve cross-domain coreferences. In addition, our
+proposed architecture does not rely on knowing the domain ontologies beforehand
+and can also be used in a zero-shot setting for new domains or unseen slot
+values. Our model improves the joint goal accuracy by 5% (absolute) in the
+full-data setting and by up to 2% (absolute) in the zero-shot setting over the
+present state-of-the-art on the MultiWoZ 2.1 dataset.

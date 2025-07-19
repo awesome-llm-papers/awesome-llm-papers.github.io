@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Stalematebreaker: A Proactive Content-introducing Approach To Automatic Human-computer
+  Conversation'
+authors: Li et al.
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
+year: 2016
+bibkey: li2016stalematebreaker
+citations: 61
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1604.04358'}]
+tags: [ACL]
+---
+Existing open-domain human-computer conversation systems are typically
+passive: they either synthesize or retrieve a reply provided a human-issued
+utterance. It is generally presumed that humans should take the role to lead
+the conversation and introduce new content when a stalemate occurs, and that
+the computer only needs to "respond." In this paper, we propose
+StalemateBreaker, a conversation system that can proactively introduce new
+content when appropriate. We design a pipeline to determine when, what, and how
+to introduce new content during human-computer conversation. We further propose
+a novel reranking algorithm Bi-PageRank-HITS to enable rich interaction between
+conversation context and candidate replies. Experiments show that both the
+content-introducing approach and the reranking algorithm are effective. Our
+full StalemateBreaker model outperforms a state-of-the-practice conversation
+system by +14.4% p@1 when a stalemate occurs.

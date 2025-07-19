@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'Spar: Self-play With Tree-search Refinement To Improve Instruction-following
+  In Large Language Models'
+authors: Cheng et al.
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2024
+bibkey: cheng2024spar
+citations: 73
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2412.11605'}]
+tags: [EMNLP, GPT, Tools, Evaluation, Model Architecture, Datasets]
+---
+Instruction-following is a fundamental capability of language models,
+requiring the model to recognize even the most subtle requirements in the
+instructions and accurately reflect them in its output. Such an ability is
+well-suited for and often optimized by preference learning. However, existing
+methods often directly sample multiple independent responses from the model
+when creating preference pairs. Such practice can introduce content variations
+irrelevant to whether the instruction is precisely followed (e.g., different
+expressions about the same semantic), interfering with the goal of teaching
+models to recognize the key differences that lead to improved instruction
+following. In light of this, we introduce SPaR, a self-play framework
+integrating tree-search self-refinement to yield valid and comparable
+preference pairs free from distractions. By playing against itself, an LLM
+employs a tree-search strategy to refine its previous responses with respect to
+the instruction while minimizing unnecessary variations. Our experiments show
+that a LLaMA3-8B model, trained over three iterations guided by SPaR, surpasses
+GPT-4-Turbo on the IFEval benchmark without losing general capabilities.
+Furthermore, SPaR demonstrates promising scalability, greatly enhancing models
+like GLM-4-9B and LLaMA3-70B. We also identify how inference scaling in tree
+search would impact model performance. Our code and data are publicly available
+at https://github.com/thu-coai/SPaR.

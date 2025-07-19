@@ -1,0 +1,15 @@
+---
+layout: publication
+title: Re-ranking Reasoning Context With Tree Search Makes Large Vision-language Models
+  Stronger
+authors: Yang et al.
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2025
+bibkey: yang2025re
+citations: 104
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2506.07785'}]
+tags: [RAG, EMNLP, Tools, Evaluation, In Context Learning, Reinforcement Learning,
+  Multimodal Models, Datasets]
+---
+Recent advancements in Large Vision Language Models (LVLMs) have significantly improved performance in Visual Question Answering (VQA) tasks through multimodal Retrieval-Augmented Generation (RAG). However, existing methods still face challenges, such as the scarcity of knowledge with reasoning examples and erratic responses from retrieved knowledge. To address these issues, in this study, we propose a multimodal RAG framework, termed RCTS, which enhances LVLMs by constructing a Reasoning Context-enriched knowledge base and a Tree Search re-ranking method. Specifically, we introduce a self-consistent evaluation mechanism to enrich the knowledge base with intrinsic reasoning patterns. We further propose a Monte Carlo Tree Search with Heuristic Rewards (MCTS-HR) to prioritize the most relevant examples. This ensures that LVLMs can leverage high-quality contextual reasoning for better and more consistent responses. Extensive experiments demonstrate that our framework achieves state-of-the-art performance on multiple VQA datasets, significantly outperforming In-Context Learning (ICL) and Vanilla-RAG methods. It highlights the effectiveness of our knowledge base and re-ranking method in improving LVLMs. Our code is available at https://github.com/yannqi/RCTS-RAG.

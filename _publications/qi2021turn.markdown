@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Turn The Combination Lock: Learnable Textual Backdoor Attacks Via Word Substitution'
+authors: Qi et al.
+conference: 'Proceedings of the 59th Annual Meeting of the Association for Computational
+  Linguistics and the 11th International Joint Conference on Natural Language Processing
+  (Volume 1: Long Papers)'
+year: 2021
+bibkey: qi2021turn
+citations: 81
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.06361'}]
+tags: [Security, Model Architecture, ACL, Applications, Reinforcement Learning, Attention
+    Mechanism]
+---
+Recent studies show that neural natural language processing (NLP) models are
+vulnerable to backdoor attacks. Injected with backdoors, models perform
+normally on benign examples but produce attacker-specified predictions when the
+backdoor is activated, presenting serious security threats to real-world
+applications. Since existing textual backdoor attacks pay little attention to
+the invisibility of backdoors, they can be easily detected and blocked. In this
+work, we present invisible backdoors that are activated by a learnable
+combination of word substitution. We show that NLP models can be injected with
+backdoors that lead to a nearly 100% attack success rate, whereas being highly
+invisible to existing defense strategies and even human inspections. The
+results raise a serious alarm to the security of NLP models, which requires
+further research to be resolved. All the data and code of this paper are
+released at https://github.com/thunlp/BkdAtk-LWS.

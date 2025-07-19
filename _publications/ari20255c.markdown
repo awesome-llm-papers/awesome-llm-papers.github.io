@@ -1,0 +1,15 @@
+---
+layout: publication
+title: '5C Prompt Contracts: A Minimalist, Creative-friendly, Token-efficient Design
+  Framework For Individual And SME LLM Usage'
+authors: Ari Ugur
+conference: Proceedings of the 32nd ACM International Conference on Information and
+  Knowledge Management
+year: 2025
+bibkey: ari20255c
+citations: 59
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2507.07045'}]
+tags: [Training Techniques, Prompting, Tools, Model Architecture, CIKM, Efficiency
+    And Optimization, Reinforcement Learning, Applications]
+---
+The progression from traditional prompt engineering to a more rigorous discipline of prompt design marks a pivotal shift in human-LLM interaction. As Large Language Models (LLMs) become increasingly embedded in mission-critical applications, there emerges a pressing need for frameworks that are not only explicit and systematic but also minimal enough to remain practical and broadly accessible. While many existing approaches address prompt structuring through elaborate Domain-Specific Languages (DSLs) or multi-layered templates, such methods can impose significant token and cognitive overhead, potentially constraining the model's creative capacity. In this context, we propose the 5C Prompt Contract, a framework that distills prompt design into five intuitive components: Character, Cause, Constraint, Contingency, and Calibration. This minimal cognitive schema explicitly integrates fallback and output optimization directives, fostering reliable, interpretable, and creatively flexible AI interactions. Experimental results demonstrate that the 5C framework consistently achieves superior input token efficiency while maintaining rich and consistent outputs across diverse LLM architectures (OpenAI, Anthropic, DeepSeek, and Gemini), making it particularly suited for individuals and Small-to-Medium Enterprises (SMEs) with limited AI engineering resources.

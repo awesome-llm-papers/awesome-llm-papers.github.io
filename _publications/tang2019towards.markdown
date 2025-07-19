@@ -1,0 +1,28 @@
+---
+layout: publication
+title: Towards Neural Mixture Recommender For Long Range Dependent User Sequences
+authors: Tang et al.
+conference: The World Wide Web Conference
+year: 2019
+bibkey: tang2019towards
+citations: 50
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.08588'}]
+tags: [Model Architecture, Reinforcement Learning, Evaluation, Datasets]
+---
+Understanding temporal dynamics has proved to be highly valuable for accurate
+recommendation. Sequential recommenders have been successful in modeling the
+dynamics of users and items over time. However, while different model
+architectures excel at capturing various temporal ranges or dynamics, distinct
+application contexts require adapting to diverse behaviors. In this paper we
+examine how to build a model that can make use of different temporal ranges and
+dynamics depending on the request context. We begin with the analysis of an
+anonymized Youtube dataset comprising millions of user sequences. We quantify
+the degree of long-range dependence in these sequences and demonstrate that
+both short-term and long-term dependent behavioral patterns co-exist. We then
+propose a neural Multi-temporal-range Mixture Model (M3) as a tailored solution
+to deal with both short-term and long-term dependencies. Our approach employs a
+mixture of models, each with a different temporal range. These models are
+combined by a learned gating mechanism capable of exerting different model
+combinations given different contextual information. In empirical evaluations
+on a public dataset and our own anonymized YouTube dataset, M3 consistently
+outperforms state-of-the-art sequential recommendation methods.

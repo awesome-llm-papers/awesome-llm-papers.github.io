@@ -1,0 +1,22 @@
+---
+layout: publication
+title: 'Reqa: An Evaluation For End-to-end Answer Retrieval Models'
+authors: Ahmad et al.
+conference: Proceedings of the 2nd Workshop on Machine Reading for Question Answering
+year: 2019
+bibkey: ahmad2019reqa
+citations: 52
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1907.04780'}]
+tags: [Model Architecture, RAG, Evaluation, Datasets]
+---
+Popular QA benchmarks like SQuAD have driven progress on the task of
+identifying answer spans within a specific passage, with models now surpassing
+human performance. However, retrieving relevant answers from a huge corpus of
+documents is still a challenging problem, and places different requirements on
+the model architecture. There is growing interest in developing scalable answer
+retrieval models trained end-to-end, bypassing the typical document retrieval
+step. In this paper, we introduce Retrieval Question-Answering (ReQA), a
+benchmark for evaluating large-scale sentence-level answer retrieval models. We
+establish baselines using both neural encoding models as well as classical
+information retrieval techniques. We release our evaluation code to encourage
+further work on this challenging task.

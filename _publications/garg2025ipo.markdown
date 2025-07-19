@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'IPO: Your Language Model Is Secretly A Preference Classifier'
+authors: Garg et al.
+conference: 2023 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2025
+bibkey: garg2025ipo
+citations: 70
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2502.16182'}]
+tags: [RAG, ICCV, Training Techniques, Alt, Agentic, Evaluation, Model Architecture,
+  Efficiency And Optimization, Reinforcement Learning]
+---
+Reinforcement learning from human feedback (RLHF) has emerged as the primary
+method for aligning large language models (LLMs) with human preferences. While
+it enables LLMs to achieve human-level alignment, it often incurs significant
+computational and financial costs due to its reliance on training external
+reward models or human-labeled preferences. In this work, we propose Implicit
+Preference Optimization (IPO), an alternative approach that leverages
+generative LLMs as preference classifiers, thereby reducing the dependence on
+external human feedback or reward models to obtain preferences. We conduct a
+comprehensive evaluation on the preference classification ability of LLMs using
+RewardBench, assessing models across different sizes, architectures, and
+training levels to validate our hypothesis. Furthermore, we investigate the
+self-improvement capabilities of LLMs by generating multiple responses for a
+given instruction and employing the model itself as a preference classifier for
+Direct Preference Optimization (DPO)-based training. Our findings demonstrate
+that models trained through IPO achieve performance comparable to those
+utilizing state-of-the-art reward models for obtaining preferences.

@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Dissent: Sentence Representation Learning From Explicit Discourse Relations'
+authors: Nie Allen, Bennett Erin D., Goodman Noah D.
+conference: Arxiv
+year: 2017
+bibkey: nie2017dissent
+citations: 63
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1710.04334'}]
+tags: [RAG, Training Techniques, BERT, Model Architecture, Fine Tuning, Datasets]
+---
+Learning effective representations of sentences is one of the core missions
+of natural language understanding. Existing models either train on a vast
+amount of text, or require costly, manually curated sentence relation datasets.
+We show that with dependency parsing and rule-based rubrics, we can curate a
+high quality sentence relation task by leveraging explicit discourse relations.
+We show that our curated dataset provides an excellent signal for learning
+vector representations of sentence meaning, representing relations that can
+only be determined when the meanings of two sentences are combined. We
+demonstrate that the automatically curated corpus allows a bidirectional LSTM
+sentence encoder to yield high quality sentence embeddings and can serve as a
+supervised fine-tuning dataset for larger models such as BERT. Our fixed
+sentence embeddings achieve high performance on a variety of transfer tasks,
+including SentEval, and we achieve state-of-the-art results on Penn Discourse
+Treebank's implicit relation prediction task.

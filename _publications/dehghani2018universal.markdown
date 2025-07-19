@@ -1,0 +1,36 @@
+---
+layout: publication
+title: Universal Transformers
+authors: Dehghani et al.
+conference: Arxiv
+year: 2018
+bibkey: dehghani2018universal
+citations: 412
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1807.03819'}]
+tags: [Training Techniques, Alt, Ethics And Bias, Transformer, Model Architecture,
+  Time Series, Large Scale Training, Datasets]
+---
+Recurrent neural networks (RNNs) sequentially process data by updating their
+state with each new data point, and have long been the de facto choice for
+sequence modeling tasks. However, their inherently sequential computation makes
+them slow to train. Feed-forward and convolutional architectures have recently
+been shown to achieve superior results on some sequence modeling tasks such as
+machine translation, with the added advantage that they concurrently process
+all inputs in the sequence, leading to easy parallelization and faster training
+times. Despite these successes, however, popular feed-forward sequence models
+like the Transformer fail to generalize in many simple tasks that recurrent
+models handle with ease, e.g. copying strings or even simple logical inference
+when the string or formula lengths exceed those observed at training time. We
+propose the Universal Transformer (UT), a parallel-in-time self-attentive
+recurrent sequence model which can be cast as a generalization of the
+Transformer model and which addresses these issues. UTs combine the
+parallelizability and global receptive field of feed-forward sequence models
+like the Transformer with the recurrent inductive bias of RNNs. We also add a
+dynamic per-position halting mechanism and find that it improves accuracy on
+several tasks. In contrast to the standard Transformer, under certain
+assumptions, UTs can be shown to be Turing-complete. Our experiments show that
+UTs outperform standard Transformers on a wide range of algorithmic and
+language understanding tasks, including the challenging LAMBADA language
+modeling task where UTs achieve a new state of the art, and machine translation
+where UTs achieve a 0.9 BLEU improvement over Transformers on the WMT14 En-De
+dataset.

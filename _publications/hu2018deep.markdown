@@ -1,0 +1,26 @@
+---
+layout: publication
+title: Deep Generative Models With Learnable Knowledge Constraints
+authors: Hu et al.
+conference: Arxiv
+year: 2018
+bibkey: hu2018deep
+citations: 53
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1806.09764'}]
+tags: [Agentic, Tools, Evaluation, Reinforcement Learning]
+---
+The broad set of deep generative models (DGMs) has achieved remarkable
+advances. However, it is often difficult to incorporate rich structured domain
+knowledge with the end-to-end DGMs. Posterior regularization (PR) offers a
+principled framework to impose structured constraints on probabilistic models,
+but has limited applicability to the diverse DGMs that can lack a Bayesian
+formulation or even explicit density evaluation. PR also requires constraints
+to be fully specified a priori, which is impractical or suboptimal for complex
+knowledge with learnable uncertain parts. In this paper, we establish
+mathematical correspondence between PR and reinforcement learning (RL), and,
+based on the connection, expand PR to learn constraints as the extrinsic reward
+in RL. The resulting algorithm is model-agnostic to apply to any DGMs, and is
+flexible to adapt arbitrary constraints with the model jointly. Experiments on
+human image generation and templated sentence generation show models with
+learned knowledge constraints by our algorithm greatly improve over base
+generative models.

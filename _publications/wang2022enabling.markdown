@@ -1,0 +1,25 @@
+---
+layout: publication
+title: Enabling Conversational Interaction With Mobile UI Using Large Language Models
+authors: Wang Bryan, Li Gang, Li Yang
+conference: Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems
+year: 2022
+bibkey: wang2022enabling
+citations: 99
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2209.08655'}]
+tags: [Prompting, Agentic, Training Techniques, Datasets]
+---
+Conversational agents show the promise to allow users to interact with mobile
+devices using language. However, to perform diverse UI tasks with natural
+language, developers typically need to create separate datasets and models for
+each specific task, which is expensive and effort-consuming. Recently,
+pre-trained large language models (LLMs) have been shown capable of
+generalizing to various downstream tasks when prompted with a handful of
+examples from the target task. This paper investigates the feasibility of
+enabling versatile conversational interactions with mobile UIs using a single
+LLM. We designed prompting techniques to adapt an LLM to mobile UIs. We
+experimented with four important modeling tasks that address various scenarios
+in conversational interaction. Our method achieved competitive performance on
+these challenging tasks without requiring dedicated datasets and training,
+offering a lightweight and generalizable approach to enable language-based
+mobile interaction.

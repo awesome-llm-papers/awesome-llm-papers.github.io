@@ -1,0 +1,29 @@
+---
+layout: publication
+title: Neural Natural Language Inference Models Partially Embed Theories Of Lexical
+  Entailment And Negation
+authors: Geiger Atticus, Richardson Kyle, Potts Christopher
+conference: Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting
+  Neural Networks for NLP
+year: 2020
+bibkey: geiger2020neural
+citations: 53
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.14623'}]
+tags: [Training Techniques, Evaluation, BERT, Model Architecture, Fine Tuning, Datasets]
+---
+We address whether neural models for Natural Language Inference (NLI) can
+learn the compositional interactions between lexical entailment and negation,
+using four methods: the behavioral evaluation methods of (1) challenge test
+sets and (2) systematic generalization tasks, and the structural evaluation
+methods of (3) probes and (4) interventions. To facilitate this holistic
+evaluation, we present Monotonicity NLI (MoNLI), a new naturalistic dataset
+focused on lexical entailment and negation. In our behavioral evaluations, we
+find that models trained on general-purpose NLI datasets fail systematically on
+MoNLI examples containing negation, but that MoNLI fine-tuning addresses this
+failure. In our structural evaluations, we look for evidence that our
+top-performing BERT-based model has learned to implement the monotonicity
+algorithm behind MoNLI. Probes yield evidence consistent with this conclusion,
+and our intervention experiments bolster this, showing that the causal dynamics
+of the model mirror the causal dynamics of this algorithm on subsets of MoNLI.
+This suggests that the BERT model at least partially embeds a theory of lexical
+entailment and negation at an algorithmic level.

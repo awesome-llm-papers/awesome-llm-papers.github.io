@@ -1,0 +1,26 @@
+---
+layout: publication
+title: Large Language Models As Optimizers
+authors: Yang et al.
+conference: Arxiv
+year: 2023
+bibkey: yang2023large
+citations: 65
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2309.03409'}]
+tags: [RAG, Prompting, Tools, Efficiency And Optimization, Reinforcement Learning,
+  Applications]
+---
+Optimization is ubiquitous. While derivative-based algorithms have been
+powerful tools for various problems, the absence of gradient imposes challenges
+on many real-world applications. In this work, we propose Optimization by
+PROmpting (OPRO), a simple and effective approach to leverage large language
+models (LLMs) as optimizers, where the optimization task is described in
+natural language. In each optimization step, the LLM generates new solutions
+from the prompt that contains previously generated solutions with their values,
+then the new solutions are evaluated and added to the prompt for the next
+optimization step. We first showcase OPRO on linear regression and traveling
+salesman problems, then move on to our main application in prompt optimization,
+where the goal is to find instructions that maximize the task accuracy. With a
+variety of LLMs, we demonstrate that the best prompts optimized by OPRO
+outperform human-designed prompts by up to 8% on GSM8K, and by up to 50% on
+Big-Bench Hard tasks. Code at https://github.com/google-deepmind/opro.

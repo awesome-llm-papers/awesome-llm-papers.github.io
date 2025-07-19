@@ -1,0 +1,34 @@
+---
+layout: publication
+title: Self-supervised Graph Co-training For Session-based Recommendation
+authors: Xia et al.
+conference: Proceedings of the 30th ACM International Conference on Information &amp;
+  Knowledge Management
+year: 2021
+bibkey: xia2021self
+citations: 142
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.10560'}]
+tags: [Tools, Training Techniques, Evaluation, RAG, Datasets, CIKM]
+---
+Session-based recommendation targets next-item prediction by exploiting user
+behaviors within a short time period. Compared with other recommendation
+paradigms, session-based recommendation suffers more from the problem of data
+sparsity due to the very limited short-term interactions. Self-supervised
+learning, which can discover ground-truth samples from the raw data, holds vast
+potentials to tackle this problem. However, existing self-supervised
+recommendation models mainly rely on item/segment dropout to augment data,
+which are not fit for session-based recommendation because the dropout leads to
+sparser data, creating unserviceable self-supervision signals. In this paper,
+for informative session-based data augmentation, we combine self-supervised
+learning with co-training, and then develop a framework to enhance
+session-based recommendation. Technically, we first exploit the session-based
+graph to augment two views that exhibit the internal and external
+connectivities of sessions, and then we build two distinct graph encoders over
+the two views, which recursively leverage the different connectivity
+information to generate ground-truth samples to supervise each other by
+contrastive learning. In contrast to the dropout strategy, the proposed
+self-supervised graph co-training preserves the complete session information
+and fulfills genuine data augmentation. Extensive experiments on multiple
+benchmark datasets show that, session-based recommendation can be remarkably
+enhanced under the regime of self-supervised graph co-training, achieving the
+state-of-the-art performance.

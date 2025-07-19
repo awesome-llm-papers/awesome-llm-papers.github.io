@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'Mm-spubench: Towards Better Understanding Of Spurious Biases In Multimodal
+  Llms'
+authors: Ye et al.
+conference: Findings of the Association for Computational Linguistics ACL 2024
+year: 2024
+bibkey: ye2024mm
+citations: 66
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2406.17126'}]
+tags: [Security, Ethics And Bias, Evaluation, ACL, RAG, Multimodal Models, Datasets,
+  Reinforcement Learning]
+---
+Spurious bias, a tendency to use spurious correlations between non-essential
+input attributes and target variables for predictions, has revealed a severe
+robustness pitfall in deep learning models trained on single modality data.
+Multimodal Large Language Models (MLLMs), which integrate both vision and
+language models, have demonstrated strong capability in joint vision-language
+understanding. However, whether spurious biases are prevalent in MLLMs remains
+under-explored. We mitigate this gap by analyzing the spurious biases in a
+multimodal setting, uncovering the specific test data patterns that can
+manifest this problem when biases in the vision model cascade into the
+alignment between visual and text tokens in MLLMs. To better understand this
+problem, we introduce MM-SpuBench, a comprehensive visual question-answering
+(VQA) benchmark designed to evaluate MLLMs' reliance on nine distinct
+categories of spurious correlations from five open-source image datasets. The
+VQA dataset is built from human-understandable concept information
+(attributes). Leveraging this benchmark, we conduct a thorough evaluation of
+current state-of-the-art MLLMs. Our findings illuminate the persistence of the
+reliance on spurious correlations from these models and underscore the urge for
+new methodologies to mitigate spurious biases. To support the MLLM robustness
+research, we release our VQA benchmark at
+https://huggingface.co/datasets/mmbench/MM-SpuBench.

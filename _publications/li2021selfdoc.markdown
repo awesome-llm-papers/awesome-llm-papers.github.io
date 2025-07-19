@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Selfdoc: Self-supervised Document Representation Learning'
+authors: Li et al.
+conference: 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2021
+bibkey: li2021selfdoc
+citations: 90
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2106.03331'}]
+tags: [RAG, Training Techniques, Attention Mechanism, Tools, CVPR, Model Architecture,
+  Reinforcement Learning, Multimodal Models, Merging]
+---
+We propose SelfDoc, a task-agnostic pre-training framework for document image
+understanding. Because documents are multimodal and are intended for sequential
+reading, our framework exploits the positional, textual, and visual information
+of every semantically meaningful component in a document, and it models the
+contextualization between each block of content. Unlike existing document
+pre-training models, our model is coarse-grained instead of treating individual
+words as input, therefore avoiding an overly fine-grained with excessive
+contextualization. Beyond that, we introduce cross-modal learning in the model
+pre-training phase to fully leverage multimodal information from unlabeled
+documents. For downstream usage, we propose a novel modality-adaptive attention
+mechanism for multimodal feature fusion by adaptively emphasizing language and
+vision signals. Our framework benefits from self-supervised pre-training on
+documents without requiring annotations by a feature masking training strategy.
+It achieves superior performance on multiple downstream tasks with
+significantly fewer document images used in the pre-training stage compared to
+previous works.

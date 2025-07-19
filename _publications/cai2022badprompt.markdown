@@ -1,0 +1,32 @@
+---
+layout: publication
+title: 'Badprompt: Backdoor Attacks On Continuous Prompts'
+authors: Cai et al.
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
+year: 2022
+bibkey: cai2022badprompt
+citations: 321
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.14719'}]
+tags: [Attention Mechanism, Prompting, Evaluation, Model Architecture, Few Shot, Efficiency
+    And Optimization, Security, AAAI, Datasets]
+---
+The prompt-based learning paradigm has gained much research attention
+recently. It has achieved state-of-the-art performance on several NLP tasks,
+especially in the few-shot scenarios. While steering the downstream tasks, few
+works have been reported to investigate the security problems of the
+prompt-based models. In this paper, we conduct the first study on the
+vulnerability of the continuous prompt learning algorithm to backdoor attacks.
+We observe that the few-shot scenarios have posed a great challenge to backdoor
+attacks on the prompt-based models, limiting the usability of existing NLP
+backdoor methods. To address this challenge, we propose BadPrompt, a
+lightweight and task-adaptive algorithm, to backdoor attack continuous prompts.
+Specially, BadPrompt first generates candidate triggers which are indicative
+for predicting the targeted label and dissimilar to the samples of the
+non-targeted labels. Then, it automatically selects the most effective and
+invisible trigger for each sample with an adaptive trigger optimization
+algorithm. We evaluate the performance of BadPrompt on five datasets and two
+continuous prompt models. The results exhibit the abilities of BadPrompt to
+effectively attack continuous prompts while maintaining high performance on the
+clean test sets, outperforming the baseline models by a large margin. The
+source code of BadPrompt is publicly available at
+https://github.com/papersPapers/BadPrompt.

@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Recurrent Neural Networks: Vanishing And Exploding Gradients Are Not The End
+  Of The Story'
+authors: Zucchet Nicolas, Orvieto Antonio
+conference: IFAC-PapersOnLine
+year: 2024
+bibkey: zucchet2024recurrent
+citations: 68
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2405.21064'}]
+tags: [Interpretability And Explainability, Model Architecture, Efficiency And Optimization]
+---
+Recurrent neural networks (RNNs) notoriously struggle to learn long-term
+memories, primarily due to vanishing and exploding gradients. The recent
+success of state-space models (SSMs), a subclass of RNNs, to overcome such
+difficulties challenges our theoretical understanding. In this paper, we delve
+into the optimization challenges of RNNs and discover that, as the memory of a
+network increases, changes in its parameters result in increasingly large
+output variations, making gradient-based learning highly sensitive, even
+without exploding gradients. Our analysis further reveals the importance of the
+element-wise recurrence design pattern combined with careful parametrizations
+in mitigating this effect. This feature is present in SSMs, as well as in other
+architectures, such as LSTMs. Overall, our insights provide a new explanation
+for some of the difficulties in gradient-based learning of RNNs and why some
+architectures perform better than others.

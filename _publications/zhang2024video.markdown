@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Video In-context Learning: Autoregressive Transformers Are Zero-shot Video
+  Imitators'
+authors: Zhang et al.
+conference: SIGGRAPH Asia 2023 Conference Papers
+year: 2024
+bibkey: zhang2024video
+citations: 66
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2407.07356'}]
+tags: [Training Techniques, GPT, Evaluation, In Context Learning, Transformer, Model
+    Architecture, Reinforcement Learning, Fine Tuning, Datasets]
+---
+People interact with the real-world largely dependent on visual signal, which
+are ubiquitous and illustrate detailed demonstrations. In this paper, we
+explore utilizing visual signals as a new interface for models to interact with
+the environment. Specifically, we choose videos as a representative visual
+signal. And by training autoregressive Transformers on video datasets in a
+self-supervised objective, we find that the model emerges a zero-shot
+capability to infer the semantics from a demonstration video, and imitate the
+semantics to an unseen scenario. This allows the models to perform unseen tasks
+by watching the demonstration video in an in-context manner, without further
+fine-tuning. To validate the imitation capacity, we design various evaluation
+metrics including both objective and subjective measures. The results show that
+our models can generate high-quality video clips that accurately align with the
+semantic guidance provided by the demonstration videos, and we also show that
+the imitation capacity follows the scaling law. Code and models have been
+open-sourced.

@@ -1,0 +1,12 @@
+---
+layout: publication
+title: 'Flashforge: Ultra-efficient Prefix-aware Attention For LLM Decoding'
+authors: Wang et al.
+conference: Communications of the ACM
+year: 2025
+bibkey: wang2025flashforge
+citations: 56
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2505.17694'}]
+tags: [RAG, Attention Mechanism, Prompting, Model Architecture, Reinforcement Learning]
+---
+Prefix-sharing among multiple prompts presents opportunities to combine the operations of the shared prefix, while attention computation in the decode stage, which becomes a critical bottleneck with increasing context lengths, is a memory-intensive process requiring heavy memory access on the key-value (KV) cache of the prefixes. Therefore, in this paper, we explore the potential of prefix-sharing in the attention computation of the decode stage. However, the tree structure of the prefix-sharing mechanism presents significant challenges for attention computation in efficiently processing shared KV cache access patterns while managing complex dependencies and balancing irregular workloads. To address the above challenges, we propose a dedicated attention kernel to combine the memory access of shared prefixes in the decoding stage, namely FlashForge. FlashForge delivers two key innovations: a novel shared-prefix attention kernel that optimizes memory hierarchy and exploits both intra-block and inter-block parallelism, and a comprehensive workload balancing mechanism that efficiently estimates cost, divides tasks, and schedules execution. Experimental results show that FlashForge achieves an average 1.9x speedup and 120.9x memory access reduction compared to the state-of-the-art FlashDecoding kernel regarding attention computation in the decode stage and 3.8x end-to-end time per output token compared to the vLLM.

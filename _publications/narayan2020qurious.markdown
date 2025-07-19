@@ -1,0 +1,23 @@
+---
+layout: publication
+title: 'QURIOUS: Question Generation Pretraining For Text Generation'
+authors: Narayan et al.
+conference: Proceedings of the 23rd Conference on Computational Natural Language Learning
+  (CoNLL)
+year: 2020
+bibkey: narayan2020qurious
+citations: 116
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.11026'}]
+tags: [Fine Tuning, Training Techniques, Language Modeling, Evaluation]
+---
+Recent trends in natural language processing using pretraining have shifted
+focus towards pretraining and fine-tuning approaches for text generation. Often
+the focus has been on task-agnostic approaches that generalize the language
+modeling objective. We propose question generation as a pretraining method,
+which better aligns with the text generation objectives. Our text generation
+models pretrained with this method are better at understanding the essence of
+the input and are better language models for the target task. When evaluated on
+two text generation tasks, abstractive summarization and answer-focused
+question generation, our models result in state-of-the-art performances in
+terms of automatic metrics. Human evaluators also found our summaries and
+generated questions to be more natural, concise and informative.

@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'Future Data Helps Training: Modeling Future Contexts For Session-based Recommendation'
+authors: Yuan et al.
+conference: Proceedings of The Web Conference 2020
+year: 2019
+bibkey: yuan2019future
+citations: 100
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.04473'}]
+tags: [Training Techniques, Attention Mechanism, GPT, Tools, Model Architecture, Efficiency
+    And Optimization, Reinforcement Learning, Datasets]
+---
+Session-based recommender systems have attracted much attention recently. To
+capture the sequential dependencies, existing methods resort either to data
+augmentation techniques or left-to-right style autoregressive training.Since
+these methods are aimed to model the sequential nature of user behaviors, they
+ignore the future data of a target interaction when constructing the prediction
+model for it. However, we argue that the future interactions after a target
+interaction, which are also available during training, provide valuable signal
+on user preference and can be used to enhance the recommendation quality.
+  Properly integrating future data into model training, however, is non-trivial
+to achieve, since it disobeys machine learning principles and can easily cause
+data leakage. To this end, we propose a new encoder-decoder framework named
+Gap-filling based Recommender (GRec), which trains the encoder and decoder by a
+gap-filling mechanism. Specifically, the encoder takes a partially-complete
+session sequence (where some items are masked by purpose) as input, and the
+decoder predicts these masked items conditioned on the encoded representation.
+We instantiate the general GRec framework using convolutional neural network
+with sparse kernels, giving consideration to both accuracy and efficiency. We
+conduct experiments on two real-world datasets covering short-, medium-, and
+long-range user sessions, showing that GRec significantly outperforms the
+state-of-the-art sequential recommendation methods. More empirical studies
+verify the high utility of modeling future contexts under our GRec framework.

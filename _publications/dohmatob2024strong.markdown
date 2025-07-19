@@ -1,0 +1,29 @@
+---
+layout: publication
+title: Strong Model Collapse
+authors: Dohmatob et al.
+conference: Physics of Fluids
+year: 2024
+bibkey: dohmatob2024strong
+citations: 55
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2410.04840'}]
+tags: [Scaling Laws, Training Techniques, GPT, Alt, Model Architecture, Efficiency
+    And Optimization, Large Scale Training, Datasets]
+---
+Within the scaling laws paradigm, which underpins the training of large
+neural networks like ChatGPT and Llama, we consider a supervised regression
+setting and establish the existance of a strong form of the model collapse
+phenomenon, a critical performance degradation due to synthetic data in the
+training corpus. Our results show that even the smallest fraction of synthetic
+data (e.g., as little as 1% of the total training dataset) can still lead to
+model collapse: larger and larger training sets do not enhance performance. We
+further investigate whether increasing model size, an approach aligned with
+current trends in training large language models, exacerbates or mitigates
+model collapse. In a simplified regime where neural networks are approximated
+via random projections of tunable size, we both theoretically and empirically
+show that larger models can amplify model collapse. Interestingly, our theory
+also indicates that, beyond the interpolation threshold (which can be extremely
+high for very large datasets), larger models may mitigate the collapse,
+although they do not entirely prevent it. Our theoretical findings are
+empirically verified through experiments on language models and feed-forward
+neural networks for images.

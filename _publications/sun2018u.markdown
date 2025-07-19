@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'U-net: Machine Reading Comprehension With Unanswerable Questions'
+authors: Sun et al.
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
+year: 2018
+bibkey: sun2018u
+citations: 52
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1810.06638'}]
+tags: [AAAI, Datasets]
+---
+Machine reading comprehension with unanswerable questions is a new
+challenging task for natural language processing. A key subtask is to reliably
+predict whether the question is unanswerable. In this paper, we propose a
+unified model, called U-Net, with three important components: answer pointer,
+no-answer pointer, and answer verifier. We introduce a universal node and thus
+process the question and its context passage as a single contiguous sequence of
+tokens. The universal node encodes the fused information from both the question
+and passage, and plays an important role to predict whether the question is
+answerable and also greatly improves the conciseness of the U-Net. Different
+from the state-of-art pipeline models, U-Net can be learned in an end-to-end
+fashion. The experimental results on the SQuAD 2.0 dataset show that U-Net can
+effectively predict the unanswerability of questions and achieves an F1 score
+of 71.7 on SQuAD 2.0.

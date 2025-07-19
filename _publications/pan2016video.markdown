@@ -1,0 +1,29 @@
+---
+layout: publication
+title: Video Captioning With Transferred Semantic Attributes
+authors: Pan et al.
+conference: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2016
+bibkey: pan2016video
+citations: 382
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1611.07675'}]
+tags: [Training Techniques, Tools, CVPR, Model Architecture, Datasets]
+---
+Automatically generating natural language descriptions of videos plays a
+fundamental challenge for computer vision community. Most recent progress in
+this problem has been achieved through employing 2-D and/or 3-D Convolutional
+Neural Networks (CNN) to encode video content and Recurrent Neural Networks
+(RNN) to decode a sentence. In this paper, we present Long Short-Term Memory
+with Transferred Semantic Attributes (LSTM-TSA)---a novel deep architecture
+that incorporates the transferred semantic attributes learnt from images and
+videos into the CNN plus RNN framework, by training them in an end-to-end
+manner. The design of LSTM-TSA is highly inspired by the facts that 1) semantic
+attributes play a significant contribution to captioning, and 2) images and
+videos carry complementary semantics and thus can reinforce each other for
+captioning. To boost video captioning, we propose a novel transfer unit to
+model the mutually correlated attributes learnt from images and videos.
+Extensive experiments are conducted on three public datasets, i.e., MSVD, M-VAD
+and MPII-MD. Our proposed LSTM-TSA achieves to-date the best published
+performance in sentence generation on MSVD: 52.8% and 74.0% in terms of BLEU@4
+and CIDEr-D. Superior results when compared to state-of-the-art methods are
+also reported on M-VAD and MPII-MD.

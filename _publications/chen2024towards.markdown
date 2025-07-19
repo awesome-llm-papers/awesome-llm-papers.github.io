@@ -1,0 +1,30 @@
+---
+layout: publication
+title: Towards Multimodal Video Paragraph Captioning Models Robust To Missing Modality
+authors: Chen et al.
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2024
+bibkey: chen2024towards
+citations: 92
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2403.19221'}]
+tags: [RAG, Tools, CVPR, Model Architecture, Reinforcement Learning, Multimodal Models]
+---
+Video paragraph captioning (VPC) involves generating detailed narratives for
+long videos, utilizing supportive modalities such as speech and event
+boundaries. However, the existing models are constrained by the assumption of
+constant availability of a single auxiliary modality, which is impractical
+given the diversity and unpredictable nature of real-world scenarios. To this
+end, we propose a Missing-Resistant framework MR-VPC that effectively harnesses
+all available auxiliary inputs and maintains resilience even in the absence of
+certain modalities. Under this framework, we propose the Multimodal VPC (MVPC)
+architecture integrating video, speech, and event boundary inputs in a unified
+manner to process various auxiliary inputs. Moreover, to fortify the model
+against incomplete data, we introduce DropAM, a data augmentation strategy that
+randomly omits auxiliary inputs, paired with DistillAM, a regularization target
+that distills knowledge from teacher models trained on modality-complete data,
+enabling efficient learning in modality-deficient environments. Through
+exhaustive experimentation on YouCook2 and ActivityNet Captions, MR-VPC has
+proven to deliver superior performance on modality-complete and
+modality-missing test data. This work highlights the significance of developing
+resilient VPC models and paves the way for more adaptive, robust multimodal
+video understanding.

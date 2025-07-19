@@ -1,0 +1,28 @@
+---
+layout: publication
+title: Multi-reward Reinforced Summarization With Saliency And Entailment
+authors: Pasunuru Ramakanth, Bansal Mohit
+conference: 'Proceedings of the 2018 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies, Volume 2
+  (Short Papers)'
+year: 2018
+bibkey: pasunuru2018multi
+citations: 153
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.06451'}]
+tags: [Evaluation, ACL, Agentic, RAG, Datasets, Reinforcement Learning, Alt]
+---
+Abstractive text summarization is the task of compressing and rewriting a
+long document into a short summary while maintaining saliency, directed logical
+entailment, and non-redundancy. In this work, we address these three important
+aspects of a good summary via a reinforcement learning approach with two novel
+reward functions: ROUGESal and Entail, on top of a coverage-based baseline. The
+ROUGESal reward modifies the ROUGE metric by up-weighting the salient
+phrases/words detected via a keyphrase classifier. The Entail reward gives high
+(length-normalized) scores to logically-entailed summaries using an entailment
+classifier. Further, we show superior performance improvement when these
+rewards are combined with traditional metric (ROUGE) based rewards, via our
+novel and effective multi-reward approach of optimizing multiple rewards
+simultaneously in alternate mini-batches. Our method achieves the new
+state-of-the-art results (including human evaluation) on the CNN/Daily Mail
+dataset as well as strong improvements in a test-only transfer setup on
+DUC-2002.

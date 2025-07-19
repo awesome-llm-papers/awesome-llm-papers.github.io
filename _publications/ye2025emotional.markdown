@@ -1,0 +1,32 @@
+---
+layout: publication
+title: Emotional Face-to-speech
+authors: Ye Jiaxin, Cao Boyuan, Shan Hongming
+conference: Cognitive, Affective, &amp; Behavioral Neuroscience
+year: 2025
+bibkey: ye2025emotional
+citations: 97
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2502.01046'}]
+tags: [RAG, Training Techniques, Tools, Transformer, Model Architecture, Efficiency
+    And Optimization, Applications, Multimodal Models, Merging]
+---
+How much can we infer about an emotional voice solely from an expressive
+face? This intriguing question holds great potential for applications such as
+virtual character dubbing and aiding individuals with expressive language
+disorders. Existing face-to-speech methods offer great promise in capturing
+identity characteristics but struggle to generate diverse vocal styles with
+emotional expression. In this paper, we explore a new task, termed emotional
+face-to-speech, aiming to synthesize emotional speech directly from expressive
+facial cues. To that end, we introduce DEmoFace, a novel generative framework
+that leverages a discrete diffusion transformer (DiT) with curriculum learning,
+built upon a multi-level neural audio codec. Specifically, we propose
+multimodal DiT blocks to dynamically align text and speech while tailoring
+vocal styles based on facial emotion and identity. To enhance training
+efficiency and generation quality, we further introduce a coarse-to-fine
+curriculum learning algorithm for multi-level token processing. In addition, we
+develop an enhanced predictor-free guidance to handle diverse conditioning
+scenarios, enabling multi-conditional generation and disentangling complex
+attributes effectively. Extensive experimental results demonstrate that
+DEmoFace generates more natural and consistent speech compared to baselines,
+even surpassing speech-driven methods. Demos are shown at
+https://demoface-ai.github.io/.

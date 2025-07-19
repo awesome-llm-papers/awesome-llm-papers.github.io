@@ -1,0 +1,27 @@
+---
+layout: publication
+title: Interpreting Neural Networks To Improve Politeness Comprehension
+authors: Aubakirova Malika, Bansal Mohit
+conference: Proceedings of the 2016 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2016
+bibkey: aubakirova2016interpreting
+citations: 52
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1610.02683'}]
+tags: [EMNLP]
+---
+We present an interpretable neural network approach to predicting and
+understanding politeness in natural language requests. Our models are based on
+simple convolutional neural networks directly on raw text, avoiding any manual
+identification of complex sentiment or syntactic features, while performing
+better than such feature-based models from previous work. More importantly, we
+use the challenging task of politeness prediction as a testbed to next present
+a much-needed understanding of what these successful networks are actually
+learning. For this, we present several network visualizations based on
+activation clusters, first derivative saliency, and embedding space
+transformations, helping us automatically identify several subtle linguistics
+markers of politeness theories. Further, this analysis reveals multiple novel,
+high-scoring politeness strategies which, when added back as new features,
+reduce the accuracy gap between the original featurized system and the neural
+model, thus providing a clear quantitative interpretation of the success of
+these neural networks.

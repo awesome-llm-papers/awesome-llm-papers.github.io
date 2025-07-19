@@ -1,0 +1,25 @@
+---
+layout: publication
+title: Unsupervised Neural Machine Translation With Weight Sharing
+authors: Yang et al.
+conference: 'Proceedings of the 56th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
+year: 2018
+bibkey: yang2018unsupervised
+citations: 137
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.09057'}]
+tags: [Security, ACL]
+---
+Unsupervised neural machine translation (NMT) is a recently proposed approach
+for machine translation which aims to train the model without using any labeled
+data. The models proposed for unsupervised NMT often use only one shared
+encoder to map the pairs of sentences from different languages to a
+shared-latent space, which is weak in keeping the unique and internal
+characteristics of each language, such as the style, terminology, and sentence
+structure. To address this issue, we introduce an extension by utilizing two
+independent encoders but sharing some partial weights which are responsible for
+extracting high-level representations of the input sentences. Besides, two
+different generative adversarial networks (GANs), namely the local GAN and
+global GAN, are proposed to enhance the cross-language translation. With this
+new approach, we achieve significant improvements on English-German,
+English-French and Chinese-to-English translation tasks.

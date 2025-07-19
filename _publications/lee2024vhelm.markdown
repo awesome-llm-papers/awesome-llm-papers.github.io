@@ -1,0 +1,34 @@
+---
+layout: publication
+title: 'VHELM: A Holistic Evaluation Of Vision Language Models'
+authors: Lee et al.
+conference: Annals of the New York Academy of Sciences
+year: 2024
+bibkey: lee2024vhelm
+citations: 78
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2410.07112'}]
+tags: [Datasets, Fairness, Prompting, Bias Mitigation, Tools, Evaluation, Ethics And
+    Bias, Efficiency And Optimization, Security, Multimodal Models, Responsible AI]
+---
+Current benchmarks for assessing vision-language models (VLMs) often focus on
+their perception or problem-solving capabilities and neglect other critical
+aspects such as fairness, multilinguality, or toxicity. Furthermore, they
+differ in their evaluation procedures and the scope of the evaluation, making
+it difficult to compare models. To address these issues, we extend the HELM
+framework to VLMs to present the Holistic Evaluation of Vision Language Models
+(VHELM). VHELM aggregates various datasets to cover one or more of the 9
+aspects: visual perception, knowledge, reasoning, bias, fairness,
+multilinguality, robustness, toxicity, and safety. In doing so, we produce a
+comprehensive, multi-dimensional view of the capabilities of the VLMs across
+these important factors. In addition, we standardize the standard inference
+parameters, methods of prompting, and evaluation metrics to enable fair
+comparisons across models. Our framework is designed to be lightweight and
+automatic so that evaluation runs are cheap and fast. Our initial run evaluates
+22 VLMs on 21 existing datasets to provide a holistic snapshot of the models.
+We uncover new key findings, such as the fact that efficiency-focused models
+(e.g., Claude 3 Haiku or Gemini 1.5 Flash) perform significantly worse than
+their full models (e.g., Claude 3 Opus or Gemini 1.5 Pro) on the bias benchmark
+but not when evaluated on the other aspects. For transparency, we release the
+raw model generations and complete results on our website
+(https://crfm.stanford.edu/helm/vhelm/v2.0.1). VHELM is intended to be a living
+benchmark, and we hope to continue adding new datasets and models over time.

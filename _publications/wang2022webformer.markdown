@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'Webformer: The Web-page Transformer For Structure Information Extraction'
+authors: Wang et al.
+conference: Proceedings of the ACM Web Conference 2022
+year: 2022
+bibkey: wang2022webformer
+citations: 50
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.00217'}]
+tags: [RAG, Attention Mechanism, Evaluation, Transformer, Model Architecture, Time
+    Series, Datasets]
+---
+Structure information extraction refers to the task of extracting structured
+text fields from web pages, such as extracting a product offer from a shopping
+page including product title, description, brand and price. It is an important
+research topic which has been widely studied in document understanding and web
+search. Recent natural language models with sequence modeling have demonstrated
+state-of-the-art performance on web information extraction. However,
+effectively serializing tokens from unstructured web pages is challenging in
+practice due to a variety of web layout patterns. Limited work has focused on
+modeling the web layout for extracting the text fields. In this paper, we
+introduce WebFormer, a Web-page transFormer model for structure information
+extraction from web documents. First, we design HTML tokens for each DOM node
+in the HTML by embedding representations from their neighboring tokens through
+graph attention. Second, we construct rich attention patterns between HTML
+tokens and text tokens, which leverages the web layout for effective attention
+weight computation. We conduct an extensive set of experiments on SWDE and
+Common Crawl benchmarks. Experimental results demonstrate the superior
+performance of the proposed approach over several state-of-the-art methods.

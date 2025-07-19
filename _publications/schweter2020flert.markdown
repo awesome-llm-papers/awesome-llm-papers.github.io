@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'FLERT: Document-level Features For Named Entity Recognition'
+authors: Schweter Stefan, Akbik Alan
+conference: Arxiv
+year: 2020
+bibkey: schweter2020flert
+citations: 55
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.06993'}]
+tags: [Training Techniques, Tools, Evaluation, Transformer, Model Architecture, Fine
+    Tuning, Datasets]
+---
+Current state-of-the-art approaches for named entity recognition (NER)
+typically consider text at the sentence-level and thus do not model information
+that crosses sentence boundaries. However, the use of transformer-based models
+for NER offers natural options for capturing document-level features. In this
+paper, we perform a comparative evaluation of document-level features in the
+two standard NER architectures commonly considered in the literature, namely
+"fine-tuning" and "feature-based LSTM-CRF". We evaluate different
+hyperparameters for document-level features such as context window size and
+enforcing document-locality. We present experiments from which we derive
+recommendations for how to model document context and present new
+state-of-the-art scores on several CoNLL-03 benchmark datasets. Our approach is
+integrated into the Flair framework to facilitate reproduction of our
+experiments.

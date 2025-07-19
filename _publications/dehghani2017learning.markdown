@@ -1,0 +1,31 @@
+---
+layout: publication
+title: Learning To Attend, Copy, And Generate For Session-based Query Suggestion
+authors: Dehghani et al.
+conference: Proceedings of the 2017 ACM on Conference on Information and Knowledge
+  Management
+year: 2017
+bibkey: dehghani2017learning
+citations: 69
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1708.03418'}]
+tags: [Attention Mechanism, Evaluation, Transformer, Model Architecture, CIKM]
+---
+Users try to articulate their complex information needs during search
+sessions by reformulating their queries. To make this process more effective,
+search engines provide related queries to help users in specifying the
+information need in their search process. In this paper, we propose a
+customized sequence-to-sequence model for session-based query suggestion. In
+our model, we employ a query-aware attention mechanism to capture the structure
+of the session context. is enables us to control the scope of the session from
+which we infer the suggested next query, which helps not only handle the noisy
+data but also automatically detect session boundaries. Furthermore, we observe
+that, based on the user query reformulation behavior, within a single session a
+large portion of query terms is retained from the previously submitted queries
+and consists of mostly infrequent or unseen terms that are usually not included
+in the vocabulary. We therefore empower the decoder of our model to access the
+source words from the session context during decoding by incorporating a copy
+mechanism. Moreover, we propose evaluation metrics to assess the quality of the
+generative models for query suggestion. We conduct an extensive set of
+experiments and analysis. e results suggest that our model outperforms the
+baselines both in terms of the generating queries and scoring candidate queries
+for the task of query suggestion.

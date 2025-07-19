@@ -1,0 +1,31 @@
+---
+layout: publication
+title: Scaling Up Vision-language Pre-training For Image Captioning
+authors: Hu et al.
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2021
+bibkey: hu2021scaling
+citations: 114
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2111.12233'}]
+tags: [Training Techniques, Alt, CVPR, Evaluation, Transformer, Model Architecture,
+  Multimodal Models, Datasets]
+---
+In recent years, we have witnessed significant performance boost in the image
+captioning task based on vision-language pre-training (VLP). Scale is believed
+to be an important factor for this advance. However, most existing work only
+focuses on pre-training transformers with moderate sizes (e.g., 12 or 24
+layers) on roughly 4 million images. In this paper, we present LEMON, a
+LargE-scale iMage captiONer, and provide the first empirical study on the
+scaling behavior of VLP for image captioning. We use the state-of-the-art VinVL
+model as our reference model, which consists of an image feature extractor and
+a transformer model, and scale the transformer both up and down, with model
+sizes ranging from 13 to 675 million parameters. In terms of data, we conduct
+experiments with up to 200 million image-text pairs which are automatically
+collected from web based on the alt attribute of the image (dubbed as ALT200M).
+Extensive analysis helps to characterize the performance trend as the model
+size and the pre-training data size increase. We also compare different
+training recipes, especially for training on large-scale noisy data. As a
+result, LEMON achieves new state of the arts on several major image captioning
+benchmarks, including COCO Caption, nocaps, and Conceptual Captions. We also
+show LEMON can generate captions with long-tail visual concepts when used in a
+zero-shot manner.

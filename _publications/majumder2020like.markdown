@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Like Hiking? You Probably Enjoy Nature: Persona-grounded Dialog With Commonsense
+  Expansions'
+authors: Majumder et al.
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
+year: 2020
+bibkey: majumder2020like
+citations: 59
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.03205'}]
+tags: [RAG, EMNLP, Datasets]
+---
+Existing persona-grounded dialog models often fail to capture simple
+implications of given persona descriptions, something which humans are able to
+do seamlessly. For example, state-of-the-art models cannot infer that interest
+in hiking might imply love for nature or longing for a break. In this paper, we
+propose to expand available persona sentences using existing commonsense
+knowledge bases and paraphrasing resources to imbue dialog models with access
+to an expanded and richer set of persona descriptions. Additionally, we
+introduce fine-grained grounding on personas by encouraging the model to make a
+discrete choice among persona sentences while synthesizing a dialog response.
+Since such a choice is not observed in the data, we model it using a discrete
+latent random variable and use variational learning to sample from hundreds of
+persona expansions. Our model outperforms competitive baselines on the
+PersonaChat dataset in terms of dialog quality and diversity while achieving
+persona-consistent and controllable dialog generation.

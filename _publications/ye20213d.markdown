@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 3D Question Answering
+authors: Ye et al.
+conference: 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2021
+bibkey: ye20213d
+citations: 61
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.08359'}]
+tags: [Tools, CVPR, BERT, Transformer, Model Architecture, Reinforcement Learning,
+  Datasets]
+---
+Visual Question Answering (VQA) has witnessed tremendous progress in recent
+years. However, most efforts only focus on the 2D image question answering
+tasks. In this paper, we present the first attempt at extending VQA to the 3D
+domain, which can facilitate artificial intelligence's perception of 3D
+real-world scenarios. Different from image based VQA, 3D Question Answering
+(3DQA) takes the color point cloud as input and requires both appearance and 3D
+geometry comprehension ability to answer the 3D-related questions. To this end,
+we propose a novel transformer-based 3DQA framework "3DQA-TR", which consists
+of two encoders for exploiting the appearance and geometry information,
+respectively. The multi-modal information of appearance, geometry, and the
+linguistic question can finally attend to each other via a 3D-Linguistic Bert
+to predict the target answers. To verify the effectiveness of our proposed 3DQA
+framework, we further develop the first 3DQA dataset "ScanQA", which builds on
+the ScanNet dataset and contains \\(\sim\\)6K questions, \\(\sim\\)30K answers for
+\\(806\\) scenes. Extensive experiments on this dataset demonstrate the obvious
+superiority of our proposed 3DQA framework over existing VQA frameworks, and
+the effectiveness of our major designs. Our code and dataset will be made
+publicly available to facilitate the research in this direction.

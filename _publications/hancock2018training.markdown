@@ -1,0 +1,23 @@
+---
+layout: publication
+title: Training Classifiers With Natural Language Explanations
+authors: Hancock et al.
+conference: 'Proceedings of the 56th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
+year: 2018
+bibkey: hancock2018training
+citations: 124
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1805.03818'}]
+tags: [ACL, Tools, Interpretability And Explainability, Training Techniques]
+---
+Training accurate classifiers requires many labels, but each label provides
+only limited information (one bit for binary classification). In this work, we
+propose BabbleLabble, a framework for training classifiers in which an
+annotator provides a natural language explanation for each labeling decision. A
+semantic parser converts these explanations into programmatic labeling
+functions that generate noisy labels for an arbitrary amount of unlabeled data,
+which is used to train a classifier. On three relation extraction tasks, we
+find that users are able to train classifiers with comparable F1 scores from
+5-100\\(\times\\) faster by providing explanations instead of just labels.
+Furthermore, given the inherent imperfection of labeling functions, we find
+that a simple rule-based semantic parser suffices.

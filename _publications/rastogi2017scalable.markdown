@@ -1,0 +1,29 @@
+---
+layout: publication
+title: Scalable Multi-domain Dialogue State Tracking
+authors: Rastogi Abhinav, Hakkani-tur Dilek, Heck Larry
+conference: 2017 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
+year: 2017
+bibkey: rastogi2017scalable
+citations: 125
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1712.10224'}]
+tags: [RAG, Training Techniques, Tools, ASRU, Model Architecture]
+---
+Dialogue state tracking (DST) is a key component of task-oriented dialogue
+systems. DST estimates the user's goal at each user turn given the interaction
+until then. State of the art approaches for state tracking rely on deep
+learning methods, and represent dialogue state as a distribution over all
+possible slot values for each slot present in the ontology. Such a
+representation is not scalable when the set of possible values are unbounded
+(e.g., date, time or location) or dynamic (e.g., movies or usernames).
+Furthermore, training of such models requires labeled data, where each user
+turn is annotated with the dialogue state, which makes building models for new
+domains challenging. In this paper, we present a scalable multi-domain deep
+learning based approach for DST. We introduce a novel framework for state
+tracking which is independent of the slot value set, and represent the dialogue
+state as a distribution over a set of values of interest (candidate set)
+derived from the dialogue history or knowledge. Restricting these candidate
+sets to be bounded in size addresses the problem of slot-scalability.
+Furthermore, by leveraging the slot-independent architecture and transfer
+learning, we show that our proposed approach facilitates quick adaptation to
+new domains.

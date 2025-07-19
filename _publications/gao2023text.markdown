@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'Text-to-sql Empowered By Large Language Models: A Benchmark Evaluation'
+authors: Gao et al.
+conference: Proceedings of the VLDB Endowment
+year: 2023
+bibkey: gao2023text
+citations: 50
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2308.15363'}]
+tags: [Training Techniques, Prompting, Evaluation, Efficiency And Optimization, Applications,
+  Fine Tuning, Datasets]
+---
+Large language models (LLMs) have emerged as a new paradigm for Text-to-SQL
+task. However, the absence of a systematical benchmark inhibits the development
+of designing effective, efficient and economic LLM-based Text-to-SQL solutions.
+To address this challenge, in this paper, we first conduct a systematical and
+extensive comparison over existing prompt engineering methods, including
+question representation, example selection and example organization, and with
+these experimental results, we elaborate their pros and cons. Based on these
+findings, we propose a new integrated solution, named DAIL-SQL, which refreshes
+the Spider leaderboard with 86.6% execution accuracy and sets a new bar. To
+explore the potential of open-source LLM, we investigate them in various
+scenarios, and further enhance their performance with supervised fine-tuning.
+Our explorations highlight open-source LLMs' potential in Text-to-SQL, as well
+as the advantages and disadvantages of the supervised fine-tuning.
+Additionally, towards an efficient and economic LLM-based Text-to-SQL solution,
+we emphasize the token efficiency in prompt engineering and compare the prior
+studies under this metric. We hope that our work provides a deeper
+understanding of Text-to-SQL with LLMs, and inspires further investigations and
+broad applications.

@@ -1,0 +1,20 @@
+---
+layout: publication
+title: Does Multimodality Help Human And Machine For Translation And Image Captioning?
+authors: Caglayan et al.
+conference: 'Proceedings of the First Conference on Machine Translation: Volume 2,
+  Shared Task Papers'
+year: 2016
+bibkey: caglayan2016does
+citations: 76
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1605.09186'}]
+tags: [Model Architecture, Evaluation, Multimodal Models, WMT, Attention Mechanism]
+---
+This paper presents the systems developed by LIUM and CVC for the WMT16
+Multimodal Machine Translation challenge. We explored various comparative
+methods, namely phrase-based systems and attentional recurrent neural networks
+models trained using monomodal or multimodal data. We also performed a human
+evaluation in order to estimate the usefulness of multimodal data for human
+machine translation and image description generation. Our systems obtained the
+best results for both tasks according to the automatic evaluation metrics BLEU
+and METEOR.

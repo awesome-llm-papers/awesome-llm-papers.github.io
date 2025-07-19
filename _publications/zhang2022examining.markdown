@@ -1,0 +1,31 @@
+---
+layout: publication
+title: Examining Scaling And Transfer Of Language Model Architectures For Machine
+  Translation
+authors: Zhang et al.
+conference: 'Proceedings of the Third Conference on Machine Translation: Research
+  Papers'
+year: 2022
+bibkey: zhang2022examining
+citations: 139
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.00528'}]
+tags: [Model Architecture, WMT]
+---
+Natural language understanding and generation models follow one of the two
+dominant architectural paradigms: language models (LMs) that process
+concatenated sequences in a single stack of layers, and encoder-decoder models
+(EncDec) that utilize separate layer stacks for input and output processing. In
+machine translation, EncDec has long been the favoured approach, but with few
+studies investigating the performance of LMs. In this work, we thoroughly
+examine the role of several architectural design choices on the performance of
+LMs on bilingual, (massively) multilingual and zero-shot translation tasks,
+under systematic variations of data conditions and model sizes. Our results
+show that: (i) Different LMs have different scaling properties, where
+architectural differences often have a significant impact on model performance
+at small scales, but the performance gap narrows as the number of parameters
+increases, (ii) Several design choices, including causal masking and
+language-modeling objectives for the source sequence, have detrimental effects
+on translation quality, and (iii) When paired with full-visible masking for
+source sequences, LMs could perform on par with EncDec on supervised bilingual
+and multilingual translation tasks, and improve greatly on zero-shot directions
+by facilitating the reduction of off-target translations.

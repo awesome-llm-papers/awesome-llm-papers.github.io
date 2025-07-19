@@ -1,0 +1,26 @@
+---
+layout: publication
+title: Hierarchical Conditional Relation Networks For Video Question Answering
+authors: Le et al.
+conference: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2020
+bibkey: le2020hierarchical
+citations: 220
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.10698'}]
+tags: [CVPR, Evaluation, Model Architecture, Reinforcement Learning, Datasets]
+---
+Video question answering (VideoQA) is challenging as it requires modeling
+capacity to distill dynamic visual artifacts and distant relations and to
+associate them with linguistic concepts. We introduce a general-purpose
+reusable neural unit called Conditional Relation Network (CRN) that serves as a
+building block to construct more sophisticated structures for representation
+and reasoning over video. CRN takes as input an array of tensorial objects and
+a conditioning feature, and computes an array of encoded output objects. Model
+building becomes a simple exercise of replication, rearrangement and stacking
+of these reusable units for diverse modalities and contextual information. This
+design thus supports high-order relational and multi-step reasoning. The
+resulting architecture for VideoQA is a CRN hierarchy whose branches represent
+sub-videos or clips, all sharing the same question as the contextual condition.
+Our evaluations on well-known datasets achieved new SoTA results, demonstrating
+the impact of building a general-purpose reasoning unit on complex domains such
+as VideoQA.

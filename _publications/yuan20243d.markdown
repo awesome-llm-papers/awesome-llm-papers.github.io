@@ -1,0 +1,25 @@
+---
+layout: publication
+title: '3d-premise: Can Large Language Models Generate 3D Shapes With Sharp Features
+  And Parametric Control?'
+authors: Yuan et al.
+conference: 2021 IEEE/CVF International Conference on Computer Vision (ICCV)
+year: 2024
+bibkey: yuan20243d
+citations: 68
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2401.06437'}]
+tags: [Datasets, Tools, Applications, ICCV]
+---
+Recent advancements in implicit 3D representations and generative models have
+markedly propelled the field of 3D object generation forward. However, it
+remains a significant challenge to accurately model geometries with defined
+sharp features under parametric controls, which is crucial in fields like
+industrial design and manufacturing. To bridge this gap, we introduce a
+framework that employs Large Language Models (LLMs) to generate text-driven 3D
+shapes, manipulating 3D software via program synthesis. We present 3D-PreMise,
+a dataset specifically tailored for 3D parametric modeling of industrial
+shapes, designed to explore state-of-the-art LLMs within our proposed pipeline.
+Our work reveals effective generation strategies and delves into the
+self-correction capabilities of LLMs using a visual interface. Our work
+highlights both the potential and limitations of LLMs in 3D parametric modeling
+for industrial applications.

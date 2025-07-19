@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'E-snli: Natural Language Inference With Natural Language Explanations'
+authors: Camburu et al.
+conference: Arxiv
+year: 2018
+bibkey: camburu2018e
+citations: 277
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1812.01193'}]
+tags: [Interpretability And Explainability, Training Techniques, Datasets]
+---
+In order for machine learning to garner widespread public adoption, models
+must be able to provide interpretable and robust explanations for their
+decisions, as well as learn from human-provided explanations at train time. In
+this work, we extend the Stanford Natural Language Inference dataset with an
+additional layer of human-annotated natural language explanations of the
+entailment relations. We further implement models that incorporate these
+explanations into their training process and output them at test time. We show
+how our corpus of explanations, which we call e-SNLI, can be used for various
+goals, such as obtaining full sentence justifications of a model's decisions,
+improving universal sentence representations and transferring to out-of-domain
+NLI datasets. Our dataset thus opens up a range of research directions for
+using natural language explanations, both for improving models and for
+asserting their trust.

@@ -1,0 +1,32 @@
+---
+layout: publication
+title: Mitigating Object Hallucination Via Concentric Causal Attention
+authors: Xing et al.
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
+year: 2024
+bibkey: xing2024mitigating
+citations: 92
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2410.15926'}]
+tags: [Model Architecture, Evaluation, ACL, EMNLP, Multimodal Models, Datasets, Attention
+    Mechanism]
+---
+Recent Large Vision Language Models (LVLMs) present remarkable zero-shot
+conversational and reasoning capabilities given multimodal queries.
+Nevertheless, they suffer from object hallucination, a phenomenon where LVLMs
+are prone to generate textual responses not factually aligned with image
+inputs. Our pilot study reveals that object hallucination is closely tied with
+Rotary Position Encoding (RoPE), a widely adopted positional dependency
+modeling design in existing LVLMs. Due to the long-term decay in RoPE, LVLMs
+tend to hallucinate more when relevant visual cues are distant from instruction
+tokens in the multimodal input sequence. Additionally, we observe a similar
+effect when reversing the sequential order of visual tokens during multimodal
+alignment. Our tests indicate that long-term decay in RoPE poses challenges to
+LVLMs while capturing visual-instruction interactions across long distances. We
+propose Concentric Causal Attention (CCA), a simple yet effective positional
+alignment strategy that mitigates the impact of RoPE long-term decay in LVLMs
+by naturally reducing relative distance between visual and instruction tokens.
+With CCA, visual tokens can better interact with instruction tokens, thereby
+enhancing model's perception capability and alleviating object hallucination.
+Without bells and whistles, our positional alignment method surpasses existing
+hallucination mitigation strategies by large margins on multiple object
+hallucination benchmarks.

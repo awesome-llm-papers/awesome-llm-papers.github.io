@@ -1,0 +1,38 @@
+---
+layout: publication
+title: Did The Neurons Read Your Book? Document-level Membership Inference For Large
+  Language Models
+authors: Meeus et al.
+conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2023
+bibkey: meeus2023did
+citations: 52
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2310.15007'}]
+tags: [RAG, EMNLP, Training Techniques, Evaluation, Ethics And Bias, Reinforcement
+    Learning, Security, Datasets]
+---
+With large language models (LLMs) poised to become embedded in our daily
+lives, questions are starting to be raised about the data they learned from.
+These questions range from potential bias or misinformation LLMs could retain
+from their training data to questions of copyright and fair use of
+human-generated text. However, while these questions emerge, developers of the
+recent state-of-the-art LLMs become increasingly reluctant to disclose details
+on their training corpus. We here introduce the task of document-level
+membership inference for real-world LLMs, i.e. inferring whether the LLM has
+seen a given document during training or not. First, we propose a procedure for
+the development and evaluation of document-level membership inference for LLMs
+by leveraging commonly used data sources for training and the model release
+date. We then propose a practical, black-box method to predict document-level
+membership and instantiate it on OpenLLaMA-7B with both books and academic
+papers. We show our methodology to perform very well, reaching an AUC of 0.856
+for books and 0.678 for papers. We then show our approach to outperform the
+sentence-level membership inference attacks used in the privacy literature for
+the document-level membership task. We further evaluate whether smaller models
+might be less sensitive to document-level inference and show OpenLLaMA-3B to be
+approximately as sensitive as OpenLLaMA-7B to our approach. Finally, we
+consider two mitigation strategies and find the AUC to slowly decrease when
+only partial documents are considered but to remain fairly high when the model
+precision is reduced. Taken together, our results show that accurate
+document-level membership can be inferred for LLMs, increasing the transparency
+of technology poised to change our lives.

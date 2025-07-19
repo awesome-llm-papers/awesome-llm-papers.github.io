@@ -1,0 +1,26 @@
+---
+layout: publication
+title: Learning To Summarize Radiology Findings
+authors: Zhang et al.
+conference: Proceedings of the Ninth International Workshop on Health Text Mining
+  and Information Analysis
+year: 2018
+bibkey: zhang2018learning
+citations: 117
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.04698'}]
+tags: [Datasets, ALT, Alt, Evaluation]
+---
+The Impression section of a radiology report summarizes crucial radiology
+findings in natural language and plays a central role in communicating these
+findings to physicians. However, the process of generating impressions by
+summarizing findings is time-consuming for radiologists and prone to errors. We
+propose to automate the generation of radiology impressions with neural
+sequence-to-sequence learning. We further propose a customized neural model for
+this task which learns to encode the study background information and use this
+information to guide the decoding process. On a large dataset of radiology
+reports collected from actual hospital studies, our model outperforms existing
+non-neural and neural baselines under the ROUGE metrics. In a blind experiment,
+a board-certified radiologist indicated that 67% of sampled system summaries
+are at least as good as the corresponding human-written summaries, suggesting
+significant clinical validity. To our knowledge our work represents the first
+attempt in this direction.

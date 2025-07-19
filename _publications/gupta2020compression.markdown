@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'Compression Of Deep Learning Models For Text: A Survey'
+authors: Gupta Manish, Agrawal Puneet
+conference: ACM Transactions on Knowledge Discovery from Data
+year: 2020
+bibkey: gupta2020compression
+citations: 60
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.05221'}]
+tags: [Training Techniques, Distillation, GPT, Transformer, BERT, Model Architecture,
+  Efficiency And Optimization, Survey Paper, Reinforcement Learning, Applications,
+  Quantization, Pruning]
+---
+In recent years, the fields of natural language processing (NLP) and
+information retrieval (IR) have made tremendous progress thanksto deep learning
+models like Recurrent Neural Networks (RNNs), Gated Recurrent Units (GRUs) and
+Long Short-Term Memory (LSTMs)networks, and Transformer [120] based models like
+Bidirectional Encoder Representations from Transformers (BERT) [24],
+GenerativePre-training Transformer (GPT-2) [94], Multi-task Deep Neural Network
+(MT-DNN) [73], Extra-Long Network (XLNet) [134], Text-to-text transfer
+transformer (T5) [95], T-NLG [98] and GShard [63]. But these models are
+humongous in size. On the other hand,real world applications demand small model
+size, low response times and low computational power wattage. In this survey,
+wediscuss six different types of methods (Pruning, Quantization, Knowledge
+Distillation, Parameter Sharing, Tensor Decomposition, andSub-quadratic
+Transformer based methods) for compression of such models to enable their
+deployment in real industry NLP projects.Given the critical need of building
+applications with efficient and small models, and the large amount of recently
+published work inthis area, we believe that this survey organizes the plethora
+of work done by the 'deep learning for NLP' community in the past fewyears and
+presents it as a coherent story.

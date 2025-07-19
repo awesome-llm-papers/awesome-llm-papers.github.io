@@ -1,0 +1,34 @@
+---
+layout: publication
+title: '2-tier Simcse: Elevating BERT For Robust Sentence Embeddings'
+authors: Wang Yumeng, Zhou Ziran, Wang Junjin
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
+year: 2025
+bibkey: wang20252
+citations: 4978
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2501.13758'}]
+tags: [RAG, EMNLP, Training Techniques, BERT, Model Architecture, Reinforcement Learning,
+  Fine Tuning]
+---
+Effective sentence embeddings that capture semantic nuances and generalize
+well across diverse contexts are crucial for natural language processing tasks.
+We address this challenge by applying SimCSE (Simple Contrastive Learning of
+Sentence Embeddings) using contrastive learning to fine-tune the minBERT model
+for sentiment analysis, semantic textual similarity (STS), and paraphrase
+detection. Our contributions include experimenting with three different dropout
+techniques, namely standard dropout, curriculum dropout, and adaptive dropout,
+to tackle overfitting, proposing a novel 2-Tier SimCSE Fine-tuning Model that
+combines both unsupervised and supervised SimCSE on STS task, and exploring
+transfer learning potential for Paraphrase and SST tasks. Our findings
+demonstrate the effectiveness of SimCSE, with the 2-Tier model achieving
+superior performance on the STS task, with an average test score of 0.742
+across all three downstream tasks. The results of error analysis reveals
+challenges in handling complex sentiments and reliance on lexical overlap for
+paraphrase detection, highlighting areas for future research. The ablation
+study revealed that removing Adaptive Dropout in the Single-Task Unsupervised
+SimCSE Model led to improved performance on the STS task, indicating
+overfitting due to added parameters. Transfer learning from SimCSE models on
+Paraphrase and SST tasks did not enhance performance, suggesting limited
+transferability of knowledge from the STS task.

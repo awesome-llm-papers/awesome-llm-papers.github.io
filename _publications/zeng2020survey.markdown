@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'A Survey On Machine Reading Comprehension: Tasks, Evaluation Metrics And Benchmark
+  Datasets'
+authors: Zeng et al.
+conference: Applied Sciences
+year: 2020
+bibkey: zeng2020survey
+citations: 51
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.11880'}]
+tags: [Evaluation, Survey Paper, Reinforcement Learning, Applications, Datasets]
+---
+Machine Reading Comprehension (MRC) is a challenging Natural Language
+Processing(NLP) research field with wide real-world applications. The great
+progress of this field in recent years is mainly due to the emergence of
+large-scale datasets and deep learning. At present, a lot of MRC models have
+already surpassed human performance on various benchmark datasets despite the
+obvious giant gap between existing MRC models and genuine human-level reading
+comprehension. This shows the need for improving existing datasets, evaluation
+metrics, and models to move current MRC models toward "real" understanding. To
+address the current lack of comprehensive survey of existing MRC tasks,
+evaluation metrics, and datasets, herein, (1) we analyze 57 MRC tasks and
+datasets and propose a more precise classification method of MRC tasks with 4
+different attributes; (2) we summarized 9 evaluation metrics of MRC tasks, 7
+attributes and 10 characteristics of MRC datasets; (3) We also discuss key open
+issues in MRC research and highlighted future research directions. In addition,
+we have collected, organized, and published our data on the companion
+website(https://mrc-datasets.github.io/) where MRC researchers could directly
+access each MRC dataset, papers, baseline projects, and the leaderboard.

@@ -1,0 +1,37 @@
+---
+layout: publication
+title: How To Retrain Recommender System? A Sequential Meta-learning Method
+authors: Zhang et al.
+conference: Proceedings of the 43rd International ACM SIGIR Conference on Research
+  and Development in Information Retrieval
+year: 2020
+bibkey: zhang2020how
+citations: 63
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.13258'}]
+tags: [Reinforcement Learning, Training Techniques, Datasets, SIGIR]
+---
+Practical recommender systems need be periodically retrained to refresh the
+model with new interaction data. To pursue high model fidelity, it is usually
+desirable to retrain the model on both historical and new data, since it can
+account for both long-term and short-term user preference. However, a full
+model retraining could be very time-consuming and memory-costly, especially
+when the scale of historical data is large. In this work, we study the model
+retraining mechanism for recommender systems, a topic of high practical values
+but has been relatively little explored in the research community.
+  Our first belief is that retraining the model on historical data is
+unnecessary, since the model has been trained on it before. Nevertheless,
+normal training on new data only may easily cause overfitting and forgetting
+issues, since the new data is of a smaller scale and contains fewer information
+on long-term user preference. To address this dilemma, we propose a new
+training method, aiming to abandon the historical data during retraining
+through learning to transfer the past training experience. Specifically, we
+design a neural network-based transfer component, which transforms the old
+model to a new model that is tailored for future recommendations. To learn the
+transfer component well, we optimize the "future performance" -- i.e., the
+recommendation accuracy evaluated in the next time period. Our Sequential
+Meta-Learning(SML) method offers a general training paradigm that is applicable
+to any differentiable model. We demonstrate SML on matrix factorization and
+conduct experiments on two real-world datasets. Empirical results show that SML
+not only achieves significant speed-up, but also outperforms the full model
+retraining in recommendation accuracy, validating the effectiveness of our
+proposals. We release our codes at: https://github.com/zyang1580/SML.

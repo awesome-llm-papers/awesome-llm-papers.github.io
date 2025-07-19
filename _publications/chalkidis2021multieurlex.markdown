@@ -1,0 +1,29 @@
+---
+layout: publication
+title: Multieurlex -- A Multi-lingual And Multi-label Legal Document Classification
+  Dataset For Zero-shot Cross-lingual Transfer
+authors: Chalkidis Ilias, Fergadiotis Manos, Androutsopoulos Ion
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2021
+bibkey: chalkidis2021multieurlex
+citations: 58
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.00904'}]
+tags: [Training Techniques, EMNLP, BERT, Model Architecture, Reinforcement Learning,
+  Fine Tuning, Datasets]
+---
+We introduce MULTI-EURLEX, a new multilingual dataset for topic
+classification of legal documents. The dataset comprises 65k European Union
+(EU) laws, officially translated in 23 languages, annotated with multiple
+labels from the EUROVOC taxonomy. We highlight the effect of temporal concept
+drift and the importance of chronological, instead of random splits. We use the
+dataset as a testbed for zero-shot cross-lingual transfer, where we exploit
+annotated training documents in one language (source) to classify documents in
+another language (target). We find that fine-tuning a multilingually pretrained
+model (XLM-ROBERTA, MT5) in a single source language leads to catastrophic
+forgetting of multilingual knowledge and, consequently, poor zero-shot transfer
+to other languages. Adaptation strategies, namely partial fine-tuning,
+adapters, BITFIT, LNFIT, originally proposed to accelerate fine-tuning for new
+end-tasks, help retain multilingual knowledge from pretraining, substantially
+improving zero-shot cross-lingual transfer, but their impact also depends on
+the pretrained model used and the size of the label set.

@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'FF2: A Feature Fusion Two-stream Framework For Punctuation Restoration'
+authors: Wu et al.
+conference: Remote Sensing
+year: 2022
+bibkey: wu2022ff2
+citations: 64
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.04699'}]
+tags: [Datasets, RAG, Attention Mechanism, Tools, Evaluation, Transformer, Model Architecture,
+  SLT, Merging]
+---
+To accomplish punctuation restoration, most existing methods focus on
+introducing extra information (e.g., part-of-speech) or addressing the class
+imbalance problem. Recently, large-scale transformer-based pre-trained language
+models (PLMS) have been utilized widely and obtained remarkable success.
+However, the PLMS are trained on the large dataset with marks, which may not
+fit well with the small dataset without marks, causing the convergence to be
+not ideal. In this study, we propose a Feature Fusion two-stream framework
+(FF2) to bridge the gap. Specifically, one stream leverages a pre-trained
+language model to capture the semantic feature, while another auxiliary module
+captures the feature at hand. We also modify the computation of multi-head
+attention to encourage communication among heads. Then, two features with
+different perspectives are aggregated to fuse information and enhance context
+awareness. Without additional data, the experimental results on the popular
+benchmark IWSLT demonstrate that FF2 achieves new SOTA performance, which
+verifies that our approach is effective.

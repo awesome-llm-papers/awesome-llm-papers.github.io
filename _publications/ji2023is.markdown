@@ -1,0 +1,36 @@
+---
+layout: publication
+title: Is Chatgpt A Good Personality Recognizer? A Preliminary Study
+authors: Ji et al.
+conference: Proceedings of the 4th New Frontiers in Summarization Workshop
+year: 2023
+bibkey: ji2023is
+citations: 99
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.03952'}]
+tags: [Interpretability And Explainability, Fairness, Attention Mechanism, GPT, Prompting,
+  Bias Mitigation, Evaluation, Ethics And Bias, Model Architecture, Reinforcement
+    Learning, Datasets]
+---
+In recent years, personality has been regarded as a valuable personal factor
+being incorporated into numerous tasks such as sentiment analysis and product
+recommendation. This has led to widespread attention to text-based personality
+recognition task, which aims to identify an individual's personality based on
+given text. Considering that ChatGPT has recently exhibited remarkable
+abilities on various natural language processing tasks, we provide a
+preliminary evaluation of ChatGPT on text-based personality recognition task
+for generating effective personality data. Concretely, we employ a variety of
+prompting strategies to explore ChatGPT's ability in recognizing personality
+from given text, especially the level-oriented prompting strategy we designed
+for guiding ChatGPT in analyzing given text at a specified level. The
+experimental results on two representative real-world datasets reveal that
+ChatGPT with zero-shot chain-of-thought prompting exhibits impressive
+personality recognition ability and is capable to provide natural language
+explanations through text-based logical reasoning. Furthermore, by employing
+the level-oriented prompting strategy to optimize zero-shot chain-of-thought
+prompting, the performance gap between ChatGPT and corresponding
+state-of-the-art model has been narrowed even more. However, we observe that
+ChatGPT shows unfairness towards certain sensitive demographic attributes such
+as gender and age. Additionally, we discover that eliciting the personality
+recognition ability of ChatGPT helps improve its performance on
+personality-related downstream tasks such as sentiment classification and
+stress prediction.

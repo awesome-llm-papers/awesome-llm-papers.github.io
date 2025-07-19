@@ -1,0 +1,27 @@
+---
+layout: publication
+title: Learning Dynamic Belief Graphs To Generalize On Text-based Games
+authors: Adhikari et al.
+conference: Arxiv
+year: 2020
+bibkey: adhikari2020learning
+citations: 53
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.09127'}]
+tags: [RAG, Training Techniques, Agentic, Transformer, Model Architecture, Reinforcement
+    Learning]
+---
+Playing text-based games requires skills in processing natural language and
+sequential decision making. Achieving human-level performance on text-based
+games remains an open challenge, and prior research has largely relied on
+hand-crafted structured representations and heuristics. In this work, we
+investigate how an agent can plan and generalize in text-based games using
+graph-structured representations learned end-to-end from raw text. We propose a
+novel graph-aided transformer agent (GATA) that infers and updates latent
+belief graphs during planning to enable effective action selection by capturing
+the underlying game dynamics. GATA is trained using a combination of
+reinforcement and self-supervised learning. Our work demonstrates that the
+learned graph-based representations help agents converge to better policies
+than their text-only counterparts and facilitate effective generalization
+across game configurations. Experiments on 500+ unique games from the TextWorld
+suite show that our best agent outperforms text-based baselines by an average
+of 24.2%.

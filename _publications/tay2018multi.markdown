@@ -1,0 +1,32 @@
+---
+layout: publication
+title: Multi-cast Attention Networks For Retrieval-based Question Answering And Response
+  Prediction
+authors: Tay Yi, Tuan Luu Anh, Hui Siu Cheung
+conference: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2018
+bibkey: tay2018multi
+citations: 151
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1806.00778'}]
+tags: [Interpretability And Explainability, Attention Mechanism, Evaluation, CVPR,
+  Transformer, Model Architecture, Datasets]
+---
+Attention is typically used to select informative sub-phrases that are used
+for prediction. This paper investigates the novel use of attention as a form of
+feature augmentation, i.e, casted attention. We propose Multi-Cast Attention
+Networks (MCAN), a new attention mechanism and general model architecture for a
+potpourri of ranking tasks in the conversational modeling and question
+answering domains. Our approach performs a series of soft attention operations,
+each time casting a scalar feature upon the inner word embeddings. The key idea
+is to provide a real-valued hint (feature) to a subsequent encoder layer and is
+targeted at improving the representation learning process. There are several
+advantages to this design, e.g., it allows an arbitrary number of attention
+mechanisms to be casted, allowing for multiple attention types (e.g.,
+co-attention, intra-attention) and attention variants (e.g., alignment-pooling,
+max-pooling, mean-pooling) to be executed simultaneously. This not only
+eliminates the costly need to tune the nature of the co-attention layer, but
+also provides greater extents of explainability to practitioners. Via extensive
+experiments on four well-known benchmark datasets, we show that MCAN achieves
+state-of-the-art performance. On the Ubuntu Dialogue Corpus, MCAN outperforms
+existing state-of-the-art models by \\(9%\\). MCAN also achieves the best
+performing score to date on the well-studied TrecQA dataset.

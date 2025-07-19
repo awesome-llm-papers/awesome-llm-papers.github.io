@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'S-omninet: Structured Data Enhanced Universal Multimodal Learning Architecture'
+authors: Xue Ye, Klabjan Diego, Utke Jean
+conference: 2019 International Joint Conference on Neural Networks (IJCNN)
+year: 2023
+bibkey: xue2023s
+citations: 67
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2307.00226'}]
+tags: [Attention Mechanism, Tools, Model Architecture, Reinforcement Learning, Multimodal
+    Models, Datasets]
+---
+Multimodal multitask learning has attracted an increasing interest in recent
+years. Singlemodal models have been advancing rapidly and have achieved
+astonishing results on various tasks across multiple domains. Multimodal
+learning offers opportunities for further improvements by integrating data from
+multiple modalities. Many methods are proposed to learn on a specific type of
+multimodal data, such as vision and language data. A few of them are designed
+to handle several modalities and tasks at a time. In this work, we extend and
+improve Omninet, an architecture that is capable of handling multiple
+modalities and tasks at a time, by introducing cross-cache attention,
+integrating patch embeddings for vision inputs, and supporting structured data.
+The proposed Structured-data-enhanced Omninet (S-Omninet) is a universal model
+that is capable of learning from structured data of various dimensions
+effectively with unstructured data through cross-cache attention, which enables
+interactions among spatial, temporal, and structured features. We also enhance
+spatial representations in a spatial cache with patch embeddings. We evaluate
+the proposed model on several multimodal datasets and demonstrate a significant
+improvement over the baseline, Omninet.

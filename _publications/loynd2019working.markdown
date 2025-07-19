@@ -1,0 +1,27 @@
+---
+layout: publication
+title: Working Memory Graphs
+authors: Loynd et al.
+conference: NeuroImage
+year: 2019
+bibkey: loynd2019working
+citations: 227
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.07141'}]
+tags: [Attention Mechanism, Agentic, Transformer, Model Architecture, Efficiency And
+    Optimization, Reinforcement Learning]
+---
+Transformers have increasingly outperformed gated RNNs in obtaining new
+state-of-the-art results on supervised tasks involving text sequences. Inspired
+by this trend, we study the question of how Transformer-based models can
+improve the performance of sequential decision-making agents. We present the
+Working Memory Graph (WMG), an agent that employs multi-head self-attention to
+reason over a dynamic set of vectors representing observed and recurrent state.
+We evaluate WMG in three environments featuring factored observation spaces: a
+Pathfinding environment that requires complex reasoning over past observations,
+BabyAI gridworld levels that involve variable goals, and Sokoban which
+emphasizes future planning. We find that the combination of WMG's
+Transformer-based architecture with factored observation spaces leads to
+significant gains in learning efficiency compared to baseline architectures
+across all tasks. WMG demonstrates how Transformer-based models can
+dramatically boost sample efficiency in RL environments for which observations
+can be factored.

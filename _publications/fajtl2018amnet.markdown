@@ -1,0 +1,20 @@
+---
+layout: publication
+title: 'Amnet: Memorability Estimation With Attention'
+authors: Fajtl et al.
+conference: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
+bibkey: fajtl2018amnet
+citations: 62
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.03115'}]
+tags: [Attention Mechanism, Evaluation, CVPR, Transformer, Model Architecture, Datasets]
+---
+In this paper we present the design and evaluation of an end-to-end
+trainable, deep neural network with a visual attention mechanism for
+memorability estimation in still images. We analyze the suitability of transfer
+learning of deep models from image classification to the memorability task.
+Further on we study the impact of the attention mechanism on the memorability
+estimation and evaluate our network on the SUN Memorability and the LaMem
+datasets. Our network outperforms the existing state of the art models on both
+datasets in terms of the Spearman's rank correlation as well as the mean
+squared error, closely matching human consistency.

@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'I-max: Maximize The Resolution Potential Of Pre-trained Rectified Flow Transformers
+  With Projected Flow'
+authors: Du et al.
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
+year: 2024
+bibkey: du2024i
+citations: 51
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2410.07536'}]
+tags: [Training Techniques, EMNLP, Alt, Tools, Transformer, Model Architecture, Efficiency
+    And Optimization, Merging]
+---
+Rectified Flow Transformers (RFTs) offer superior training and inference
+efficiency, making them likely the most viable direction for scaling up
+diffusion models. However, progress in generation resolution has been
+relatively slow due to data quality and training costs. Tuning-free resolution
+extrapolation presents an alternative, but current methods often reduce
+generative stability, limiting practical application. In this paper, we review
+existing resolution extrapolation methods and introduce the I-Max framework to
+maximize the resolution potential of Text-to-Image RFTs. I-Max features: (i) a
+novel Projected Flow strategy for stable extrapolation and (ii) an advanced
+inference toolkit for generalizing model knowledge to higher resolutions.
+Experiments with Lumina-Next-2K and Flux.1-dev demonstrate I-Max's ability to
+enhance stability in resolution extrapolation and show that it can bring image
+detail emergence and artifact correction, confirming the practical value of
+tuning-free resolution extrapolation.

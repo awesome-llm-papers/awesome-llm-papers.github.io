@@ -1,0 +1,31 @@
+---
+layout: publication
+title: Attention As A Hypernetwork
+authors: Schug et al.
+conference: The European Physical Journal B
+year: 2024
+bibkey: schug2024attention
+citations: 98
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2406.05816'}]
+tags: [Training Techniques, Attention Mechanism, Evaluation, Transformer, Model Architecture,
+  Reinforcement Learning]
+---
+Transformers can under some circumstances generalize to novel problem
+instances whose constituent parts might have been encountered during training,
+but whose compositions have not. What mechanisms underlie this ability for
+compositional generalization? By reformulating multi-head attention as a
+hypernetwork, we reveal that a composable, low-dimensional latent code
+specifies key-query specific operations. We find empirically that this latent
+code is predictive of the subtasks the network performs on unseen task
+compositions, revealing that latent codes acquired during training are reused
+to solve unseen problem instances. To further examine the hypothesis that the
+intrinsic hypernetwork of multi-head attention supports compositional
+generalization, we ablate whether making the hypernetwork-generated linear
+value network nonlinear strengthens compositionality. We find that this
+modification improves compositional generalization on abstract reasoning tasks.
+In particular, we introduce a symbolic version of the Raven's Progressive
+Matrices human intelligence test, which gives us precise control over the
+problem compositions encountered during training and evaluation. We demonstrate
+on this task how scaling model size and data enables compositional
+generalization in transformers and gives rise to a functionally structured
+latent space.

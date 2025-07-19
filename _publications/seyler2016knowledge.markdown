@@ -1,0 +1,27 @@
+---
+layout: publication
+title: Knowledge Questions From Knowledge Graphs
+authors: Seyler Dominic, Yahya Mohamed, Berberich Klaus
+conference: Proceedings of the ACM SIGIR International Conference on Theory of Information
+  Retrieval
+year: 2016
+bibkey: seyler2016knowledge
+citations: 53
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1610.09935'}]
+tags: [Alt, SIGIR, Applications]
+---
+We address the novel problem of automatically generating quiz-style knowledge
+questions from a knowledge graph such as DBpedia. Questions of this kind have
+ample applications, for instance, to educate users about or to evaluate their
+knowledge in a specific domain. To solve the problem, we propose an end-to-end
+approach. The approach first selects a named entity from the knowledge graph as
+an answer. It then generates a structured triple-pattern query, which yields
+the answer as its sole result. If a multiple-choice question is desired, the
+approach selects alternative answer options. Finally, our approach uses a
+template-based method to verbalize the structured query and yield a natural
+language question. A key challenge is estimating how difficult the generated
+question is to human users. To do this, we make use of historical data from the
+Jeopardy! quiz show and a semantically annotated Web-scale document collection,
+engineer suitable features, and train a logistic regression classifier to
+predict question difficulty. Experiments demonstrate the viability of our
+overall approach.

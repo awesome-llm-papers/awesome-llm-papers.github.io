@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Semeval-2015 Task 3: Answer Selection In Community Question Answering'
+authors: Nakov et al.
+conference: Proceedings of the 9th International Workshop on Semantic Evaluation (SemEval
+  2015)
+year: 2019
+bibkey: nakov2019semeval
+citations: 171
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.11403'}]
+tags: [Datasets, RAG, Evaluation, Training Techniques]
+---
+Community Question Answering (cQA) provides new interesting research
+directions to the traditional Question Answering (QA) field, e.g., the
+exploitation of the interaction between users and the structure of related
+posts. In this context, we organized SemEval-2015 Task 3 on "Answer Selection
+in cQA", which included two subtasks: (a) classifying answers as "good", "bad",
+or "potentially relevant" with respect to the question, and (b) answering a
+YES/NO question with "yes", "no", or "unsure", based on the list of all
+answers. We set subtask A for Arabic and English on two relatively different
+cQA domains, i.e., the Qatar Living website for English, and a Quran-related
+website for Arabic. We used crowdsourcing on Amazon Mechanical Turk to label a
+large English training dataset, which we released to the research community.
+Thirteen teams participated in the challenge with a total of 61 submissions: 24
+primary and 37 contrastive. The best systems achieved an official score
+(macro-averaged F1) of 57.19 and 63.7 for the English subtasks A and B, and
+78.55 for the Arabic subtask A.

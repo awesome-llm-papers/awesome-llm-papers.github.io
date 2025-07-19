@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Radiov2.5: Improved Baselines For Agglomerative Vision Foundation Models'
+authors: Heinrich et al.
+conference: Computational Visual Media
+year: 2024
+bibkey: heinrich2024radiov2
+citations: 1358
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2412.07679'}]
+tags: [Efficiency And Optimization, RAG, Training Techniques, Distillation]
+---
+Agglomerative models have recently emerged as a powerful approach to training
+vision foundation models, leveraging multi-teacher distillation from existing
+models such as CLIP, DINO, and SAM. This strategy enables the efficient
+creation of robust models, combining the strengths of individual teachers while
+significantly reducing computational and resource demands. In this paper, we
+thoroughly analyze state-of-the-art agglomerative models, identifying critical
+challenges including resolution mode shifts, teacher imbalance, idiosyncratic
+teacher artifacts, and an excessive number of output tokens. To address these
+issues, we propose several novel solutions: multi-resolution training, mosaic
+augmentation, and improved balancing of teacher loss functions. Specifically,
+in the context of Vision Language Models, we introduce a token compression
+technique to maintain high-resolution information within a fixed token count.
+We release our top-performing variants at multiple scales (-B, -L, -H, and -g),
+along with inference code and pretrained weights

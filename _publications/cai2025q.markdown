@@ -1,0 +1,14 @@
+---
+layout: publication
+title: 'Q-ponder: A Unified Training Pipeline For Reasoning-based Visual Quality Assessment'
+authors: Cai et al.
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2025
+bibkey: cai2025q
+citations: 94
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2506.05384'}]
+tags: [Interpretability And Explainability, Training Techniques, Prompting, Agentic,
+  Tools, CVPR, Evaluation, Efficiency And Optimization, Reinforcement Learning, Fine
+    Tuning, Multimodal Models, Datasets]
+---
+Recent studies demonstrate that multimodal large language models (MLLMs) can proficiently evaluate visual quality through interpretable assessments. However, existing approaches typically treat quality scoring and reasoning descriptions as separate tasks with disjoint optimization objectives, leading to a trade-off: models adept at quality reasoning descriptions struggle with precise score regression, while score-focused models lack interpretability. This limitation hinders the full potential of MLLMs in visual quality assessment, where accuracy and interpretability should be mutually reinforcing. To address this, we propose a unified two-stage training framework comprising a cold-start stage and a reinforcement learning-based fine-tuning stage. Specifically, in the first stage, we distill high-quality data from a teacher model through expert-designed prompts, initializing reasoning capabilities via cross-entropy loss supervision. In the second stage, we introduce a novel reward with Group Relative Policy Optimization (GRPO) to jointly optimize scoring accuracy and reasoning consistency. We designate the models derived from these two stages as Q-Ponder-CI and Q-Ponder. Extensive experiments show that Q-Ponder achieves state-of-the-art (SOTA) performance on quality score regression benchmarks, delivering up to 6.5% higher SRCC on cross-domain datasets. Furthermore, Q-Ponder significantly outperforms description-based SOTA models, including its teacher model Qwen-2.5-VL-72B, particularly in description accuracy and reasonableness, demonstrating the generalization potential over diverse tasks.

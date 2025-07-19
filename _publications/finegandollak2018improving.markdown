@@ -1,0 +1,27 @@
+---
+layout: publication
+title: Improving Text-to-sql Evaluation Methodology
+authors: Finegan-dollak et al.
+conference: 'Proceedings of the 56th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
+year: 2018
+bibkey: finegandollak2018improving
+citations: 183
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1806.09029'}]
+tags: [Security, Training Techniques, Evaluation, ACL, Applications, Datasets, Reinforcement
+    Learning]
+---
+To be informative, an evaluation must measure how well systems generalize to
+realistic unseen data. We identify limitations of and propose improvements to
+current evaluations of text-to-SQL systems. First, we compare human-generated
+and automatically generated questions, characterizing properties of queries
+necessary for real-world applications. To facilitate evaluation on multiple
+datasets, we release standardized and improved versions of seven existing
+datasets and one new text-to-SQL dataset. Second, we show that the current
+division of data into training and test sets measures robustness to variations
+in the way questions are asked, but only partially tests how well systems
+generalize to new queries; therefore, we propose a complementary dataset split
+for evaluation of future work. Finally, we demonstrate how the common practice
+of anonymizing variables during evaluation removes an important challenge of
+the task. Our observations highlight key difficulties, and our methodology
+enables effective measurement of future development.

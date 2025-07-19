@@ -1,0 +1,27 @@
+---
+layout: publication
+title: Trainable Greedy Decoding For Neural Machine Translation
+authors: Gu Jiatao, Cho Kyunghyun, Li Victor O. K.
+conference: Proceedings of the 2017 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2017
+bibkey: gu2017trainable
+citations: 59
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1702.02429'}]
+tags: [Model Architecture, Reinforcement Learning, Attention Mechanism, EMNLP]
+---
+Recent research in neural machine translation has largely focused on two
+aspects; neural network architectures and end-to-end learning algorithms. The
+problem of decoding, however, has received relatively little attention from the
+research community. In this paper, we solely focus on the problem of decoding
+given a trained neural machine translation model. Instead of trying to build a
+new decoding algorithm for any specific decoding objective, we propose the idea
+of trainable decoding algorithm in which we train a decoding algorithm to find
+a translation that maximizes an arbitrary decoding objective. More
+specifically, we design an actor that observes and manipulates the hidden state
+of the neural machine translation decoder and propose to train it using a
+variant of deterministic policy gradient. We extensively evaluate the proposed
+algorithm using four language pairs and two decoding objectives and show that
+we can indeed train a trainable greedy decoder that generates a better
+translation (in terms of a target decoding objective) with minimal
+computational overhead.

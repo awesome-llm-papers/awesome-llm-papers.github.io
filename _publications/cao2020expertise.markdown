@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Expertise Style Transfer: A New Task Towards Better Communication Between
+  Experts And Laymen'
+authors: Cao et al.
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
+year: 2020
+bibkey: cao2020expertise
+citations: 51
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.00701'}]
+tags: [Datasets, Ethics And Bias, ACL, Evaluation]
+---
+The curse of knowledge can impede communication between experts and laymen.
+We propose a new task of expertise style transfer and contribute a manually
+annotated dataset with the goal of alleviating such cognitive biases. Solving
+this task not only simplifies the professional language, but also improves the
+accuracy and expertise level of laymen descriptions using simple words. This is
+a challenging task, unaddressed in previous work, as it requires the models to
+have expert intelligence in order to modify text with a deep understanding of
+domain knowledge and structures. We establish the benchmark performance of five
+state-of-the-art models for style transfer and text simplification. The results
+demonstrate a significant gap between machine and human performance. We also
+discuss the challenges of automatic evaluation, to provide insights into future
+research directions. The dataset is publicly available at
+https://srhthu.github.io/expertise-style-transfer.

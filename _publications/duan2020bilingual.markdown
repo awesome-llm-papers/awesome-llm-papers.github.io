@@ -1,0 +1,28 @@
+---
+layout: publication
+title: Bilingual Dictionary Based Neural Machine Translation Without Using Parallel
+  Sentences
+authors: Duan et al.
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
+year: 2020
+bibkey: duan2020bilingual
+citations: 50
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.02671'}]
+tags: [ACL, Training Techniques]
+---
+In this paper, we propose a new task of machine translation (MT), which is
+based on no parallel sentences but can refer to a ground-truth bilingual
+dictionary. Motivated by the ability of a monolingual speaker learning to
+translate via looking up the bilingual dictionary, we propose the task to see
+how much potential an MT system can attain using the bilingual dictionary and
+large scale monolingual corpora, while is independent on parallel sentences. We
+propose anchored training (AT) to tackle the task. AT uses the bilingual
+dictionary to establish anchoring points for closing the gap between source
+language and target language. Experiments on various language pairs show that
+our approaches are significantly better than various baselines, including
+dictionary-based word-by-word translation, dictionary-supervised cross-lingual
+word embedding transformation, and unsupervised MT. On distant language pairs
+that are hard for unsupervised MT to perform well, AT performs remarkably
+better, achieving performances comparable to supervised SMT trained on more
+than 4M parallel sentences.

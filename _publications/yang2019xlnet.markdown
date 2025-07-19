@@ -1,0 +1,25 @@
+---
+layout: publication
+title: 'Xlnet: Generalized Autoregressive Pretraining For Language Understanding'
+authors: Yang et al.
+conference: Arxiv
+year: 2019
+bibkey: yang2019xlnet
+citations: 5686
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.08237'}]
+tags: [Training Techniques, GPT, BERT, Transformer, Model Architecture, Language Modeling]
+---
+With the capability of modeling bidirectional contexts, denoising
+autoencoding based pretraining like BERT achieves better performance than
+pretraining approaches based on autoregressive language modeling. However,
+relying on corrupting the input with masks, BERT neglects dependency between
+the masked positions and suffers from a pretrain-finetune discrepancy. In light
+of these pros and cons, we propose XLNet, a generalized autoregressive
+pretraining method that (1) enables learning bidirectional contexts by
+maximizing the expected likelihood over all permutations of the factorization
+order and (2) overcomes the limitations of BERT thanks to its autoregressive
+formulation. Furthermore, XLNet integrates ideas from Transformer-XL, the
+state-of-the-art autoregressive model, into pretraining. Empirically, under
+comparable experiment settings, XLNet outperforms BERT on 20 tasks, often by a
+large margin, including question answering, natural language inference,
+sentiment analysis, and document ranking.

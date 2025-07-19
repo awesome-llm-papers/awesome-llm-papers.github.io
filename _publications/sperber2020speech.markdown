@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Speech Translation And The End-to-end Promise: Taking Stock Of Where We Are'
+authors: Sperber Matthias, Paulik Matthias
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
+year: 2020
+bibkey: sperber2020speech
+citations: 83
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.06358'}]
+tags: [Model Architecture, Training Techniques, Survey Paper, ACL, Attention Mechanism]
+---
+Over its three decade history, speech translation has experienced several
+shifts in its primary research themes; moving from loosely coupled cascades of
+speech recognition and machine translation, to exploring questions of tight
+coupling, and finally to end-to-end models that have recently attracted much
+attention. This paper provides a brief survey of these developments, along with
+a discussion of the main challenges of traditional approaches which stem from
+committing to intermediate representations from the speech recognizer, and from
+training cascaded models separately towards different objectives.
+  Recent end-to-end modeling techniques promise a principled way of overcoming
+these issues by allowing joint training of all model components and removing
+the need for explicit intermediate representations. However, a closer look
+reveals that many end-to-end models fall short of solving these issues, due to
+compromises made to address data scarcity. This paper provides a unifying
+categorization and nomenclature that covers both traditional and recent
+approaches and that may help researchers by highlighting both trade-offs and
+open research questions.

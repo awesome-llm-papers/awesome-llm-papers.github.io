@@ -1,0 +1,23 @@
+---
+layout: publication
+title: End-to-end Non-autoregressive Neural Machine Translation With Connectionist
+  Temporal Classification
+authors: "Libovick\xFD Jind\u0159ich, Helcl Jind\u0159ich"
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2018
+bibkey: "libovick\xFD2018end"
+citations: 130
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1811.04719'}]
+tags: [EMNLP, GPT, Model Architecture, Language Modeling, Large Scale Training, Datasets]
+---
+Autoregressive decoding is the only part of sequence-to-sequence models that
+prevents them from massive parallelization at inference time.
+Non-autoregressive models enable the decoder to generate all output symbols
+independently in parallel. We present a novel non-autoregressive architecture
+based on connectionist temporal classification and evaluate it on the task of
+neural machine translation. Unlike other non-autoregressive methods which
+operate in several steps, our model can be trained end-to-end. We conduct
+experiments on the WMT English-Romanian and English-German datasets. Our models
+achieve a significant speedup over the autoregressive models, keeping the
+translation quality comparable to other non-autoregressive models.

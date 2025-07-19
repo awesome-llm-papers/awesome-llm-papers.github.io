@@ -1,0 +1,34 @@
+---
+layout: publication
+title: Transformers Learn In-context By Gradient Descent
+authors: von et al.
+conference: Arxiv
+year: 2022
+bibkey: vonoswald2022transformers
+citations: 52
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2212.07677'}]
+tags: [Training Techniques, Attention Mechanism, In Context Learning, Transformer,
+  Model Architecture, Efficiency And Optimization]
+---
+At present, the mechanisms of in-context learning in Transformers are not
+well understood and remain mostly an intuition. In this paper, we suggest that
+training Transformers on auto-regressive objectives is closely related to
+gradient-based meta-learning formulations. We start by providing a simple
+weight construction that shows the equivalence of data transformations induced
+by 1) a single linear self-attention layer and by 2) gradient-descent (GD) on a
+regression loss. Motivated by that construction, we show empirically that when
+training self-attention-only Transformers on simple regression tasks either the
+models learned by GD and Transformers show great similarity or, remarkably, the
+weights found by optimization match the construction. Thus we show how trained
+Transformers become mesa-optimizers i.e. learn models by gradient descent in
+their forward pass. This allows us, at least in the domain of regression
+problems, to mechanistically understand the inner workings of in-context
+learning in optimized Transformers. Building on this insight, we furthermore
+identify how Transformers surpass the performance of plain gradient descent by
+learning an iterative curvature correction and learn linear models on deep data
+representations to solve non-linear regression tasks. Finally, we discuss
+intriguing parallels to a mechanism identified to be crucial for in-context
+learning termed induction-head (Olsson et al., 2022) and show how it could be
+understood as a specific case of in-context learning by gradient descent
+learning within Transformers. Code to reproduce the experiments can be found at
+https://github.com/google-research/self-organising-systems/tree/master/transformers_learn_icl_by_gd .

@@ -1,0 +1,25 @@
+---
+layout: publication
+title: Area Attention
+authors: Li et al.
+conference: Gait &amp; Posture
+year: 2018
+bibkey: li2018area
+citations: 2514
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1810.10126'}]
+tags: [Model Architecture, Attention Mechanism, Transformer]
+---
+Existing attention mechanisms are trained to attend to individual items in a
+collection (the memory) with a predefined, fixed granularity, e.g., a word
+token or an image grid. We propose area attention: a way to attend to areas in
+the memory, where each area contains a group of items that are structurally
+adjacent, e.g., spatially for a 2D memory such as images, or temporally for a
+1D memory such as natural language sentences. Importantly, the shape and the
+size of an area are dynamically determined via learning, which enables a model
+to attend to information with varying granularity. Area attention can easily
+work with existing model architectures such as multi-head attention for
+simultaneously attending to multiple areas in the memory. We evaluate area
+attention on two tasks: neural machine translation (both character and
+token-level) and image captioning, and improve upon strong (state-of-the-art)
+baselines in all the cases. These improvements are obtainable with a basic form
+of area attention that is parameter free.

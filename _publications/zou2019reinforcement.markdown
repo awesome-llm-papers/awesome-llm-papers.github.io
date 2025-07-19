@@ -1,0 +1,37 @@
+---
+layout: publication
+title: Reinforcement Learning To Optimize Long-term User Engagement In Recommender
+  Systems
+authors: Zou et al.
+conference: Proceedings of the 25th ACM SIGKDD International Conference on Knowledge
+  Discovery &amp; Data Mining
+year: 2019
+bibkey: zou2019reinforcement
+citations: 208
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1902.05570'}]
+tags: [Attention Mechanism, Agentic, Tools, Evaluation, Model Architecture, Reinforcement
+    Learning, KDD]
+---
+Recommender systems play a crucial role in our daily lives. Feed streaming
+mechanism has been widely used in the recommender system, especially on the
+mobile Apps. The feed streaming setting provides users the interactive manner
+of recommendation in never-ending feeds. In such an interactive manner, a good
+recommender system should pay more attention to user stickiness, which is far
+beyond classical instant metrics, and typically measured by \{\bf long-term user
+engagement\}. Directly optimizing the long-term user engagement is a non-trivial
+problem, as the learning target is usually not available for conventional
+supervised learning methods. Though reinforcement learning~(RL) naturally fits
+the problem of maximizing the long term rewards, applying RL to optimize
+long-term user engagement is still facing challenges: user behaviors are
+versatile and difficult to model, which typically consists of both instant
+feedback~(e.g. clicks, ordering) and delayed feedback~(e.g. dwell time,
+revisit); in addition, performing effective off-policy learning is still
+immature, especially when combining bootstrapping and function approximation.
+  To address these issues, in this work, we introduce a reinforcement learning
+framework --- FeedRec to optimize the long-term user engagement. FeedRec
+includes two components: 1)~a Q-Network which designed in hierarchical LSTM
+takes charge of modeling complex user behaviors, and 2)~an S-Network, which
+simulates the environment, assists the Q-Network and voids the instability of
+convergence in policy learning. Extensive experiments on synthetic data and a
+real-world large scale data show that FeedRec effectively optimizes the
+long-term user engagement and outperforms state-of-the-arts.

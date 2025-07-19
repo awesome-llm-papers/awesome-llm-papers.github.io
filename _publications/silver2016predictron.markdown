@@ -1,0 +1,22 @@
+---
+layout: publication
+title: 'The Predictron: End-to-end Learning And Planning'
+authors: Silver et al.
+conference: Arxiv
+year: 2016
+bibkey: silver2016predictron
+citations: 106
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1612.08810'}]
+tags: [Model Architecture, Reinforcement Learning]
+---
+One of the key challenges of artificial intelligence is to learn models that
+are effective in the context of planning. In this document we introduce the
+predictron architecture. The predictron consists of a fully abstract model,
+represented by a Markov reward process, that can be rolled forward multiple
+"imagined" planning steps. Each forward pass of the predictron accumulates
+internal rewards and values over multiple planning depths. The predictron is
+trained end-to-end so as to make these accumulated values accurately
+approximate the true value function. We applied the predictron to procedurally
+generated random mazes and a simulator for the game of pool. The predictron
+yielded significantly more accurate predictions than conventional deep neural
+network architectures.

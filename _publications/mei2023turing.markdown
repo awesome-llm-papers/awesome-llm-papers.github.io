@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'A Turing Test: Are AI Chatbots Behaviorally Similar To Humans?'
+authors: Mei et al.
+conference: Proceedings of the National Academy of Sciences
+year: 2023
+bibkey: mei2023turing
+citations: 96
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2312.00798'}]
+tags: [RAG, Fairness, GPT, Alt, Bias Mitigation, Ethics And Bias, Survey Paper, Model
+    Architecture]
+---
+We administer a Turing Test to AI Chatbots. We examine how Chatbots behave in
+a suite of classic behavioral games that are designed to elicit characteristics
+such as trust, fairness, risk-aversion, cooperation, \textit\{etc.\}, as well as
+how they respond to a traditional Big-5 psychological survey that measures
+personality traits. ChatGPT-4 exhibits behavioral and personality traits that
+are statistically indistinguishable from a random human from tens of thousands
+of human subjects from more than 50 countries. Chatbots also modify their
+behavior based on previous experience and contexts ``as if'' they were learning
+from the interactions, and change their behavior in response to different
+framings of the same strategic situation. Their behaviors are often distinct
+from average and modal human behaviors, in which case they tend to behave on
+the more altruistic and cooperative end of the distribution. We estimate that
+they act as if they are maximizing an average of their own and partner's
+payoffs.

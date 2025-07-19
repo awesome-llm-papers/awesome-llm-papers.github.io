@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Crossfit: A Few-shot Learning Challenge For Cross-task Generalization In NLP'
+authors: Qinyuan Ye, Bill Yuchen Lin, Xiang Ren
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2021
+bibkey: qinyuan2021crossfit
+citations: 95
+additional_links: [{name: Paper, url: 'http://arxiv.org/abs/2104.08835v2'}]
+tags: [RAG, EMNLP, Evaluation, Few Shot, Datasets]
+---
+Humans can learn a new language task efficiently with only few examples, by
+leveraging their knowledge obtained when learning prior tasks. In this paper,
+we explore whether and how such cross-task generalization ability can be
+acquired, and further applied to build better few-shot learners across diverse
+NLP tasks. We introduce CrossFit, a problem setup for studying cross-task
+generalization ability, which standardizes seen/unseen task partitions, data
+access during different learning stages, and the evaluation protocols. To
+instantiate different seen/unseen task partitions in CrossFit and facilitate
+in-depth analysis, we present the NLP Few-shot Gym, a repository of 160 diverse
+few-shot NLP tasks created from open-access NLP datasets and converted to a
+unified text-to-text format. Our analysis reveals that the few-shot learning
+ability on unseen tasks can be improved via an upstream learning stage using a
+set of seen tasks. We also observe that the selection of upstream learning
+tasks can significantly influence few-shot performance on unseen tasks, asking
+further analysis on task similarity and transferability.

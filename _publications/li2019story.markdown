@@ -1,0 +1,30 @@
+---
+layout: publication
+title: Story Ending Prediction By Transferable BERT
+authors: Li Zhongyang, Ding Xiao, Liu Ting
+conference: Proceedings of the Twenty-Eighth International Joint Conference on Artificial
+  Intelligence
+year: 2019
+bibkey: li2019story
+citations: 51
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.07504'}]
+tags: [Model Architecture, Tools, Training Techniques, Fine Tuning, BERT, AAAI, GPT,
+  Transformer, IJCAI, Reinforcement Learning]
+---
+Recent advances, such as GPT and BERT, have shown success in incorporating a
+pre-trained transformer language model and fine-tuning operation to improve
+downstream NLP systems. However, this framework still has some fundamental
+problems in effectively incorporating supervised knowledge from other related
+tasks. In this study, we investigate a transferable BERT (TransBERT) training
+framework, which can transfer not only general language knowledge from
+large-scale unlabeled data but also specific kinds of knowledge from various
+semantically related supervised tasks, for a target task. Particularly, we
+propose utilizing three kinds of transfer tasks, including natural language
+inference, sentiment classification, and next action prediction, to further
+train BERT based on a pre-trained model. This enables the model to get a better
+initialization for the target task. We take story ending prediction as the
+target task to conduct experiments. The final result, an accuracy of 91.8%,
+dramatically outperforms previous state-of-the-art baseline methods. Several
+comparative experiments give some helpful suggestions on how to select transfer
+tasks. Error analysis shows what are the strength and weakness of BERT-based
+models for story ending prediction.

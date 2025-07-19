@@ -1,0 +1,30 @@
+---
+layout: publication
+title: Document Modeling With Graph Attention Networks For Multi-grained Machine Reading
+  Comprehension
+authors: Zheng et al.
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
+year: 2020
+bibkey: zheng2020document
+citations: 57
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.05806'}]
+tags: [Model Architecture, Tools, Training Techniques, Evaluation, ACL, RAG, Datasets,
+  Attention Mechanism]
+---
+Natural Questions is a new challenging machine reading comprehension
+benchmark with two-grained answers, which are a long answer (typically a
+paragraph) and a short answer (one or more entities inside the long answer).
+Despite the effectiveness of existing methods on this benchmark, they treat
+these two sub-tasks individually during training while ignoring their
+dependencies. To address this issue, we present a novel multi-grained machine
+reading comprehension framework that focuses on modeling documents at their
+hierarchical nature, which are different levels of granularity: documents,
+paragraphs, sentences, and tokens. We utilize graph attention networks to
+obtain different levels of representations so that they can be learned
+simultaneously. The long and short answers can be extracted from
+paragraph-level representation and token-level representation, respectively. In
+this way, we can model the dependencies between the two-grained answers to
+provide evidence for each other. We jointly train the two sub-tasks, and our
+experiments show that our approach significantly outperforms previous systems
+at both long and short answer criteria.

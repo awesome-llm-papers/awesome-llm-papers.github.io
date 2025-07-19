@@ -1,0 +1,27 @@
+---
+layout: publication
+title: Improving Transformer Models By Reordering Their Sublayers
+authors: Press Ofir, Smith Noah A., Levy Omer
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
+year: 2019
+bibkey: press2019improving
+citations: 65
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03864'}]
+tags: [Model Architecture, Training Techniques, Fine Tuning, Evaluation, ACL, Transformer,
+  Datasets, Reinforcement Learning, Language Modeling, Attention Mechanism]
+---
+Multilayer transformer networks consist of interleaved self-attention and
+feedforward sublayers. Could ordering the sublayers in a different pattern lead
+to better performance? We generate randomly ordered transformers and train them
+with the language modeling objective. We observe that some of these models are
+able to achieve better performance than the interleaved baseline, and that
+those successful variants tend to have more self-attention at the bottom and
+more feedforward sublayers at the top. We propose a new transformer pattern
+that adheres to this property, the sandwich transformer, and show that it
+improves perplexity on multiple word-level and character-level language
+modeling benchmarks, at no cost in parameters, memory, or training time.
+However, the sandwich reordering pattern does not guarantee performance gains
+across every task, as we demonstrate on machine translation models. Instead, we
+suggest that further exploration of task-specific sublayer reorderings is
+needed in order to unlock additional gains.
