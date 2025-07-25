@@ -61,9 +61,9 @@ All data is sourced from arXiv and processed into a local JSON format.
 
 Have feature ideas or want to help improve paper classification, tagging, or UI?
 
-1. Fork the repo
-2. Submit a pull request
-3. Or open an issue
+1. Fork the repo  
+2. Submit a pull request  
+3. Or open an issue  
 
 We’d love to collaborate!
 
@@ -72,14 +72,17 @@ We’d love to collaborate!
 ## ⭐ Support & Share
 
 If this project helps you:
-- Give it a ⭐ on GitHub
-- Share the live site with friends, classmates, or on Twitter/LinkedIn
+- Give it a ⭐ on GitHub  
+- Share the live site with friends, classmates, or on Twitter/LinkedIn  
 - Suggest new papers or topics to track
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **GNU General Public License v3.0** – see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the **GNU General Public License v3.0**.  
+You are free to use, study, share, and modify the code — but **any derivative work must also be open-sourced under the GPLv3**.  
+Commercial or proprietary redistribution is not allowed unless it complies fully with the terms of the GPL.  
+See the [LICENSE](./LICENSE) file for full details.
 
 ---
