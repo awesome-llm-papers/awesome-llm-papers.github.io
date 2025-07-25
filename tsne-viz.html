@@ -1,0 +1,291 @@
+---
+layout: default
+title: Visualization of Publications on Large Language Models
+description: A tSNE visualization of all the Large Language Model Papers with Clustering
+---
+
+<style>
+#cluster-sidebar {
+  font-family: sans-serif;
+}
+.legend-item:hover {
+  background-color: #eee;
+  border-radius: 4px;
+}
+#paperviz {
+  flex: 1;
+}
+#cluster-sidebar {
+  min-width: 220px;
+}
+
+#cluster-legend .legend-item {
+  background-color: #f9f9f9;
+  padding: 6px 8px;
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  flex: 1 1 180px;
+  font-size: 13px;
+  transition: background-color 0.2s;
+}
+#cluster-legend .legend-item:hover {
+  background-color: #f0f0f0;
+}
+</style>
+
+<h2>2D Map of Papers</h2>
+<p>Each dot represents one paper in this survey. Hover your mouse over each point to look
+at the details. Click on a point to go to the paper information page.</p>
+<div style="text-align: right; margin-bottom: 10px;">
+  <label>Search </label>
+  <input type="text" spellcheck="false" id="filtermap"/>
+  <button id="clearSearch">Clear</button>
+  <span id="matchCount" style="margin-left: 10px;">Matching papers: 0</span>
+</div>
+
+<div id="time-slider" style="margin-bottom: 10px;">
+  <label for="yearRange">Year: </label>
+  <input type="range" id="yearRange" min="2000" max="2023" value="2023" step="1" />
+  <span id="yearLabel">2023</span>
+</div>
+
+<div style="margin-bottom: 10px;">
+  <label for="sizeByCitations">Size by Citations:</label>
+  <input type="checkbox" id="sizeByCitations" />
+</div>
+
+<div id="controls" style="margin-bottom: 10px;">
+  <button id="zoom_in">Zoom In</button>
+  <button id="zoom_out">Zoom Out</button>
+  <button id="pan_left">Pan Left</button>
+  <button id="pan_right">Pan Right</button>
+  <button id="pan_up">Pan Up</button>
+  <button id="pan_down">Pan Down</button>
+</div>
+
+<div id="paperviz" style="margin-bottom: 20px;"></div>
+
+<div id="cluster-sidebar" style="max-width: 800px; margin: 0 auto; font-family: sans-serif;">
+  <h3 style="margin-top: 0;">🧭 Cluster Legend</h3>
+  <button id="resetClusters" style="margin-bottom: 10px;">Show All Clusters</button>
+  <div id="cluster-legend" style="display: flex; flex-wrap: wrap; gap: 20px;"></div>
+</div>
+
+Please consider <a href="/contributing.html">contributing</a> by updating
+the information of existing papers or adding new work.
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.4.0/dist/umd/popper.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.umd.min.js"></script>
+<script src="https://d3js.org/d3.v6.js"></script>
+
+<script>
+var allData = [];
+var filteredData = [];
+var selectedCluster = null;
+var updateVisualization = () => {}; // declared globally
+
+var isMatch = function(d, searchTerm) {
+  if (searchTerm.length < 3) return false;
+  var allText = (d.title + " " + d.abstract + " " + d.tags.join(" ")).toLocaleLowerCase();
+  return allText.indexOf(searchTerm) !== -1;
+};
+
+var margin = {top: 10, right: 130, bottom: 30, left: 60},
+    width = 600 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var svg = d3.select("#paperviz")
+  .append("svg")
+    .attr("width", width + margin.left + margin.right + 100)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var zoomLayer = svg.append("g");
+
+var color = d3.scaleOrdinal(d3.schemeCategory10);
+
+var zoom = d3.zoom()
+  .scaleExtent([0.5, 20])
+  .on("zoom", function(event) {
+    currentTransform = event.transform;
+    zoomLayer.attr("transform", event.transform);
+  });
+
+var currentTransform = d3.zoomIdentity;
+svg.call(zoom);
+
+d3.json('./tsne_clustered.json').then(function(data) {
+  allData = data;
+
+  allData.forEach(function(d) {
+    d.year = parseInt(d.year);
+    d.citations = +d.citations || 0;
+  });
+
+  var years = allData.map(d => d.year);
+  var minYear = d3.min(years);
+  var maxYear = d3.max(years);
+
+  d3.select("#yearRange")
+    .attr("min", minYear)
+    .attr("max", maxYear)
+    .attr("value", maxYear);
+
+  d3.select("#yearLabel").text(maxYear);
+
+  var x = d3.scaleLinear().domain([-25, 25]).range([0, width]);
+  var y = d3.scaleLinear().domain([-25, 25]).range([height, 0]);
+
+  var tooltip = d3.select("#paperviz")
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "rgb(81, 81, 81)")
+    .style("width", "450px")
+    .style("height", "120px")
+    .style("color", "white")
+    .style("border-width", "0px")
+    .style("border-radius", "10px")
+    .style("padding", "10px")
+    .style("position", "absolute");
+
+  var mouseover = function(event, d) {
+    tooltip.style("opacity", 1);
+  };
+
+  var mousemove = function(event, d) {
+    var tags = d.tags.map(tag => `<tag>${tag}</tag>&nbsp;`).join("");
+    var xPosition = event.pageX + 20;
+    var yPosition = event.pageY + 30;
+    tooltip.html(`<p>${d.title} ${tags}</p>`)
+           .style("left", xPosition + "px")
+           .style("top", yPosition + "px");
+  };
+
+  var mouseleave = function(event, d) {
+    tooltip.style("opacity", 0);
+  };
+
+  var click_link = function(event, d) {
+    window.location.href = "/publications/" + d.key + "/";
+  };
+
+  updateVisualization = function() {
+    var selectedYear = +d3.select("#yearRange").property("value");
+    var searchTerm = d3.select("#filtermap").property("value").toLocaleLowerCase();
+
+    filteredData = allData.filter(d => {
+      const yearMatch = d.year <= selectedYear;
+      const textMatch = !searchTerm || isMatch(d, searchTerm);
+      const clusterMatch = selectedCluster === null || String(d.cluster) === String(selectedCluster);
+      return yearMatch && textMatch && clusterMatch;
+    });
+
+    var circles = zoomLayer.selectAll("circle")
+      .data(filteredData, d => d.key);
+
+    circles.exit().remove();
+
+    circles
+      .on("mouseover", mouseover)
+      .on("mousemove", mousemove)
+      .on("mouseleave", mouseleave)
+      .on("click", click_link)
+      .transition().duration(300)
+      .attr("cx", d => x(d.tsne_embedding[0]))
+      .attr("cy", d => y(d.tsne_embedding[1]))
+      .attr("r", d => d3.select("#sizeByCitations").property("checked")
+                        ? Math.min(Math.sqrt(d.citations || 0), 30) + 3
+                        : 8);
+
+    circles.enter()
+      .append("circle")
+      .attr("cx", d => x(d.tsne_embedding[0]))
+      .attr("cy", d => y(d.tsne_embedding[1]))
+      .attr("r", d => d3.select("#sizeByCitations").property("checked")
+                        ? Math.sqrt(d.citations || 0) + 3
+                        : 8)
+      .style("fill", d => isMatch(d, searchTerm) ? "#aa0000" : color(d.cluster))
+      .style("opacity", 0.8)
+      .style("stroke", "white")
+      .on("mouseover", mouseover)
+      .on("mousemove", mousemove)
+      .on("mouseleave", mouseleave)
+      .on("click", click_link);
+
+    d3.select("#matchCount").text("Matching papers: " + filteredData.length);
+  };
+
+  // Apply initial zoom-out transformation BEFORE updateVisualization()
+  const initialZoomTransform = d3.zoomIdentity
+    .translate(width / 2, height / 2)
+    .scale(0.6)
+    .translate(-width / 2, -height / 2);
+  
+  svg.call(zoom.transform, initialZoomTransform);
+  currentTransform = initialZoomTransform;
+
+  // Now render data with the zoomed-out view
+  updateVisualization();
+  
+  d3.select("#yearRange").on("input", function() {
+    d3.select("#yearLabel").text(this.value);
+    updateVisualization();
+  });
+
+  let debounceTimer;
+  d3.select("#filtermap").on("keyup", function() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(updateVisualization, 200);
+  });
+
+  var panAmount = 50;
+
+  d3.select("#zoom_in").on("click", () => svg.transition().call(zoom.scaleBy, 1.2));
+  d3.select("#zoom_out").on("click", () => svg.transition().call(zoom.scaleBy, 0.8));
+  d3.select("#pan_left").on("click", () => svg.transition().call(zoom.translateBy, panAmount / currentTransform.k, 0));
+  d3.select("#pan_right").on("click", () => svg.transition().call(zoom.translateBy, -panAmount / currentTransform.k, 0));
+  d3.select("#pan_up").on("click", () => svg.transition().call(zoom.translateBy, 0, panAmount / currentTransform.k));
+  d3.select("#pan_down").on("click", () => svg.transition().call(zoom.translateBy, 0, -panAmount / currentTransform.k));
+  d3.select("#sizeByCitations").on("change", updateVisualization);
+});
+
+d3.select("#clearSearch").on("click", function() {
+  d3.select("#filtermap").property("value", "");
+  updateVisualization();
+});
+
+d3.json('cluster_summary.json').then(function(summary) {
+  const legendContainer = d3.select("#cluster-legend");
+
+  Object.entries(summary).forEach(([cluster, tags]) => {
+    const item = legendContainer.append("div")
+      .attr("class", "legend-item")
+      .style("cursor", "pointer")
+      .style("margin-bottom", "10px")
+      .style("border-left", `6px solid ${color(cluster)}`)
+      .style("padding-left", "8px")
+      .on("click", function() {
+        selectedCluster = selectedCluster === cluster ? null : cluster;
+        updateVisualization();
+      });
+
+    item.append("div")
+      .style("font-weight", "bold")
+      .text(`Cluster ${cluster}`);
+
+    tags.forEach(tag => {
+      item.append("div")
+        .style("font-size", "12px")
+        .style("margin-left", "5px")
+        .text(tag.tag);
+    });
+  });
+
+  d3.select("#resetClusters").on("click", function() {
+    selectedCluster = null;
+    updateVisualization();
+  });
+});
+</script>
