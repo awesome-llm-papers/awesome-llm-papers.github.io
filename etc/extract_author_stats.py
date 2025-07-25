@@ -114,14 +114,31 @@ def collate_author_statistics(markdown_dir, output_dir="output", output_filename
             G.add_edge(author, co)
 
     # Community & centrality
-    partition = community_louvain.best_partition(G)
-    bc = nx.betweenness_centrality(G)
-    # Additional centrality and clustering metrics
-    deg_centrality = nx.degree_centrality(G)
-    closeness = nx.closeness_centrality(G)
-    eigenvector = nx.eigenvector_centrality(G, max_iter=1000)
-    pagerank = nx.pagerank(G)
-    clustering = nx.clustering(G)
+    print(f"Graph has {G.number_of_nodes()} nodes and {G.number_of_edges()} edges")
+
+    if G.number_of_nodes() == 0:
+        print("⚠️ Warning: No valid authors or papers found. Skipping centrality calculations.")
+        partition = {}
+        bc = {}
+        degree = {}
+        closeness = {}
+        eigenvector = {}
+        pagerank = {}
+        clustering = {}
+    else:
+        partition = community_louvain.best_partition(G)
+        bc = nx.betweenness_centrality(G)
+        degree = dict(G.degree())  # Raw number of connections
+        closeness = nx.closeness_centrality(G)
+        if G.number_of_edges() == 0:
+            print("⚠️ Graph has nodes but no edges — skipping eigenvector, pagerank, clustering.")
+            eigenvector = {}
+            pagerank = {}
+            clustering = {}
+        else:
+            eigenvector = nx.eigenvector_centrality(G, max_iter=1000)
+            pagerank = nx.pagerank(G)
+            clustering = nx.clustering(G)
 
     # Finalize output
     out = {}
@@ -144,7 +161,7 @@ def collate_author_statistics(markdown_dir, output_dir="output", output_filename
             'coauthor_count': len(co_list),
             'community': int(partition.get(author, 0)),
             'betweenness': bc.get(author, 0.0),
-            'degree': deg_centrality.get(author, 0.0),
+            'degree': degree.get(author, 0),
             'closeness': closeness.get(author, 0.0),
             'eigenvector': eigenvector.get(author, 0.0),
             'pagerank': pagerank.get(author, 0.0),
