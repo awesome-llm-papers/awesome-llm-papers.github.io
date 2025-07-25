@@ -1,0 +1,222 @@
+{
+  "5": [
+    {
+      "tag": "translation",
+      "count": 0.157
+    },
+    {
+      "tag": "nmt",
+      "count": 0.098
+    },
+    {
+      "tag": "machine",
+      "count": 0.063
+    },
+    {
+      "tag": "bleu",
+      "count": 0.043
+    },
+    {
+      "tag": "neural",
+      "count": 0.038
+    }
+  ],
+  "1": [
+    {
+      "tag": "adversarial",
+      "count": 0.035
+    },
+    {
+      "tag": "prompt",
+      "count": 0.034
+    },
+    {
+      "tag": "task",
+      "count": 0.031
+    },
+    {
+      "tag": "example",
+      "count": 0.028
+    },
+    {
+      "tag": "text",
+      "count": 0.023
+    }
+  ],
+  "7": [
+    {
+      "tag": "llm",
+      "count": 0.074
+    },
+    {
+      "tag": "chatgpt",
+      "count": 0.026
+    },
+    {
+      "tag": "code",
+      "count": 0.024
+    },
+    {
+      "tag": "commonsense",
+      "count": 0.021
+    },
+    {
+      "tag": "clinical",
+      "count": 0.021
+    }
+  ],
+  "0": [
+    {
+      "tag": "question",
+      "count": 0.087
+    },
+    {
+      "tag": "answer",
+      "count": 0.05
+    },
+    {
+      "tag": "qa",
+      "count": 0.048
+    },
+    {
+      "tag": "comprehension",
+      "count": 0.037
+    },
+    {
+      "tag": "reading",
+      "count": 0.035
+    }
+  ],
+  "6": [
+    {
+      "tag": "dialogue",
+      "count": 0.108
+    },
+    {
+      "tag": "response",
+      "count": 0.064
+    },
+    {
+      "tag": "conversation",
+      "count": 0.049
+    },
+    {
+      "tag": "recommendation",
+      "count": 0.048
+    },
+    {
+      "tag": "dialog",
+      "count": 0.048
+    }
+  ],
+  "8": [
+    {
+      "tag": "speech",
+      "count": 0.062
+    },
+    {
+      "tag": "transformer",
+      "count": 0.051
+    },
+    {
+      "tag": "attention",
+      "count": 0.03
+    },
+    {
+      "tag": "layer",
+      "count": 0.024
+    },
+    {
+      "tag": "memory",
+      "count": 0.024
+    }
+  ],
+  "4": [
+    {
+      "tag": "sentence",
+      "count": 0.035
+    },
+    {
+      "tag": "bert",
+      "count": 0.034
+    },
+    {
+      "tag": "summarization",
+      "count": 0.034
+    },
+    {
+      "tag": "summary",
+      "count": 0.03
+    },
+    {
+      "tag": "code",
+      "count": 0.026
+    }
+  ],
+  "3": [
+    {
+      "tag": "visual",
+      "count": 0.108
+    },
+    {
+      "tag": "vqa",
+      "count": 0.098
+    },
+    {
+      "tag": "image",
+      "count": 0.077
+    },
+    {
+      "tag": "question",
+      "count": 0.074
+    },
+    {
+      "tag": "answer",
+      "count": 0.039
+    }
+  ],
+  "2": [
+    {
+      "tag": "explanation",
+      "count": 0.071
+    },
+    {
+      "tag": "ai",
+      "count": 0.055
+    },
+    {
+      "tag": "agent",
+      "count": 0.048
+    },
+    {
+      "tag": "environment",
+      "count": 0.04
+    },
+    {
+      "tag": "instruction",
+      "count": 0.028
+    }
+  ],
+  "9": [
+    {
+      "tag": "image",
+      "count": 0.117
+    },
+    {
+      "tag": "video",
+      "count": 0.062
+    },
+    {
+      "tag": "visual",
+      "count": 0.054
+    },
+    {
+      "tag": "captioning",
+      "count": 0.042
+    },
+    {
+      "tag": "multimodal",
+      "count": 0.037
+    }
+  ]
+}

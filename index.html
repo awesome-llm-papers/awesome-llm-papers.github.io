@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      A Comprehensive Overview of Large Language Models (LLMs): Curated Papers, Tools, Visualizations, and Colab Notebooks &middot; Awesome LLM Papers
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to Awesome LLM Papers</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          Awesome LLM Papers
+        </a>
+      </h1>
+      <p class="lead">A curated collection of research papers on Large Language Models (LLMs), transformers, prompting, fine-tuning, and multi-modal systems. Maintained by <a href="https://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="sidebar-item">
+        <p style="font-size: 12px">Search related work 
+          <input type='text' id='searchTarget' size="16"/> 
+          <button onClick="search();">Go</button>
+        </p>
+      </div>
+      <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+      <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+      <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+      <a class="sidebar-nav-item" href="/topic-viz.html">Topic Explorer</a>
+      <a class="sidebar-nav-item" href="/author-viz.html">Author Explorer </a>
+      <a class="sidebar-nav-item" href="/chatbot.html">Chatbot Explorer</a>
+      <a class="sidebar-nav-item" href="/digest.html">E-Mail Digest</a>
+      <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+      <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+    </nav>
+
+    <div class="sidebar-item">
+      <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+      <span style="font-size: 9px">
+        Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+      </span></p>
+    </div>
+  </div>
+</div>
+
+<script>
+$("#searchTarget").keydown(function (e) {	
+  if (e.keyCode == 13) {
+    search();
+  }
+});
+
+function search() {
+  try {
+    ga('send', 'event', 'search', 'search', $("#searchTarget").val());
+  } finally {
+    window.location = "/papers.html#" + $("#searchTarget").val();
+  }
+}
+</script>
+
+
+    <div class="content container">
+      <!-- HERO SECTION -->
+<h1 style="font-size: 2em; margin-bottom: 0.3em;">🧠 Awesome LLM Papers</h1>
+<p style="font-size: 1.2em;">
+  A curated and continuously updated collection of scholarly research on Large Language Models (LLMs), structured to support systematic exploration and academic inquiry.
+</p>
+
+<p style="font-size: 1.05em;">
+  This site functions as a living literature review, offering AI-assisted summaries, author collaboration graphs, links to open-source implementations, and trend analyses across key areas such as fine-tuning, prompting, retrieval-augmented generation (RAG), and multimodal modeling.
+</p>
+
+<p style="font-size: 1.05em;">
+  Whether you are conducting formal research, engineering production systems, or exploring the field, this resource can support you in:
+  <ul style="font-size: 1em; margin-top: 0.5em; list-style: disc; padding-left: 1.5em;">
+    <li>🧭 Identifying relevant literature by topic tag, author, or semantic cluster</li>
+    <li>📊 Analyzing trends using dimensionality-reduced visualizations and citation metadata</li>
+    <li>📝 Reviewing GPT-generated summaries and paper highlights</li>
+    <li>📁 Accessing linked implementations via GitHub and project repositories</li>
+  </ul>
+</p>
+
+<!-- IMAGE PREVIEW -->
+<p style="text-align: center; margin-top: 2em;">
+  <img src="llm-tree.gif" alt="Emergent capabilities of LLMs with growing parameter count" width="720" style="max-width: 95%; border-radius: 10px;" />
+  <br /><em>Illustration: Emergent capabilities of LLMs as model scale increases</em>
+</p>
+
+<!-- ABOUT SECTION -->
+<h3 style="margin-top: 3em;">📚 About This Project</h3>
+<p>
+This site is intended as an open-access scholarly resource and an evolving index of LLM-related research. It supports literature discovery and analysis across machine learning, natural language processing, and AI systems development. For more detailed browsing, visit the <a href="/papers.html">full paper index</a>.
+</p>
+
+<!-- CONTRIBUTING SECTION -->
+<h3>🤝 Contribute to the Collection</h3>
+<p>
+The field of LLM research is advancing rapidly. Contributions of new papers, tools, or topic suggestions are welcome via our <a href="contributing.html">submission page</a>. This site is maintained as a community effort to ensure continued coverage of emerging developments.
+</p>
+
+<hr />
+
+<p style="font-size: 0.9em;">
+  Copyright © <a href="https://sjmoran.github.io/">Sean Moran</a> 2025.
+  All opinions are my own. Please see the <a href="privacy.html">Privacy Notice</a>.
+</p>
+
+    </div>
+
+    <!-- 
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        let isBot = true;
+
+        // Check for mouse movement or keyboard interaction
+        document.addEventListener('mousemove', function () {
+          isBot = false;
+        });
+        document.addEventListener('keydown', function () {
+          isBot = false;
+        });
+
+        // Redirect or take action if no user interaction is detected
+        setTimeout(function () {
+          if (isBot) {
+            // Redirect to a challenge page or show a message
+            window.location.href = '/challenge-page.html'; // Update with your actual challenge page
+          }
+        }, 5000); // Adjust the time delay as needed
+      });
+    </script>
+    -->
+  </body>
+</html>

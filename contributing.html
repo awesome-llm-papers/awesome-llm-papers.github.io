@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      Contributing &middot; Awesome LLM Papers
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to Awesome LLM Papers</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          Awesome LLM Papers
+        </a>
+      </h1>
+      <p class="lead">A curated collection of research papers on Large Language Models (LLMs), transformers, prompting, fine-tuning, and multi-modal systems. Maintained by <a href="https://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="sidebar-item">
+        <p style="font-size: 12px">Search related work 
+          <input type='text' id='searchTarget' size="16"/> 
+          <button onClick="search();">Go</button>
+        </p>
+      </div>
+      <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+      <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+      <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+      <a class="sidebar-nav-item" href="/topic-viz.html">Topic Explorer</a>
+      <a class="sidebar-nav-item" href="/author-viz.html">Author Explorer </a>
+      <a class="sidebar-nav-item" href="/chatbot.html">Chatbot Explorer</a>
+      <a class="sidebar-nav-item" href="/digest.html">E-Mail Digest</a>
+      <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+      <a class="sidebar-nav-item active" href="/contributing.html">Contributing</a>
+    </nav>
+
+    <div class="sidebar-item">
+      <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+      <span style="font-size: 9px">
+        Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+      </span></p>
+    </div>
+  </div>
+</div>
+
+<script>
+$("#searchTarget").keydown(function (e) {	
+  if (e.keyCode == 13) {
+    search();
+  }
+});
+
+function search() {
+  try {
+    ga('send', 'event', 'search', 'search', $("#searchTarget").val());
+  } finally {
+    window.location = "/papers.html#" + $("#searchTarget").val();
+  }
+}
+</script>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Contributing</h1>
+  <h3 id="adding-a-publication">Adding a publication</h3>
+
+<p>Contributions of new or missing publications are very welcome. To contribute, simply fill in the form below and your paper will appear in front of <strong>thousands</strong> of researchers in the field:</p>
+
+<form id="contribution-form" class="contribution-form">
+  <input type="email" name="email" class="contribution-input" placeholder="Your Email Address" required="" /><br /><br />
+  <input type="text" name="title" class="contribution-input" placeholder="Paper Title" required="" /><br /><br />
+  <input type="text" name="authors" class="contribution-input" placeholder="Paper Authors" required="" /><br /><br />
+  <input type="text" name="conference" class="contribution-input" placeholder="Conference Name" required="" /><br /><br />
+  <input type="text" name="date" class="contribution-input" placeholder="Year" required="" /><br /><br />
+  <input type="url" name="paper" class="contribution-input" placeholder="Link to paper PDF" required="" /><br /><br />
+  <input type="url" name="code" class="contribution-input" placeholder="Link to code (e.g. GitHub)" required="" /><br /><br />
+  <textarea name="abstract" class="contribution-textarea" placeholder="Paper Abstract" required=""></textarea><br /><br />
+  <button type="submit" class="contribution-button">Submit</button>
+  <p id="contribution-message" style="margin-top: 20px; font-weight: bold;"></p>
+</form>
+
+<style>
+  .contribution-form {
+    width: 90%;
+    margin: auto;
+    max-width: 700px;
+  }
+
+  .contribution-input {
+    width: 100%;
+    font-weight: bold;
+    border: 2px solid #000;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  .contribution-textarea {
+    width: 100%;
+    height: 300px;
+    font-weight: bold;
+    border: 2px solid #000;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  .contribution-button {
+    font-weight: bold;
+    color: black;
+    border: 2px solid #000;
+    padding: 10px 20px;
+    background-color: #f5f5f5;
+    cursor: pointer;
+  }
+
+  @media (max-width: 768px) {
+    .contribution-input, .contribution-textarea, .contribution-button {
+      width: 100%;
+      max-width: none;
+    }
+  }
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const form = document.getElementById("contribution-form");
+  const message = document.getElementById("contribution-message");
+
+  form.addEventListener("submit", function (event) {
+    event.preventDefault();
+
+    const formData = new FormData(form);
+    const payload = new URLSearchParams();
+
+    for (const pair of formData.entries()) {
+      payload.append(pair[0], pair[1]);
+    }
+
+    fetch("https://awesome-llm-papers.tinyapps.run/contribute", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: payload
+    })
+    .then(response => response.json())
+    .then(data => {
+      if (data.status === "success") {
+        message.textContent = "✅ Submission successful!";
+        message.style.color = "green";
+        form.reset();
+      } else {
+        message.textContent = "⚠️ " + (data.error || "Submission failed.");
+        message.style.color = "red";
+      }
+    })
+    .catch(error => {
+      console.error("Error submitting contribution:", error);
+      message.textContent = "❌ Something went wrong. Please try again.";
+      message.style.color = "red";
+    });
+  });
+});
+</script>
+
+
+</div>
+
+    </div>
+
+    <!-- 
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        let isBot = true;
+
+        // Check for mouse movement or keyboard interaction
+        document.addEventListener('mousemove', function () {
+          isBot = false;
+        });
+        document.addEventListener('keydown', function () {
+          isBot = false;
+        });
+
+        // Redirect or take action if no user interaction is detected
+        setTimeout(function () {
+          if (isBot) {
+            // Redirect to a challenge page or show a message
+            window.location.href = '/challenge-page.html'; // Update with your actual challenge page
+          }
+        }, 5000); // Adjust the time delay as needed
+      });
+    </script>
+    -->
+  </body>
+</html>

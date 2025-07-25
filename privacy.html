@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <!-- Begin Web-Stat code v 7.0 -->
+  <span id="wts2185292"></span>
+  <script>
+    var wts = document.createElement('script');
+    wts.async = true;
+    wts.src = 'https://app.ardalio.com/log7.js';
+    document.head.appendChild(wts);
+    wts.onload = function() {
+      wtslog7(2185292, 2);
+    };
+  </script>
+  <noscript>
+    <a href="https://www.web-stat.com">
+      <img src="https://app.ardalio.com/7/2/2185292.png" alt="Web-Stat analytics">
+    </a>
+  </noscript>
+  <!-- End Web-Stat code v 7.0 -->
+
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta
+    name="keywords"
+    content="large language models, GPT, transformers, BERT, natural language processing, NLP, deep learning, machine learning, source code, big code, naturalness, software engineering, programming languages, fine-tuning, pretraining, autoregressive models, attention mechanisms, multi-modal models, text generation, reinforcement learning with human feedback, RLHF, GPT-3, GPT-4, ChatGPT, OpenAI, model architectures, transfer learning, LLM applications, LLM benchmarks, LLM interpretability"
+  >
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [["\\(","\\)"]],
+        displayMath: [["\\[","\\]"]],
+      },
+      options: {
+        processHtmlClass: "mathjax-content",
+        processEscapes: true,
+      }
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <title>
+    
+      Privacy Notice &middot; Awesome LLM Papers
+    
+  </title>
+
+  <!-- Enable responsiveness on mobile devices -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface"
+  >
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.svg">
+  <link
+    rel="search"
+    href="/public/opensearchdescription.xml"
+    type="application/opensearchdescription+xml"
+    title="LLM-Bible"
+  />
+
+  <!-- jQuery Library -->
+  <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css"
+  >
+
+  <!-- DataTables JS -->
+  <script
+    type="text/javascript"
+    charset="utf8"
+    src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"
+  ></script>
+</head>
+
+
+  <body class="theme-base-0d layout-reverse">
+
+    <a href='/contributing.html' class='ribbon'>Contribute to Awesome LLM Papers</a>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          Awesome LLM Papers
+        </a>
+      </h1>
+      <p class="lead">A curated collection of research papers on Large Language Models (LLMs), transformers, prompting, fine-tuning, and multi-modal systems. Maintained by <a href="https://sjmoran.github.io/">Sean Moran</a>.</p>      
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="sidebar-item">
+        <p style="font-size: 12px">Search related work 
+          <input type='text' id='searchTarget' size="16"/> 
+          <button onClick="search();">Go</button>
+        </p>
+      </div>
+      <a class="sidebar-nav-item" href="/papers.html">List of Papers</a>
+      <a class="sidebar-nav-item" href="/tags.html">Papers by Tag</a>
+      <a class="sidebar-nav-item" href="/tsne-viz.html">2D Map of Papers</a>
+      <a class="sidebar-nav-item" href="/topic-viz.html">Topic Explorer</a>
+      <a class="sidebar-nav-item" href="/author-viz.html">Author Explorer </a>
+      <a class="sidebar-nav-item" href="/chatbot.html">Chatbot Explorer</a>
+      <a class="sidebar-nav-item" href="/digest.html">E-Mail Digest</a>
+      <a class="sidebar-nav-item" href="/resources.html">Resources, Courses & Events</a>
+      <a class="sidebar-nav-item" href="/contributing.html">Contributing</a>
+    </nav>
+
+    <div class="sidebar-item">
+      <p style="font-size: 12px">Contact <a href="https://sjmoran.github.io">Sean Moran</a> about this survey or website.
+      <span style="font-size: 9px">
+        Made with <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/poole/hyde">Hyde</a>.
+      </span></p>
+    </div>
+  </div>
+</div>
+
+<script>
+$("#searchTarget").keydown(function (e) {	
+  if (e.keyCode == 13) {
+    search();
+  }
+});
+
+function search() {
+  try {
+    ga('send', 'event', 'search', 'search', $("#searchTarget").val());
+  } finally {
+    window.location = "/papers.html#" + $("#searchTarget").val();
+  }
+}
+</script>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Privacy Notice</h1>
+  <p><strong>Last Updated:</strong> 24th July 2025</p>
+
+<p>Your privacy is important to us. This Privacy Notice explains how we collect, use, and protect your information when you use our site and services.</p>
+
+<hr />
+
+<h3 id="1-information-we-collect">1. Information We Collect</h3>
+
+<p>When you interact with our services, we may collect the following information:</p>
+
+<ul>
+  <li><strong>User Queries</strong>: We collect and store the questions or queries you submit to provide better search and response capabilities. This helps us improve our site and provide you with relevant answers.</li>
+  <li><strong>IP Address</strong>: Your IP address may be logged when you submit a query. This helps us monitor the usage of our site and protect against unauthorized access or abuse.</li>
+  <li><strong>Email Address</strong>: If you choose to sign up for our mailing list, we collect your email address to send you updates and relevant information about our services.</li>
+</ul>
+
+<hr />
+
+<h3 id="2-how-we-use-your-information">2. How We Use Your Information</h3>
+
+<p>We use the information we collect to:</p>
+
+<ul>
+  <li>Improve the relevance and accuracy of responses to user queries.</li>
+  <li>Analyze trends and monitor site performance to enhance our service.</li>
+  <li>Protect the integrity of our platform by preventing fraud and abuse.</li>
+  <li><strong>Mailing List</strong>: If you sign up, we use your email address to send updates, newsletters, or other communications you have opted into. You can unsubscribe at any time.</li>
+</ul>
+
+<p>We do not use the data collected to identify individual users beyond mailing purposes or for unrelated marketing activities.</p>
+
+<hr />
+
+<h3 id="3-legal-basis-for-processing">3. Legal Basis for Processing</h3>
+
+<p>Under the General Data Protection Regulation (GDPR), we rely on the following legal bases:</p>
+
+<ul>
+  <li><strong>Consent</strong>: For sending newsletters and storing email addresses. You may withdraw consent at any time.</li>
+  <li><strong>Legitimate Interests</strong>: For collecting user queries and IP addresses to improve the service and ensure site security.</li>
+</ul>
+
+<hr />
+
+<h3 id="4-cookies-and-tracking">4. Cookies and Tracking</h3>
+
+<p>We do <strong>not</strong> use cookies or third-party trackers for advertising or profiling. If analytics tools are used, they operate in an anonymized, privacy-preserving way for traffic analysis only.</p>
+
+<hr />
+
+<h3 id="5-data-retention">5. Data Retention</h3>
+
+<ul>
+  <li><strong>User Queries &amp; IP Addresses</strong>: Stored securely to improve the system and detect abuse.</li>
+  <li><strong>Email Addresses</strong>: Retained only while you are subscribed. You may unsubscribe at any time via the link in the email, after which your email will be deleted from our records.</li>
+</ul>
+
+<hr />
+
+<h3 id="6-data-sharing">6. Data Sharing</h3>
+
+<p>We do <strong>not</strong> share or sell your information with third parties. Your data is used only for the purposes outlined in this Privacy Notice and is accessible only to authorized personnel.</p>
+
+<hr />
+
+<h3 id="7-data-security">7. Data Security</h3>
+
+<p>We use industry-standard security practices, including encryption and access controls, to protect your information. While no method is 100% secure, we take reasonable measures to safeguard your data.</p>
+
+<hr />
+
+<h3 id="8-your-rights">8. Your Rights</h3>
+
+<p>Under GDPR, you may have the right to:</p>
+
+<ul>
+  <li>Access the information we hold about you.</li>
+  <li>Request correction of inaccurate data.</li>
+  <li>Request deletion of your data where applicable.</li>
+  <li>Withdraw consent at any time for processing based on consent.</li>
+</ul>
+
+<p>To exercise any of these rights, please contact us at <strong><a href="mailto:sean.j.moran@gmail.com">sean.j.moran@gmail.com</a></strong>.</p>
+
+<hr />
+
+<h3 id="9-data-controller">9. Data Controller</h3>
+
+<p>This website is operated by <strong>Sean Moran</strong>. For privacy-related concerns, please reach out via email at <strong><a href="mailto:sean.j.moran@gmail.com">sean.j.moran@gmail.com</a></strong>.</p>
+
+<hr />
+
+<h3 id="10-changes-to-this-privacy-notice">10. Changes to This Privacy Notice</h3>
+
+<p>We may update this notice from time to time. Any changes will be posted on this page with an updated “Last Updated” date.</p>
+
+</div>
+
+    </div>
+
+    <!-- 
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        let isBot = true;
+
+        // Check for mouse movement or keyboard interaction
+        document.addEventListener('mousemove', function () {
+          isBot = false;
+        });
+        document.addEventListener('keydown', function () {
+          isBot = false;
+        });
+
+        // Redirect or take action if no user interaction is detected
+        setTimeout(function () {
+          if (isBot) {
+            // Redirect to a challenge page or show a message
+            window.location.href = '/challenge-page.html'; // Update with your actual challenge page
+          }
+        }, 5000); // Adjust the time delay as needed
+      });
+    </script>
+    -->
+  </body>
+</html>
