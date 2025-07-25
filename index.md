@@ -12,10 +12,6 @@ permalink: /
 </p>
 
 <p style="font-size: 1.05em;">
-  This site functions as a living literature review, offering AI-assisted summaries, author collaboration graphs, links to open-source implementations, and trend analyses across key areas such as fine-tuning, prompting, retrieval-augmented generation (RAG), and multimodal modeling.
-</p>
-
-<p style="font-size: 1.05em;">
   Whether you are conducting formal research, engineering production systems, or exploring the field, this resource can support you in:
   <ul style="font-size: 1em; margin-top: 0.5em; list-style: disc; padding-left: 1.5em;">
     <li>🧭 Identifying relevant literature by topic tag, author, or semantic cluster</li>
