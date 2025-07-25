@@ -1,7 +1,7 @@
 # 📚 Awesome LLM Papers
 
 [![Website](https://img.shields.io/badge/Live%20Site-awesome--llm--papers.github.io-blue)](https://awesome-llm-papers.github.io)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: Non-Commercial](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Stars](https://img.shields.io/github/stars/awesome-llm-papers/awesome-llm-papers.github.io?style=social)](https://github.com/awesome-llm-papers/awesome-llm-papers.github.io/stargazers)
 [![Issues](https://img.shields.io/github/issues/awesome-llm-papers/awesome-llm-papers.github.io)](https://github.com/awesome-llm-papers/awesome-llm-papers.github.io/issues)
 
@@ -80,6 +80,8 @@ If this project helps you:
 
 ## 📄 License
 
-This project is licensed under the **GNU General Public License v3.0** – see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.  
+Commercial use is prohibited without explicit permission.  
+See the [LICENSE](./LICENSE) file for details.
 
 ---
