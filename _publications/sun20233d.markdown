@@ -1,0 +1,15 @@
+---
+layout: publication
+title: '3D-GPT: Procedural 3D Modeling With Large Language Models'
+authors: Chunyi Sun, Junlin Han, Weijian Deng, Xinlong Wang, Zishan Qin, Stephen Gould
+conference: No Venue
+year: 2023
+bibkey: sun20233d
+additional_links: [{name: Code, url: 'https://huggingface.co/discussions/paper/65320d37ef70d3555f46f4fb'},
+  {name: Paper, url: 'https://arxiv.org/abs/hf2310.12945'}]
+tags: ["Model Architecture", "Tools"]
+short_authors: Sun et al.
+---
+In the pursuit of efficient automated content creation, procedural generation, leveraging modifiable parameters and rule-based systems, emerges as a promising approach. Nonetheless, it could be a demanding endeavor, given its intricate nature necessitating a deep understanding of rules, algorithms, and parameters. To reduce workload, we introduce 3D-GPT, a framework utilizing large language models~(LLMs) for instruction-driven 3D modeling. 3D-GPT positions LLMs as proficient problem solvers, dissecting the procedural 3D modeling tasks into accessible segments and appointing the apt agent for each task. 3D-GPT integrates three core agents: the task dispatch agent, the conceptualization agent, and the modeling agent. They collaboratively achieve two objectives. First, it enhances concise initial scene descriptions, evolving them into detailed forms while dynamically adapting the text based on subsequent instructions. Second, it integrates procedural generation, extracting parameter values from enriched text to effortlessly interface with 3D software for asset creation. Our empirical investigations confirm that 3D-GPT not only interprets and executes instructions, delivering reliable results but also collaborates effectively with human designers. Furthermore, it seamlessly integrates with Blender, unlocking expanded manipulation possibilities. Our work highlights the potential of LLMs in 3D modeling, offering a basic framework for future advancements in scene generation and animation.
+
+https://huggingface.co/discussions/paper/65320d37ef70d3555f46f4fb

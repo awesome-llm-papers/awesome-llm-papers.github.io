@@ -1,0 +1,24 @@
+---
+layout: publication
+title: Dynamic Memory Networks For Visual And Textual Question Answering
+authors: Caiming Xiong, Stephen Merity, Richard Socher
+conference: Arxiv
+year: 2016
+bibkey: xiong2016dynamic
+citations: 600
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1603.01417'}]
+tags: ["Datasets", "Model Architecture", "Training Techniques"]
+short_authors: Caiming Xiong, Stephen Merity, Richard Socher
+---
+Neural network architectures with memory and attention mechanisms exhibit
+certain reasoning capabilities required for question answering. One such
+architecture, the dynamic memory network (DMN), obtained high accuracy on a
+variety of language tasks. However, it was not shown whether the architecture
+achieves strong results for question answering when supporting facts are not
+marked during training or whether it could be applied to other modalities such
+as images. Based on an analysis of the DMN, we propose several improvements to
+its memory and input modules. Together with these changes we introduce a novel
+input module for images in order to be able to answer visual questions. Our new
+DMN+ model improves the state of the art on both the Visual Question Answering
+dataset and the \babi-10k text question-answering dataset without supporting
+fact supervision.

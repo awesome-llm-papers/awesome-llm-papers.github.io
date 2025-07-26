@@ -1,0 +1,32 @@
+---
+layout: publication
+title: 'Learning To Navigate Unseen Environments: Back Translation With Environmental
+  Dropout'
+authors: Hao Tan, Licheng Yu, Mohit Bansal
+conference: Proceedings of the 2019 Conference of the North
+year: 2019
+bibkey: tan2019learning
+citations: 272
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.04195'}]
+tags: ["Agentic", "Datasets", "Efficiency", "Evaluation", "Fine-Tuning", "Reinforcement Learning", "Training Techniques"]
+short_authors: Hao Tan, Licheng Yu, Mohit Bansal
+---
+A grand goal in AI is to build a robot that can accurately navigate based on
+natural language instructions, which requires the agent to perceive the scene,
+understand and ground language, and act in the real-world environment. One key
+challenge here is to learn to navigate in new environments that are unseen
+during training. Most of the existing approaches perform dramatically worse in
+unseen environments as compared to seen ones. In this paper, we present a
+generalizable navigational agent. Our agent is trained in two stages. The first
+stage is training via mixed imitation and reinforcement learning, combining the
+benefits from both off-policy and on-policy optimization. The second stage is
+fine-tuning via newly-introduced 'unseen' triplets (environment, path,
+instruction). To generate these unseen triplets, we propose a simple but
+effective 'environmental dropout' method to mimic unseen environments, which
+overcomes the problem of limited seen environment variability. Next, we apply
+semi-supervised learning (via back-translation) on these dropped-out
+environments to generate new paths and instructions. Empirically, we show that
+our agent is substantially better at generalizability when fine-tuned with
+these triplets, outperforming the state-of-art approaches by a large margin on
+the private unseen test set of the Room-to-Room task, and achieving the top
+rank on the leaderboard.

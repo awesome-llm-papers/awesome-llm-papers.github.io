@@ -1,0 +1,31 @@
+---
+layout: publication
+title: Dynamic Neuro-symbolic Knowledge Graph Construction For Zero-shot Commonsense
+  Question Answering
+authors: Antoine Bosselut, Ronan Le Bras, Yejin Choi
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
+year: 2021
+bibkey: bosselut2019dynamic
+citations: 86
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.03876'}]
+tags: ["AAAI"]
+short_authors: Antoine Bosselut, Ronan Le Bras, Yejin Choi
+---
+Understanding narratives requires reasoning about implicit world knowledge
+related to the causes, effects, and states of situations described in text. At
+the core of this challenge is how to access contextually relevant knowledge on
+demand and reason over it.
+  In this paper, we present initial studies toward zero-shot commonsense
+question answering by formulating the task as inference over dynamically
+generated commonsense knowledge graphs. In contrast to previous studies for
+knowledge integration that rely on retrieval of existing knowledge from static
+knowledge graphs, our study requires commonsense knowledge integration where
+contextually relevant knowledge is often not present in existing knowledge
+bases. Therefore, we present a novel approach that generates
+contextually-relevant symbolic knowledge structures on demand using generative
+neural commonsense knowledge models.
+  Empirical results on two datasets demonstrate the efficacy of our
+neuro-symbolic approach for dynamically constructing knowledge graphs for
+reasoning. Our approach achieves significant performance boosts over pretrained
+language models and vanilla knowledge models, all while providing interpretable
+reasoning paths for its predictions.

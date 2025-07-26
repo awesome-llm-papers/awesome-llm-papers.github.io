@@ -1,0 +1,28 @@
+---
+layout: publication
+title: Unsupervised Corpus Aware Language Model Pre-training For Dense Passage Retrieval
+authors: Luyu Gao, Jamie Callan
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
+year: 2022
+bibkey: gao2021unsupervised
+citations: 109
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.05540'}]
+tags: ["Model Architecture"]
+short_authors: Luyu Gao, Jamie Callan
+---
+Recent research demonstrates the effectiveness of using fine-tuned language
+models~(LM) for dense retrieval. However, dense retrievers are hard to train,
+typically requiring heavily engineered fine-tuning pipelines to realize their
+full potential. In this paper, we identify and address two underlying problems
+of dense retrievers: i)~fragility to training data noise and ii)~requiring
+large batches to robustly learn the embedding space. We use the recently
+proposed Condenser pre-training architecture, which learns to condense
+information into the dense vector through LM pre-training. On top of it, we
+propose coCondenser, which adds an unsupervised corpus-level contrastive loss
+to warm up the passage embedding space. Retrieval experiments on MS-MARCO,
+Natural Question, and Trivia QA datasets show that coCondenser removes the need
+for heavy data engineering such as augmentation, synthesis, or filtering, as
+well as the need for large batch training. It shows comparable performance to
+RocketQA, a state-of-the-art, heavily engineered system, using simple small
+batch fine-tuning.

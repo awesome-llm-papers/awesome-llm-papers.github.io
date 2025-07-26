@@ -1,0 +1,31 @@
+---
+layout: publication
+title: Revisiting Character-based Neural Machine Translation With Capacity And Compression
+authors: Colin Cherry, George Foster, Ankur Bapna, Orhan Firat, Wolfgang Macherey
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2018
+bibkey: cherry2018revisiting
+citations: 98
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.09943'}]
+tags: ["Evaluation", "Training Techniques"]
+short_authors: Cherry et al.
+---
+Translating characters instead of words or word-fragments has the potential
+to simplify the processing pipeline for neural machine translation (NMT), and
+improve results by eliminating hyper-parameters and manual feature engineering.
+However, it results in longer sequences in which each symbol contains less
+information, creating both modeling and computational challenges. In this
+paper, we show that the modeling problem can be solved by standard
+sequence-to-sequence architectures of sufficient depth, and that deep models
+operating at the character level outperform identical models operating over
+word fragments. This result implies that alternative architectures for handling
+character input are better viewed as methods for reducing computation time than
+as improved ways of modeling longer sequences. From this perspective, we
+evaluate several techniques for character-level NMT, verify that they do not
+match the performance of our deep character baseline model, and evaluate the
+performance versus computation time tradeoffs they offer. Within this
+framework, we also perform the first evaluation for NMT of conditional
+computation over time, in which the model learns which timesteps can be
+skipped, rather than having them be dictated by a fixed schedule specified
+before training begins.

@@ -1,0 +1,29 @@
+---
+layout: publication
+title: Learning Without Memorizing
+authors: Prithviraj Dhar, Rajat Vikram Singh, Kuan-chuan Peng, Ziyan Wu, Rama Chellappa
+conference: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
+bibkey: dhar2018learning
+citations: 411
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1811.08051'}]
+tags: ["CVPR"]
+short_authors: Dhar et al.
+---
+Incremental learning (IL) is an important task aimed at increasing the
+capability of a trained model, in terms of the number of classes recognizable
+by the model. The key problem in this task is the requirement of storing data
+(e.g. images) associated with existing classes, while teaching the classifier
+to learn new classes. However, this is impractical as it increases the memory
+requirement at every incremental step, which makes it impossible to implement
+IL algorithms on edge devices with limited memory. Hence, we propose a novel
+approach, called `Learning without Memorizing (LwM)', to preserve the
+information about existing (base) classes, without storing any of their data,
+while making the classifier progressively learn the new classes. In LwM, we
+present an information preserving penalty: Attention Distillation Loss
+(\\(L_\{AD\}\\)), and demonstrate that penalizing the changes in classifiers'
+attention maps helps to retain information of the base classes, as new classes
+are added. We show that adding \\(L_\{AD\}\\) to the distillation loss which is an
+existing information preserving loss consistently outperforms the
+state-of-the-art performance in the iILSVRC-small and iCIFAR-100 datasets in
+terms of the overall accuracy of base and incrementally learned classes.

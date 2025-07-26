@@ -1,0 +1,36 @@
+---
+layout: publication
+title: Trojaning Language Models For Fun And Profit
+authors: Xinyang Zhang, Zheng Zhang, Shouling Ji, Ting Wang
+conference: 2021 IEEE European Symposium on Security and Privacy (EuroS&amp;P)
+year: 2021
+bibkey: zhang2020trojaning
+citations: 87
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2008.00312'}]
+tags: ["Privacy", "Security"]
+short_authors: Zhang et al.
+---
+Recent years have witnessed the emergence of a new paradigm of building
+natural language processing (NLP) systems: general-purpose, pre-trained
+language models (LMs) are composed with simple downstream models and fine-tuned
+for a variety of NLP tasks. This paradigm shift significantly simplifies the
+system development cycles. However, as many LMs are provided by untrusted third
+parties, their lack of standardization or regulation entails profound security
+implications, which are largely unexplored.
+  To bridge this gap, this work studies the security threats posed by malicious
+LMs to NLP systems. Specifically, we present TROJAN-LM, a new class of
+trojaning attacks in which maliciously crafted LMs trigger host NLP systems to
+malfunction in a highly predictable manner. By empirically studying three
+state-of-the-art LMs (BERT, GPT-2, XLNet) in a range of security-critical NLP
+tasks (toxic comment detection, question answering, text completion) as well as
+user studies on crowdsourcing platforms, we demonstrate that TROJAN-LM
+possesses the following properties: (i) flexibility - the adversary is able to
+flexibly dene logical combinations (e.g., 'and', 'or', 'xor') of arbitrary
+words as triggers, (ii) efficacy - the host systems misbehave as desired by the
+adversary with high probability when trigger-embedded inputs are present, (iii)
+specificity - the trojan LMs function indistinguishably from their benign
+counterparts on clean inputs, and (iv) fluency - the trigger-embedded inputs
+appear as fluent natural language and highly relevant to their surrounding
+contexts. We provide analytical justification for the practicality of
+TROJAN-LM, and further discuss potential countermeasures and their challenges,
+which lead to several promising research directions.

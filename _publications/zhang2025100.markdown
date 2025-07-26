@@ -1,0 +1,17 @@
+---
+layout: publication
+title: '100 Days After Deepseek-r1: A Survey On Replication Studies And More Directions
+  For Reasoning Language Models'
+authors: Chong Zhang, Yue Deng, Xiang Lin, Bin Wang, Dianwen Ng, Hai Ye, Xingxuan
+  Li, Yao Xiao, Zhanfeng Mo, Qi Zhang, Lidong Bing
+conference: No Venue
+year: 2025
+bibkey: zhang2025100
+additional_links: [{name: Code, url: 'https://huggingface.co/discussions/paper/68141e6fbaa634cf71cde621'},
+  {name: Paper, url: 'https://arxiv.org/abs/hf2505.00551'}]
+tags: ["Survey Paper"]
+short_authors: Zhang et al.
+---
+The recent development of reasoning language models (RLMs) represents a novel evolution in large language models. In particular, the recent release of DeepSeek-R1 has generated widespread social impact and sparked enthusiasm in the research community for exploring the explicit reasoning paradigm of language models. However, the implementation details of the released models have not been fully open-sourced by DeepSeek, including DeepSeek-R1-Zero, DeepSeek-R1, and the distilled small models. As a result, many replication studies have emerged aiming to reproduce the strong performance achieved by DeepSeek-R1, reaching comparable performance through similar training procedures and fully open-source data resources. These works have investigated feasible strategies for supervised fine-tuning (SFT) and reinforcement learning from verifiable rewards (RLVR), focusing on data preparation and method design, yielding various valuable insights. In this report, we provide a summary of recent replication studies to inspire future research. We primarily focus on SFT and RLVR as two main directions, introducing the details for data construction, method design and training procedure of current replication studies. Moreover, we conclude key findings from the implementation details and experimental results reported by these studies, anticipating to inspire future research. We also discuss additional techniques of enhancing RLMs, highlighting the potential of expanding the application scope of these models, and discussing the challenges in development. By this survey, we aim to help researchers and developers of RLMs stay updated with the latest advancements, and seek to inspire new ideas to further enhance RLMs.
+
+https://huggingface.co/discussions/paper/68141e6fbaa634cf71cde621

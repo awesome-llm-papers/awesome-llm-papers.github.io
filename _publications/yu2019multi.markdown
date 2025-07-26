@@ -1,0 +1,33 @@
+---
+layout: publication
+title: Multi-target Embodied Question Answering
+authors: Licheng Yu, Xinlei Chen, Georgia Gkioxari, Mohit Bansal, Tamara L. Berg,
+  Dhruv Batra
+conference: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
+bibkey: yu2019multi
+citations: 70
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.04686'}]
+tags: ["CVPR"]
+short_authors: Yu et al.
+---
+Embodied Question Answering (EQA) is a relatively new task where an agent is
+asked to answer questions about its environment from egocentric perception. EQA
+makes the fundamental assumption that every question, e.g., "what color is the
+car?", has exactly one target ("car") being inquired about. This assumption
+puts a direct limitation on the abilities of the agent. We present a
+generalization of EQA - Multi-Target EQA (MT-EQA). Specifically, we study
+questions that have multiple targets in them, such as "Is the dresser in the
+bedroom bigger than the oven in the kitchen?", where the agent has to navigate
+to multiple locations ("dresser in bedroom", "oven in kitchen") and perform
+comparative reasoning ("dresser" bigger than "oven") before it can answer a
+question. Such questions require the development of entirely new modules or
+components in the agent. To address this, we propose a modular architecture
+composed of a program generator, a controller, a navigator, and a VQA module.
+The program generator converts the given question into sequential executable
+sub-programs; the navigator guides the agent to multiple locations pertinent to
+the navigation-related sub-programs; and the controller learns to select
+relevant observations along its path. These observations are then fed to the
+VQA module to predict the answer. We perform detailed analysis for each of the
+model components and show that our joint model can outperform previous methods
+and strong baselines by a significant margin.

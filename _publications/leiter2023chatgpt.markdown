@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Chatgpt: A Meta-analysis After 2.5 Months'
+authors: Christoph Leiter, Ran Zhang, Yanran Chen, Jonas Belouadi, Daniil Larionov,
+  Vivian Fresen, Steffen Eger
+conference: Machine Learning with Applications
+year: 2024
+bibkey: leiter2023chatgpt
+citations: 85
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.13795'}]
+tags: ["Applications", "Survey Paper"]
+short_authors: Leiter et al.
+---
+ChatGPT, a chatbot developed by OpenAI, has gained widespread popularity and
+media attention since its release in November 2022. However, little hard
+evidence is available regarding its perception in various sources. In this
+paper, we analyze over 300,000 tweets and more than 150 scientific papers to
+investigate how ChatGPT is perceived and discussed. Our findings show that
+ChatGPT is generally viewed as of high quality, with positive sentiment and
+emotions of joy dominating in social media. Its perception has slightly
+decreased since its debut, however, with joy decreasing and (negative) surprise
+on the rise, and it is perceived more negatively in languages other than
+English. In recent scientific papers, ChatGPT is characterized as a great
+opportunity across various fields including the medical domain, but also as a
+threat concerning ethics and receives mixed assessments for education. Our
+comprehensive meta-analysis of ChatGPT's current perception after 2.5 months
+since its release can contribute to shaping the public debate and informing its
+future development. We make our data available.

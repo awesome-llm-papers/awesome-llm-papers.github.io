@@ -1,0 +1,24 @@
+---
+layout: publication
+title: Revisiting Few-sample BERT Fine-tuning
+authors: Tianyi Zhang, Felix Wu, Arzoo Katiyar, Kilian Q. Weinberger, Yoav Artzi
+conference: Arxiv
+year: 2021
+bibkey: zhang2020revisiting
+citations: 188
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.05987'}]
+tags: ["Fine-Tuning", "Model Architecture", "Training Techniques"]
+short_authors: Zhang et al.
+---
+This paper is a study of fine-tuning of BERT contextual representations, with
+focus on commonly observed instabilities in few-sample scenarios. We identify
+several factors that cause this instability: the common use of a non-standard
+optimization method with biased gradient estimation; the limited applicability
+of significant parts of the BERT network for down-stream tasks; and the
+prevalent practice of using a pre-determined, and small number of training
+iterations. We empirically test the impact of these factors, and identify
+alternative practices that resolve the commonly observed instability of the
+process. In light of these observations, we re-visit recently proposed methods
+to improve few-sample fine-tuning with BERT and re-evaluate their
+effectiveness. Generally, we observe the impact of these methods diminishes
+significantly with our modified process.

@@ -1,0 +1,30 @@
+---
+layout: publication
+title: Towards Improving Adversarial Training Of NLP Models
+authors: Jin Yong Yoo, Yanjun Qi
+conference: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
+year: 2021
+bibkey: yoo2021towards
+citations: 73
+additional_links: [{name: Code, url: 'https://github.com/QData/Textattack-A2T'}, {
+    name: Paper, url: 'https://arxiv.org/abs/2109.00544'}]
+tags: ["EMNLP", "Training Techniques"]
+short_authors: Jin Yong Yoo, Yanjun Qi
+---
+Adversarial training, a method for learning robust deep neural networks,
+constructs adversarial examples during training. However, recent methods for
+generating NLP adversarial examples involve combinatorial search and expensive
+sentence encoders for constraining the generated instances. As a result, it
+remains challenging to use vanilla adversarial training to improve NLP models'
+performance, and the benefits are mainly uninvestigated. This paper proposes a
+simple and improved vanilla adversarial training process for NLP models, which
+we name Attacking to Training (A2T). The core part of A2T is a new and cheaper
+word substitution attack optimized for vanilla adversarial training. We use A2T
+to train BERT and RoBERTa models on IMDB, Rotten Tomatoes, Yelp, and SNLI
+datasets. Our results empirically show that it is possible to train robust NLP
+models using a much cheaper adversary. We demonstrate that vanilla adversarial
+training with A2T can improve an NLP model's robustness to the attack it was
+originally trained with and also defend the model against other types of word
+substitution attacks. Furthermore, we show that A2T can improve NLP models'
+standard accuracy, cross-domain generalization, and interpretability. Code is
+available at https://github.com/QData/Textattack-A2T .

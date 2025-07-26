@@ -1,0 +1,36 @@
+---
+layout: publication
+title: Adversarial Training Towards Robust Multimedia Recommender System
+authors: Jinhui Tang, Xiaoyu Du, Xiangnan He, Fajie Yuan, Qi Tian, Tat-seng Chua
+conference: IEEE Transactions on Knowledge and Data Engineering
+year: 2019
+bibkey: tang2018adversarial
+citations: 170
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1809.07062'}]
+tags: ["Security", "Tools", "Training Techniques"]
+short_authors: Tang et al.
+---
+With the prevalence of multimedia content on the Web, developing recommender
+solutions that can effectively leverage the rich signal in multimedia data is
+in urgent need. Owing to the success of deep neural networks in representation
+learning, recent advance on multimedia recommendation has largely focused on
+exploring deep learning methods to improve the recommendation accuracy. To
+date, however, there has been little effort to investigate the robustness of
+multimedia representation and its impact on the performance of multimedia
+recommendation.
+  In this paper, we shed light on the robustness of multimedia recommender
+system. Using the state-of-the-art recommendation framework and deep image
+features, we demonstrate that the overall system is not robust, such that a
+small (but purposeful) perturbation on the input image will severely decrease
+the recommendation accuracy. This implies the possible weakness of multimedia
+recommender system in predicting user preference, and more importantly, the
+potential of improvement by enhancing its robustness. To this end, we propose a
+novel solution named Adversarial Multimedia Recommendation (AMR), which can
+lead to a more robust multimedia recommender model by using adversarial
+learning. The idea is to train the model to defend an adversary, which adds
+perturbations to the target image with the purpose of decreasing the model's
+accuracy. We conduct experiments on two representative multimedia
+recommendation tasks, namely, image recommendation and visually-aware product
+recommendation. Extensive results verify the positive effect of adversarial
+learning and demonstrate the effectiveness of our AMR method. Source codes are
+available in https://github.com/duxy-me/AMR.

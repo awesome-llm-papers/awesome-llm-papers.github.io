@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'Parallel Attention: A Unified Framework For Visual Object Discovery Through
+  Dialogs And Queries'
+authors: Bohan Zhuang, Qi Wu, Chunhua Shen, Ian Reid, Anton van Den Hengel
+conference: 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition
+year: 2018
+bibkey: zhuang2017parallel
+citations: 142
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1711.06370'}]
+tags: ["Applications", "CVPR", "Model Architecture"]
+short_authors: Zhuang et al.
+---
+Recognising objects according to a pre-defined fixed set of class labels has
+been well studied in the Computer Vision. There are a great many practical
+applications where the subjects that may be of interest are not known
+beforehand, or so easily delineated, however. In many of these cases natural
+language dialog is a natural way to specify the subject of interest, and the
+task achieving this capability (a.k.a, Referring Expression Comprehension) has
+recently attracted attention. To this end we propose a unified framework, the
+ParalleL AttentioN (PLAN) network, to discover the object in an image that is
+being referred to in variable length natural expression descriptions, from
+short phrases query to long multi-round dialogs. The PLAN network has two
+attention mechanisms that relate parts of the expressions to both the global
+visual content and also directly to object candidates. Furthermore, the
+attention mechanisms are recurrent, making the referring process visualizable
+and explainable. The attended information from these dual sources are combined
+to reason about the referred object. These two attention mechanisms can be
+trained in parallel and we find the combined system outperforms the
+state-of-art on several benchmarked datasets with different length language
+input, such as RefCOCO, RefCOCO+ and GuessWhat?!.

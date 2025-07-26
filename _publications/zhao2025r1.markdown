@@ -1,0 +1,15 @@
+---
+layout: publication
+title: 'R1-omni: Explainable Omni-multimodal Emotion Recognition With Reinforcing
+  Learning'
+authors: Jiaxing Zhao, Xihan Wei, Liefeng Bo
+conference: No Venue
+year: 2025
+bibkey: zhao2025r1
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/hf2503.05379'}]
+tags: ["Reinforcement Learning"]
+short_authors: Jiaxing Zhao, Xihan Wei, Liefeng Bo
+---
+In this work, we present the first application of Reinforcement Learning with Verifiable Reward (RLVR) to an Omni-multimodal large language model in the context of emotion recognition, a task where both visual and audio modalities play crucial roles. We leverage RLVR to optimize the Omni model, significantly enhancing its performance in three key aspects: reasoning capability, emotion recognition accuracy, and generalization ability. The introduction of RLVR not only improves the model's overall performance on in-distribution data but also demonstrates superior robustness when evaluated on out-of-distribution datasets. More importantly, the improved reasoning capability enables clear analysis of the contributions of different modalities, particularly visual and audio information, in the emotion recognition process. This provides valuable insights into the optimization of multimodal large language models.
+
+https://huggingface.co/discussions/paper/67ce5f2489663abdbc3644d0

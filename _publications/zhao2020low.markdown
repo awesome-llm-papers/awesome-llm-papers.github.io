@@ -1,0 +1,25 @@
+---
+layout: publication
+title: Low-resource Knowledge-grounded Dialogue Generation
+authors: Xueliang Zhao, Wei Wu, Chongyang Tao, Can Xu, Dongyan Zhao, Rui Yan
+conference: Arxiv
+year: 2020
+bibkey: zhao2020low
+citations: 86
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.10348'}]
+tags: ["Training Techniques"]
+short_authors: Zhao et al.
+---
+Responding with knowledge has been recognized as an important capability for
+an intelligent conversational agent. Yet knowledge-grounded dialogues, as
+training data for learning such a response generation model, are difficult to
+obtain. Motivated by the challenge in practice, we consider knowledge-grounded
+dialogue generation under a natural assumption that only limited training
+examples are available. In such a low-resource setting, we devise a
+disentangled response decoder in order to isolate parameters that depend on
+knowledge-grounded dialogues from the entire generation model. By this means,
+the major part of the model can be learned from a large number of ungrounded
+dialogues and unstructured documents, while the remaining small parameters can
+be well fitted using the limited training examples. Evaluation results on two
+benchmarks indicate that with only 1/8 training data, our model can achieve the
+state-of-the-art performance and generalize well on out-of-domain knowledge.

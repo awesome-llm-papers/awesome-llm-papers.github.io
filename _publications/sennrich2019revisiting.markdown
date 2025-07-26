@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Revisiting Low-resource Neural Machine Translation: A Case Study'
+authors: Rico Sennrich, Biao Zhang
+conference: Proceedings of the 57th Annual Meeting of the Association for Computational
+  Linguistics
+year: 2019
+bibkey: sennrich2019revisiting
+citations: 166
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1905.11901'}]
+tags: ["Datasets", "Training Techniques"]
+short_authors: Rico Sennrich, Biao Zhang
+---
+It has been shown that the performance of neural machine translation (NMT)
+drops starkly in low-resource conditions, underperforming phrase-based
+statistical machine translation (PBSMT) and requiring large amounts of
+auxiliary data to achieve competitive results. In this paper, we re-assess the
+validity of these results, arguing that they are the result of lack of system
+adaptation to low-resource settings. We discuss some pitfalls to be aware of
+when training low-resource NMT systems, and recent techniques that have shown
+to be especially helpful in low-resource settings, resulting in a set of best
+practices for low-resource NMT. In our experiments on German--English with
+different amounts of IWSLT14 training data, we show that, without the use of
+any auxiliary monolingual or multilingual data, an optimized NMT system can
+outperform PBSMT with far less data than previously claimed. We also apply
+these techniques to a low-resource Korean-English dataset, surpassing
+previously reported results by 4 BLEU.

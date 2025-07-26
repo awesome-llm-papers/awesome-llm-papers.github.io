@@ -1,0 +1,17 @@
+---
+layout: publication
+title: 'Code-as-monitor: Constraint-aware Visual Programming For Reactive And Proactive
+  Robotic Failure Detection'
+authors: Enshen Zhou, Qi Su, Cheng Chi, Zhizheng Zhang, Zhongyuan Wang, Tiejun Huang,
+  Lu Sheng, He Wang
+conference: No Venue
+year: 2024
+bibkey: zhou2024code
+additional_links: [{name: Code, url: 'https://huggingface.co/discussions/paper/675274518681347ff420802a'},
+  {name: Paper, url: 'https://arxiv.org/abs/hf2412.04455'}]
+tags: ["Efficiency"]
+short_authors: Zhou et al.
+---
+Automatic detection and prevention of open-set failures are crucial in closed-loop robotic systems. Recent studies often struggle to simultaneously identify unexpected failures reactively after they occur and prevent foreseeable ones proactively. To this end, we propose Code-as-Monitor (CaM), a novel paradigm leveraging the vision-language model (VLM) for both open-set reactive and proactive failure detection. The core of our method is to formulate both tasks as a unified set of spatio-temporal constraint satisfaction problems and use VLM-generated code to evaluate them for real-time monitoring. To enhance the accuracy and efficiency of monitoring, we further introduce constraint elements that abstract constraint-related entities or their parts into compact geometric elements. This approach offers greater generality, simplifies tracking, and facilitates constraint-aware visual programming by leveraging these elements as visual prompts. Experiments show that CaM achieves a 28.7% higher success rate and reduces execution time by 31.8% under severe disturbances compared to baselines across three simulators and a real-world setting. Moreover, CaM can be integrated with open-loop control policies to form closed-loop systems, enabling long-horizon tasks in cluttered scenes with dynamic environments.
+
+https://huggingface.co/discussions/paper/675274518681347ff420802a

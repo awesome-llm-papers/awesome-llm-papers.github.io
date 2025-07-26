@@ -1,0 +1,16 @@
+---
+layout: publication
+title: 'Declip: Decoupled Learning For Open-vocabulary Dense Perception'
+authors: Junjie Wang, Bin Chen, Yulin Li, Bin Kang, Yichi Chen, Zhuotao Tian
+conference: No Venue
+year: 2025
+bibkey: wang2025declip
+additional_links: [{name: Code, url: 'https://github.com/xiaomoguhz/DeCLIP\'}, {name: Code,
+    url: 'https://huggingface.co/discussions/paper/681d6161bd89ba9ceb5e9571'}, {name: Paper,
+    url: 'https://arxiv.org/abs/hf2505.04410'}]
+tags: ["Has Code", "Tools"]
+short_authors: Wang et al.
+---
+Dense visual prediction tasks have been constrained by their reliance on predefined categories, limiting their applicability in real-world scenarios where visual concepts are unbounded. While Vision-Language Models (VLMs) like CLIP have shown promise in open-vocabulary tasks, their direct application to dense prediction often leads to suboptimal performance due to limitations in local feature representation. In this work, we present our observation that CLIP's image tokens struggle to effectively aggregate information from spatially or semantically related regions, resulting in features that lack local discriminability and spatial consistency. To address this issue, we propose DeCLIP, a novel framework that enhances CLIP by decoupling the self-attention module to obtain ``content'' and ``context'' features respectively. The ``content'' features are aligned with image crop representations to improve local discriminability, while ``context'' features learn to retain the spatial correlations under the guidance of vision foundation models, such as DINO. Extensive experiments demonstrate that DeCLIP significantly outperforms existing methods across multiple open-vocabulary dense prediction tasks, including object detection and semantic segmentation. Code is available at magenta\{https://github.com/xiaomoguhz/DeCLIP\}.
+
+https://huggingface.co/discussions/paper/681d6161bd89ba9ceb5e9571

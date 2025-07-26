@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'BERT-ATTACK: Adversarial Attack Against BERT Using BERT'
+authors: Linyang Li, Ruotian Ma, Qipeng Guo, Xiangyang Xue, Xipeng Qiu
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
+year: 2020
+bibkey: li2020bert
+citations: 445
+additional_links: [{name: Code, url: 'https://github.com/LinyangLee/BERT-Attack'},
+  {name: Paper, url: 'https://arxiv.org/abs/2004.09984'}]
+tags: ["EMNLP", "Model Architecture", "Security"]
+short_authors: Li et al.
+---
+Adversarial attacks for discrete data (such as texts) have been proved
+significantly more challenging than continuous data (such as images) since it
+is difficult to generate adversarial samples with gradient-based methods.
+Current successful attack methods for texts usually adopt heuristic replacement
+strategies on the character or word level, which remains challenging to find
+the optimal solution in the massive space of possible combinations of
+replacements while preserving semantic consistency and language fluency. In
+this paper, we propose \textbf\{BERT-Attack\}, a high-quality and effective
+method to generate adversarial samples using pre-trained masked language models
+exemplified by BERT. We turn BERT against its fine-tuned models and other deep
+neural models in downstream tasks so that we can successfully mislead the
+target models to predict incorrectly. Our method outperforms state-of-the-art
+attack strategies in both success rate and perturb percentage, while the
+generated adversarial samples are fluent and semantically preserved. Also, the
+cost of calculation is low, thus possible for large-scale generations. The code
+is available at https://github.com/LinyangLee/BERT-Attack.

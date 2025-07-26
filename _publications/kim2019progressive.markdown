@@ -1,0 +1,28 @@
+---
+layout: publication
+title: Progressive Attention Memory Network For Movie Story Question Answering
+authors: Junyeong Kim, Minuk Ma, Kyungsu Kim, Sungjin Kim, Chang D. Yoo
+conference: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2019
+bibkey: kim2019progressive
+citations: 91
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.08607'}]
+tags: ["CVPR", "Model Architecture"]
+short_authors: Kim et al.
+---
+This paper proposes the progressive attention memory network (PAMN) for movie
+story question answering (QA). Movie story QA is challenging compared to VQA in
+two aspects: (1) pinpointing the temporal parts relevant to answer the question
+is difficult as the movies are typically longer than an hour, (2) it has both
+video and subtitle where different questions require different modality to
+infer the answer. To overcome these challenges, PAMN involves three main
+features: (1) progressive attention mechanism that utilizes cues from both
+question and answer to progressively prune out irrelevant temporal parts in
+memory, (2) dynamic modality fusion that adaptively determines the contribution
+of each modality for answering the current question, and (3) belief correction
+answering scheme that successively corrects the prediction score on each
+candidate answer. Experiments on publicly available benchmark datasets, MovieQA
+and TVQA, demonstrate that each feature contributes to our movie story QA
+architecture, PAMN, and improves performance to achieve the state-of-the-art
+result. Qualitative analysis by visualizing the inference mechanism of PAMN is
+also provided.

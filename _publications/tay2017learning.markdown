@@ -1,0 +1,28 @@
+---
+layout: publication
+title: Learning To Rank Question Answer Pairs With Holographic Dual LSTM Architecture
+authors: Yi Tay, Minh C. Phan, Luu Anh Tuan, Siu Cheung Hui
+conference: Proceedings of the 40th International ACM SIGIR Conference on Research
+  and Development in Information Retrieval
+year: 2017
+bibkey: tay2017learning
+citations: 119
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1707.06372'}]
+tags: ["Model Architecture", "SIGIR"]
+short_authors: Tay et al.
+---
+We describe a new deep learning architecture for learning to rank question
+answer pairs. Our approach extends the long short-term memory (LSTM) network
+with holographic composition to model the relationship between question and
+answer representations. As opposed to the neural tensor layer that has been
+adopted recently, the holographic composition provides the benefits of scalable
+and rich representational learning approach without incurring huge parameter
+costs. Overall, we present Holographic Dual LSTM (HD-LSTM), a unified
+architecture for both deep sentence modeling and semantic matching.
+Essentially, our model is trained end-to-end whereby the parameters of the LSTM
+are optimized in a way that best explains the correlation between question and
+answer representations. In addition, our proposed deep learning architecture
+requires no extensive feature engineering. Via extensive experiments, we show
+that HD-LSTM outperforms many other neural architectures on two popular
+benchmark QA datasets. Empirical studies confirm the effectiveness of
+holographic composition over the neural tensor layer.

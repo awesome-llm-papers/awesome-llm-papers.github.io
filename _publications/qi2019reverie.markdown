@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'REVERIE: Remote Embodied Visual Referring Expression In Real Indoor Environments'
+authors: Yuankai Qi, Qi Wu, Peter Anderson, Xin Wang, William Yang Wang, Chunhua Shen,
+  Anton van Den Hengel
+conference: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2020
+bibkey: qi2019reverie
+citations: 220
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.10151'}]
+tags: ["CVPR", "Datasets"]
+short_authors: Qi et al.
+---
+One of the long-term challenges of robotics is to enable robots to interact
+with humans in the visual world via natural language, as humans are visual
+animals that communicate through language. Overcoming this challenge requires
+the ability to perform a wide variety of complex tasks in response to
+multifarious instructions from humans. In the hope that it might drive progress
+towards more flexible and powerful human interactions with robots, we propose a
+dataset of varied and complex robot tasks, described in natural language, in
+terms of objects visible in a large set of real images. Given an instruction,
+success requires navigating through a previously-unseen environment to identify
+an object. This represents a practical challenge, but one that closely reflects
+one of the core visual problems in robotics. Several state-of-the-art
+vision-and-language navigation, and referring-expression models are tested to
+verify the difficulty of this new task, but none of them show promising results
+because there are many fundamental differences between our task and previous
+ones. A novel Interactive Navigator-Pointer model is also proposed that
+provides a strong baseline on the task. The proposed model especially achieves
+the best performance on the unseen test split, but still leaves substantial
+room for improvement compared to the human performance.

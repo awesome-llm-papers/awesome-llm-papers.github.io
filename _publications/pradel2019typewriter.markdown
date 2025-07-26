@@ -1,0 +1,39 @@
+---
+layout: publication
+title: 'Typewriter: Neural Type Prediction With Search-based Validation'
+authors: Michael Pradel, Georgios Gousios, Jason Liu, Satish Chandra
+conference: Proceedings of the 28th ACM Joint Meeting on European Software Engineering
+  Conference and Symposium on the Foundations of Software Engineering
+year: 2020
+bibkey: pradel2019typewriter
+citations: 83
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.03768'}]
+tags: ["Datasets", "Llm For Code"]
+short_authors: Pradel et al.
+---
+Maintaining large code bases written in dynamically typed languages, such as
+JavaScript or Python, can be challenging due to the absence of type
+annotations: simple data compatibility errors proliferate, IDE support is
+limited, and APIs are hard to comprehend. Recent work attempts to address those
+issues through either static type inference or probabilistic type prediction.
+Unfortunately, static type inference for dynamic languages is inherently
+limited, while probabilistic approaches suffer from imprecision. This paper
+presents TypeWriter, the first combination of probabilistic type prediction
+with search-based refinement of predicted types. TypeWriter's predictor learns
+to infer the return and argument types for functions from partially annotated
+code bases by combining the natural language properties of code with
+programming language-level information. To validate predicted types, TypeWriter
+invokes a gradual type checker with different combinations of the predicted
+types, while navigating the space of possible type combinations in a
+feedback-directed manner. We implement the TypeWriter approach for Python and
+evaluate it on two code corpora: a multi-million line code base at Facebook and
+a collection of 1,137 popular open-source projects. We show that TypeWriter's
+type predictor achieves an F1 score of 0.64 (0.79) in the top-1 (top-5)
+predictions for return types, and 0.57 (0.80) for argument types, which clearly
+outperforms prior type prediction models. By combining predictions with
+search-based validation, TypeWriter can fully annotate between 14% to 44% of
+the files in a randomly selected corpus, while ensuring type correctness. A
+comparison with a static type inference tool shows that TypeWriter adds many
+more non-trivial types. TypeWriter currently suggests types to developers at
+Facebook and several thousands of types have already been accepted with minimal
+changes.

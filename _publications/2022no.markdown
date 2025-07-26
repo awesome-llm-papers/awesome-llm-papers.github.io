@@ -1,0 +1,43 @@
+---
+layout: publication
+title: 'No Language Left Behind: Scaling Human-centered Machine Translation'
+authors: [' Nllb Team', "marta R. Costa-juss\xE0", james Cross, "onur \xC7elebi",
+  maha Elbayad, kenneth Heafield, kevin Heffernan, elahe Kalbassi, janice Lam, daniel
+    Licht, jean Maillard, anna Sun, skyler Wang, guillaume Wenzek, al Youngblood,
+  bapi Akula, loic Barrault, gabriel Mejia Gonzalez, prangthip Hansanti, john Hoffman,
+  semarley Jarrett, kaushik Ram Sadagopan, dirk Rowe, shannon Spruit, chau Tran, pierre
+    Andrews, necip Fazil Ayan, shruti Bhosale, sergey Edunov, angela Fan, cynthia
+    Gao, vedanuj Goswami, "francisco Guzm\xE1n", philipp Koehn, alexandre Mourachko,
+  christophe Ropers, safiyyah Saleem, holger Schwenk, jeff Wang]
+conference: Arxiv
+year: 2022
+bibkey: 2022no
+citations: 297
+additional_links: [{name: Code, url: 'https://github.com/facebookresearch/fairseq/tree/nllb'},
+  {name: Paper, url: 'http://arxiv.org/abs/2207.04672v3'}]
+tags: ["Ethics & Fairness"]
+short_authors: Team et al.
+---
+Driven by the goal of eradicating language barriers on a global scale,
+machine translation has solidified itself as a key focus of artificial
+intelligence research today. However, such efforts have coalesced around a
+small subset of languages, leaving behind the vast majority of mostly
+low-resource languages. What does it take to break the 200 language barrier
+while ensuring safe, high quality results, all while keeping ethical
+considerations in mind? In No Language Left Behind, we took on this challenge
+by first contextualizing the need for low-resource language translation support
+through exploratory interviews with native speakers. Then, we created datasets
+and models aimed at narrowing the performance gap between low and high-resource
+languages. More specifically, we developed a conditional compute model based on
+Sparsely Gated Mixture of Experts that is trained on data obtained with novel
+and effective data mining techniques tailored for low-resource languages. We
+propose multiple architectural and training improvements to counteract
+overfitting while training on thousands of tasks. Critically, we evaluated the
+performance of over 40,000 different translation directions using a
+human-translated benchmark, Flores-200, and combined human evaluation with a
+novel toxicity benchmark covering all languages in Flores-200 to assess
+translation safety. Our model achieves an improvement of 44% BLEU relative to
+the previous state-of-the-art, laying important groundwork towards realizing a
+universal translation system. Finally, we open source all contributions
+described in this work, accessible at
+https://github.com/facebookresearch/fairseq/tree/nllb.

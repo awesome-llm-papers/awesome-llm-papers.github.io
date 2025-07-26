@@ -1,0 +1,17 @@
+---
+layout: publication
+title: '2.5 Years In Class: A Multimodal Textbook For Vision-language Pretraining'
+authors: Wenqi Zhang, Hang Zhang, Xin Li, Jiashuo Sun, Yongliang Shen, Weiming Lu,
+  Deli Zhao, Yueting Zhuang, Lidong Bing
+conference: No Venue
+year: 2025
+bibkey: zhang20252
+additional_links: [{name: Code, url: 'https://github.com/DAMO-NLP-SG/multimodal_textbook'},
+  {name: Code, url: 'https://huggingface.co/discussions/paper/67776145829d5102834152a8'},
+  {name: Paper, url: 'https://arxiv.org/abs/hf2501.00958'}]
+tags: ["Datasets", "Training Techniques"]
+short_authors: Zhang et al.
+---
+Compared to image-text pair data, interleaved corpora enable Vision-Language Models (VLMs) to understand the world more naturally like humans. However, such existing datasets are crawled from webpage, facing challenges like low knowledge density, loose image-text relations, and poor logical coherence between images. On the other hand, the internet hosts vast instructional videos (e.g., online geometry courses) that are widely used by humans to learn foundational subjects, yet these valuable resources remain underexplored in VLM training. In this paper, we introduce a high-quality multimodal textbook corpus with richer foundational knowledge for VLM pretraining. It collects over 2.5 years of instructional videos, totaling 22,000 class hours. We first use an LLM-proposed taxonomy to systematically gather instructional videos. Then we progressively extract and refine visual (keyframes), audio (ASR), and textual knowledge (OCR) from the videos, and organize as an image-text interleaved corpus based on temporal order. Compared to its counterparts, our video-centric textbook offers more coherent context, richer knowledge, and better image-text alignment. Experiments demonstrate its superb pretraining performance, particularly in knowledge- and reasoning-intensive tasks like ScienceQA and MathVista. Moreover, VLMs pre-trained on our textbook exhibit outstanding interleaved context awareness, leveraging visual and textual cues in their few-shot context for task solving~Our code are available at https://github.com/DAMO-NLP-SG/multimodal_textbook.
+
+https://huggingface.co/discussions/paper/67776145829d5102834152a8

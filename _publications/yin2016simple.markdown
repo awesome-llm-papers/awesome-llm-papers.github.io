@@ -1,0 +1,26 @@
+---
+layout: publication
+title: Simple Question Answering By Attentive Convolutional Neural Network
+authors: "Wenpeng Yin, Mo Yu, Bing Xiang, Bowen Zhou, Hinrich Sch\xFCtze"
+conference: Arxiv
+year: 2016
+bibkey: yin2016simple
+citations: 134
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.03391'}]
+tags: ["Model Architecture"]
+short_authors: Yin et al.
+---
+This work focuses on answering single-relation factoid questions over
+Freebase. Each question can acquire the answer from a single fact of form
+(subject, predicate, object) in Freebase. This task, simple question answering
+(SimpleQA), can be addressed via a two-step pipeline: entity linking and fact
+selection. In fact selection, we match the subject entity in a fact candidate
+with the entity mention in the question by a character-level convolutional
+neural network (char-CNN), and match the predicate in that fact with the
+question by a word-level CNN (word-CNN). This work makes two main
+contributions. (i) A simple and effective entity linker over Freebase is
+proposed. Our entity linker outperforms the state-of-the-art entity linker over
+SimpleQA task. (ii) A novel attentive maxpooling is stacked over word-CNN, so
+that the predicate representation can be matched with the predicate-focused
+question representation more effectively. Experiments show that our system sets
+new state-of-the-art in this task.

@@ -1,0 +1,14 @@
+---
+layout: publication
+title: Can Language Models Replace Programmers For Coding? REPOCOD Says 'not Yet'
+authors: Shanchao Liang, Yiran Hu, Nan Jiang, Lin Tan
+conference: NEJM AI
+year: 2024
+bibkey: liang2024can
+citations: 67
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2410.21647'}]
+tags: ["Evaluation", "Llm For Code"]
+short_authors: Liang et al.
+---
+Recently, a number of repository-level code generation benchmarks-such as CoderEval, DevEval, RepoEval, RepoBench, and LongCodeArena-have emerged to evaluate the capabilities of large language models (LLMs) beyond standalone benchmarks like HumanEval and MBPP. Thus, a natural question is, would LLMs have similar performance in real world coding tasks as their performance in these benchmarks? Unfortunately, one cannot answer this question, since these benchmarks consist of short completions, synthetic examples, or focus on limited scale repositories, failing to represent real-world coding tasks.
+  To address these challenges, we create REPOCOD, a Python code-generation benchmark containing complex tasks with realistic dependencies in real-world large projects and appropriate metrics for evaluating source code. It includes 980 whole-function generation tasks from 11 popular projects, 50.8% of which require repository-level context. REPOCOD includes 314 developer-written test cases per instance for better evaluation. We evaluate ten LLMs on REPOCOD and find that none achieves more than 30% pass@1 on REPOCOD, indicating the necessity of building stronger LLMs that can help developers in real-world software development. In addition, we found that retrieval-augmented generation achieves better results than using target function dependencies as context.

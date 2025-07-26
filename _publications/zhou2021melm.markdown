@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'MELM: Data Augmentation With Masked Entity Language Modeling For Low-resource
+  NER'
+authors: Ran Zhou, Xin Li, Ruidan He, Lidong Bing, Erik Cambria, Luo Si, Chunyan Miao
+conference: 'Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
+year: 2022
+bibkey: zhou2021melm
+citations: 67
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2108.13655'}]
+tags: ["Tools"]
+short_authors: Zhou et al.
+---
+Data augmentation is an effective solution to data scarcity in low-resource
+scenarios. However, when applied to token-level tasks such as NER, data
+augmentation methods often suffer from token-label misalignment, which leads to
+unsatsifactory performance. In this work, we propose Masked Entity Language
+Modeling (MELM) as a novel data augmentation framework for low-resource NER. To
+alleviate the token-label misalignment issue, we explicitly inject NER labels
+into sentence context, and thus the fine-tuned MELM is able to predict masked
+entity tokens by explicitly conditioning on their labels. Thereby, MELM
+generates high-quality augmented data with novel entities, which provides rich
+entity regularity knowledge and boosts NER performance. When training data from
+multiple languages are available, we also integrate MELM with code-mixing for
+further improvement. We demonstrate the effectiveness of MELM on monolingual,
+cross-lingual and multilingual NER across various low-resource levels.
+Experimental results show that our MELM presents substantial improvement over
+the baseline methods.

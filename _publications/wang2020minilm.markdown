@@ -1,0 +1,36 @@
+---
+layout: publication
+title: 'Minilm: Deep Self-attention Distillation For Task-agnostic Compression Of
+  Pre-trained Transformers'
+authors: Wenhui Wang, Furu Wei, Li Dong, Hangbo Bao, Nan Yang, Ming Zhou
+conference: Arxiv
+year: 2020
+bibkey: wang2020minilm
+citations: 551
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.10957'}]
+tags: ["Efficiency", "Model Architecture"]
+short_authors: Wang et al.
+---
+Pre-trained language models (e.g., BERT (Devlin et al., 2018) and its
+variants) have achieved remarkable success in varieties of NLP tasks. However,
+these models usually consist of hundreds of millions of parameters which brings
+challenges for fine-tuning and online serving in real-life applications due to
+latency and capacity constraints. In this work, we present a simple and
+effective approach to compress large Transformer (Vaswani et al., 2017) based
+pre-trained models, termed as deep self-attention distillation. The small model
+(student) is trained by deeply mimicking the self-attention module, which plays
+a vital role in Transformer networks, of the large model (teacher).
+Specifically, we propose distilling the self-attention module of the last
+Transformer layer of the teacher, which is effective and flexible for the
+student. Furthermore, we introduce the scaled dot-product between values in the
+self-attention module as the new deep self-attention knowledge, in addition to
+the attention distributions (i.e., the scaled dot-product of queries and keys)
+that have been used in existing works. Moreover, we show that introducing a
+teacher assistant (Mirzadeh et al., 2019) also helps the distillation of large
+pre-trained Transformer models. Experimental results demonstrate that our
+monolingual model outperforms state-of-the-art baselines in different parameter
+size of student models. In particular, it retains more than 99% accuracy on
+SQuAD 2.0 and several GLUE benchmark tasks using 50% of the Transformer
+parameters and computations of the teacher model. We also obtain competitive
+results in applying deep self-attention distillation to multilingual
+pre-trained models.

@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Infoxlm: An Information-theoretic Framework For Cross-lingual Language Model
+  Pre-training'
+authors: Zewen Chi, Li Dong, Furu Wei, Nan Yang, Saksham Singhal, Wenhui Wang, Xia
+  Song, Xian-ling Mao, Heyan Huang, Ming Zhou
+conference: 'Proceedings of the 2021 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies'
+year: 2021
+bibkey: chi2020infoxlm
+citations: 224
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2007.07834'}]
+tags: ["NAACL"]
+short_authors: Chi et al.
+---
+In this work, we present an information-theoretic framework that formulates
+cross-lingual language model pre-training as maximizing mutual information
+between multilingual-multi-granularity texts. The unified view helps us to
+better understand the existing methods for learning cross-lingual
+representations. More importantly, inspired by the framework, we propose a new
+pre-training task based on contrastive learning. Specifically, we regard a
+bilingual sentence pair as two views of the same meaning and encourage their
+encoded representations to be more similar than the negative examples. By
+leveraging both monolingual and parallel corpora, we jointly train the pretext
+tasks to improve the cross-lingual transferability of pre-trained models.
+Experimental results on several benchmarks show that our approach achieves
+considerably better performance. The code and pre-trained models are available
+at https://aka.ms/infoxlm.

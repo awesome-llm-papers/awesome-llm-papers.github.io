@@ -1,0 +1,14 @@
+---
+layout: publication
+title: 'Vf-eval: Evaluating Multimodal Llms For Generating Feedback On AIGC Videos'
+authors: Tingyu Song, Tongyan Hu, Guo Gan, Yilun Zhao
+conference: No Venue
+year: 2025
+bibkey: song2025vf
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/hf2505.23693'}]
+tags: ["Applications", "Evaluation"]
+short_authors: Song et al.
+---
+MLLMs have been widely studied for video question answering recently. However, most existing assessments focus on natural videos, overlooking synthetic videos, such as AI-generated content (AIGC). Meanwhile, some works in video generation rely on MLLMs to evaluate the quality of generated videos, but the capabilities of MLLMs on interpreting AIGC videos remain largely underexplored. To address this, we propose a new benchmark, VF-Eval, which introduces four tasks-coherence validation, error awareness, error type detection, and reasoning evaluation-to comprehensively evaluate the abilities of MLLMs on AIGC videos. We evaluate 13 frontier MLLMs on VF-Eval and find that even the best-performing model, GPT-4.1, struggles to achieve consistently good performance across all tasks. This highlights the challenging nature of our benchmark. Additionally, to investigate the practical applications of VF-Eval in improving video generation, we conduct an experiment, RePrompt, demonstrating that aligning MLLMs more closely with human feedback can benefit video generation.
+
+https://huggingface.co/discussions/paper/68390e96b85141ce6c11b55c

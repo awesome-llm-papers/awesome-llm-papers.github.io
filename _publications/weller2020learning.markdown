@@ -1,0 +1,25 @@
+---
+layout: publication
+title: Learning From Task Descriptions
+authors: Orion Weller, Nicholas Lourie, Matt Gardner, Matthew E. Peters
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
+year: 2020
+bibkey: weller2020learning
+citations: 61
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2011.08115'}]
+tags: ["EMNLP"]
+short_authors: Weller et al.
+---
+Typically, machine learning systems solve new tasks by training on thousands
+of examples. In contrast, humans can solve new tasks by reading some
+instructions, with perhaps an example or two. To take a step toward closing
+this gap, we introduce a framework for developing NLP systems that solve new
+tasks after reading their descriptions, synthesizing prior work in this area.
+We instantiate this framework with a new English language dataset, ZEST,
+structured for task-oriented evaluation on unseen tasks. Formulating task
+descriptions as questions, we ensure each is general enough to apply to many
+possible inputs, thus comprehensively evaluating a model's ability to solve
+each task. Moreover, the dataset's structure tests specific types of systematic
+generalization. We find that the state-of-the-art T5 model achieves a score of
+12% on ZEST, leaving a significant challenge for NLP researchers.

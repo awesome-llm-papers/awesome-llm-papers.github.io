@@ -1,0 +1,36 @@
+---
+layout: publication
+title: 'Taskmaster-1: Toward A Realistic And Diverse Dialog Dataset'
+authors: Bill Byrne, Karthik Krishnamoorthi, Chinnadhurai Sankar, Arvind Neelakantan,
+  Daniel Duckworth, Semih Yavuz, Ben Goodrich, Amit Dubey, Andy Cedilnik, Kyu-young
+  Kim
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
+year: 2019
+bibkey: byrne2019taskmaster
+citations: 143
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.05358'}]
+tags: ["Datasets", "EMNLP", "Evaluation"]
+short_authors: Byrne et al.
+---
+A significant barrier to progress in data-driven approaches to building
+dialog systems is the lack of high quality, goal-oriented conversational data.
+To help satisfy this elementary requirement, we introduce the initial release
+of the Taskmaster-1 dataset which includes 13,215 task-based dialogs comprising
+six domains. Two procedures were used to create this collection, each with
+unique advantages. The first involves a two-person, spoken "Wizard of Oz" (WOz)
+approach in which trained agents and crowdsourced workers interact to complete
+the task while the second is "self-dialog" in which crowdsourced workers write
+the entire dialog themselves. We do not restrict the workers to detailed
+scripts or to a small knowledge base and hence we observe that our dataset
+contains more realistic and diverse conversations in comparison to existing
+datasets. We offer several baseline models including state of the art neural
+seq2seq architectures with benchmark performance as well as qualitative human
+evaluations. Dialogs are labeled with API calls and arguments, a simple and
+cost effective approach which avoids the requirement of complex annotation
+schema. The layer of abstraction between the dialog model and the service
+provider API allows for a given model to interact with multiple services that
+provide similar functionally. Finally, the dataset will evoke interest in
+written vs. spoken language, discourse patterns, error handling and other
+linguistic phenomena related to dialog system research, development and design.

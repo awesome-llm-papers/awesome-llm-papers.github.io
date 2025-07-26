@@ -1,0 +1,31 @@
+---
+layout: publication
+title: Language And Visual Entity Relationship Graph For Agent Navigation
+authors: Yicong Hong, Cristian Rodriguez-opazo, Yuankai Qi, Qi Wu, Stephen Gould
+conference: Arxiv
+year: 2020
+bibkey: hong2020language
+citations: 70
+additional_links: [{name: Code, url: 'https://github.com/YicongHong/Entity-Graph-VLN'},
+  {name: Paper, url: 'https://arxiv.org/abs/2010.09304'}]
+tags: ["Agentic"]
+short_authors: Hong et al.
+---
+Vision-and-Language Navigation (VLN) requires an agent to navigate in a
+real-world environment following natural language instructions. From both the
+textual and visual perspectives, we find that the relationships among the
+scene, its objects,and directional clues are essential for the agent to
+interpret complex instructions and correctly perceive the environment. To
+capture and utilize the relationships, we propose a novel Language and Visual
+Entity Relationship Graph for modelling the inter-modal relationships between
+text and vision, and the intra-modal relationships among visual entities. We
+propose a message passing algorithm for propagating information between
+language elements and visual entities in the graph, which we then combine to
+determine the next action to take. Experiments show that by taking advantage of
+the relationships we are able to improve over state-of-the-art. On the
+Room-to-Room (R2R) benchmark, our method achieves the new best performance on
+the test unseen split with success rate weighted by path length (SPL) of 52%.
+On the Room-for-Room (R4R) dataset, our method significantly improves the
+previous best from 13% to 34% on the success weighted by normalized dynamic
+time warping (SDTW). Code is available at:
+https://github.com/YicongHong/Entity-Graph-VLN.

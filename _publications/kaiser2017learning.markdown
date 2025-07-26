@@ -1,0 +1,30 @@
+---
+layout: publication
+title: Learning To Remember Rare Events
+authors: "\u0141ukasz Kaiser, Ofir Nachum, Aurko Roy, Samy Bengio"
+conference: Arxiv
+year: 2017
+bibkey: kaiser2017learning
+citations: 256
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1703.03129'}]
+tags: ["Datasets", "Efficiency", "Training Techniques"]
+short_authors: Kaiser et al.
+---
+Despite recent advances, memory-augmented deep neural networks are still
+limited when it comes to life-long and one-shot learning, especially in
+remembering rare events. We present a large-scale life-long memory module for
+use in deep learning. The module exploits fast nearest-neighbor algorithms for
+efficiency and thus scales to large memory sizes. Except for the
+nearest-neighbor query, the module is fully differentiable and trained
+end-to-end with no extra supervision. It operates in a life-long manner, i.e.,
+without the need to reset it during training.
+  Our memory module can be easily added to any part of a supervised neural
+network. To show its versatility we add it to a number of networks, from simple
+convolutional ones tested on image classification to deep sequence-to-sequence
+and recurrent-convolutional models. In all cases, the enhanced network gains
+the ability to remember and do life-long one-shot learning. Our module
+remembers training examples shown many thousands of steps in the past and it
+can successfully generalize from them. We set new state-of-the-art for one-shot
+learning on the Omniglot dataset and demonstrate, for the first time, life-long
+one-shot learning in recurrent neural networks on a large-scale machine
+translation task.

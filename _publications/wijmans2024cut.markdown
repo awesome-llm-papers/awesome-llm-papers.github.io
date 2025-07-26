@@ -1,0 +1,15 @@
+---
+layout: publication
+title: Cut Your Losses In Large-vocabulary Language Models
+authors: "Erik Wijmans, Brody Huval, Alexander Hertzberg, Vladlen Koltun, Philipp\
+  \ Kr\xE4henb\xFChl"
+conference: No Venue
+year: 2024
+bibkey: wijmans2024cut
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/hf2411.09009'}]
+tags: ["Training Techniques"]
+short_authors: Wijmans et al.
+---
+As language models grow ever larger, so do their vocabularies. This has shifted the memory footprint of LLMs during training disproportionately to one single layer: the cross-entropy in the loss computation. Cross-entropy builds up a logit matrix with entries for each pair of input tokens and vocabulary items and, for small models, consumes an order of magnitude more memory than the rest of the LLM combined. We propose Cut Cross-Entropy (CCE), a method that computes the cross-entropy loss without materializing the logits for all tokens into global memory. Rather, CCE only computes the logit for the correct token and evaluates the log-sum-exp over all logits on the fly. We implement a custom kernel that performs the matrix multiplications and the log-sum-exp reduction over the vocabulary in flash memory, making global memory consumption for the cross-entropy computation negligible. This has a dramatic effect. Taking the Gemma 2 (2B) model as an example, CCE reduces the memory footprint of the loss computation from 24 GB to 1 MB, and the total training-time memory consumption of the classifier head from 28 GB to 1 GB. To improve the throughput of CCE, we leverage the inherent sparsity of softmax and propose to skip elements of the gradient computation that have a negligible (i.e., below numerical precision) contribution to the gradient. Experiments demonstrate that the dramatic reduction in memory consumption is accomplished without sacrificing training speed or convergence.
+
+https://huggingface.co/discussions/paper/6736d4080cbcd485282f351b

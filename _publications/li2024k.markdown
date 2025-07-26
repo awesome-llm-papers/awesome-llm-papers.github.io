@@ -1,0 +1,16 @@
+---
+layout: publication
+title: 'K-sort Arena: Efficient And Reliable Benchmarking For Generative Models Via
+  K-wise Human Preferences'
+authors: Zhikai Li, Xuewen Liu, Dongrong Fu, Jianquan Li, Qingyi Gu, Kurt Keutzer,
+  Zhen Dong
+conference: No Venue
+year: 2024
+bibkey: li2024k
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/hf2408.14468'}]
+tags: ["Efficiency", "Evaluation", "Tools"]
+short_authors: Li et al.
+---
+The rapid advancement of visual generative models necessitates efficient and reliable evaluation methods. Arena platform, which gathers user votes on model comparisons, can rank models with human preferences. However, traditional Arena methods, while established, require an excessive number of comparisons for ranking to converge and are vulnerable to preference noise in voting, suggesting the need for better approaches tailored to contemporary evaluation challenges. In this paper, we introduce K-Sort Arena, an efficient and reliable platform based on a key insight: images and videos possess higher perceptual intuitiveness than texts, enabling rapid evaluation of multiple samples simultaneously. Consequently, K-Sort Arena employs K-wise comparisons, allowing K models to engage in free-for-all competitions, which yield much richer information than pairwise comparisons. To enhance the robustness of the system, we leverage probabilistic modeling and Bayesian updating techniques. We propose an exploration-exploitation-based matchmaking strategy to facilitate more informative comparisons. In our experiments, K-Sort Arena exhibits 16.3x faster convergence compared to the widely used ELO algorithm. To further validate the superiority and obtain a comprehensive leaderboard, we collect human feedback via crowdsourced evaluations of numerous cutting-edge text-to-image and text-to-video models. Thanks to its high efficiency, K-Sort Arena can continuously incorporate emerging models and update the leaderboard with minimal votes. Our project has undergone several months of internal testing and is now available at https://huggingface.co/spaces/ksort/K-Sort-Arena
+
+https://huggingface.co/discussions/paper/66cd35c100cddde87a5f7251

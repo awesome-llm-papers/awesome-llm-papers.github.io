@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'The Pile: An 800GB Dataset Of Diverse Text For Language Modeling'
+authors: Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles
+  Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, Shawn Presser, Connor
+  Leahy
+conference: Arxiv
+year: 2021
+bibkey: gao2020pile
+citations: 459
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2101.00027'}]
+tags: ["Datasets", "Model Architecture"]
+short_authors: Gao et al.
+---
+Recent work has demonstrated that increased training dataset diversity
+improves general cross-domain knowledge and downstream generalization
+capability for large-scale language models. With this in mind, we present
+\textit\{the Pile\}: an 825 GiB English text corpus targeted at training
+large-scale language models. The Pile is constructed from 22 diverse
+high-quality subsets -- both existing and newly constructed -- many of which
+derive from academic or professional sources. Our evaluation of the untuned
+performance of GPT-2 and GPT-3 on the Pile shows that these models struggle on
+many of its components, such as academic writing. Conversely, models trained on
+the Pile improve significantly over both Raw CC and CC-100 on all components of
+the Pile, while improving performance on downstream evaluations. Through an
+in-depth exploratory analysis, we document potentially concerning aspects of
+the data for prospective users. We make publicly available the code used in its
+construction.

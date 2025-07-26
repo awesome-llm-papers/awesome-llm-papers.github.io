@@ -1,0 +1,25 @@
+---
+layout: publication
+title: Data Recombination For Neural Semantic Parsing
+authors: Robin Jia, Percy Liang
+conference: 'Proceedings of the 54th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
+year: 2016
+bibkey: jia2016data
+citations: 494
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.03622'}]
+tags: ["Datasets", "Training Techniques"]
+short_authors: Robin Jia, Percy Liang
+---
+Modeling crisp logical regularities is crucial in semantic parsing, making it
+difficult for neural models with no task-specific prior knowledge to achieve
+good results. In this paper, we introduce data recombination, a novel framework
+for injecting such prior knowledge into a model. From the training data, we
+induce a high-precision synchronous context-free grammar, which captures
+important conditional independence properties commonly found in semantic
+parsing. We then train a sequence-to-sequence recurrent network (RNN) model
+with a novel attention-based copying mechanism on datapoints sampled from this
+grammar, thereby teaching the model about these structural properties. Data
+recombination improves the accuracy of our RNN model on three semantic parsing
+datasets, leading to new state-of-the-art performance on the standard GeoQuery
+dataset for models with comparable supervision.

@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'Instructpix2pix: Learning To Follow Image Editing Instructions'
+authors: Tim Brooks, Aleksander Holynski, Alexei A. Efros
+conference: 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2023
+bibkey: brooks2022instructpix2pix
+citations: 603
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2211.09800'}]
+tags: ["CVPR"]
+short_authors: Tim Brooks, Aleksander Holynski, Alexei A. Efros
+---
+We propose a method for editing images from human instructions: given an
+input image and a written instruction that tells the model what to do, our
+model follows these instructions to edit the image. To obtain training data for
+this problem, we combine the knowledge of two large pretrained models -- a
+language model (GPT-3) and a text-to-image model (Stable Diffusion) -- to
+generate a large dataset of image editing examples. Our conditional diffusion
+model, InstructPix2Pix, is trained on our generated data, and generalizes to
+real images and user-written instructions at inference time. Since it performs
+edits in the forward pass and does not require per example fine-tuning or
+inversion, our model edits images quickly, in a matter of seconds. We show
+compelling editing results for a diverse collection of input images and written
+instructions.

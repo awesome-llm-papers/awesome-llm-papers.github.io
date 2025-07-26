@@ -1,0 +1,15 @@
+---
+layout: publication
+title: 'Hyperdreambooth: Hypernetworks For Fast Personalization Of Text-to-image Models'
+authors: Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Wei Wei, Tingbo Hou, Yael Pritch,
+  Neal Wadhwa, Michael Rubinstein, Kfir Aberman
+conference: No Venue
+year: 2023
+bibkey: ruiz2023hyperdreambooth
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/hf2307.06949'}]
+tags: ["Fine-Tuning", "Has Code"]
+short_authors: Ruiz et al.
+---
+Personalization has emerged as a prominent aspect within the field of generative AI, enabling the synthesis of individuals in diverse contexts and styles, while retaining high-fidelity to their identities. However, the process of personalization presents inherent challenges in terms of time and memory requirements. Fine-tuning each personalized model needs considerable GPU time investment, and storing a personalized model per subject can be demanding in terms of storage capacity. To overcome these challenges, we propose HyperDreamBooth-a hypernetwork capable of efficiently generating a small set of personalized weights from a single image of a person. By composing these weights into the diffusion model, coupled with fast finetuning, HyperDreamBooth can generate a person's face in various contexts and styles, with high subject details while also preserving the model's crucial knowledge of diverse styles and semantic modifications. Our method achieves personalization on faces in roughly 20 seconds, 25x faster than DreamBooth and 125x faster than Textual Inversion, using as few as one reference image, with the same quality and style diversity as DreamBooth. Also our method yields a model that is 10000x smaller than a normal DreamBooth model. Project page: https://hyperdreambooth.github.io
+
+https://huggingface.co/discussions/paper/64b0b337c434dbcdcd81ef18

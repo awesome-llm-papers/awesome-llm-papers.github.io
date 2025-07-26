@@ -1,0 +1,27 @@
+---
+layout: publication
+title: Knowledge Bridging For Empathetic Dialogue Generation
+authors: Qintong Li, Piji Li, Zhaochun Ren, Pengjie Ren, Zhumin Chen
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
+year: 2022
+bibkey: li2020knowledge
+citations: 89
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.09708'}]
+tags: ["AAAI", "Datasets", "Evaluation", "Model Architecture"]
+short_authors: Li et al.
+---
+Lack of external knowledge makes empathetic dialogue systems difficult to
+perceive implicit emotions and learn emotional interactions from limited
+dialogue history. To address the above problems, we propose to leverage
+external knowledge, including commonsense knowledge and emotional lexical
+knowledge, to explicitly understand and express emotions in empathetic dialogue
+generation. We first enrich the dialogue history by jointly interacting with
+external knowledge and construct an emotional context graph. Then we learn
+emotional context representations from the knowledge-enriched emotional context
+graph and distill emotional signals, which are the prerequisites to predicate
+emotions expressed in responses. Finally, to generate the empathetic response,
+we propose an emotional cross-attention mechanism to learn the emotional
+dependencies from the emotional context graph. Extensive experiments conducted
+on a benchmark dataset verify the effectiveness of the proposed method. In
+addition, we find the performance of our method can be further improved by
+integrating with a pre-trained model that works orthogonally.

@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Cross-attention Is All You Need: Adapting Pretrained Transformers For Machine
+  Translation'
+authors: Mozhdeh Gheini, Xiang Ren, Jonathan May
+conference: Proceedings of the 2021 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2021
+bibkey: gheini2021cross
+citations: 63
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2104.08771'}]
+tags: ["EMNLP", "Fine-Tuning", "Model Architecture", "Training Techniques"]
+short_authors: Mozhdeh Gheini, Xiang Ren, Jonathan May
+---
+We study the power of cross-attention in the Transformer architecture within
+the context of transfer learning for machine translation, and extend the
+findings of studies into cross-attention when training from scratch. We conduct
+a series of experiments through fine-tuning a translation model on data where
+either the source or target language has changed. These experiments reveal that
+fine-tuning only the cross-attention parameters is nearly as effective as
+fine-tuning all parameters (i.e., the entire translation model). We provide
+insights into why this is the case and observe that limiting fine-tuning in
+this manner yields cross-lingually aligned embeddings. The implications of this
+finding for researchers and practitioners include a mitigation of catastrophic
+forgetting, the potential for zero-shot translation, and the ability to extend
+machine translation models to several new language pairs with reduced parameter
+storage overhead.

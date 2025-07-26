@@ -1,0 +1,28 @@
+---
+layout: publication
+title: Generating Hierarchical Explanations On Text Classification Via Feature Interaction
+  Detection
+authors: Hanjie Chen, Guangtao Zheng, Yangfeng Ji
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
+year: 2020
+bibkey: chen2020generating
+citations: 76
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.02015'}]
+tags: ["Applications", "Evaluation", "Model Architecture"]
+short_authors: Hanjie Chen, Guangtao Zheng, Yangfeng Ji
+---
+Generating explanations for neural networks has become crucial for their
+applications in real-world with respect to reliability and trustworthiness. In
+natural language processing, existing methods usually provide important
+features which are words or phrases selected from an input text as an
+explanation, but ignore the interactions between them. It poses challenges for
+humans to interpret an explanation and connect it to model prediction. In this
+work, we build hierarchical explanations by detecting feature interactions.
+Such explanations visualize how words and phrases are combined at different
+levels of the hierarchy, which can help users understand the decision-making of
+black-box models. The proposed method is evaluated with three neural text
+classifiers (LSTM, CNN, and BERT) on two benchmark datasets, via both automatic
+and human evaluations. Experiments show the effectiveness of the proposed
+method in providing explanations that are both faithful to models and
+interpretable to humans.

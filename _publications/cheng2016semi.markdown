@@ -1,0 +1,26 @@
+---
+layout: publication
+title: Semi-supervised Learning For Neural Machine Translation
+authors: Yong Cheng, Wei Xu, Zhongjun He, Wei He, Hua Wu, Maosong Sun, Yang Liu
+conference: 'Proceedings of the 54th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
+year: 2016
+bibkey: cheng2016semi
+citations: 91
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1606.04596'}]
+tags: ["Datasets", "Training Techniques"]
+short_authors: Cheng et al.
+---
+While end-to-end neural machine translation (NMT) has made remarkable
+progress recently, NMT systems only rely on parallel corpora for parameter
+estimation. Since parallel corpora are usually limited in quantity, quality,
+and coverage, especially for low-resource languages, it is appealing to exploit
+monolingual corpora to improve NMT. We propose a semi-supervised approach for
+training NMT models on the concatenation of labeled (parallel corpora) and
+unlabeled (monolingual corpora) data. The central idea is to reconstruct the
+monolingual corpora using an autoencoder, in which the source-to-target and
+target-to-source translation models serve as the encoder and decoder,
+respectively. Our approach can not only exploit the monolingual corpora of the
+target language, but also of the source language. Experiments on the
+Chinese-English dataset show that our approach achieves significant
+improvements over state-of-the-art SMT and NMT systems.

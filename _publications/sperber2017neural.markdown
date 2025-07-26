@@ -1,0 +1,26 @@
+---
+layout: publication
+title: Neural Lattice-to-sequence Models For Uncertain Inputs
+authors: Matthias Sperber, Graham Neubig, Jan Niehues, Alex Waibel
+conference: Proceedings of the 2017 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2017
+bibkey: sperber2017neural
+citations: 74
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1704.00559'}]
+tags: ["EMNLP", "Model Architecture"]
+short_authors: Sperber et al.
+---
+The input to a neural sequence-to-sequence model is often determined by an
+up-stream system, e.g. a word segmenter, part of speech tagger, or speech
+recognizer. These up-stream models are potentially error-prone. Representing
+inputs through word lattices allows making this uncertainty explicit by
+capturing alternative sequences and their posterior probabilities in a compact
+form. In this work, we extend the TreeLSTM (Tai et al., 2015) into a
+LatticeLSTM that is able to consume word lattices, and can be used as encoder
+in an attentional encoder-decoder model. We integrate lattice posterior scores
+into this architecture by extending the TreeLSTM's child-sum and forget gates
+and introducing a bias term into the attention mechanism. We experiment with
+speech translation lattices and report consistent improvements over baselines
+that translate either the 1-best hypothesis or the lattice without posterior
+scores.

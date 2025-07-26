@@ -1,0 +1,16 @@
+---
+layout: publication
+title: 'D-AR: Diffusion Via Autoregressive Models'
+authors: Ziteng Gao, Mike Zheng Shou
+conference: No Venue
+year: 2025
+bibkey: gao2025d
+additional_links: [{name: Code, url: 'https://github.com/showlab/D-AR'}, {name: Code,
+    url: 'https://huggingface.co/discussions/paper/683906b0f85de1fc5639586b'}, {name: Paper,
+    url: 'https://arxiv.org/abs/hf2505.23660'}]
+tags: ["Has Code"]
+short_authors: Ziteng Gao, Mike Zheng Shou
+---
+This paper presents Diffusion via Autoregressive models (D-AR), a new paradigm recasting the image diffusion process as a vanilla autoregressive procedure in the standard next-token-prediction fashion. We start by designing the tokenizer that converts images into sequences of discrete tokens, where tokens in different positions can be decoded into different diffusion denoising steps in the pixel space. Thanks to the diffusion properties, these tokens naturally follow a coarse-to-fine order, which directly lends itself to autoregressive modeling. Therefore, we apply standard next-token prediction on these tokens, without modifying any underlying designs (either causal masks or training/inference strategies), and such sequential autoregressive token generation directly mirrors the diffusion procedure in image space. That is, once the autoregressive model generates an increment of tokens, we can directly decode these tokens into the corresponding diffusion denoising step in the streaming manner. Our pipeline naturally reveals several intriguing properties, for example, it supports consistent previews when generating only a subset of tokens and enables zero-shot layout-controlled synthesis. On the standard ImageNet benchmark, our method achieves 2.09 FID using a 775M Llama backbone with 256 discrete tokens. We hope our work can inspire future research on unified autoregressive architectures of visual synthesis, especially with large language models. Code and models will be available at https://github.com/showlab/D-AR
+
+https://huggingface.co/discussions/paper/683906b0f85de1fc5639586b

@@ -1,0 +1,27 @@
+---
+layout: publication
+title: Examining Zero-shot Vulnerability Repair With Large Language Models
+authors: Hammond Pearce, Benjamin Tan, Baleegh Ahmad, Ramesh Karri, Brendan Dolan-gavitt
+conference: 2023 IEEE Symposium on Security and Privacy (SP)
+year: 2023
+bibkey: pearce2021examining
+citations: 89
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2112.02125'}]
+tags: ["Evaluation", "Security"]
+short_authors: Pearce et al.
+---
+Human developers can produce code with cybersecurity bugs. Can emerging
+'smart' code completion tools help repair those bugs? In this work, we examine
+the use of large language models (LLMs) for code (such as OpenAI's Codex and
+AI21's Jurassic J-1) for zero-shot vulnerability repair. We investigate
+challenges in the design of prompts that coax LLMs into generating repaired
+versions of insecure code. This is difficult due to the numerous ways to phrase
+key information - both semantically and syntactically - with natural languages.
+We perform a large scale study of five commercially available, black-box,
+"off-the-shelf" LLMs, as well as an open-source model and our own
+locally-trained model, on a mix of synthetic, hand-crafted, and real-world
+security bug scenarios. Our experiments demonstrate that while the approach has
+promise (the LLMs could collectively repair 100% of our synthetically generated
+and hand-crafted scenarios), a qualitative evaluation of the model's
+performance over a corpus of historical real-world examples highlights
+challenges in generating functionally correct code.

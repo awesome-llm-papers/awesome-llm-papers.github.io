@@ -1,0 +1,33 @@
+---
+layout: publication
+title: Counterfactual Samples Synthesizing For Robust Visual Question Answering
+authors: Long Chen, Xin Yan, Jun Xiao, Hanwang Zhang, Shiliang Pu, Yueting Zhuang
+conference: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2020
+bibkey: chen2020counterfactual
+citations: 313
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.06576'}]
+tags: ["CVPR", "Evaluation", "Training Techniques"]
+short_authors: Chen et al.
+---
+Despite Visual Question Answering (VQA) has realized impressive progress over
+the last few years, today's VQA models tend to capture superficial linguistic
+correlations in the train set and fail to generalize to the test set with
+different QA distributions. To reduce the language biases, several recent works
+introduce an auxiliary question-only model to regularize the training of
+targeted VQA model, and achieve dominating performance on VQA-CP. However,
+since the complexity of design, current methods are unable to equip the
+ensemble-based models with two indispensable characteristics of an ideal VQA
+model: 1) visual-explainable: the model should rely on the right visual regions
+when making decisions. 2) question-sensitive: the model should be sensitive to
+the linguistic variations in question. To this end, we propose a model-agnostic
+Counterfactual Samples Synthesizing (CSS) training scheme. The CSS generates
+numerous counterfactual training samples by masking critical objects in images
+or words in questions, and assigning different ground-truth answers. After
+training with the complementary samples (ie, the original and generated
+samples), the VQA models are forced to focus on all critical objects and words,
+which significantly improves both visual-explainable and question-sensitive
+abilities. In return, the performance of these models is further boosted.
+Extensive ablations have shown the effectiveness of CSS. Particularly, by
+building on top of the model LMH, we achieve a record-breaking performance of
+58.95% on VQA-CP v2, with 6.5% gains.

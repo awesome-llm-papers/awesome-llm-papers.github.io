@@ -1,0 +1,36 @@
+---
+layout: publication
+title: 'LAION-5B: An Open Large-scale Dataset For Training Next Generation Image-text
+  Models'
+authors: Christoph Schuhmann, Romain Beaumont, Richard Vencu, Cade Gordon, Ross Wightman,
+  Mehdi Cherti, Theo Coombes, Aarush Katta, Clayton Mullis, Mitchell Wortsman, Patrick
+  Schramowski, Srivatsa Kundurthy, Katherine Crowson, Ludwig Schmidt, Robert Kaczmarczyk,
+  Jenia Jitsev
+conference: Arxiv
+year: 2022
+bibkey: schuhmann2022laion
+citations: 638
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2210.08402'}]
+tags: ["Datasets"]
+short_authors: Schuhmann et al.
+---
+Groundbreaking language-vision architectures like CLIP and DALL-E proved the
+utility of training on large amounts of noisy image-text data, without relying
+on expensive accurate labels used in standard vision unimodal supervised
+learning. The resulting models showed capabilities of strong text-guided image
+generation and transfer to downstream tasks, while performing remarkably at
+zero-shot classification with noteworthy out-of-distribution robustness. Since
+then, large-scale language-vision models like ALIGN, BASIC, GLIDE, Flamingo and
+Imagen made further improvements. Studying the training and capabilities of
+such models requires datasets containing billions of image-text pairs. Until
+now, no datasets of this size have been made openly available for the broader
+research community. To address this problem and democratize research on
+large-scale multi-modal models, we present LAION-5B - a dataset consisting of
+5.85 billion CLIP-filtered image-text pairs, of which 2.32B contain English
+language. We show successful replication and fine-tuning of foundational models
+like CLIP, GLIDE and Stable Diffusion using the dataset, and discuss further
+experiments enabled with an openly available dataset of this scale.
+Additionally we provide several nearest neighbor indices, an improved
+web-interface for dataset exploration and subset generation, and detection
+scores for watermark, NSFW, and toxic content detection. Announcement page
+https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/

@@ -1,0 +1,33 @@
+---
+layout: publication
+title: 'A Model Of Two Tales: Dual Transfer Learning Framework For Improved Long-tail
+  Item Recommendation'
+authors: Yin Zhang, Derek Zhiyuan Cheng, Tiansheng Yao, Xinyang Yi, Lichan Hong, Ed
+  H. Chi
+conference: Proceedings of the Web Conference 2021
+year: 2021
+bibkey: zhang2020model
+citations: 77
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.15982'}]
+tags: ["Fine-Tuning"]
+short_authors: Zhang et al.
+---
+Highly skewed long-tail item distribution is very common in recommendation
+systems. It significantly hurts model performance on tail items. To improve
+tail-item recommendation, we conduct research to transfer knowledge from head
+items to tail items, leveraging the rich user feedback in head items and the
+semantic connections between head and tail items. Specifically, we propose a
+novel dual transfer learning framework that jointly learns the knowledge
+transfer from both model-level and item-level: 1. The model-level knowledge
+transfer builds a generic meta-mapping of model parameters from few-shot to
+many-shot model. It captures the implicit data augmentation on the model-level
+to improve the representation learning of tail items. 2. The item-level
+transfer connects head and tail items through item-level features, to ensure a
+smooth transfer of meta-mapping from head items to tail items. The two types of
+transfers are incorporated to ensure the learned knowledge from head items can
+be well applied for tail item representation learning in the long-tail
+distribution settings. Through extensive experiments on two benchmark datasets,
+results show that our proposed dual transfer learning framework significantly
+outperforms other state-of-the-art methods for tail item recommendation in hit
+ratio and NDCG. It is also very encouraging that our framework further improves
+head items and overall performance on top of the gains on tail items.

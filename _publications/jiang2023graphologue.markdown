@@ -1,0 +1,31 @@
+---
+layout: publication
+title: 'Graphologue: Exploring Large Language Model Responses With Interactive Diagrams'
+authors: Peiling Jiang, Jude Rayan, Steven P. Dow, Haijun Xia
+conference: Proceedings of the 36th Annual ACM Symposium on User Interface Software
+  and Technology
+year: 2023
+bibkey: jiang2023graphologue
+citations: 61
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2305.11473'}]
+tags: ["Prompting"]
+short_authors: Jiang et al.
+---
+Large language models (LLMs) have recently soared in popularity due to their
+ease of access and the unprecedented ability to synthesize text responses to
+diverse user questions. However, LLMs like ChatGPT present significant
+limitations in supporting complex information tasks due to the insufficient
+affordances of the text-based medium and linear conversational structure.
+Through a formative study with ten participants, we found that LLM interfaces
+often present long-winded responses, making it difficult for people to quickly
+comprehend and interact flexibly with various pieces of information,
+particularly during more complex tasks. We present Graphologue, an interactive
+system that converts text-based responses from LLMs into graphical diagrams to
+facilitate information-seeking and question-answering tasks. Graphologue
+employs novel prompting strategies and interface designs to extract entities
+and relationships from LLM responses and constructs node-link diagrams in
+real-time. Further, users can interact with the diagrams to flexibly adjust the
+graphical presentation and to submit context-specific prompts to obtain more
+information. Utilizing diagrams, Graphologue enables graphical, non-linear
+dialogues between humans and LLMs, facilitating information exploration,
+organization, and comprehension.

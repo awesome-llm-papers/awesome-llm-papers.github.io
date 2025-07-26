@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Adafactor: Adaptive Learning Rates With Sublinear Memory Cost'
+authors: Noam Shazeer, Mitchell Stern
+conference: Arxiv
+year: 2018
+bibkey: shazeer2018adafactor
+citations: 290
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.04235'}]
+tags: ["Efficiency", "Training Techniques"]
+short_authors: Noam Shazeer, Mitchell Stern
+---
+In several recently proposed stochastic optimization methods (e.g. RMSProp,
+Adam, Adadelta), parameter updates are scaled by the inverse square roots of
+exponential moving averages of squared past gradients. Maintaining these
+per-parameter second-moment estimators requires memory equal to the number of
+parameters. For the case of neural network weight matrices, we propose
+maintaining only the per-row and per-column sums of these moving averages, and
+estimating the per-parameter second moments based on these sums. We demonstrate
+empirically that this method produces similar results to the baseline.
+Secondly, we show that adaptive methods can produce larger-than-desired updates
+when the decay rate of the second moment accumulator is too slow. We propose
+update clipping and a gradually increasing decay rate scheme as remedies.
+Combining these methods and dropping momentum, we achieve comparable results to
+the published Adam regime in training the Transformer model on the WMT 2014
+English-German machine translation task, while using very little auxiliary
+storage in the optimizer. Finally, we propose scaling the parameter updates
+based on the scale of the parameters themselves.

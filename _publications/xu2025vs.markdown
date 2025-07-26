@@ -1,0 +1,17 @@
+---
+layout: publication
+title: 'Vs-bench: Evaluating Vlms For Strategic Reasoning And Decision-making In Multi-agent
+  Environments'
+authors: Zelai Xu, Zhexuan Xu, Xiangmin Yi, Huining Yuan, Xinlei Chen, Yi Wu, Chao
+  Yu, Yu Wang
+conference: No Venue
+year: 2025
+bibkey: xu2025vs
+additional_links: [{name: Code, url: 'https://vs-bench.github.io'}, {name: Code, url: 'https://huggingface.co/discussions/paper/683fa95fa0770843560c7b3d'},
+  {name: Paper, url: 'https://arxiv.org/abs/hf2506.02387'}]
+tags: ["Agentic", "Evaluation"]
+short_authors: Xu et al.
+---
+Recent advancements in Vision Language Models (VLMs) have expanded their capabilities to interactive agent tasks, yet existing benchmarks remain limited to single-agent or text-only environments. In contrast, real-world scenarios often involve multiple agents interacting within rich visual and linguistic contexts, posing challenges with both multimodal observations and strategic interactions. To bridge this gap, we introduce Visual Strategic Bench (VS-Bench), a multimodal benchmark that evaluates VLMs for strategic reasoning and decision-making in multi-agent environments. VS-Bench comprises eight vision-grounded environments spanning cooperative, competitive, and mixed-motive interactions, designed to assess agents' ability to predict others' future moves and optimize for long-term objectives. We consider two complementary evaluation dimensions, including offline evaluation of strategic reasoning by next-action prediction accuracy and online evaluation of decision-making by normalized episode return. Extensive experiments of fourteen leading VLMs reveal a significant gap between current models and optimal performance, with the best models attaining 47.8% prediction accuracy and 24.3% normalized return. We further conduct in-depth analyses on multimodal observations, test-time scaling, social behaviors, and failure cases of VLM agents. By standardizing the evaluation and highlighting the limitations of existing models, we envision VS-Bench as a foundation for future research on strategic multimodal agents. Code and data are available at https://vs-bench.github.io.
+
+https://huggingface.co/discussions/paper/683fa95fa0770843560c7b3d

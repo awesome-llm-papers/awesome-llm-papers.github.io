@@ -1,0 +1,32 @@
+---
+layout: publication
+title: 'GLUCOSE: Generalized And Contextualized Story Explanations'
+authors: Nasrin Mostafazadeh, Aditya Kalyanpur, Lori Moon, David Buchanan, Lauren
+  Berkowitz, Or Biran, Jennifer Chu-carroll
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
+year: 2020
+bibkey: mostafazadeh2020glucose
+citations: 85
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.07758'}]
+tags: ["EMNLP"]
+short_authors: Mostafazadeh et al.
+---
+When humans read or listen, they make implicit commonsense inferences that
+frame their understanding of what happened and why. As a step toward AI systems
+that can build similar mental models, we introduce GLUCOSE, a large-scale
+dataset of implicit commonsense causal knowledge, encoded as causal
+mini-theories about the world, each grounded in a narrative context. To
+construct GLUCOSE, we drew on cognitive psychology to identify ten dimensions
+of causal explanation, focusing on events, states, motivations, and emotions.
+Each GLUCOSE entry includes a story-specific causal statement paired with an
+inference rule generalized from the statement. This paper details two concrete
+contributions. First, we present our platform for effectively crowdsourcing
+GLUCOSE data at scale, which uses semi-structured templates to elicit causal
+explanations. Using this platform, we collected a total of ~670K specific
+statements and general rules that capture implicit commonsense knowledge about
+everyday situations. Second, we show that existing knowledge resources and
+pretrained language models do not include or readily predict GLUCOSE's rich
+inferential content. However, when state-of-the-art neural models are trained
+on this knowledge, they can start to make commonsense inferences on unseen
+stories that match humans' mental models.

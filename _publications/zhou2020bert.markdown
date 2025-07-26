@@ -1,0 +1,24 @@
+---
+layout: publication
+title: 'BERT Loses Patience: Fast And Robust Inference With Early Exit'
+authors: Wangchunshu Zhou, Canwen Xu, Tao Ge, Julian Mcauley, Ke Xu, Furu Wei
+conference: Arxiv
+year: 2020
+bibkey: zhou2020bert
+citations: 161
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2006.04152'}]
+tags: ["Efficiency", "Model Architecture"]
+short_authors: Zhou et al.
+---
+In this paper, we propose Patience-based Early Exit, a straightforward yet
+effective inference method that can be used as a plug-and-play technique to
+simultaneously improve the efficiency and robustness of a pretrained language
+model (PLM). To achieve this, our approach couples an internal-classifier with
+each layer of a PLM and dynamically stops inference when the intermediate
+predictions of the internal classifiers remain unchanged for a pre-defined
+number of steps. Our approach improves inference efficiency as it allows the
+model to make a prediction with fewer layers. Meanwhile, experimental results
+with an ALBERT model show that our method can improve the accuracy and
+robustness of the model by preventing it from overthinking and exploiting
+multiple classifiers for prediction, yielding a better accuracy-speed trade-off
+compared to existing early exit methods.

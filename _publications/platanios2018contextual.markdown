@@ -1,0 +1,28 @@
+---
+layout: publication
+title: Contextual Parameter Generation For Universal Neural Machine Translation
+authors: Emmanouil Antonios Platanios, Mrinmaya Sachan, Graham Neubig, Tom Mitchell
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2018
+bibkey: platanios2018contextual
+citations: 170
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.08493'}]
+tags: ["Datasets", "EMNLP", "Fine-Tuning", "Model Architecture", "Training Techniques"]
+short_authors: Platanios et al.
+---
+We propose a simple modification to existing neural machine translation (NMT)
+models that enables using a single universal model to translate between
+multiple languages while allowing for language specific parameterization, and
+that can also be used for domain adaptation. Our approach requires no changes
+to the model architecture of a standard NMT system, but instead introduces a
+new component, the contextual parameter generator (CPG), that generates the
+parameters of the system (e.g., weights in a neural network). This parameter
+generator accepts source and target language embeddings as input, and generates
+the parameters for the encoder and the decoder, respectively. The rest of the
+model remains unchanged and is shared across all languages. We show how this
+simple modification enables the system to use monolingual data for training and
+also perform zero-shot translation. We further show it is able to surpass
+state-of-the-art performance for both the IWSLT-15 and IWSLT-17 datasets and
+that the learned language embeddings are able to uncover interesting
+relationships between languages.

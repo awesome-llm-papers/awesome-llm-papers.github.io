@@ -1,0 +1,24 @@
+---
+layout: publication
+title: Text Understanding With The Attention Sum Reader Network
+authors: Rudolf Kadlec, Martin Schmid, Ondrej Bajgar, Jan Kleindienst
+conference: 'Proceedings of the 54th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)'
+year: 2016
+bibkey: kadlec2016text
+citations: 313
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1603.01547'}]
+tags: ["Datasets"]
+short_authors: Kadlec et al.
+---
+Several large cloze-style context-question-answer datasets have been
+introduced recently: the CNN and Daily Mail news data and the Children's Book
+Test. Thanks to the size of these datasets, the associated text comprehension
+task is well suited for deep-learning techniques that currently seem to
+outperform all alternative approaches. We present a new, simple model that uses
+attention to directly pick the answer from the context as opposed to computing
+the answer using a blended representation of words in the document as is usual
+in similar models. This makes the model particularly suitable for
+question-answering problems where the answer is a single word from the
+document. Ensemble of our models sets new state of the art on all evaluated
+datasets.

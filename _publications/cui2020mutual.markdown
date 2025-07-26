@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Mutual: A Dataset For Multi-turn Dialogue Reasoning'
+authors: Leyang Cui, Yu Wu, Shujie Liu, Yue Zhang, Ming Zhou
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
+year: 2020
+bibkey: cui2020mutual
+citations: 111
+additional_links: [{name: Code, url: 'https://github.com/Nealcly/MuTual'}, {name: Paper,
+    url: 'https://arxiv.org/abs/2004.04494'}]
+tags: ["Datasets", "Dialogue & Multi Turn"]
+short_authors: Cui et al.
+---
+Non-task oriented dialogue systems have achieved great success in recent
+years due to largely accessible conversation data and the development of deep
+learning techniques. Given a context, current systems are able to yield a
+relevant and fluent response, but sometimes make logical mistakes because of
+weak reasoning capabilities. To facilitate the conversation reasoning research,
+we introduce MuTual, a novel dataset for Multi-Turn dialogue Reasoning,
+consisting of 8,860 manually annotated dialogues based on Chinese student
+English listening comprehension exams. Compared to previous benchmarks for
+non-task oriented dialogue systems, MuTual is much more challenging since it
+requires a model that can handle various reasoning problems. Empirical results
+show that state-of-the-art methods only reach 71%, which is far behind the
+human performance of 94%, indicating that there is ample room for improving
+reasoning ability. MuTual is available at https://github.com/Nealcly/MuTual.

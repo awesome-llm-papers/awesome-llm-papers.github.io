@@ -1,0 +1,30 @@
+---
+layout: publication
+title: Multimodal Named Entity Recognition For Short Social Media Posts
+authors: Seungwhan Moon, Leonardo Neves, Vitor Carvalho
+conference: 'Proceedings of the 2018 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies, Volume 1
+  (Long Papers)'
+year: 2018
+bibkey: moon2018multimodal
+citations: 146
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1802.07862'}]
+tags: ["Applications", "NAACL"]
+short_authors: Seungwhan Moon, Leonardo Neves, Vitor Carvalho
+---
+We introduce a new task called Multimodal Named Entity Recognition (MNER) for
+noisy user-generated data such as tweets or Snapchat captions, which comprise
+short text with accompanying images. These social media posts often come in
+inconsistent or incomplete syntax and lexical notations with very limited
+surrounding textual contexts, bringing significant challenges for NER. To this
+end, we create a new dataset for MNER called SnapCaptions (Snapchat
+image-caption pairs submitted to public and crowd-sourced stories with fully
+annotated named entities). We then build upon the state-of-the-art Bi-LSTM
+word/character based NER models with 1) a deep image network which incorporates
+relevant visual context to augment textual information, and 2) a generic
+modality-attention module which learns to attenuate irrelevant modalities while
+amplifying the most informative ones to extract contexts from, adaptive to each
+sample and token. The proposed MNER model with modality attention significantly
+outperforms the state-of-the-art text-only NER models by successfully
+leveraging provided visual contexts, opening up potential applications of MNER
+on myriads of social media platforms.

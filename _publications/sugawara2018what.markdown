@@ -1,0 +1,29 @@
+---
+layout: publication
+title: What Makes Reading Comprehension Questions Easier?
+authors: Saku Sugawara, Kentaro Inui, Satoshi Sekine, Akiko Aizawa
+conference: Proceedings of the 2018 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2018
+bibkey: sugawara2018what
+citations: 110
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1808.09384'}]
+tags: ["EMNLP"]
+short_authors: Sugawara et al.
+---
+A challenge in creating a dataset for machine reading comprehension (MRC) is
+to collect questions that require a sophisticated understanding of language to
+answer beyond using superficial cues. In this work, we investigate what makes
+questions easier across recent 12 MRC datasets with three question styles
+(answer extraction, description, and multiple choice). We propose to employ
+simple heuristics to split each dataset into easy and hard subsets and examine
+the performance of two baseline models for each of the subsets. We then
+manually annotate questions sampled from each subset with both validity and
+requisite reasoning skills to investigate which skills explain the difference
+between easy and hard questions. From this study, we observed that (i) the
+baseline performances for the hard subsets remarkably degrade compared to those
+of entire datasets, (ii) hard questions require knowledge inference and
+multiple-sentence reasoning in comparison with easy questions, and (iii)
+multiple-choice questions tend to require a broader range of reasoning skills
+than answer extraction and description questions. These results suggest that
+one might overestimate recent advances in MRC.

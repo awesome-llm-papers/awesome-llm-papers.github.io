@@ -1,0 +1,23 @@
+---
+layout: publication
+title: 'Bp-transformer: Modelling Long-range Context Via Binary Partitioning'
+authors: Zihao Ye, Qipeng Guo, Quan Gan, Xipeng Qiu, Zheng Zhang
+conference: Arxiv
+year: 2019
+bibkey: ye2019bp
+citations: 61
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1911.04070'}]
+tags: ["Model Architecture"]
+short_authors: Ye et al.
+---
+The Transformer model is widely successful on many natural language
+processing tasks. However, the quadratic complexity of self-attention limit its
+application on long text. In this paper, adopting a fine-to-coarse attention
+mechanism on multi-scale spans via binary partitioning (BP), we propose
+BP-Transformer (BPT for short). BPT yields \\(O(k\cdot nlog (n/k))\\) connections
+where \\(k\\) is a hyperparameter to control the density of attention. BPT has a
+good balance between computation complexity and model capacity. A series of
+experiments on text classification, machine translation and language modeling
+shows BPT has a superior performance for long text than previous self-attention
+models. Our code, hyperparameters and CUDA kernels for sparse attention are
+available in PyTorch.

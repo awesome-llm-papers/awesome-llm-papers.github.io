@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Reclor: A Reading Comprehension Dataset Requiring Logical Reasoning'
+authors: Weihao Yu, Zihang Jiang, Yanfei Dong, Jiashi Feng
+conference: Arxiv
+year: 2020
+bibkey: yu2020reclor
+citations: 128
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2002.04326'}]
+tags: ["Datasets"]
+short_authors: Yu et al.
+---
+Recent powerful pre-trained language models have achieved remarkable
+performance on most of the popular datasets for reading comprehension. It is
+time to introduce more challenging datasets to push the development of this
+field towards more comprehensive reasoning of text. In this paper, we introduce
+a new Reading Comprehension dataset requiring logical reasoning (ReClor)
+extracted from standardized graduate admission examinations. As earlier studies
+suggest, human-annotated datasets usually contain biases, which are often
+exploited by models to achieve high accuracy without truly understanding the
+text. In order to comprehensively evaluate the logical reasoning ability of
+models on ReClor, we propose to identify biased data points and separate them
+into EASY set while the rest as HARD set. Empirical results show that
+state-of-the-art models have an outstanding ability to capture biases contained
+in the dataset with high accuracy on EASY set. However, they struggle on HARD
+set with poor performance near that of random guess, indicating more research
+is needed to essentially enhance the logical reasoning ability of current
+models.

@@ -1,0 +1,29 @@
+---
+layout: publication
+title: 'Prompt Programming For Large Language Models: Beyond The Few-shot Paradigm'
+authors: Laria Reynolds, Kyle Mcdonell
+conference: Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing
+  Systems
+year: 2021
+bibkey: reynolds2021prompt
+citations: 540
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2102.07350'}]
+tags: ["Few-Shot", "Prompting"]
+short_authors: Laria Reynolds, Kyle Mcdonell
+---
+Prevailing methods for mapping large generative language models to supervised
+tasks may fail to sufficiently probe models' novel capabilities. Using GPT-3 as
+a case study, we show that 0-shot prompts can significantly outperform few-shot
+prompts. We suggest that the function of few-shot examples in these cases is
+better described as locating an already learned task rather than meta-learning.
+This analysis motivates rethinking the role of prompts in controlling and
+evaluating powerful language models. In this work, we discuss methods of prompt
+programming, emphasizing the usefulness of considering prompts through the lens
+of natural language. We explore techniques for exploiting the capacity of
+narratives and cultural anchors to encode nuanced intentions and techniques for
+encouraging deconstruction of a problem into components before producing a
+verdict. Informed by this more encompassing theory of prompt programming, we
+also introduce the idea of a metaprompt that seeds the model to generate its
+own natural language prompts for a range of tasks. Finally, we discuss how
+these more general methods of interacting with language models can be
+incorporated into existing and future benchmarks and practical applications.

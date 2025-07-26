@@ -1,0 +1,35 @@
+---
+layout: publication
+title: Graph-structured Referring Expression Reasoning In The Wild
+authors: Sibei Yang, Guanbin Li, Yizhou Yu
+conference: 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+year: 2020
+bibkey: yang2020graph
+citations: 85
+additional_links: [{name: Code, url: 'https://github.com/sibeiyang/sgmn'}, {name: Paper,
+    url: 'https://arxiv.org/abs/2004.08814'}]
+tags: ["CVPR"]
+short_authors: Sibei Yang, Guanbin Li, Yizhou Yu
+---
+Grounding referring expressions aims to locate in an image an object referred
+to by a natural language expression. The linguistic structure of a referring
+expression provides a layout of reasoning over the visual contents, and it is
+often crucial to align and jointly understand the image and the referring
+expression. In this paper, we propose a scene graph guided modular network
+(SGMN), which performs reasoning over a semantic graph and a scene graph with
+neural modules under the guidance of the linguistic structure of the
+expression. In particular, we model the image as a structured semantic graph,
+and parse the expression into a language scene graph. The language scene graph
+not only decodes the linguistic structure of the expression, but also has a
+consistent representation with the image semantic graph. In addition to
+exploring structured solutions to grounding referring expressions, we also
+propose Ref-Reasoning, a large-scale real-world dataset for structured
+referring expression reasoning. We automatically generate referring expressions
+over the scene graphs of images using diverse expression templates and
+functional programs. This dataset is equipped with real-world visual contents
+as well as semantically rich expressions with different reasoning layouts.
+Experimental results show that our SGMN not only significantly outperforms
+existing state-of-the-art algorithms on the new Ref-Reasoning dataset, but also
+surpasses state-of-the-art structured methods on commonly used benchmark
+datasets. It can also provide interpretable visual evidences of reasoning. Data
+and code are available at https://github.com/sibeiyang/sgmn

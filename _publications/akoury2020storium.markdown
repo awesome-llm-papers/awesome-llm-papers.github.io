@@ -1,0 +1,32 @@
+---
+layout: publication
+title: 'STORIUM: A Dataset And Evaluation Platform For Machine-in-the-loop Story Generation'
+authors: Nader Akoury, Shufan Wang, Josh Whiting, Stephen Hood, Nanyun Peng, Mohit
+  Iyyer
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
+year: 2020
+bibkey: akoury2020storium
+citations: 74
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2010.01717'}]
+tags: ["Datasets", "EMNLP", "Evaluation", "Tools"]
+short_authors: Akoury et al.
+---
+Systems for story generation are asked to produce plausible and enjoyable
+stories given an input context. This task is underspecified, as a vast number
+of diverse stories can originate from a single input. The large output space
+makes it difficult to build and evaluate story generation models, as (1)
+existing datasets lack rich enough contexts to meaningfully guide models, and
+(2) existing evaluations (both crowdsourced and automatic) are unreliable for
+assessing long-form creative text. To address these issues, we introduce a
+dataset and evaluation platform built from STORIUM, an online collaborative
+storytelling community. Our author-generated dataset contains 6K lengthy
+stories (125M tokens) with fine-grained natural language annotations (e.g.,
+character goals and attributes) interspersed throughout each narrative, forming
+a robust source for guiding models. We evaluate language models fine-tuned on
+our dataset by integrating them onto STORIUM, where real authors can query a
+model for suggested story continuations and then edit them. Automatic metrics
+computed over these edits correlate well with both user ratings of generated
+stories and qualitative feedback from semi-structured user interviews. We
+release both the STORIUM dataset and evaluation platform to spur more
+principled research into story generation.

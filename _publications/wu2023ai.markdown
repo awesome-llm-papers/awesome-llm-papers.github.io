@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'Ai-generated Content (AIGC): A Survey'
+authors: Jiayang Wu, Wensheng Gan, Zefeng Chen, Shicheng Wan, Hong Lin
+conference: Arxiv
+year: 2023
+bibkey: wu2023ai
+citations: 69
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2304.06632'}]
+tags: ["Survey Paper"]
+short_authors: Wu et al.
+---
+To address the challenges of digital intelligence in the digital economy,
+artificial intelligence-generated content (AIGC) has emerged. AIGC uses
+artificial intelligence to assist or replace manual content generation by
+generating content based on user-inputted keywords or requirements. The
+development of large model algorithms has significantly strengthened the
+capabilities of AIGC, which makes AIGC products a promising generative tool and
+adds convenience to our lives. As an upstream technology, AIGC has unlimited
+potential to support different downstream applications. It is important to
+analyze AIGC's current capabilities and shortcomings to understand how it can
+be best utilized in future applications. Therefore, this paper provides an
+extensive overview of AIGC, covering its definition, essential conditions,
+cutting-edge capabilities, and advanced features. Moreover, it discusses the
+benefits of large-scale pre-trained models and the industrial chain of AIGC.
+Furthermore, the article explores the distinctions between auxiliary generation
+and automatic generation within AIGC, providing examples of text generation.
+The paper also examines the potential integration of AIGC with the Metaverse.
+Lastly, the article highlights existing issues and suggests some future
+directions for application.

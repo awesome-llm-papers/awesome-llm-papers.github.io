@@ -1,0 +1,17 @@
+---
+layout: publication
+title: R1-zero's "aha Moment" In Visual Reasoning On A 2B Non-sft Model
+authors: Hengguang Zhou, Xirui Li, Ruochen Wang, Minhao Cheng, Tianyi Zhou, Cho-jui
+  Hsieh
+conference: No Venue
+year: 2025
+bibkey: zhou2025r1
+additional_links: [{name: Code, url: 'https://github.com/turningpoint-ai/VisualThinker-R1-Zero'},
+  {name: Code, url: 'https://huggingface.co/discussions/paper/67ce5ec27c6e6ea1cc564a01'},
+  {name: Paper, url: 'https://arxiv.org/abs/hf2503.05132'}]
+tags: ["Datasets", "Fine-Tuning", "Has Code", "Reinforcement Learning", "Training Techniques"]
+short_authors: Zhou et al.
+---
+Recently DeepSeek R1 demonstrated how reinforcement learning with simple rule-based incentives can enable autonomous development of complex reasoning in large language models, characterized by the "aha moment", in which the model manifest self-reflection and increased response length during training. However, attempts to extend this success to multimodal reasoning often failed to reproduce these key characteristics. In this report, we present the first successful replication of these emergent characteristics for multimodal reasoning on only a non-SFT 2B model. Starting with Qwen2-VL-2B and applying reinforcement learning directly on the SAT dataset, our model achieves 59.47% accuracy on CVBench, outperforming the base model by approximately ~30% and exceeding both SFT setting by ~2%. In addition, we share our failed attempts and insights in attempting to achieve R1-like reasoning using RL with instruct models. aiming to shed light on the challenges involved. Our key observations include: (1) applying RL on instruct model often results in trivial reasoning trajectories, and (2) naive length reward are ineffective in eliciting reasoning capabilities. The project code is available at https://github.com/turningpoint-ai/VisualThinker-R1-Zero
+
+https://huggingface.co/discussions/paper/67ce5ec27c6e6ea1cc564a01

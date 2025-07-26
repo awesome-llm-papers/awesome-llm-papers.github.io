@@ -1,0 +1,30 @@
+---
+layout: publication
+title: 'T2i-adapter: Learning Adapters To Dig Out More Controllable Ability For Text-to-image
+  Diffusion Models'
+authors: Chong Mou, Xintao Wang, Liangbin Xie, Yanze Wu, Jian Zhang, Zhongang Qi,
+  Ying Shan, Xiaohu Qie
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
+year: 2024
+bibkey: mou2023t2i
+citations: 330
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2302.08453'}]
+tags: ["AAAI", "Applications"]
+short_authors: Mou et al.
+---
+The incredible generative ability of large-scale text-to-image (T2I) models
+has demonstrated strong power of learning complex structures and meaningful
+semantics. However, relying solely on text prompts cannot fully take advantage
+of the knowledge learned by the model, especially when flexible and accurate
+controlling (e.g., color and structure) is needed. In this paper, we aim to
+``dig out" the capabilities that T2I models have implicitly learned, and then
+explicitly use them to control the generation more granularly. Specifically, we
+propose to learn simple and lightweight T2I-Adapters to align internal
+knowledge in T2I models with external control signals, while freezing the
+original large T2I models. In this way, we can train various adapters according
+to different conditions, achieving rich control and editing effects in the
+color and structure of the generation results. Further, the proposed
+T2I-Adapters have attractive properties of practical value, such as
+composability and generalization ability. Extensive experiments demonstrate
+that our T2I-Adapter has promising generation quality and a wide range of
+applications.

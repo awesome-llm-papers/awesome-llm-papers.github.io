@@ -1,0 +1,30 @@
+---
+layout: publication
+title: A Computational Approach To Understanding Empathy Expressed In Text-based Mental
+  Health Support
+authors: Ashish Sharma, Adam S. Miner, David C. Atkins, Tim Althoff
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
+year: 2020
+bibkey: sharma2020computational
+citations: 179
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2009.08441'}]
+tags: ["EMNLP"]
+short_authors: Sharma et al.
+---
+Empathy is critical to successful mental health support. Empathy measurement
+has predominantly occurred in synchronous, face-to-face settings, and may not
+translate to asynchronous, text-based contexts. Because millions of people use
+text-based platforms for mental health support, understanding empathy in these
+contexts is crucial. In this work, we present a computational approach to
+understanding how empathy is expressed in online mental health platforms. We
+develop a novel unifying theoretically-grounded framework for characterizing
+the communication of empathy in text-based conversations. We collect and share
+a corpus of 10k (post, response) pairs annotated using this empathy framework
+with supporting evidence for annotations (rationales). We develop a multi-task
+RoBERTa-based bi-encoder model for identifying empathy in conversations and
+extracting rationales underlying its predictions. Experiments demonstrate that
+our approach can effectively identify empathic conversations. We further apply
+this model to analyze 235k mental health interactions and show that users do
+not self-learn empathy over time, revealing opportunities for empathy training
+and feedback.

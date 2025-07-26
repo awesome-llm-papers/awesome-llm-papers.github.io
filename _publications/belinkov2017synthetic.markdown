@@ -1,0 +1,23 @@
+---
+layout: publication
+title: Synthetic And Natural Noise Both Break Neural Machine Translation
+authors: Yonatan Belinkov, Yonatan Bisk
+conference: Arxiv
+year: 2017
+bibkey: belinkov2017synthetic
+citations: 434
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1711.02173'}]
+tags: ["Security", "Training Techniques"]
+short_authors: Yonatan Belinkov, Yonatan Bisk
+---
+Character-based neural machine translation (NMT) models alleviate
+out-of-vocabulary issues, learn morphology, and move us closer to completely
+end-to-end translation systems. Unfortunately, they are also very brittle and
+easily falter when presented with noisy data. In this paper, we confront NMT
+models with synthetic and natural sources of noise. We find that
+state-of-the-art models fail to translate even moderately noisy texts that
+humans have no trouble comprehending. We explore two approaches to increase
+model robustness: structure-invariant word representations and robust training
+on noisy texts. We find that a model based on a character convolutional neural
+network is able to simultaneously learn representations robust to multiple
+kinds of noise.

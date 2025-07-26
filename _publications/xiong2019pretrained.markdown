@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'Pretrained Encyclopedia: Weakly Supervised Knowledge-pretrained Language Model'
+authors: Wenhan Xiong, Jingfei Du, William Yang Wang, Veselin Stoyanov
+conference: Arxiv
+year: 2019
+bibkey: xiong2019pretrained
+citations: 164
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1912.09637'}]
+tags: ["Model Architecture", "Training Techniques"]
+short_authors: Xiong et al.
+---
+Recent breakthroughs of pretrained language models have shown the
+effectiveness of self-supervised learning for a wide range of natural language
+processing (NLP) tasks. In addition to standard syntactic and semantic NLP
+tasks, pretrained models achieve strong improvements on tasks that involve
+real-world knowledge, suggesting that large-scale language modeling could be an
+implicit method to capture knowledge. In this work, we further investigate the
+extent to which pretrained models such as BERT capture knowledge using a
+zero-shot fact completion task. Moreover, we propose a simple yet effective
+weakly supervised pretraining objective, which explicitly forces the model to
+incorporate knowledge about real-world entities. Models trained with our new
+objective yield significant improvements on the fact completion task. When
+applied to downstream tasks, our model consistently outperforms BERT on four
+entity-related question answering datasets (i.e., WebQuestions, TriviaQA,
+SearchQA and Quasar-T) with an average 2.7 F1 improvements and a standard
+fine-grained entity typing dataset (i.e., FIGER) with 5.7 accuracy gains.

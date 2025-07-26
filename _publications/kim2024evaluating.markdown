@@ -1,0 +1,15 @@
+---
+layout: publication
+title: Evaluating Language Models As Synthetic Data Generators
+authors: Seungone Kim, Juyoung Suk, Xiang Yue, Vijay Viswanathan, Seongyun Lee, Yizhong
+  Wang, Kiril Gashteovski, Carolin Lawrence, Sean Welleck, Graham Neubig
+conference: No Venue
+year: 2024
+bibkey: kim2024evaluating
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/hf2412.03679'}]
+tags: ["Evaluation", "Training Techniques"]
+short_authors: Kim et al.
+---
+Given the increasing use of synthetic data in language model (LM) post-training, an LM's ability to generate high-quality data has become nearly as crucial as its ability to solve problems directly. While prior works have focused on developing effective data generation methods, they lack systematic comparison of different LMs as data generators in a unified setting. To address this gap, we propose AgoraBench, a benchmark that provides standardized settings and metrics to evaluate LMs' data generation abilities. Through synthesizing 1.26 million training instances using 6 LMs and training 99 student models, we uncover key insights about LMs' data generation capabilities. First, we observe that LMs exhibit distinct strengths. For instance, GPT-4o excels at generating new problems, while Claude-3.5-Sonnet performs better at enhancing existing ones. Furthermore, our analysis reveals that an LM's data generation ability doesn't necessarily correlate with its problem-solving ability. Instead, multiple intrinsic features of data quality-including response quality, perplexity, and instruction difficulty-collectively serve as better indicators. Finally, we demonstrate that strategic choices in output format and cost-conscious model selection significantly impact data generation effectiveness.
+
+https://huggingface.co/discussions/paper/67525beeeeb66c5ab7dc9a98

@@ -1,0 +1,34 @@
+---
+layout: publication
+title: Addressing Semantic Drift In Question Generation For Semi-supervised Question
+  Answering
+authors: Shiyue Zhang, Mohit Bansal
+conference: Proceedings of the 2019 Conference on Empirical Methods in Natural Language
+  Processing and the 9th International Joint Conference on Natural Language Processing
+  (EMNLP-IJCNLP)
+year: 2019
+bibkey: zhang2019addressing
+citations: 113
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1909.06356'}]
+tags: ["EMNLP"]
+short_authors: Shiyue Zhang, Mohit Bansal
+---
+Text-based Question Generation (QG) aims at generating natural and relevant
+questions that can be answered by a given answer in some context. Existing QG
+models suffer from a "semantic drift" problem, i.e., the semantics of the
+model-generated question drifts away from the given context and answer. In this
+paper, we first propose two semantics-enhanced rewards obtained from downstream
+question paraphrasing and question answering tasks to regularize the QG model
+to generate semantically valid questions. Second, since the traditional
+evaluation metrics (e.g., BLEU) often fall short in evaluating the quality of
+generated questions, we propose a QA-based evaluation method which measures the
+QG model's ability to mimic human annotators in generating QA training data.
+Experiments show that our method achieves the new state-of-the-art performance
+w.r.t. traditional metrics, and also performs best on our QA-based evaluation
+metrics. Further, we investigate how to use our QG model to augment QA datasets
+and enable semi-supervised QA. We propose two ways to generate synthetic QA
+pairs: generate new questions from existing articles or collect QA pairs from
+new articles. We also propose two empirically effective strategies, a data
+filter and mixing mini-batch training, to properly use the QG-generated data
+for QA. Experiments show that our method improves over both BiDAF and BERT QA
+baselines, even without introducing new articles.

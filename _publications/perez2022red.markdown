@@ -1,0 +1,32 @@
+---
+layout: publication
+title: Red Teaming Language Models With Language Models
+authors: Ethan Perez, Saffron Huang, Francis Song, Trevor Cai, Roman Ring, John Aslanides,
+  Amelia Glaese, Nat Mcaleese, Geoffrey Irving
+conference: Proceedings of the 2022 Conference on Empirical Methods in Natural Language
+  Processing
+year: 2022
+bibkey: perez2022red
+citations: 146
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2202.03286'}]
+tags: ["EMNLP", "Security"]
+short_authors: Perez et al.
+---
+Language Models (LMs) often cannot be deployed because of their potential to
+harm users in hard-to-predict ways. Prior work identifies harmful behaviors
+before deployment by using human annotators to hand-write test cases. However,
+human annotation is expensive, limiting the number and diversity of test cases.
+In this work, we automatically find cases where a target LM behaves in a
+harmful way, by generating test cases ("red teaming") using another LM. We
+evaluate the target LM's replies to generated test questions using a classifier
+trained to detect offensive content, uncovering tens of thousands of offensive
+replies in a 280B parameter LM chatbot. We explore several methods, from
+zero-shot generation to reinforcement learning, for generating test cases with
+varying levels of diversity and difficulty. Furthermore, we use prompt
+engineering to control LM-generated test cases to uncover a variety of other
+harms, automatically finding groups of people that the chatbot discusses in
+offensive ways, personal and hospital phone numbers generated as the chatbot's
+own contact info, leakage of private training data in generated text, and harms
+that occur over the course of a conversation. Overall, LM-based red teaming is
+one promising tool (among many needed) for finding and fixing diverse,
+undesirable LM behaviors before impacting users.

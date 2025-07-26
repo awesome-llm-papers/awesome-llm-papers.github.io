@@ -1,0 +1,16 @@
+---
+layout: publication
+title: 'Octopus: Embodied Vision-language Programmer From Environmental Feedback'
+authors: Jingkang Yang, Yuhao Dong, Shuai Liu, Bo Li, Ziyue Wang, Chencheng Jiang,
+  Haoran Tan, Jiamu Kang, Yuanhan Zhang, Kaiyang Zhou, Ziwei Liu
+conference: No Venue
+year: 2023
+bibkey: yang2023octopus
+additional_links: [{name: Code, url: 'https://huggingface.co/discussions/paper/6529471e019a20ed658f083e'},
+  {name: Paper, url: 'https://arxiv.org/abs/hf2310.08588'}]
+tags: ["Agentic", "Applications", "Model Architecture"]
+short_authors: Yang et al.
+---
+Large vision-language models (VLMs) have achieved substantial progress in multimodal perception and reasoning. Furthermore, when seamlessly integrated into an embodied agent, it signifies a crucial stride towards the creation of autonomous and context-aware systems capable of formulating plans and executing commands with precision. In this paper, we introduce Octopus, a novel VLM designed to proficiently decipher an agent's vision and textual task objectives and to formulate intricate action sequences and generate executable code. Our design allows the agent to adeptly handle a wide spectrum of tasks, ranging from mundane daily chores in simulators to sophisticated interactions in complex video games. Octopus is trained by leveraging GPT-4 to control an explorative agent to generate training data, i.e., action blueprints and the corresponding executable code, within our experimental environment called OctoVerse. We also collect the feedback that allows the enhanced training scheme of Reinforcement Learning with Environmental Feedback (RLEF). Through a series of experiments, we illuminate Octopus's functionality and present compelling results, and the proposed RLEF turns out to refine the agent's decision-making. By open-sourcing our model architecture, simulator, and dataset, we aspire to ignite further innovation and foster collaborative applications within the broader embodied AI community.
+
+https://huggingface.co/discussions/paper/6529471e019a20ed658f083e

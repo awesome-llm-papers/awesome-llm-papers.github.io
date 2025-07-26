@@ -1,0 +1,28 @@
+---
+layout: publication
+title: 'Vilt: Vision-and-language Transformer Without Convolution Or Region Supervision'
+authors: Wonjae Kim, Bokyung Son, Ildoo Kim
+conference: Arxiv
+year: 2021
+bibkey: kim2021vilt
+citations: 421
+additional_links: [{name: Code, url: 'https://github.com/dandelin/vilt'}, {name: Paper,
+    url: 'https://arxiv.org/abs/2102.03334'}]
+tags: ["Model Architecture"]
+short_authors: Wonjae Kim, Bokyung Son, Ildoo Kim
+---
+Vision-and-Language Pre-training (VLP) has improved performance on various
+joint vision-and-language downstream tasks. Current approaches to VLP heavily
+rely on image feature extraction processes, most of which involve region
+supervision (e.g., object detection) and the convolutional architecture (e.g.,
+ResNet). Although disregarded in the literature, we find it problematic in
+terms of both (1) efficiency/speed, that simply extracting input features
+requires much more computation than the multimodal interaction steps; and (2)
+expressive power, as it is upper bounded to the expressive power of the visual
+embedder and its predefined visual vocabulary. In this paper, we present a
+minimal VLP model, Vision-and-Language Transformer (ViLT), monolithic in the
+sense that the processing of visual inputs is drastically simplified to just
+the same convolution-free manner that we process textual inputs. We show that
+ViLT is up to tens of times faster than previous VLP models, yet with
+competitive or better downstream task performance. Our code and pre-trained
+weights are available at https://github.com/dandelin/vilt.

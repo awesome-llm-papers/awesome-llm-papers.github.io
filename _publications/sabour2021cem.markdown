@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'CEM: Commonsense-aware Empathetic Response Generation'
+authors: Sahand Sabour, Chujie Zheng, Minlie Huang
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
+year: 2022
+bibkey: sabour2021cem
+citations: 99
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2109.05739'}]
+tags: ["AAAI"]
+short_authors: Sahand Sabour, Chujie Zheng, Minlie Huang
+---
+A key trait of daily conversations between individuals is the ability to
+express empathy towards others, and exploring ways to implement empathy is a
+crucial step towards human-like dialogue systems. Previous approaches on this
+topic mainly focus on detecting and utilizing the user's emotion for generating
+empathetic responses. However, since empathy includes both aspects of affection
+and cognition, we argue that in addition to identifying the user's emotion,
+cognitive understanding of the user's situation should also be considered. To
+this end, we propose a novel approach for empathetic response generation, which
+leverages commonsense to draw more information about the user's situation and
+uses this additional information to further enhance the empathy expression in
+generated responses. We evaluate our approach on EmpatheticDialogues, which is
+a widely-used benchmark dataset for empathetic response generation. Empirical
+results demonstrate that our approach outperforms the baseline models in both
+automatic and human evaluations and can generate more informative and
+empathetic responses.

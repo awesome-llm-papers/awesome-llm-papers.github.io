@@ -1,0 +1,16 @@
+---
+layout: publication
+title: 'X-prompt: Towards Universal In-context Image Generation In Auto-regressive
+  Vision Language Foundation Models'
+authors: Zeyi Sun, Ziyang Chu, Pan Zhang, Tong Wu, Xiaoyi Dong, Yuhang Zang, Yuanjun
+  Xiong, Dahua Lin, Jiaqi Wang
+conference: No Venue
+year: 2024
+bibkey: sun2024x
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/hf2412.01824'}]
+tags: ["Prompting"]
+short_authors: Sun et al.
+---
+In-context generation is a key component of large language models' (LLMs) open-task generalization capability. By leveraging a few examples as context, LLMs can perform both in-domain and out-of-domain tasks. Recent advancements in auto-regressive vision-language models (VLMs) built upon LLMs have showcased impressive performance in text-to-image generation. However, the potential of in-context learning for general image generation tasks remains largely unexplored. To address this, we introduce X-Prompt, a purely auto-regressive large-vision language model designed to deliver competitive performance across a wide range of both seen and unseen image generation tasks, all within a unified in-context learning framework. X-Prompt incorporates a specialized design that efficiently compresses valuable features from in-context examples, supporting longer in-context token sequences and improving its ability to generalize to unseen tasks. A unified training task for both text and image prediction enables X-Prompt to handle general image generation with enhanced task awareness from in-context examples. Extensive experiments validate the model's performance across diverse seen image generation tasks and its capacity to generalize to previously unseen tasks.
+
+https://huggingface.co/discussions/paper/674e8f8cec384b629bbc1072

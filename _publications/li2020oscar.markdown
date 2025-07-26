@@ -1,0 +1,26 @@
+---
+layout: publication
+title: 'Oscar: Object-semantics Aligned Pre-training For Vision-language Tasks'
+authors: Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiaowei Hu, Lei Zhang, Lijuan
+  Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, Jianfeng Gao
+conference: Lecture Notes in Computer Science
+year: 2020
+bibkey: li2020oscar
+citations: 1293
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2004.06165'}]
+tags: ["Training Techniques"]
+short_authors: Li et al.
+---
+Large-scale pre-training methods of learning cross-modal representations on
+image-text pairs are becoming popular for vision-language tasks. While existing
+methods simply concatenate image region features and text features as input to
+the model to be pre-trained and use self-attention to learn image-text semantic
+alignments in a brute force manner, in this paper, we propose a new learning
+method Oscar (Object-Semantics Aligned Pre-training), which uses object tags
+detected in images as anchor points to significantly ease the learning of
+alignments. Our method is motivated by the observation that the salient objects
+in an image can be accurately detected, and are often mentioned in the paired
+text. We pre-train an Oscar model on the public corpus of 6.5 million
+text-image pairs, and fine-tune it on downstream tasks, creating new
+state-of-the-arts on six well-established vision-language understanding and
+generation tasks.

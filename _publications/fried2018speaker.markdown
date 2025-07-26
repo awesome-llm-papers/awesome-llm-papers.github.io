@@ -1,0 +1,31 @@
+---
+layout: publication
+title: Speaker-follower Models For Vision-and-language Navigation
+authors: Daniel Fried, Ronghang Hu, Volkan Cirik, Anna Rohrbach, Jacob Andreas, Louis-philippe
+  Morency, Taylor Berg-kirkpatrick, Kate Saenko, Dan Klein, Trevor Darrell
+conference: Arxiv
+year: 2018
+bibkey: fried2018speaker
+citations: 220
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1806.02724'}]
+tags: ["Evaluation"]
+short_authors: Fried et al.
+---
+Navigation guided by natural language instructions presents a challenging
+reasoning problem for instruction followers. Natural language instructions
+typically identify only a few high-level decisions and landmarks rather than
+complete low-level motor behaviors; much of the missing information must be
+inferred based on perceptual context. In machine learning settings, this is
+doubly challenging: it is difficult to collect enough annotated data to enable
+learning of this reasoning process from scratch, and also difficult to
+implement the reasoning process using generic sequence models. Here we describe
+an approach to vision-and-language navigation that addresses both these issues
+with an embedded speaker model. We use this speaker model to (1) synthesize new
+instructions for data augmentation and to (2) implement pragmatic reasoning,
+which evaluates how well candidate action sequences explain an instruction.
+Both steps are supported by a panoramic action space that reflects the
+granularity of human-generated instructions. Experiments show that all three
+components of this approach---speaker-driven data augmentation, pragmatic
+reasoning and panoramic action space---dramatically improve the performance of
+a baseline instruction follower, more than doubling the success rate over the
+best existing approach on a standard benchmark.

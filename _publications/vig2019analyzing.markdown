@@ -1,0 +1,24 @@
+---
+layout: publication
+title: Analyzing The Structure Of Attention In A Transformer Language Model
+authors: Jesse Vig, Yonatan Belinkov
+conference: 'Proceedings of the 2019 ACL Workshop BlackboxNLP: Analyzing and Interpreting
+  Neural Networks for NLP'
+year: 2019
+bibkey: vig2019analyzing
+citations: 284
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1906.04284'}]
+tags: ["Model Architecture"]
+short_authors: Jesse Vig, Yonatan Belinkov
+---
+The Transformer is a fully attention-based alternative to recurrent networks
+that has achieved state-of-the-art results across a range of NLP tasks. In this
+paper, we analyze the structure of attention in a Transformer language model,
+the GPT-2 small pretrained model. We visualize attention for individual
+instances and analyze the interaction between attention and syntax over a large
+corpus. We find that attention targets different parts of speech at different
+layer depths within the model, and that attention aligns with dependency
+relations most strongly in the middle layers. We also find that the deepest
+layers of the model capture the most distant relationships. Finally, we extract
+exemplar sentences that reveal highly specific patterns targeted by particular
+attention heads.

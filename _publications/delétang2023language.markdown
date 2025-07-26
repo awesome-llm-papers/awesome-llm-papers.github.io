@@ -1,0 +1,16 @@
+---
+layout: publication
+title: Language Modeling Is Compression
+authors: "Gr\xE9goire Del\xE9tang, Anian Ruoss, Paul-ambroise Duquenne, Elliot Catt,\
+  \ Tim Genewein, Christopher Mattern, Jordi Grau-moya, Li Kevin Wenliang, Matthew\
+  \ Aitchison, Laurent Orseau, Marcus Hutter, Joel Veness"
+conference: No Venue
+year: 2023
+bibkey: "del\xE9tang2023language"
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/hf2309.10668'}]
+tags: ["Efficiency", "Training Techniques"]
+short_authors: "Del\xE9tang et al."
+---
+It has long been established that predictive models can be transformed into lossless compressors and vice versa. Incidentally, in recent years, the machine learning community has focused on training increasingly large and powerful self-supervised (language) models. Since these large language models exhibit impressive predictive capabilities, they are well-positioned to be strong compressors. In this work, we advocate for viewing the prediction problem through the lens of compression and evaluate the compression capabilities of large (foundation) models. We show that large language models are powerful general-purpose predictors and that the compression viewpoint provides novel insights into scaling laws, tokenization, and in-context learning. For example, Chinchilla 70B, while trained primarily on text, compresses ImageNet patches to 43.4% and LibriSpeech samples to 16.4% of their raw size, beating domain-specific compressors like PNG (58.5%) or FLAC (30.3%), respectively. Finally, we show that the prediction-compression equivalence allows us to use any compressor (like gzip) to build a conditional generative model.
+
+https://huggingface.co/discussions/paper/650a50bed48ed98e63cebc04

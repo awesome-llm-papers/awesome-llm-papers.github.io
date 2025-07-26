@@ -1,0 +1,31 @@
+---
+layout: publication
+title: Zero-shot Cross-lingual Transfer With Meta Learning
+authors: Farhad Nooralahzadeh, Giannis Bekoulis, Johannes Bjerva, Isabelle Augenstein
+conference: Proceedings of the 2020 Conference on Empirical Methods in Natural Language
+  Processing (EMNLP)
+year: 2020
+bibkey: nooralahzadeh2020zero
+citations: 102
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2003.02739'}]
+tags: ["EMNLP"]
+short_authors: Nooralahzadeh et al.
+---
+Learning what to share between tasks has been a topic of great importance
+recently, as strategic sharing of knowledge has been shown to improve
+downstream task performance. This is particularly important for multilingual
+applications, as most languages in the world are under-resourced. Here, we
+consider the setting of training models on multiple different languages at the
+same time, when little or no data is available for languages other than
+English. We show that this challenging setup can be approached using
+meta-learning, where, in addition to training a source language model, another
+model learns to select which training instances are the most beneficial to the
+first. We experiment using standard supervised, zero-shot cross-lingual, as
+well as few-shot cross-lingual settings for different natural language
+understanding tasks (natural language inference, question answering). Our
+extensive experimental setup demonstrates the consistent effectiveness of
+meta-learning for a total of 15 languages. We improve upon the state-of-the-art
+for zero-shot and few-shot NLI (on MultiNLI and XNLI) and QA (on the MLQA
+dataset). A comprehensive error analysis indicates that the correlation of
+typological features between languages can partly explain when parameter
+sharing learned via meta-learning is beneficial.

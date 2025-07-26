@@ -1,0 +1,27 @@
+---
+layout: publication
+title: 'PAWS: Paraphrase Adversaries From Word Scrambling'
+authors: Yuan Zhang, Jason Baldridge, Luheng He
+conference: Arxiv
+year: 2019
+bibkey: zhang2019paws
+citations: 136
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1904.01130'}]
+tags: ["Datasets", "Training Techniques"]
+short_authors: Yuan Zhang, Jason Baldridge, Luheng He
+---
+Existing paraphrase identification datasets lack sentence pairs that have
+high lexical overlap without being paraphrases. Models trained on such data
+fail to distinguish pairs like flights from New York to Florida and flights
+from Florida to New York. This paper introduces PAWS (Paraphrase Adversaries
+from Word Scrambling), a new dataset with 108,463 well-formed paraphrase and
+non-paraphrase pairs with high lexical overlap. Challenging pairs are generated
+by controlled word swapping and back translation, followed by fluency and
+paraphrase judgments by human raters. State-of-the-art models trained on
+existing datasets have dismal performance on PAWS (<40% accuracy); however,
+including PAWS training data for these models improves their accuracy to 85%
+while maintaining performance on existing tasks. In contrast, models that do
+not capture non-local contextual information fail even with PAWS training
+examples. As such, PAWS provides an effective instrument for driving further
+progress on models that better exploit structure, context, and pairwise
+comparisons.

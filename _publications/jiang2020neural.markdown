@@ -1,0 +1,28 @@
+---
+layout: publication
+title: Neural CRF Model For Sentence Alignment In Text Simplification
+authors: Chao Jiang, Mounica Maddela, Wuwei Lan, Yang Zhong, Wei Xu
+conference: Proceedings of the 58th Annual Meeting of the Association for Computational
+  Linguistics
+year: 2020
+bibkey: jiang2020neural
+citations: 95
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2005.02324'}]
+tags: ["Datasets", "Evaluation", "Model Architecture", "Training Techniques"]
+short_authors: Jiang et al.
+---
+The success of a text simplification system heavily depends on the quality
+and quantity of complex-simple sentence pairs in the training corpus, which are
+extracted by aligning sentences between parallel articles. To evaluate and
+improve sentence alignment quality, we create two manually annotated
+sentence-aligned datasets from two commonly used text simplification corpora,
+Newsela and Wikipedia. We propose a novel neural CRF alignment model which not
+only leverages the sequential nature of sentences in parallel documents but
+also utilizes a neural sentence pair model to capture semantic similarity.
+Experiments demonstrate that our proposed approach outperforms all the previous
+work on monolingual sentence alignment task by more than 5 points in F1. We
+apply our CRF aligner to construct two new text simplification datasets,
+Newsela-Auto and Wiki-Auto, which are much larger and of better quality
+compared to the existing datasets. A Transformer-based seq2seq model trained on
+our datasets establishes a new state-of-the-art for text simplification in both
+automatic and human evaluation.

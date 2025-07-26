@@ -1,0 +1,25 @@
+---
+layout: publication
+title: Modeling Coherence For Discourse Neural Machine Translation
+authors: Hao Xiong, Zhongjun He, Hua Wu, Haifeng Wang
+conference: Proceedings of the AAAI Conference on Artificial Intelligence
+year: 2019
+bibkey: xiong2018modeling
+citations: 84
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1811.05683'}]
+tags: ["AAAI"]
+short_authors: Xiong et al.
+---
+Discourse coherence plays an important role in the translation of one text.
+However, the previous reported models most focus on improving performance over
+individual sentence while ignoring cross-sentence links and dependencies, which
+affects the coherence of the text. In this paper, we propose to use discourse
+context and reward to refine the translation quality from the discourse
+perspective. In particular, we generate the translation of individual sentences
+at first. Next, we deliberate the preliminary produced translations, and train
+the model to learn the policy that produces discourse coherent text by a reward
+teacher. Practical results on multiple discourse test datasets indicate that
+our model significantly improves the translation quality over the
+state-of-the-art baseline system by +1.23 BLEU score. Moreover, our model
+generates more discourse coherent text and obtains +2.2 BLEU improvements when
+evaluated by discourse metrics.

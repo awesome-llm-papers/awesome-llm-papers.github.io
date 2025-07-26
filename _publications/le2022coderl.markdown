@@ -1,0 +1,36 @@
+---
+layout: publication
+title: 'Coderl: Mastering Code Generation Through Pretrained Models And Deep Reinforcement
+  Learning'
+authors: Hung Le, Yue Wang, Akhilesh Deepak Gotmare, Silvio Savarese, Steven C. H.
+  Hoi
+conference: Arxiv
+year: 2022
+bibkey: le2022coderl
+citations: 76
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/2207.01780'}]
+tags: ["Evaluation", "Llm For Code", "Model Architecture", "Reinforcement Learning", "Tools", "Training Techniques"]
+short_authors: Le et al.
+---
+Program synthesis or code generation aims to generate a program that
+satisfies a problem specification. Recent approaches using large-scale
+pretrained language models (LMs) have shown promising results, yet they have
+some critical limitations. In particular, they often follow a standard
+supervised fine-tuning procedure to train a code generation model only from the
+pairs of natural-language problem descriptions and ground-truth programs. Such
+paradigm largely ignores some important but potentially useful signals in the
+problem specification such as unit tests, which thus often results in poor
+performance when solving complex unseen coding tasks. To address the
+limitations, we propose "CodeRL", a new framework for program synthesis tasks
+through pretrained LMs and deep reinforcement learning (RL). Specifically,
+during training, we treat the code-generating LM as an actor network, and
+introduce a critic network that is trained to predict the functional
+correctness of generated programs and provide dense feedback signals to the
+actor. During inference, we introduce a new generation procedure with a
+critical sampling strategy that allows a model to automatically regenerate
+programs based on feedback from example unit tests and critic scores. For the
+model backbones, we extended the encoder-decoder architecture of CodeT5 with
+enhanced learning objectives, larger model sizes, and better pretraining data.
+Our method not only achieves new SOTA results on the challenging APPS
+benchmark, but also shows strong zero-shot transfer capability with new SOTA
+results on the simpler MBPP benchmark.

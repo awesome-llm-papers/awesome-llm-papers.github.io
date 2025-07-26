@@ -1,0 +1,25 @@
+---
+layout: publication
+title: Neural Automated Essay Scoring And Coherence Modeling For Adversarially Crafted
+  Input
+authors: Youmna Farag, Helen Yannakoudakis, Ted Briscoe
+conference: 'Proceedings of the 2018 Conference of the North American Chapter of the
+  Association for Computational Linguistics: Human Language Technologies, Volume 1
+  (Long Papers)'
+year: 2018
+bibkey: farag2018neural
+citations: 86
+additional_links: [{name: Paper, url: 'https://arxiv.org/abs/1804.06898'}]
+tags: ["NAACL", "Tools"]
+short_authors: Youmna Farag, Helen Yannakoudakis, Ted Briscoe
+---
+We demonstrate that current state-of-the-art approaches to Automated Essay
+Scoring (AES) are not well-suited to capturing adversarially crafted input of
+grammatical but incoherent sequences of sentences. We develop a neural model of
+local coherence that can effectively learn connectedness features between
+sentences, and propose a framework for integrating and jointly training the
+local coherence model with a state-of-the-art AES model. We evaluate our
+approach against a number of baselines and experimentally demonstrate its
+effectiveness on both the AES task and the task of flagging adversarial input,
+further contributing to the development of an approach that strengthens the
+validity of neural essay scoring models.
