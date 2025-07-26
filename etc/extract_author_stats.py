@@ -86,7 +86,7 @@ def collate_author_statistics(markdown_dir, output_dir="output", output_filename
     # Define high-impact authors for graph calculations
     filtered_authors = {
         name for name, stats in author_stats.items()
-        if not (stats['paper_count'] == 1 and stats['total_citations'] < 50)
+        if not (stats['paper_count'] < 5 and stats['total_citations'] < 50)
     }
 
     # Build filtered graph
